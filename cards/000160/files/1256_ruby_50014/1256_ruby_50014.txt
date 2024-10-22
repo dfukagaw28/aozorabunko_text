@@ -1,2148 +1,2148 @@
-�C��嗤
-�C��\�O
+海底大陸
+海野十三
 
 -------------------------------------------------------
-�y�e�L�X�g���Ɍ����L���ɂ��āz
+【テキスト中に現れる記号について】
 
-�s�t�F���r
-�i��j�O��v�s�݂����t
+《》：ルビ
+（例）三千夫《みちお》
 
-�b�F���r�̕t��������̎n�܂����肷��L��
-�i��j��ʁb�D�X��s����������t
+｜：ルビの付く文字列の始まりを特定する記号
+（例）一面｜好々爺《こうこうや》
 
-�m���n�F���͎Ғ��@��ɊO���̐�����A�T�_�̈ʒu�̎w��
-�i��j�ɂ����m���u�ɂ����v�ɖT�_�n
+［＃］：入力者注　主に外字の説明や、傍点の位置の指定
+（例）におい［＃「におい」に傍点］
 -------------------------------------------------------
 
-�m���R�������n�吼�m��̃����[���m���u�吼�m��̃����[���v�͒����o���n
-
-
-�@�O��v�s�݂����t���N�̏��g�񂾊C�̏����Ƃ����鋐�D�N�C�[���E�����[���́A���ܑ吼�m�̂܂������Ȃ����q�s���������B
-�@�j���[���[�N���o���̂������������������A���傤�͎O���ڂ̎����O���ɂ�����B���̂悤�ɂȂ����C�ʂ��A���܎O�\�m�b�g�̉������o���čq�s���Ă���B���Ɠ�����Ă΃t�����X�̃V�F���u�[���`�ɂ͂���\�肾�����B
-�@���傤�ǎ����͒�������B�H�����ЂƂƂ���ЂÂ��āA��q�����́A�����ɒ������đD���̑�v�[���ɂƂт��񂾂�A�܂��͑D���̉��i�ɂ��킩�ꂽ�L���b�s����ς�t�̏�Ńe�j�X�����ҁA�f�b�L�E�S���t�����ҁA�ւȂ������҂ȂǁA���ꂼ��Ɋy�����V�тɂނ��イ�ł������B
-�u�I�C�A���{�̃{�[�C�N�B�����ւ��āA�_�����Ă���񂩁v
-�@�ȂǂƁA�����֑D�����������ɂ����O��v���N�ɐ���������t�����X�̘V�x���Ȃǂ��������B
-�u�n�C�A�����܂���܂��v
-�@�O��v�͂ɂ��₩�ɂ����������āA�D�q�����̊Ԃ������ʂ��Ă������B�D���͂ǂ��̑g�ɂ͂����ăQ�[�������Ă�����̂��B
-�u�D���I�@�D���I�v
-�@�O��v�̂��킢���������ɂ͂��������̂ƌ����A�S���t�g�ɂ����f�u�f�u�ӂƂ����D���X�g�����O���A�ł�����������Ƃ߂āA
-�u�I�C�A�{�[�C�B�Ȃ�̗p���B�債���p���łȂ�������A���ꂪ���܂��q���܂ɁA�Ƃ����̃t�@�C���E�v���[������Ă��ڂɂ�����܂ő҂āv
-�@�O��v���N�́A�D���̂��Ƃ΂ɂ����܂��Ȃ��A�܂�̂悤�ɂ��΂֔��ł������B
-�u�D���B���܁A����������d�b���������܂����B���������ɓ����悤�ɂƂ̂������ł��v
-�u�����A�������v
-�@����������̓d�b���ƕ����ƁA�X�g�����O�D���́A���ɋ��������Ƃ�������߂āA�O��v����܂˂������B�����ĂЂ������ł������B
-�u���������������v
-�@�O��v�͂ӂƂ����D���ɍ��������߂Ă��炢�A���̎����ƂɌ����߂Â��āA�Ȃɂ��Ƃ����{�\�{�\�����₢���B�D���̂����т邪�O�b�ƁA�ւ̎��ɂ܂���̂�D�q�����͌��̂����Ȃ������B�Ȃɂ���厖�炵���B�D�ꂩ�琅������o�����Ƃ����̂ł͂Ȃ��낤���B�܂����C�̏����N�C�[���E�����[���ɂ���Ȃ��Ƃ������Ă��܂���̂��Ǝv�����c�c�B
-�u�i�H�͂����Ȃ������������낤�Ƃ����v
-�@�D���͎O��v�ɖ������B
-�@�D�q�����́A�n�b�Ɗ�������킹���B
-�u�D������B���̑D�͂ǂ���������ł����v
-�u�������͂Ȃɂ��������̂ł����v
-�@�D�q�����́A�����Q�[���ǂ���ł͂Ȃ������B�D���̊�F�̒��ɁA�Ȃɂ��Ƃ��˔������炵��������ǂ����Ƃ����B
-�@���̂Ƃ��A�X�g�����O�D���͔��΂𕂂��ׂĂ������B
-�u����A�������܁A�{�D�̑O���\�}�C�������̊C�ʂɁA���т��������T�P�̑�Q�����悢�ł��邱�Ƃ𔭌������Ƃ�����ł��B�ǂ������Ȑ��炵���̂ŁA�{�D�����̂܂ܓ˂������Ă��������ǂ����ƁA�������͕����Ă�����ł��v
-�u�Ȃ�ł����āA�T�P�̑�Q�ł����āB���b�̓b�̓b�v
-�@����𕷂����D�q�����̓h�b�Ɣ��΂����B
-
-
-�m���R�������n�ӂ����ȑ務�s������傤�t�m���u�ӂ����ȑ務�v�͒����o���n
-
-
-�@�D���́A����قǏ΂�Ȃ������B
-�@���̑吼�m�ŃT�P�̑�Q�ɂ����Ƃ������Ƃ́A����̒��N�̌o���ɂ����܂���x���Ȃ����Ƃ���������B
-�u�D������B�\�}�C���������ɂ��悢�ł���T�P�̓���������Ƃ͂��ǂ낫�܂����B�������ɊC�̏����N�C�[���E�����[���ł��ˁv
-�@�ƃA�[�T�[���s���傤�t���������B
-�u����A�{�D�͂����Ɖ����܂Ō����鑕�u�������Ă��܂��B���Ԃł���Ԃł��A��B�������{�D�̐i�H�ɂ�����C�ʂ��ɂ��ł���̂ł��B�������̕����ɂ������āA�ؕЈ�����Ă��A�����x��̃x�����Ȃ�悤�Ȃ������ɂȂ��Ă��܂��B���̊�B�������Ď����s���ǂ����񂵂��傤�t�Ƃ����܂����A���ꂪ���邨�����ŁA�{�D�́A�l�Ԃ����Ă��Ȃ��Ă��D�̑O���ɗ��X�s��イ�Ђ傤�t������΂�������Ƃ킩��܂�����A�i�H�������ĕX�R�Ƃ̂��傤�Ƃ������邱�Ƃ��ł��܂��B���ꂩ��܂��A��j�D�s�Ȃ�ς���t�������āA�����ЂƂ�̐l�Ԃ��C�ʂ���������Ă��Ă��A��͂蓯�������Ď���������������āA�x��x�����Ȃ炵�܂��B�T�P�̑�Q�𔭌����邱�ƂȂ񂩁A�܂������킯�̂Ȃ����Ƃł��B������A�T�P�̐搶�����́A���ʂ���s�����s�����͂˂������Ă���̂ł��傤�v
-�@�D���͂��������Ƃ������ɁA�����[�������Ȃ��Ă��邷���ꂽ�u�l����s���񂼂�����t�v�ɂ��Ăׂ̂��Ă��B
-�i����قǈ��S�ȋD�D�́A���E���ǂ����������Ă�����܂����j
-�@�ƁA���������ł������B
-�@���ꂩ�炵�΂炭���ƁA�b��ɑ����̑D���␅�v�������o�Ă��āA������ɊC�ʂ����܂킵�͂��߂��B
-�u�����܂����v
-�@�D�q�̂ЂƂ肪�����˂��B
-�u�����A����ł��B�C�̐F��������Ă���̂�������ł��傤�B���̍����񂾐��������Ȃ����B�����A������ɔg�����Ă��܂��B���̉��ɃT�P�̂ނꂪ���悢�ł���̂ł��B���Ă��ȋ��Q�s���傮��t���ȃ@�A�\�\�v
-�@�D���́A�܂��̂т������ĊC�ʂ��Ȃ��߂�̂ł������B
-�u�I�C�I�C�A�D���֍s���Ă݂悤��A�D�����Ⴀ�A���݂�������������B�T�P���Ƃ����炵���v
-�u�������A����͂������낢�B�����s���Č��悤�v
-�@�D���ł́A�Ȃ�قǑ傳�킬���n�܂��Ă����B�񓙉^�]�m���w�����Ƃ��āA�傫�Ȗ{���̋����݂�p�ӂ��Ă���B
-�u�������@�B�p�ӂ͂����񂾂ȁB����n�߂邼�B�\�\�����݂��낹�G�v
-�@�U���u�ƁA�傫�Ȃ��݂͑D������C���ɓ������܂ꂽ�B���R�̂悤�ɏ�w�̍b�ɏW�܂��Č������Ă����D�q�����́A��x�Ɏ�����������B
-�u������A������B�T�P�����悢�ł���v
-�u�ǂ�ǂ�A�ǂ��Ɂc�c�v
-�@�O��v���N�͂��̎��A����Ǝd�������܂��āA�b�ɂƂт������B����̓X���X���ƃ}�X�g�̏�ɂ悶�̂ڂ��Ă������B
-�@������A������B���ɂ��΂炵�����Q�������B���D�N�C�[���E�����[�����A���܂�E���s������t�������s������t���T�P�̑�Q�ɂ����܂�Ă��܂����B���̌Q��́A�����[���Ƌ������Ă���悤�ɁA�����i�H���Ƃ��Ă��悢�ł���B�ǂ����āA���̂悤�Ȃ��т��������T�P�Q���吼�m�ɂ܂悢���񂾂̂��낤�B����ɂ��Ă��A�����炭�{��̃J���`���b�J�ɂ����Ă��A����ȑ�Q�����邱�Ƃ͂߂��炵���낤�B
-�@�D���ł͐��v�̂ǂȂ鐺����������B
-�u�񓙉^�]�m�B�����A���݂̒����T�P�ł����ς��ł����H�B���̂ւ�ł��݂������Ȃ���A���݂��j��āA���������̃T�P���݂Ȃɂ��Ă��܂��܂����v
-�u��H���A���݂������[�b�m���u�����[�b�v�͒�{�ł́u�����\�b�v�n�v
-�@�񓙉^�]�m���E�܂������߂����B
-
-
-�m���R�������n���ɓ���ʃT�P�����m���u���ɓ���ʃT�P�����v�͒����o���n
-
-
-�@�D���͂ǂ��ł������ł��A�T�P�̘b�ł������肾�����B
-�u���ӂ̐H��ɁA�������Ƃꂽ�T�P�𗿗����Ă��܂��v
-�@�Ƃ����D���A�i�E���X���A�ǂ̑D���ɂ��Ђт������炾�B
-�@�₪�Ĕӎ`�s�΂񂳂�t��m�点��V���z�����A�{���{���{���ƂȂ肾�����B�Z���D�q�����͂��̊y��̉��𕷂��������ŁA���̒��ɂ΂��킢�Ă��Ă��������Ȃ������B���悢�悠�̂��܂����ȃT�P������Ƃ����邼�B
-�@��s���݁t�͓��ʈꓙ�D�q����A���s�����t�͑D��ɏZ�ނꂢ�̘Z���D�q�̂Ƃ���܂ŁA�T�P�̗����͑S���ɂ䂫�킽�����B�D���������A���ꂼ��̕����ŁA���Ԃ񂽂��̒��Ԃ��ڂ̑O�łƂ����T�P�𗿗��̂���̒��Ɍ��o�����B���̋����s����ɂ��t�̏�ɂ́A�܂悤���ɂ��������Ȋ��������Ă������B���̊��ɂ͎��������Ă������B�w�����ɂ܂�œǂ�ł݂�ƁA
-�u����̏����N�C�[���E�����[���͊C��𐪕����A���܂��C�������������v
-�@�Ƃ������B
-�u�Ȃ񂾁A����́B�T�P�����j��������炵�����A���܂肤�܂����傶��Ȃ��l�v
-�@�ƂЂƂ�̑D�����������B
-�u����A���̕���̎��Ɂ\�\����āA�͂Ȃ͂���ꂽ��΁A�����͂�����C��ɖ����Ƃ��\�\�Ə����Ă����΂����̂Ɂv
-�u�悹�b�B�C��ɂ˂ނ�Ȃ�āA���񂬂ł��Ȃ��\�\�v
-�@�O��v���N���{�[�C���ɁA�M�ɑ�R����̃T�P�����������Ă������B
-�u�T�P�̖{��͂ǂ������m���Ă邩���B�m��Ȃ��ዳ���Ă����悤�B���{�̖k�̂ق��ɂ��鋙��J���`���b�J���v
-�@�傢�΂�Ńt�H�[�N���ɂ��낤�Ƃ����Ƃ��A
-�u�O��v�{�[�C�A�������̂���т��v
-�@�ƁA�{�[�C�����ǂȂ����B
-�u�����b�A�܂�Ȃ��́v
-�@�O��v�͓��{��ł����āA���������悭�w�̍����������炷�ׂ肨�肽�B
-�@���̂Ƃ��D���ɂ́A���������ł˂ނ����Ȑ����������ė����B�A�[�A�Ƒ傫�Ȃ����т�����҂��������B�D���͊K�i���̂ڂ�Ȃ���A�肷��ɂԂ炳�����ăR�b�N���R�b�N�����˂ނ�����Ă����B���{�b�g���c���u�������������[���̑D�̂������A�ꂱ���ς�ʑS���͂ŁA�܂�����ȊC��𓌂Ɍ������čq�s���Ă������B
-
-
-�m���R�������n���]�����̖��d�񍐁m���u���]�����̖��d�񍐁v�͒����o���n
-
-
-�u�N�C�[���E�����[���s���s���ƂȂ�I�v
-�@���̂��ǂ낭�ׂ��񓹂��S���E�Ɍ����ĕ������ꂽ�Ƃ��A�l�X�͂����Ƃ��ǂ낫�̐����͂Ȃ����B
-�@�ł��A�Ȃɂ��̂܂������ł͂Ȃ����H
-�@���������ꂪ�܂������łȂ����Ƃ́A���ꂩ�����΂�ɕ��������Վ��j���[�X�̓��e�ɂ���Ă��񂾂񖾂炩�ɂȂ��Ă������B
-�u�N�C�[���E�����[���ɖ����d�b�������Ă�т��������A����ɉ������Ȃ��B�Ō�ɓ��D�D����ʐM���󂯂Ƃ����̂͌ߌ㔪����\���ł������B���ꂢ�炢�A��ʂ̓d�M���d�b���A���D�D����󂯂Ƃ��Ă��Ȃ��v
-�@�j���[���[�N�A�����h���A�p���ȂǁA�e���̓s�ł́A�N�C�[���E�����[���̑D�q�ƂȂ����e��q����e�ނ�㊯��F�l�Ȃǂ̐g�̏���Ă��āA�D�D��Ђ̂܂��͌Q�O�ō��R�̂悤�ɂȂ����B
-�@������s�����������t�������B
-�u�N�C�[���E�����[���́A�s���Ȃ錴���̂��ߖ��d�Ɍ̏�𐶂������̂Ǝv���܂��B���ǂł͂������ɁA�C�R��s���ɏo���𖽂��܂����B�������ܒ�@��\�������o���������܂����B�܂��쒀�́s����������t�Z�ǂ�����ɂނ��ďo���������܂����v
-�@�l�X�͊�������킹�āA�������Ȃ������B���ɔ�s�@�������m�点�Ă���ɂ������Ȃ��B
-�@�����h���̋D�D��Ђ̏d�����ł́A�В������O���[������]�������߂ċ��c��i�s�����Ă����B
-�u�����A����܂����B�t�����X�D�D�̃��]�����ł��v
-�@�ƁA�q�H�����̃��C�h�����A�����̂������񏑂��Ă��鏑���̏���������Ȃ��炢�����B
-�u�������]�������B�������d�Ŗ₢���킹���܂��B�ߌ㔪����\������㎞�̊ԂɃ����[���ɂ��ꂿ�������͂������A���D�D���������ǂ����A�Ȃ�ł���������A�����[���Ɋւ���ڍׂ�m�点�Ă���Ƃ����Ă�肽�܂��B�������A�Ă����傤�Ȃ��Ƃ΂ł����Ăȁv
-�@���d�W�͂������ɓd�g���D�D��Ђ̉��ォ�甭�˂����B�t�����X�D�D���]�����́A�܂��Ȃ��������Ă����B
-�u�{�D�͗\�肵���鎞���ɂ����ăN�C�[���E�����[���ɑ����s���������t�����A����ɂ��̎����̑O��ɂ����Ă����������B���ɑD�e�s���񂦂��t������݂Ƃ߂��肫�B�C��͕���⋭������q�s�Ȃ񂱂��t�̒��x�ɂ��炸�v
-�@�ʑR�s������t�A���]�����́A�N�C�[���E�����[���ƁA�������ɂ��ꂿ�����͂��������̂ɁA�D�e�������Ȃ������Ƃ����̂��B
-�@�����[���̂䂭���͔@���s������t�H�@���܂����g�������͉������Ă���̂ł��낤���A�T�P���������ׂ����Ȃ����O��v���N�͂ǂ��Ȃ������B
-
-
-�m���R�������n�X�~�X�x���̏o���m���u�X�~�X�x���̏o���v�͒����o���n
-
-
-�@�吼�m�ɂ����āA����Ȃ鎸�H�s���������t�������C�̍��ؑD�N�C�[���E�����[���̍s���ɂ��ẮA����Ƃ�����{����������݂�ꂽ�B�E���Ȃ�p���C�R�̒�@��\�����́A�傫�Ȋ댯���������āA�r�Q�s����Ȃ݁t���s�����t����m������ꂷ��ɔ�񂾂�A���邢�͂܂��A�_��Ȃ��O�烁�[�g���̍���ɂ̂ڂ����肵�āA���������D�̍s�������������Ƃ߂�����ǁA�Ȃ��Ȃ��v���悤�ȂĂ����肪�����Ȃ������B
-�@�쒀�͘Z�ǂ��A�Â��Č���߂����ċ}�s�����B���̈�ǂɂ́A�Ƃ��ɉp���x�����̗L���Ȃ�T��X�~�X�x��������Ă����B
-�@�X�~�X�x���́A�o���ɂ��������āA�x�����Ă��猃��s�����ꂢ�t�̂��Ƃ΂��������B
-�u�\�\�Ȃɂ���A���E��̃N�C�[���E�����[�����ǂ��֏��������킩��Ȃ��Ƃ����ẮA�킪��p�鍑�̍��J�s�������傭�t��肾�B���D�̍s�����킩��Ȃ������́A�ӂ����у����h���ɋA���Ă��Ȃ�����ŁA�傢�ɔC���������Ă��炢�����v
-�u�������ł��A���Ċt���B�����[���̗����s��イ���t�����ނ��߂ɂ́A�S�s�����t�Ђ�̒�ւ������Ă������Ǝv���Ă��܂��v
-�@�X�~�X�x���́A���S�̂قǂ��������ނ��񂾂����т�̂�����Ɍ����āA���Ă̑O�������낤�Ƃ����B
-�u�X�~�X�x���I�v
-�@�ƁA���Ă͂������炽���������āA�X�~�X�ɂ�������������Ƃ߁A�����Đ����Ђ������Ă����₭�悤�ɂ������B
-�u����́A��閧�Ȃ񂾂��A�����Ƃ���ɂ��ƁA��������吼�m���ʂ���������d�g���Ƃ��ǂ��Ƃт����Ă��邻�����B���҂��ł̂��A�܂����̂͂����Ƃ킩��Ȃ����A�傢�ɋC�������������v
-�u�������d�g�ł����āB�����d�M�ł����A�����d�b�ł����v
-�u����͂ǂ����Ƃ��킩��Ȃ��񂾁B�Í��d�M�̂悤�ł�����A�܂��l�Ԃ̐��̂悤�ł�����B�Ȃɂ���C�R���ǁ\�\����A�^���s�ڂ�����t�Ŏ�M�����x�������Ȃ��̂ŁA���̂Ȃ񂩃n�b�L�����Ă��Ȃ��B�Ƃɂ������݂̂����܂̂ǂ����ɁA���̂��Ƃ����܂��Ă����Ă��ꂽ�܂��v
-�u�n�A�A�������܂�܂����v�\�\
-�@���X�~�X�x���́A�쒀�͂̊͋��s���񂫂傤�t����Â��C�ʂ������ƌ����Ȃ���A���Ă����S�ʁs����ׂt�ɂ���������̌��t���A�����ǂ����̂Ȃ��ɂ��肩�����Ђ낰�Ă����B��ڂɂ��A�����������������Ăق��Ă���̂��킩�����B
-�u���̈Â��C�����Ă���ƁA��q�s���Ђ�t�̒�ɂ́A�����Ƃ��ǂ낭�ׂ��閧����������Ă���悤�Ɏv���Ă���񂾁B�D�ɂ̂���Ȃ����Ԃ�̋C�܂��ꂩ����v
-�@�X�~�X�x���́A��ɂ������o�ዾ�s�������񂫂傤�t�̂�v��������Ȃ���A�ЂƂ育�Ƃ��������B
-�@���̂Ƃ��A�^���b�v�𓖒��̐������g�R�g�R�ƌC���������Ă������Ă����B
-�u�\�\���H�[�C�A�X�~�X�x���ǂ̃H�B�x���ǂ̃H�v
-�@�x���͂��̐��ɋC�������B
-�u�I�[�C�B�����ɂ��܂���H�v
-�@�����́A���̐��������ɂ����������Ă����B
-�u�������܁A���Ȃ����Ăɖ{������d�M�����Ă��܂���B������������Ɋ͒����܂ŗ��Ă��������v
-�u�����A�����ł����B��낵���B���܍s���܂��v
-�@�Ȃɂ��Ƃ��낤�Ǝv���āA�X�~�X�x���͑�}���Ŋ͋�������Ă������B
-�@�͒��͈�ʂ̓d�M�����e�[�u���̏�ɂ����āA�X�~�X�̂���̂�҂��Ă����B
-�u�����A����͑��Ċt������̖��߂ł��v
-�@�X�~�X�́A�����ƁA���ʂɌ��������B
-�u�ȂɂȂɁA�����[���Ƃ��ꂿ�������͂��̃��]�������A�����h���Ɍ������̂𒆎~���āA����ɂЂ�����������A���]�����ɏ�肩���đ{���s�������t����\�\�Ƃ������߂��A����A����͂������낭�Ȃ��Ă����v
-�@�x���͂Ȃɂ����̋N����̂�\�z���Ă���炵���A�ЂƂ�傫�����Ȃ����̂ł������B
-
-
-�m���R�������n���]�����Ɉڏ�s�����傤�t�m���u���]�����Ɉڏ�v�͒����o���n
-
-
-�@�������Ƀ��]�����Ƃ̊ԂɁA�����d�M�������������Ɍ������ꂽ�B
-�@���̂������A���ƎO���Ԃقǂ���΁A���]�����Ɨm��ŏo����ƂɎ�͂����ƂƂ̂����B
-�@�X�~�X�x���̏�����쒀�́s����������t�́A����ɉ�����悤�ɁA���イ�ɐi�H���܂��đ�����͂Ȃꂽ�B
-�@�����ĈÂ��C���S���͂Ŕ�΂��Ă������B�G���W���̉��͈�i�ƍ����Ȃ�A�k���͂��悢�������Ă������B
-�@���ꂩ��A���Ȃ�Ȃ������Ԃ��������B
-�@�����̂ǂȂ�悤�Ȑ������������B�D�J���|�[�|�[�Ɩ����B�b�s����ς�t�ɏo�Ă݂�ƁA�܂�����ȊC��ɁA�����̕��ɂ������ĐԂƐƂ̓��s�Ёt���݂����B���̓��͂��񂾂�Ƃ������ɋ߂Â��Ă���̂��킩�����B
-�u�t�����X�D�D���]�������v
-�@�M�������Ԃ₢���B
-�@�͒��̓X�~�X�x���𕔉��ɌĂ񂾁B�����āA�N�C�[���E�����[���̑{�����̂Ȃ�����ł��V�������̂������ŋ����Ă�����B����͎�Ƃ��đ{���͒��̔z�u�ƁA���̕񍐂̗���s���t�������B
-�u�\�\�������A�������傭�̂Ƃ���A�����[���̍s���͍��[�Ƃ��Ȃ��悤�ɃT�b�p���킩��Ȃ��̂��v
-�@���������Ċ͒��́A���ɂȊ�����Č��t���ނ��񂾁B
-�@�X�~�X�x�����A�����傫�Ȃ��߂����ƂƂ��ɕ������B�͒��̗�������̂��ׂɂ́A�傫�ȑ吼�m�̊C�}���������Ă����B�܂������吼�m�͂͂Ă����Ȃ��قǍL���̂ł������B
-�@�b���瓖�����Z�̐����`���ǂ�������ĕ������Ă����B���悢�惋�]�����ɒǂ������Ƃ������点�ł������B
-�@�b�ɏo�Ă݂�ƁA���������̋󂪃|�[�b�Ɣ��݂������Ă����B�D���͔g�̊Ԃɕ����āA�X�~�X�x����҂��Ă����B
-�u�₠�A�����������ė����܂��v
-�@�����������ɑ����āA�x���͋Łs�������t�̗m��ɑD���̂肩���邱�ƂɂȂ����B�ނ͂����C�R�̌R�l�̂悤�ɁA����̗�������đc���̋쒀�͂ɕʂ�������B
-�@�X�~�X�x���́A�₪�ăt�����X�D�D���]������̐l�ƂȂ����B
-�@���]�����͌ܐ�g���΂���̉ݕ��D�D�ł������B�������A�펞�ɂ͂��ł��q���͂ɂȂ��悤�ɏo���Ă�������A�X�s�[�h���O�\�m�b�g�̏�o��Ƃ��������Ԃ�����D�������B�L�S�s����Ăt�ƃ��^�Ƃ�����Ƃ�ł����B�������}�X�g�̏�ɂ́A�O�F�����ւ�ۂ�ƂЂ邪�����Ă����B
-�@�G�o���D���͉��F��퐶���c��̗E�m�ŁA���܂Ȃ��������ׂ��炴��C�T�s�������t�������Ă������A��ʁb�D�X��s����������t�ł��������B�X�~�X�x�����ނ�����ƁA��������������Ƃ߂āA�N�C�[���E�����[���̑���ɂ��Č��������ׂ̂��̂��A
-�u�\�\�{�Ђ̎w�߂ɂ��ƂÂ��A�X�R�b�g�����h�E���[�h�i�����h���̌x�����j�̖��x���X�~�X�������}���A�����[���̑{���ɂ��āA�����悤�Ȃ�֋X�����͂��炤�̌��h��L������̂ł��v
-�@�X�~�X�x���́A�ӂ������̍D�ӂ��ӂ��������ŁA�������Ɍ��ꕍ�߂ɂ����ނ��đ{�������Ă����悤�ɂƂ��̂񂾁B�Ƃ�킯�A�C��̃����[���ɁA�֌W�̂���Y�����s�Ђ傤��イ�Ԃt�ɂ��āA�אS�s��������t�̒��ӂ��͂���Č����Ă����悤�ɂƈ˗������B
-�u�₠�A�C��{���Ȃ�΂킽���̂���̂��̂ł��킢�B�܂����S���Č��Ă��Ă������������v
-�@�G�o���D���͂ɂ�����΂��āA�܂��X�~�X�x���̎�������ӂ����B
-�@�X�~�X�x���ɂ́A�t�����X�D�D�̋������M���A�Ȃ�Ƃ͂Ȃ��d�ꂵ���قǂ��܂��Ă���̂������Ȃ��ł͂����Ȃ������B
-
-
-�m���R�������n�Y�����s�Ђ傤��イ�Ԃt�m���u�Y�����v�͒����o���n
-
-
-�u�D���A�Y�����������܂��B�����s������t�\�\�v
-�@�ƁA�ꓙ�^�]�m����������ł����B
-�@���傤�ǃX�~�X�x�����A�D�����ŁA�D���Ƌ��ɒ��т̃e�[�u���ɂ��Ă���Ƃ��̂��Ƃ������B
-�@�D���̓j�����Ə΂��āA�x���̕��������B�ǂ��ł��A�������\�����Ƃ���ł��傤���l�A�Ƃ��������Ȗڂ��ł���B
-�i��������������悤�����\�\�j
-�@�ƁA�X�~�X�x���͂������������ꂽ�`�ł������B
-�@�b�֏o�Ă݂�ƁA���v���������[�^�[�E�{�[�g�����낵�Ă����B�{�[�g�̓X���X���Ƃ����₩�Ɍ����s���񂻂��t�����ׂ肨��āA�C�ʂɕ����񂾁B�Ǝv���ƁA�͂�A���g�������ĂĐi��ł������B
-�u�ǂ��Ɍ������ł����l�v
-�@�X�~�X�x���͑o�ዾ������ł����˂��B
-�u���̌����ł��v
-�@�ƈꓙ�^�]�m�͒����w���̂΂��āA�C����w�����B
-�u���������ł��B���܂����{�[�g���Ђ낢�����܂�����B�����Ƃ��̂����̂ł���v
-�u�����Ƃ��̂����́H�v
-�@�X�~�X�x���́A�������őo�ዾ��ڂɂ��Ă��B����͕s��p�Ȏ���ŁA�s���g�����킹�Ă������A�₪�ĂƂяオ��悤�ɂ����񂾁B
-�u�����A���ꂾ�ȁB�l�Ԃ̂悤���v
-�u�����ł��B�l�Ԃɂ���������܂���B���������N�ł��B�ŐV���̕��W�s�u�C�t�ɂ͂����Ă���B�N�C�[���E�����[���̖��܂Ńn�b�L�����Ă����ł��v
-�u�����b�A�N�C�[���E�����[���ł����āH�v
-�@�C��ł́A���[�^�[�E�{�[�g�����łɂ������āA���N��g�Ԃ���Ђ낢�����Ă����B�₪�ă{�[�g�́A�܂����]�����̌����ɂ������ė����B��΂������g�R�g�R�Ƃ̂ڂ��Ă���A�����Ă��������D���␅�v�����B
-�u�\�\���ǂ낢���Ⴂ���Ȃ��B���{�̏��N�ł���B�D�̃{�[�C�炵�����������Ă��܂��v
-�@�������ɂ������񓙉^�]�m���񍐂��邻�̌��t�̉��ɁA�ӂ���̐��v�ɂ�������ꂽ�S�g�Y�u�ʂ�̏��N���A�b�̏�ɂ��낳�ꂽ�B���N�͋C�������Ă���炵���B������ꂽ�̂ŋ}�ɋC�����񂾂̂ł��낤�B���̏��N�������ꂠ�낤�A�T�P������H���͂��ꂽ�A�N�C�[���E�����[���̃`���s���{�[�C�O��v���N�ɂق��Ȃ�Ȃ������B
-�@�x���͂��߈ꓯ�́A���N�̂��΂ɂ���āA�����ق������킦���B���̏��N�����́A�N�C�[���E�����[���̗B��̈�i�ł�����A�����ЂƂ�̎肪��тƂł��邩���m��Ȃ��̂��B�D�D�̏�ɂ������������ȏ�́A�Ȃ�Ƃ��Ă�����̈ӎ�����݂����点�˂΂Ȃ�Ȃ��B�����āA���N���ǂ����ă����[������E�o���ĊC��ɂ����悤�悤�ɂȂ������A���̂킯�𕷂����Ă����˂΂Ȃ�Ȃ��̂��B
-�@���̂Ƃ��O��v���N�́A����ƋC�������炵���A�܂�ɂ�����悹�A���ł��O�b�Ƃ܂����B
-
-
-�m���R�������n�m��̉����m���u�m��̉����v�͒����o���n
-
-
-�u����A�C�������炵���v
-�@�ƁA�ꓯ�͑��낱�т������B
-�u�����A����ł͉��ւ�Ă����āA��������������Ă��B���C�������ӂ����������łȂ��ƁA�Ȃɂ𕷂��Ă������Ȃ����v
-�@�ƁA�G�o���D���́A���R�s���񂺂�t����Ȃ��ɁA�[�����������̂��錾�t���������B
-�@�X�~�X�x���́A�D���̕����`�����ƌ��āA���܂����ȃ@�Ƃ�������������B�x���Ƃ��Ă͈�b����Ƃ��͂₭���N�̍����𕷂��āA�����[���̈��ہs����ҁt�������������̂ł������B����������̊�]�́A�������肶��܂���Ă��܂����B���̏�A���]�����Â��̈�t���b�ɏo�Ă��āA�O��v���N��f�@�����������A���N���A�Ă̊C�Ƃ͂����A���Ȃ�̂��Ђ₵�āA�S���������ւ����Ă��邩��A�����Ȃ��Ƃ��ꎞ�Ԃ͏\���Ɏ肠�Ă����킦�Čo�߂����Ă��Ȃ���΁A��肩�����̂��Ȃ����ƂɂȂ�ƌx����������A�Ȃ�����ǂ����悤���Ȃ������B
-�@�X�~�X�x���͂������Ȃ��A���̈ꎞ�Ԃ�҂��ƂɂȂ����B
-�@���̂����A����͂������ɁA�����[���̎��H�s���������t���ꕍ�߂Ń{�[�C�O��v���N�����]�������~���������Ƃ𖳐��d�M�ł����āA�{���Ȃ�тɑ{�����ɋ}�񂵂��B���̃X�~�X�x���̕񓹂́A�S�p���ɑ傫�Ȋ��������������B�{�[�C���ЂƂ�݂������B����Ȃ�A�₪�Ė{�D�����̕��߂Ŕ��������ɂ������Ȃ��B
-�@�Ƃ��낪�Ȃ��Ȃ������͂����Ȃ������B�C��͒����ނ����āA�ӂ����є�s�@�̒�@���͂��܂������A�ǂ��ɂ�������Ƃ��ă����[���̑D�e�������邱�Ƃ��ł��Ȃ��Ƃ������d�s�ɂイ�ł�t�΂��肪�A�ނȂ��������̏�ɂ݂����˂��Ă������B
-�@�C��̓V��́A���̂Ƃ����イ�ɂ�������B��C���̒��S���A���΂�ɂ������̕��ɂ��������Ă������̂ƌ�����B�����Ђイ�Ђイ�Ɩ肾���A�C�͂������ɔ����g�������Ăčr��͂��߂��B�O��v���N�ɂ́A�s�K���̍K���������B�����ꍏ�A��������̂�������������A����̐����s���̂��t�͂ǂ��Ȃ��Ă������A����͂킩�������̂ł͂Ȃ��B
-�@�p���R�`������h���ꂽ�q���͂���́A���܂⍏�X�A�C�ە񍐂��A�{���ɂ��������Ă����@�@�ɂނ��Ĕ������Ă����B��@�@�́A��ނ������A�_�Ђ����C����A����s�ɂ���Đi�H��������ʂ悤�ɂƂ߂Ă����B
-�@���̂Ƃ��ł������B��@�@�d�r��Z�ꍆ�͍r��͗l�̊C�ʂɁA��Ȍ`�������|�S���W�s�����Ău�C�t�Ƃ������͂Ƃ����ʂ��̂������Ă���̂ɋC�����āA�}���ŗ��@�s��傤���t�ɂ������𑗂����B
-�@�吼�m��̔g�Q�ɂ�����Ă���|�S���̉����́A��̉����̂ł��낤�B
-
-
-�m���R�������n������ǂ��m���u������ǂ��v�͒����o���n
-
-
-�@��@�̒�@�@�́A�ϖ��ȉ�����ǂ����߁A�����Ɖ����������Ƃ�A�g�ԂƃX���X���̒���s�ɂ������B
-�u�ւ�Ȃ������������Ă��邪�A�������ǂ��������͂������I�v
-�@�ƁA�i�߂̃��X�L����т��o�ዾ��ڂɂ������Ă��܂܂����񂾁B
-�@��@�@�́A�ꂽ�щ����̓�����Ƃт�����ƁA�܂��O�����Ɛ��񂵂āA�ӂ����єg�Ԃ̉����߂����ċ��P���Ă������B
-�u�����A�n�[���M�����B��D���߂���������I�v
-�@���X�L����т̖��߂ŁA��@�@�̔�������͗����P�d�|���̐M���������Ƃ��ꂽ�B�u�^�_�`�j��D�Z���v�Ƃ̐M���������B�������āA�@�͉����̏�����ꂷ��ɔ�񂾁B
-�@���������́A���̒�D�M���������Ȃ������B�����Ȃ������΂���ł͂Ȃ��B�d�����ȍ|�S�΂�̓����O���O���Ƃ䂷�Ԃ�ƁA�������ɔg�Ԃɂ��炾�𒾂߂Ă����悤�����B
-�@���̂悤����������A���X�L����т͂��ߒ�@�@�̏�g���͂ނ��ނ��Ƃ��Ă����B�p���C�R�̌��R�s���񂺂�t���閽�߂������΂��ɂЂƂ��������̂������������ԓx���B
-�@�Ȃɂ���m��͍r��Ă���̂ŁA���ꂽ�����₩�ȓ��̂悤�ɁA�ォ��C���̎p�������������Ƃ��ł��Ȃ���������A�����������������m��̉����ɁA�����ł��Ԃ��ԂƊC�ʉ��ɂ�������Ă͂����܂��������B
-�@�i�߃��X�L����т͋C�����񂾁B�����Ȃ�΁A�Ō�̎�i���I
-�u�퓬�p�ӁI�@�ˁs���t�����n�߁I�@�ˌ��ڕW�͐����́I�v
-�@���@�ɂ��M��������ꂽ�B���X�L����т͑o�ዾ�����΂₭���܂��āA�@�֏e���ɂ����݂����B
-�u�˂āI�v
-�@�ŁA�˒��ɂ͂����������ɂނ��āA�җ�ȋ@�֖C�̎ˌ����͂��܂����B
-�@���a��\�O�~���̖C�e�̓h�h�h�b�Ƃ��̂������Ђт������ĂāA�����̏�ɉJ�����ƍ~�����B�����܂������͂��Ȃ݂���ƂȂ邩�Ǝv���̂ق��A�ӊO�ɂ��C�e�̓J���J�[���Ƃ͂˂������ꂽ�B
-�u�E�k�I�v
-�@���X�L����т������݂����āA�Ȃ������������Ђ��Â����B���������͂т��Ƃ����Ȃ��B
-�@���̂����ɉ����́A�������������ƋC���̂�邢�D�F�̑̂�g�Ԃɂ������Ă��܂����B�����Ă��Ƃɂ͔������킪�u�c�u�c��炢�ł���΂��肾�����B
-�@��@�@�́A�Ƃ��Ƃ��������Ƃ�ɂ����Ă��܂����̂��B
-
-
-�m���R�������n�吼�m�̓S����s�Ă��炰�t�m���u�吼�m�̓S����v�͒����o���n
-
-
-�u�吼�m�̓S����v�\�\�ƁA���X�L����т́A�ꂢ�̉����̂��Ƃ��A�����ĂԂ̂ł������B���̑吼�m�̓S����̂��Ƃ́A���X�L����т��疳���d�M�őœd�����̂ŁA�{���{�����͂��߃N�C�[���E�����[���̑{���ɂ��������Ă����D�D���]�����Ȃǂ��F�������M�����B
-�u���X�L����т̔��������S����Ƃ����̂́A�������������Ȃ񂾂낤�l�v
-�@�吼�m�̉����S����̂��Ƃ́A�Ђǂ��{�����̘A�������ǂ납�����悤�ł������B
-�@���X�L����т́A�S������Ƃ�ɂ��������Ƃ������ւ񂴂�˂񂪂��Ă����B������Ƃ炦�邱�Ƃ��ł���΁A�N�C�[���E�����[���̍s���������Ƃ킩�����ɂ������Ȃ��Ǝv���Ă����B�������̂��A���̓S�����������΁A����ǂ͂����ƂƂ炦�Ă݂���ƁA��т͂����܂������ł��Ȃł܂킵���B
-�@�t�����X�D�D���]�����̏�ł��A�D���Ƃ��킸��q�Ƃ��킸�A�S����̂��킳�Ŏ������肾�����B
-�@�G�o���D���͂`�b�̏�ŃX�~�X�x�����Ƃ炦�āA�����������̘b�����������Ă����B
-�u�˂��A�X�~�X�x������B���Ȃ��̂����̃��X�L����т̂��肪������j�����܂���B�S����Ƃ͂������낢���܂��ł��ˁB���Ȃ��́A���̓S���ꂪ�ǂ�Ȃ��̂��Ƃ��v���ł����B���Е������Ă��������v
-�@�X�~�X�x���́A��₵�����������C��͂邩�Ɍ����Ȃ���A
-�u�����A�S����Ƃ͉����ł����ȁB���킳�ɂ��ƁA�S����͂��̐��E�ɓ�ƂȂ��ӂ����Ȑ������Ƃ����b�ł����A�킽���͂����͎v���܂���ˁB����ς�l�Ԃ̍�������̂ɂ������Ȃ��̂ł���B�܂���������낤�ƍl���Ă��܂��v
-�u�������H�v
-�@�D���͌x���̕ԓ��Ɏ��]���Ȃ���A
-�u�������Ȃ�A�p���C�R���ЂƖڌ���΂���Ƃ킩��͂����Ⴀ��܂��񂩁B�킽���́A�����Ƃق��̂��̂������Ǝv���܂���v
-�u����ƁA�C�ڂ����̈�킾�Ƃ��������̂ł����v
-�u����A�܂����C�ڂ����ȂǂƂ����΂����̂��Ƃ͂����܂��񂪁c�c�v
-�@�ӂ���͊�������킹�Đ������΂����B
-
-
-�m���R�������n����k�m���u����k�v�͒����o���n
-
-
-�@�G�o���D���̓X�~�X�x���Ƃꂾ���āA���܂��K�i�ɃR�g�R�g�Ɩ邭���Ƃ����̂΂��Ȃ���D���̕a���̕��։���Ă������B
-�@�㖱���̂���Ȃ��ŁA�D���͎O��v���N�̐Q�Ă���a���ւ͂����Ă������B
-�u�₠�A���{���N�B�C���͂ǂ����ˁv
-�@�O��v�͂���Ƃ݂���A�x�b�h�̏�Ɍ��C�悭�N��������A�Y���������]�����ɂ������Ă���̗���ׂ̂��̂��A
-�u�\�\�C�����Ă�����A�ǂ����Ă��A�ڂ��̓N�C�[���E�����[���̂Ȃ��ɂ���Ƃ����v���Ȃ��āA���܂�܂�����v
-�@�Ƃ������B�D���́A
-�u�E���������������v�Ƃ��Ȃ����Ȃ���A
-�u��́A���݂́A�ǂ����ă����[������ق��肾���ꂽ�̂��l�v
-�u���ꂪ�n�b�L�����ڂ��Ă��Ȃ��̂ł����A�Ȃ�ł�����́A�D���̗[�H�����ނ����܂ʂ����̂��Ƃł����B�\�\�v
-�@�ƁA���N�̌�肾�����Ƃ���ɂ��ƁA�O��v���N�́A�T�P�������p�N�����Ƃ����Ƃ���ɁA����������Ă΂ꂽ�̂ŁA���������T�P�����̂�������̂܂܂ɂ��āA�L���ɂƂт������̂ł������B
-�@�O��v���N���������̕����ɂ����Ă݂�ƁA�������N�[�p�[�͊��̏�ɁA��������̎l�p�ȕ�������̎莆�𐮗����Ă����B����͗����̖�A�D���ɊJ�����Ƃ���̉���������s�������ԂƂ������t�̏��ҏ�ł������B
-�@�{�[�C�̎O��v�́A����������̂������ŁA�܂��E���̈ꓙ�D�q�̂Ƃ���ցA���̏��ҏ�������Ă����悤������ꂽ�B
-�@�O��v�����̈ꂽ�΂̕�������Ɏ����ĕ������o�悤�Ƃ����Ƃ��A�Ȃ�̋C�Ȃ��ɃN�[�p�[�������̕����ӂ肩�����Ă݂�ƁA����͎c��̏��ҏ��D�q����ƂЂ����킹�Ȃ���A�������肱������A���˂ނ���͂��߂Ă����B
-�@���̂�������҂̎��������A�d�����ɋ��˂ނ������Ƃ͂ǂ��������Ƃ��낤�ƁA������Ƃӂ����Ɏv���͂������A���N�͂��̂܂܎��O�ɑ���ł��̂ł���B�Ȃ��Ȃ�A�������ɒ��ӂ����Ă�邱�Ƃ����A���̂Ƃ��A�����Ə��N�̒��ӂ��Ђ����Ƃ��N����������ł���B����͈ٗl�ȏL���ł������B�Ȃ�Ƃ������A���ɂȂ܂�������w�̕����A���O���琁������ł����̂ł���B
-�u���̏L�s�����t���Ƃ�������A�߂��炵���L���Ȃ�ł���B����܂łɂ���ȕςȂɂ��������������Ƃ��Ȃ���ł��v
-�@���N�̓x�b�h�̏�ŋ����������āA�܂���Ђ��߂��B
-�@���ꂩ��O��v�͍b�ɂƂт������B�邾�����B�����邢�b�̓����A�C�ʂ�D�̂܂�肾���Ƃ炵�Ă����B���̂Ƃ�����͂ӂ����Ȃ��̂������B
-�@�������킾�����g���A�t�����Ă���̂ł������B�����Đ��ʂ͂��イ�ɃO���O���Əオ���Ă���̂ł������B���̎��A�D�̂͂Ȃɂ��ɂ����������炵���A�S�g���S�g���Ƃ��͂��߂��B
-�u���v���b�I�v
-�@�O��v�́A�Ƃ����ɂ����v�����B����̓����[���̖��̂��Ă��镂�W�s�u�C�t��g�́s���炾�t�ɂ����B
-�@�D�̂̓O���b�ƉE�ɂ����ނ��������B
-�@�b�𑖂��Ă������N�́A�����ɂ܂������B�����āA���b�Ƃ����Ԃ��Ȃ��C���Ƀh�u���Ƃق��肾���ꂽ�B���̏ォ��A�߂����C�����ǂ��Ƒ�̂悤�ɗ����Ă����B����͂����܂ł͂��ڂ��Ă������A���Ƃ͋C�������Ă��܂����B
-�@�C�����Ă݂�ƁA����͕��W�s�u�C�t�����炾�ɂ�킫���āA�C�����������Ă����̂ł���B
-�@��������͖����Ă����B
-�@���]�����ɂ�����������ꂽ�̂́A���ꂩ��l�A�܎��Ԃ̂��������Ƃ����B
-�@�G�o���D���́A�O��v������k�����I��ƁA�������痧��������A���N�̎���ɂ����āA���̍K�^���j�����B�X�~�X�x���́A���܂肱�񂾂܂܂Ȃɂ��Ƃ��M�S�ɍl���Ă����B
-
-
-�m���R�������n�C�������͐��m���u�C�������͐��v�͒����o���n
-
-
-�@�O��v���N�́A���C�ɂȂ��čb�ɏo����悤�ɂȂ����B
-�@���]�����́A�����[������̒n�_�Ǝv����C�ʂ��A���邮��Ƃ܂���Ă����B
-�@�D�ꂩ��͊C��Ɍ����A�������M�������������A���ꂪ�C�ꂩ��D��ɂӂ����т������Ă��鉹�̋����Ǝ��ԂƂ����肳��Ă����B����͐��[�����s�������񂻂��Ă����t�������B�����ǂ����Ƀ����[���̑D�̂�����ł����Ƃ���΁A�A���Ă��鉹�̋����Ǝ��ԂƂ��}�ɂ������͂��������B
-�@�������A�����[���̑D�̂炵�����̂ɂ́A�Ȃ��Ȃ���������Ȃ������B
-�@�X�~�X�x���͎O��v�̂������̂悤�ɂ��āA���N�̂��΂ɂ����������Ă����B���A���̂Ƃ������������Ȃ���b���������B
-�u�O��v�N�A���݂̂ق��ɁA���W�s�u�C�t�����ĊC���ɔ�т������Ƃ��Ă����҂͂���܂���ł������v
-�u�����\�\�v
-�@�Ƃ��������A�l���Ă݂�ƁA�ق��ɒN������Ȑl���������Ȃ������悤���B
-�@���̂ނ˂�������ƁA�X�~�X�x���̓M�����Ɗ�ʂ����������āA
-�u����͂ւ�ł��l�B���̐l�́A�ǂ����ċC�����Ȃ������̂ł��傤�v
-�@�ق�Ƃ��ɂӂ������B�D�����v����炵���ƁA�O��v�������C�������Ƃ����̂͂��������B���������̂Ƃ��̃����[�����A�����̏�Ԃɂ����Ƃ͌����čl�����Ȃ��B
-�i�Ȃ��A�ق��̐l�͋C�����Ȃ������̂��낤�H�j
-�@�O��v�͖ڂ��ς��ς������čl�����񂾁B
-�u���b�A�������B�T�P�����̂�����������Ȃ��v
-�u���b�A�T�P�����Ƃ́H�v
-�@�X�~�X�x���́A�����Ȃ�T�P�����̘b���o���̂Ŗʂ�������B����������́A���Ђ��̘b�𕷂����Ă����悤�ɂƏ��N�ɂ��̂񂾁B
-�@�O��v�͗�̃T�P�̑務����A���̓��̗[�H�ɃT�P�������o���b�������B
-�u�T�P���������ׂ��l�́A�F�˂ނ��Ȃ����񂶂�Ȃ��ł��傤���v
-�u�����\�\�v
-�@�ƃX�~�X�x���͂������Ȃł��B
-�u�ǂ����T�P�����ׂĂ˂ނ��Ȃ����Ƃ����b�͕��������Ƃ�����܂���B�������T�P���務�������Ƃ͂ւ�ȏo�����Ƃł��v
-�@���N�́A�ǂ����Ă��A���̃T�P���������₵���悤�Ɏv�����B
-�u����x������́A�����[�����ǂ����đ�����Ǝv���̂ł����v
-�@�O��v�̑县��ɁA�X�~�X�́A������ƃ^�W�^�W�̌`���������A�₪�ĐÂ��ɂ������B
-�u�킽���̍l���ł́A��͂�A����͉������͂𗘗p����C���c�̂��킴���Ǝv���̂ł��v
-�u�C���c�ł����āB�C���c�������[�����������߂��̂ł����v
-�u����A�C���c�̓����[���̍���𓐂�̂��ړI������A���߂Ȃ��ŁA�ǂ����ւ�Ă������Ǝv���܂��B�������߂��Ƃ���ƕY�������Ȃ���΂Ȃ�Ȃ��B�Ƃ��낪�Y�����Ă������̂͂��݂ЂƂ�ł͂���܂��񂩁B�����烁���[���͈��S�ɁA�ǂ����̊C���������Ă���̂��Ǝv���܂��v
-�@�T��炵�����������B
-�@���N�̒��v���ƁA�X�~�X�x���̕ߊl���ƁA�ǂ������������Ă���̂��낤���B
-
-
-�m���R�������n���s����t�����ڂ��߁m���u�������ڂ��߁v�͒����o���n
-
-
-�@�Ȃ񂾂������낢�S�t�s�˂񂦂��t�̂悤�Ȃ��̂��A������ɃO���O���Q�������Ă���̂ł������B���̉Q�͑傫���Ȃ����菬�����Ȃ�����A�܂����ɂق��Ȃ����Ȃ�����A�������Ǝv���ƕ��ɐ����Ƃ΂��ꂽ�悤�ɂ����b�Ə����Ă��܂�����c�c
-�u�����D�A����Ȃɂ����m���u�ɂ����v�ɖT�_�n���v
-�@�S������Ȃɂ����m���u�ɂ����v�ɖT�_�n�������B�����ނ��ނ����Ĉ݂Ԃ��낪���������ɂȂ肻�����B
-�u�\�\�I�C�A����Ȃ��������̂������Ă������Ⴑ�܂��B�����Ƃ肩���Â��񂩁B�{�[�C�͂��Ȃ����B�����A�{�[�C�A�{�[�C�v
-�@�������̃N�[�p�[�́A�N�C�[���E�����[���̎����̒��ł�����ɂ��Ԃ�̋��������ނ����Ă����B���܂łɂЂǂ��Ђ��������炵���A�����̋��ڂ���͂Ƃ�A�l�N�^�C�͂͂���A�������C�V���c�͂܂����Ȍ��ł��������������܂��Ă���B
-�u�����A�킽���͂ǂ��ɂ���̂��낤�B���X�[�v�̂悤�ɔZ�s���t�����s����t���B�Ȃ�ɂ������Ȃ��B����ȂЂǂ����ɂ��������Ƃ́A�킽���̂Ȃ����C�㐶���ɂ��n�߂Ă��v
-�@�������̃N�[�p�[�́A�肳����Ŏ������\���\���ƕ����������B�������A�Ƃ���ɃK�^���Ƒ傫�ȉ������āA����͉��ɂǂ��Ƃ�����Ă��܂����B
-�u���b�A���Ɂs���t���b�v
-�@�Ȃɂ�炩�������̂ɁA����Ƃ����قǍ����s�����ڂˁt���Ԃ������B�肳����ŁA�����ɁA�������Ђ����肩�����Ă������Ƃ��A����Ƃ݂̂��߂��B
-�u�����������B����͂Ȃ�̂ɂ������v
-�u�ǂ����Ђǂ������B�Ȃɂ������₵�Ȃ��v
-�@�b�ł��D���ł��A�����悤�Ȃ��ƂłЂǂ����킬���N�����Ă����B�D������q���A�݂傤�ȁA�ւ��҂荘�ŁA�䂩�̏�����������͂��܂���Ă����B�b�̏�ł́A������ɔ����s�͂����t�킹���N�����āA���܂��܂����ɂǂȂ鐺�����������B
-�u�D���A���ܖ{�D�͂ǂ����q�C���Ă���̂��B�ǂ����ւ񂾂��v
-�u���ށA�������ɂǂ����ς��B�@�ւ̉��͂��Ă��邪�A�g�̉����������Ȃ�����Ȃ����v
-�u�D�������������Ă��Ȃ����B�\�\����[�b�A�C�͂ǂ����֍s�����܂����b�v
-�@�D�q�����̓{�����A���񂾂�͂������Ȃ��Ă������B
-�u�C���ǂ����ւ����Ă��܂������āH�@����Ȃ΂��Ȃ��Ƃ��c�c�v
-�@�b�ւ͂������Ă����������N�[�p�[�́A����𕷂��Ƃ��߂��B
-�u�t���A�����̑D�q�͋C�����������炵���B�C�̏�𑖂��Ă���̂ɁA�C���ǂ����֍s���Ă��܂����Ȃ�āc�c�v
-�@�ƁA���������āA�N�[�p�[�̓n�b�Ƒ����Ƃ߂��B
-�u�������B�C�̉����������Ȃ����B����͂Ђ���Ƃ���ƁA�ق�Ƃ��ɊC���ǂ����֍s�����܂����̂�������Ȃ��B�����ǁA�N������Ȋ�ցs�������t��M������̂��v
-�@�N�[�p�[�͂�����ɖڂ��ς��ς�����Ă������A���̂Ƃ��w�ォ�炩��̖�����Ԃ��̂��������B
-�u�������͂��܂��񂩁B�d�b�ł��B�d�b�ł���v
-�@����͔鏑�̃}�����̐��������B�N�[�p�[�͂��̐��̂�����ɁA�܂��S�\�S�\�l���΂��ɂȂ��ċ߂Â��Ă������B�Ƃ��낪�A�����C���Ƃ����قǃ}�����̓��ɂԂ��Ă��܂����B�}�����������悤�ɁA�䂩�̏���J�j�̂悤�ɃS�\�S�\�͂��܂���Ă����̂������B
-�u�������A�@�֕�����d�b�ł��B�ꂱ�����������Ȃ���d�b���֌Ă�ł���Ƃ����Ă��܂��v
-
-
-�m���R�������n�댯�M���m���u�댯�M���v�͒����o���n
-
-
-�@�d�b�@�̂Ƃ���܂ł��ǂ���̂ɁA�܂��A�Ȃ��Ȃ��������ꂽ�B�͂��ĕ����ɂ́A�����ɂ������邲�ƂɁA����͂ǂ��ɂ����Ă����������m���u�����v�ɖT�_�n������Ȃǂƍl���Ȃ���΁A���Ԃ񂪂��ܕ����̂ǂ��ɂ���񂾂��A����Ƃ������Ȃ������B���̂����ɂ��񂪂炪���Ă��܂��āA���Ԃ񂪕����̂ǂ��ɂ��邩�킩��Ȃ��Ȃ��Ă���B
-�u�����A�}�����B�d�b�@���������Ă����v
-�@�N�[�p�[���A�Ƃ��Ƃ��ߖ��������B
-�u�͂��A�������B��������܂����ȁB�킽���͂���������A�}�ɖڂ������Ȃ��Ȃ��Ă��܂�����ł��B�������d�b�̂������Ă����Ƃ��́A�x�������Ă������̂ł�����A�d�b�@�̂��菊���m�ꂽ��ł����A���̓x�������Ă���܂���̂ŁA�n�e�A�ǂ��ɂ��邱�Ƃ��\�\�v
-�u���悤���Ȃ��ȃ@�B���������Ȃ��Ắv
-�@�ƁA�N�[�p�[�͐イ�������B
-�u�������B�����킽���ɂ͔鏑�̖��͂Ƃ܂�܂���B�Ⴊ�����Ȃ��Ȃ��Ă��܂�����ł�����l�B�C�̒��ւ͂����Ď���ł��܂��������܂��ł��v
-�@�}�����͂��Ԃ񂪓{��ꂽ�̂��Ǝv���āA�Ђǂ��ߊς��Ă��܂����B
-�u���������A���܂葁�܂����Ⴂ���Ȃ����B�Ⴊ�����Ȃ��Ȃ����Ƃ������A�ق�Ƃ��ɊႪ�����Ȃ��Ȃ����̂��ȃ@�B��������Ȃ���B�����͂��܁A�Z�����̒��ɂ͂����Ă��邾���̂��ƂȂ񂾂�v
-�u�Z�����̒��ւ͂������̂ł����āH�@�������Ⴀ��܂����A�������B�ڂ�����Ă��܂�����ł���B�Ⴊ�����Ȃ��Ȃ��ẮA�����Ȃ�̊y���݂�����܂��傤�B�킽���͂���ς�C�ւ͂���܂��v
-�@�鏑�͐�]�̂��܂�A������ɊC���ւƂт��݂��������B
-�u�}�����B�C�����������Ȃ���Ⴂ���Ȃ��B���A�C�ւ͂��肽���Ƃ����Ă��邪�A���̊C���ǂ����ɍs���Ă��܂����炵���񂾂�v
-�u�����b�A�C���ǂ����܂����b�v
-�u�C���Ȃ��Ȃ����炵���񂾁B�g�̉����������Ȃ���΁A�u�c�u�c�Ƃ�������̉������Ȃ��̂��v
-�u�C���ǂ����ɂ����Ă��܂��Ȃ�āA���A����Ȃ΂��������Ƃ��c�c�v
-�@���̂Ƃ��ł������B�{�E�{�E�ƁA�{�D�̌x�J���Ђт����B����͂����̂��������Ƃ������Ƃ͂������A�Ȃ񂾂��ςȉ��F�������B����������́A�댯�M����`���Ă����̂ł���B
-�u���b�A�댯�M�����b�v
-�@�������́A�T�b�Ɛ��߂��B
-�u����͂����������Ă����Ȃ��B�����}�����B�ǂ����Ă��d�b�@���������ɂ�Ȃ��̂��B�������֗����B��������Ɏ���Ȃ��ŕ����܂���������A�͂₭�����̂悤�����킩�邾�낤�v
-�u����Ⴂ���v�������v
-�@�}�����͊�т̐����������B
-�u�������A�킽���͂����ɂ����ł���B�����������֎���̂΂��Ă��������v
-�@�₪�ăN�[�p�[�������́A�}�����̗₦�������u���u���ӂ邦�Ă��������������Ă��B�}�����͂�낱�т̐��������āA�N�[�p�[�̎�ɂ����Ղ񂵂��B
-�u�\�\�����A�������藧���ĕ����񂾁B�������ƂЂ낰��񂾂��v
-�@�L���A�������̎��̒����ӂ��肪�S���������͂��߂��B
-�@�ł��A���̋S�������́A���ɐ������āA�䂩�̏�ɓ]���肨���Ă����d�b�@���Ђ낢�����邱�Ƃ��ł����̂́A���ꂩ����̂̌ܕ��Ƃ�����ʌ�̂��Ƃ������B
-�@�������͂���������b�@�����ɂ��ĂĂ����񂾁B
-�u�N�[�p�[���B�������͋@�֕����l�v
-�u�����A�N�[�p�[�̐����b�v
-�@�ƁA�ނ����ł́A�����ւ�҂����˂��悤�Ȋ����s���񂹂��t���������B�@�֒��V�����̐��������B
-�u�����A�N�[�p�[�B�����ւ�Ȃ��ƂɂȂ����B�{�D�̋@�ւ́A�����j���邩����Ȃ��񂾁v
-�u�����b�v
-
-
-�m���R�������n�D�ꂩ��̂Ȃ����m���u�D�ꂩ��̂Ȃ����v�͒����o���n
-
-
-�u�{�D�̋@�ւ����j���邩�������Ƃ́A�ǂ������킯���b�v
-�@�������͖_�����ɂȂ��Ă����񂾁B
-�u����́A���������킯�Ȃ񂾁v
-�@�ƁA�V�������������̐��Ő�������Ƃ���ɂ��ƁA�@�֕��ł́A�ǂ������킯���킩��ʂ��A�F���g���g���Ƌ��˂ނ�����Ă��܂������ƁA���ꂩ���ɂȂ��Ėڂ����܂��Ă݂�ƁA�����������A���Ƃ��Ƃ��ڂ������Ȃ��Ȃ��Ă���̂��킩�������ƁA����Ȃ킯������A���܋@�֕����́A����������̏n���s���キ���t�ɂ���āA�ڂ͌����Ȃ����A�肳����ɂ���āA���̐��I�ȃN�C�[���E�����[���̋@�ւ����낤���Ă�����Ă��邱�ƁA���������āA���[�^�[���Q�[�W����߂Ȃ��̂ŁA���܂ň��S�ɋ@�ւ��^�]���Â����邩�킩��Ȃ��A�����ƁA���c�͂ǂ����ɑ傫�Ȃނ�������āA����ׂ��@�ւ̔��j���N���邩���킩��Ȃ��Ƃ����̂������B
-�u���̍��܂ŁA�킪�����[���͊Ⴊ�����Ȃ��҂΂���̎�ŉ^�]����Ă����̂��B�����͑S�������ꂽ�͂Ȃ����v
-�u�˂��A�������B�ǂ����ĊF�����낢��������ĊႪ�����Ȃ��Ȃ����񂾂낤�l�v
-�u�ǂ����悭�킩��Ȃ��B���͂��������F�A�Ⴊ�����Ȃ��񂾁B�킽����}�����͂������A�D�q�������Ⴊ�����Ȃ��Ƃ����Ă��킢�ł���B�������ق�Ƃ��ɊႪ�����Ȃ��Ȃ����̂��A����Ƃ��Ђǂ��Z���s�̂��ށt�ɂ܂ꂽ�̂��A����͂ǂ������킩��Ȃ��v
-�u�Z������Ȃ��Ǝv���ˁv
-�@�ƁA�@�֒��V�����͔��΂����B
-�u�ł��A�������A������͌�����悤�ȋC������񂾂�B���̌`�͂��������Ɍ����Ȃ����l�B�Ȃ񂾂������A���X�[�v�̒��ɂ͂������悤�ɁA�܃b������Ȃ����邳��������񂾂��c�c�v
-�u�������͂܂����炳�v
-�@�ƃV�����͂͂������悤�ɂ��������A���イ�ɐ����ӂ�킹�āA
-�u�\�\�������A�Ƃɂ�������͑�ٕς���B�ڂ������́A�����^�]�̎��M�������Ă��܂����񂾁B���������E���B�������p���ɂ��Ȃ������ɁA���̕��̂Ȃ��ɂ͂����Ă��܂����낤�A�����v
-�@���������A������Ȃ����߂邷�ׂ�m��Ȃ������B�ł����͂낤�΂����Ă���Ƃ��ł͂Ȃ��B�ٕς�����Ƃ���΁A�ɗ́s���傭��傭�t��������C���������āA������؂�ʂ���H�v�����Ȃ���΂Ȃ�Ȃ��̂��B�����v�����������́A�����͂��܂��āA�@�֒��V����������������B
-�u����A�������Ă����������Ȃ��B�������A�ڂ��͂����͂��Ȃ��񂾁v
-�u�͂��Ȃ��Ȃ�Ă��Ƃ͂Ȃ���B�����Ȃ��Ȃ����̂́A�������Ⴞ���̂��Ƃ���Ȃ����B�ق��ɂ܂�������葫������A�]������Ύ�������A�@������B�\�\�������A���݂̂Ƃ���͉����������͂Ȃ����v
-�@�ƁA�������͂ӂƋC�����āA�ꂢ�̂���ȏL�C�s���イ���t�ɂ��Ă����˂Ă݂��B
-�u�������H�@����A�ʂɂȂ�ɂ��������͂Ȃ����A���ꂪ�ǂ������̂��l�v
-�u�ȂɁA�������͂������Ȃ��̂��B����͂ӂ������B�D����b�ꂽ���ɂ͈ٗl�ȏL�C����������Ă��āA���ɂւ��������Ă���̂��B�@�֕����������Ȃ��Ƃ͑S���ӂ������B����Ƃ���́A����ς�C���s�K�X�t�ɂ܂�Ă���Ƃ����v���Ȃ��B�����A���̃K�X���q��s���񂶂傤�t�����悤�̃K�X�ł͂Ȃ��\�\�v
-
-
-�m���R�������n���̍��̂Ƃ肱�m���u���̍��̂Ƃ肱�v�͒����o���n
-
-
-�@�������̃N�[�p�[�͋@�֒����͂��܂��Ă����āA�d�b���A�{�D�̏�b�s���傤����ς�t�̂�����i��ɂ��鑀�c���ɂȂ��������B
-�@�ꓙ�^�]�m�̃p�C�N�\�����łĂ����B
-�u�����B�p�C�N�\���B�������̓N�[�p�[�����A�{�D�̑��c�͂��܂������Ă��邩�l�v
-�u�Ƃ��Ƃ����������l�B���͂��ܑD���Ƃӂ���ŁA���������ڂ��Ă���Ƃ��낾�B�����ւ�Ȃ��Ƃ��N��������v
-�u�����ւ�͂��傤�����Ă����B�������̘A�����ڂ������Ȃ��񂾂낤�v
-�u�������B�قƂ�ǖڂ̌����Ȃ��A���΂��肾�v
-�u�قƂ�ǂƂ����Ɓ\�\�v
-�@�Ǝ������͂�������ŕ������������B
-�u�\�\�N����̌�����̂����邩�l�v
-�u���ށA������̌�����������B�����͂ڂ����B�ڂ��ЂƂ�Ȃ񂾁v
-�u�����b�A�p�C�N�\���A���܂������Ⴊ������̂��B����͈ӊO���B�ǂ����Ă��܂������Ⴊ������̂��v
-�u����͂悭�킩��Ȃ��B�����ڂ��͗[�H���A���イ�ɋC������邭�Ȃ��āA�����ɂЂ��Ƃ����񂾁B�����ċ}���Țq�f�s�����Ɓt�ɉ����s����t���B���������s�͂񂵂͂񂵂傤�t�̂Ă��Ńx�b�h�ɂ����肱��ł������A���ꂩ���A���C���Ƃ肩�����āA���ܑD���s���񂫂傤�t�ɗ����Ă��邪�A�D���̊Ⴊ�����Ȃ����킬�̂����ɁA�ڂ������͏���������̂ňӊO�Ɏv���Ă���킯���v
-�@�����Ε����قǂӂ����Șb�������B���̍K�^�Ȉꓙ�^�]�m���A��͂莋�͂͂��Ƃ낦�Ă����B
-�@����ł��A�Ă̒����̂Ȃ��ɒ����Ƃ�ł���̂�������قǂɂ͌�����炵���̂́A�܂������������̂������B
-�u�ŁA�q�H�́\�\�v
-�u���̍q�H�����A�v����ɂ߂��Ⴍ���Ⴞ�B�O�����܂����������Ȃ��B���鎞�v�s���イ��ǂ����t�ɂ��ƁA�����͐��s�܂��t�ɌߑO�㎞�Ȃ񂾂��A�����ς�O���������Ȃ��B�ǂ��������Ă��A�����܂�������ȋ�Ԃ�����΂��肾�B�N�[�p�[�N�B���ǂ낢�Ă͂����Ȃ���B�C�ʂ��猩���Ȃ��̂��v
-�u�����A�C���ǂ����֍s���Ă��܂����̂��l�v
-�u�C���ǂ����֍s���Ă��܂����H�@�܂��A���������m��Ȃ��B�������D�̃X�N�����[�ɂ́A�����Ǝ育����������񂾂�B�D�͐��̂悤�Ȃ��̂̏�ɕ����Ă��āA���̂Ȃ����A�������ɃX�N�����[���܂���Ă���񂾁B������A�{�D�͂����Ȃ��Ƃ������O�\�m�b�g�őO�i���Ă��������Ȃ��̂Ȃ񂾂��A���[�^�[������ׂĂ݂�ƁA�W�b�ƂƂ܂��Ă���Ƃ����l�����Ȃ��B����Ȃւ�Ȃ��Ƃ����邾�낤���v
-�@�������̈ꓙ�^�]�m���A�S�ׂ����Ƃ������������B����ł́A�Ⴊ�����Ă��債���������ł͂Ȃ��������B
-�u�\�\�ŁA�{�D�̈ʒu�́H�v
-�u�S���킩��Ȃ��B�Ƃ܂��Ă��邱�Ƃ͂킩�邪�A���L�q�H�v��������Ă��܂��āA�ǂ̒n�_�ɂ���̂����킩��Ȃ��̂��B�₪�Ė�ɂł��Ȃ��Ėk�l���s�ق��Ƃ����t���o�Ă���΁A�Z���V�s�낭�Ԃ񂬁t�ł����đ���ł��邾�낤���l�v
-�u�����͂������ȃ@�v
-�u�S���������B�ڂ��͂Ȃ񂾂����̒��ɂ���悤�ȋC������B�������N�C�[���E�����[�����Ɩ��̍��Ɏ����Ă����ꂽ�悤�ȋC���c�c�v
-�@�D���ɂ���ꓙ�^�]�m�p�C�N�\���̐��́A�܂�Œn�̒ꂩ�畷�����Ă���悤�ɁA�A�X�s���񂢂�t����Ђт��������Ă����B
-
-
-�m���R�������n�΂ɂ�����ҁm���u�΂ɂ�����ҁv�͒����o���n
-
-
-�@�N�C�[���E�����[���̎������N�[�p�[�́A���܂͎���҂΂��肾�Ǝv�����B���̂����@�֒��̃V�������������悤�ɖ{�D���������邩�A�����Ȃ���Έꓙ�^�]��p�C�N�\���̂������悤�ɖ��̍��A���͎��̍��ɉ��Â��ɂȂ邩������Ȃ��̂��B
-�u�����A�D���ҋƂ����̂ւ�ł����܂����v
-�@�ƁA�N�[�p�[�������́A�����ʊ���܂��������B�����덋�_�s��������t�������Ė��Ă������A�����[���̑S�g�s���s���񂵂�ӂ����t�ƂȂ����̂�m���āA���́A���������]�̂ӂ��ɒ���ł��܂������ꂾ�����B
-�u�������A���΂������������Ⴀ��܂��񂩁v
-�@�ƁA���̂��݂ɂ������܂��Ă����}�������A�Ƃ����������Ă������B
-�u�ȂɁA���΂������āH�@���΂��Ȃ炠�����͂����B�������A���̂��킬�ɂ��΂����̂ނ��Ƃ���킷��Ă����˂��B�}�����A�������֗����B��������ɂ̂����v
-�@�}�����͎������̂₳�������t�ɂ����āA���̎q�̂悤�ɃS�\�S�\�͂�����Ă������B
-�u��������o���āB�z���A���΂����󂯎���Ă���v
-�@�ӂ���͎肳����ŁA�������΂�����{�����o�����B
-�u�}�b�`�́H�v
-�u�����A�}�b�`�����邼�v
-�@�N�[�p�[�������́A�|�P�b�g���������āA�}�b�`����肾�����B�����āA���̂��イ���傷�邱�ƂȂ��A�V���b�Ɖ΂������B
-�@���̏u�Ԃ������B
-�u�M���[�b�I�v
-�@�ƁA�Ƃ���A�������ߖ����������B�݂傤�Ȑ������B�l�Ԃ�����Ȋ�Ȑ����o���̂��͂��߂ĕ������ƃN�[�p�[�͎v�����B�Ƃ���ɁA����Ă������悤�ȑ����\�\����́A�Ȃɂ��傫�Ȃʂꑫ����������悤�ȁA�y�b�`���A�y�b�`���Ƃ��������������A�����̕��ɏ����Ă������B
-�@�N�[�p�[�́A�鏑�̃}�������C�����������Ȃ����񂾂Ƃ΂���v���Ă����B
-�u���킢�����ȃ}�������B�b�����т��܂Ȃ��Ⴂ�����c�c�v
-�@�ƁA�N�[�p�[���Ԃ₯�΁A
-�u���b�A�킽�����ǂ������Ƃ��������̂Łc�c�v
-�@�ƁA�v�������Ȃ����A�N�[�p�[�������̕@�̐�Ƀ}�����̐������������B
-�u����b�A�}�����I�@�����ɂ����̂��v
-�u����b�A�������ł��ˁB�킽���͂����ɂ��܂����A�킽���͂܂��A���Ȃ��������o�����񂾂Ƃ΂���v���Ă������A���̂͂�������Ȃ������̂ł����v
-�u�������A�ڂ�����Ȃ��v
-�@�ƁA�N�[�p�[�͂Ԃ�����悤�ɂ����āA
-�u�����Ă��݂ł��Ȃ��B�ӂ���̂ق��̂��ꂩ���B�������A����ȕςȐ����o������āA�ꂽ�����ꂾ�낤�v
-�@�Ƃ���ɁA�ǂ�����Ƃ��Ȃ��A�ꂢ�̂Ȃ܂��������L�s�������イ�t���v�[���Ƃ������Ă����B
-�@���̂Ƃ��A�e�[�u���̏�Ɏ�������N�[�p�[���A�т����肷��悤�ȑ吺�ŋ��񂾁B
-�u����b�A�}�����B�e�[�u���̏���������Ă݂�B�Ȃ񂾂��x�g�x�g�������̂���ς����Ă���񂾁B�ɂ����̂͂���Ȃ񂾁B�킩�����B�����A�C�����Ă���B�Ȃ񂾂��݂傤�Ȑ��������A����������낤�낵�Ă���炵�����v
-�@�}�����͂���𕷂��ƁA���̍������킸�A�K�^�K�^�ӂ邦�������B
-
-
-�m���R�������n�l�Ԃ��������m���u�l�Ԃ��������v�͒����o���n
-
-
-�@�������N�[�p�[�̓}�������͂��܂��āA���������肳����Ȃ���A�����̃h�A���Ƃ��ăK�`�����Ƃ������������B���Ƃ������̓s�V�����Ƃ��߂āA�O�E����̌�ʂ��o���Ȃ��悤�ɂ����B
-�u����ł����B�Ƃ��Ԃ񂱂����āA�ď�s�낤���傤�t�����܂܂őP���s���񂲂����t���l����񂾁v
-�@�N�[�p�[�́A�ǂ����Ɖ��]�֎q�̏�ɂ��������낵���B��͌����ʂȂ���A�S��s���񂪂�t�Ƃ������̂��J���ĕ������悤�Ǝv�����B
-�@�������A���΂��ɉ΂����悤�Ƃ����Ƃ��A�M���b�Ɗ�������A�s�`���s�`���Ƒ��������Ăē����������͉̂����������낤�B���ꂩ��A�e�[�u���̏�Ɏc�����A�˂΂˂΂������L�̂���S�t�s�˂񂦂��t���A���̉��������҂��Ɋ֌W������悤�Ɏv���B�����������҂Ȃ񂾂낤�B�l�Ԃ��A����Ƃ��b���H
-�@�Ƃɂ�������́A����܂łɂ��������Ƃ̂Ȃ��悤�Ȃӂ����ȓ�s�Ȃ񂵂�t�ɂƂ����߂��Ă���̂�m�����B����΂���ł͂Ȃ��B�ܐ�l�ɋ߂��l�Ԃ��̂������D�N�C�[���E�����[�����ƁA����������ɂƂ����߂��Ă��܂����̂��B
-�@���������A�����͂ǂ��ł��낤���H
-�@�����������Ƃ��l����ƁA����͂ɂ킩�ɓ����ɂ��Ȃ�̂ł������B�Ȃɂ���A�N�C�[���E�����[���͊C����q�C���Ă����̂��B���ꂪ�A���͊C�̂Ȃ��n�_�ɂ��Ă���̂��B�C�͂Ȃ����X�N�����[�͂܂���Ă���Ƃ�������A�D�͉����̏�ɂ�������ł���̂ł��낤�B���������Ƃ��낪�A�C�́\�\�吼�m�̂Â��ɂ���̂��낤���B
-�u�ǂ����z���̂ł��Ȃ��ӂ��������v
-�@�N�[�p�[�������́A���΂��̉������܂����ɏo���Ȃ���Ԃ₢���B
-�@�������A���ǂ���́A���������΂��̉΂����悤�Ƃ����Ƃ��ɁA�M���b�Ƃ����ē������������������҂ł����������������Ƃ��ł���΁A���D�����[�������ǂ��ɂ��邩�������Ƃ��͂�����m��邾�낤�Ǝv�������B����͂������S����ƁA�D���̗v���s�悤����t�v���s�悤����t�ɓd�b�������āA����������������������Ȃ���������₢���킹���B
-�u�\�\���傤���񂶂�Ȃ��v�ƑD���s���񂫂傤�t�ɂ����V�D���������肾�����B�u���̔N�ɂȂ邪�A�C�̒��ł���Ȑ�������x�������������Ƃ͂Ȃ��B�N�[�p�[�N�B���݂͋C�����������l�v
-�@�N�[�p�[�͖����œd�b��؂����B�ق�Ƃ��ɂ��̉����ɏo��������̂łȂ���΁A���������ӂ����Ȓn�_�փ����[�����͂܂肱��ł���Ƃ������Ƃ�M�����Ȃ��̂��B
-�u�ǂ����l�B�V�����N�v
-�@�ƁA����ǂ͋@�֕��֓d�b���������B
-�u�����A�����b�A���b�A���ꂾ�b�v
-�@�ƁA�@�֒��V�����́A�����Ȃ���d�b���ɂ���������B
-�u���ꂪ�ǂ������񂾁v
-�u����A�N�[�p�[�N�B���������ւ�Ă��Ȃ���A����������E���E�����Ă���񂾁B�����āA������ɃM���A�M���A�Ɣߖ̂悤�Ȃ��̂������Ă���񂾂��A���ꂪ���܂肫���āA�G���W���̏Ă��Ă��镍�߂ŋN����񂾁B�ڂ��͎v���ɁA���̂ӂ����Ȑ����́A������Ƃ���̏Ă��S�ǁs�Ă�����t�ɐڐG���āA���������₯�ǁm���u�₯�ǁv�ɖT�_�n�����Ă���̂��Ǝv����B�S�������̂���Ȃ�����B�����ƊC�ɂ���ł��邯���̂���Ȃ����Ǝv����v
-�@�N�[�p�[�͂���𕷂��ƁA�ċz�s�����t���͂��܂��Ȃ���A
-�u�������B���݂��b���s�����̂��t���I�@����Ƃ����͍��A���̉��b�s�������イ�t�̂���ł��铴���s�ǂ����t�̂Ȃ��ɂ���񂾂낤���v
-�u������������Ȃ��B����łڂ��́c�c�v
-�@�ƁA���������Ă���Ƃ���A�@�֒��V�����͋}�ɂ��b�Ɛ����������B�����ċ��̒ꂩ�炵�ڂ肾���悤�Ȑ��ł����񂾁B
-�u�\�\�l�E���b�B�����A�N�[�p�[�����Ă���\�\���܂���̎�����߂Ă������c�c�v
-�@�Ƃ܂ł͕�����������ǁA���ꂩ���A�ӂ����уV�����̂͂΂̂��鐺�͓d�b�@�̂Ȃ�����Ђт��Ă��Ȃ������B
-
-
-�m���R�������n�����A��邼�I�m���u�����A��邼�I�v�͒����o���n
-
-
-�@�N�[�p�[�������́A��R�s�ڂ�����t�Ƃ��Ď�b�@���ɂ����Ă����B�����V�����̐��͕������Ȃ����A��������s�V�����s�V�����Ɗv�̂Ђ��ł��ӂ�܂킷�悤�ȉ����A�@�֕��Ƃ��ڂ������̂Ȃ��ɂ��Ă���̂����������B�����āA�V�����̒f�����s����܂܁t�炵���A�E�[���Ƃ������Ȃ萺���A����̎������Ƀn�b�L���ƕ��������B���悢�掖�Ԃ͏d��ƂȂ����B���̂܂܂ł����ƁA���̍��ؑD�̂Ȃ��͋��낵���C����Ɖ����Ă����ł��낤�B
-�u�����}�����B���܂�������������v
-�@�N�[�p�[�͔鏑���ĂсA���̒������o���̉�����ꂿ�傤�̌y�@�֏e���Ƃ肾���āA�肳����œn�����B�����āA���ꎩ�g���ꂿ�傤�̃s�X�g�����|�P�b�g�ɂ��̂΂����B
-�u�����A�ڂ��̖��߂̂Ȃ������́A�ǂ�Ȃ��Ƃ������Ă��A��������Ȃ�ʂ��v
-�u���A���v�ł��B�ł����ꂳ������΁A�ǂ�Ȃ���������ā\�\�v
-�@�}�����͋@�֏e��������āA�ɂ킩�ɋC�������Ȃ����悤���B
-�@�˂��܂�������B�����͏o�����B����ň��S���B�������N�[�p�[�́A���ꂩ��̍���s��������t���ǂ��������̂��l�����������ƂƂ߂��B
-�@���������̏ꍇ�A�Ⴊ�����Ȃ��Ă͂ǂ����邱�Ƃ��o���Ȃ��B�Ȃɂ��ق����͎̂��͂��B
-�@�����ōl�����B���ɁA�D����Ă�Ŏ��͂������s�����ӂ��t������悤�ɓw�͂��邱�ƁB���ɁA�d�C��C���Ă�ŁA���̉����������s�����ށt���U�炷���ƁB��O�ɁA�ꓙ�^�]�m�̃p�C�N�\������������̌�����̂��K���A������Ăт悹�邱�ƁB���̎O�̂����̂ǂꂩ����������΁A�s�K�ȑD�q�̂��߂ɁA�N�C�[���E�����[���̍��̉^���𔻒f���邱�Ƃ��ł��邾�낤�Ǝv�����B
-�@�N�[�p�[�������͌��S�����ƁA�d�b�@���Ƃ肠���āA�D�㒷�̃����t�B�X���m���Ă񂾁B
-�@���m�͂����Ԃ錳�C�̂Ȃ����œ������B
-�u���ꂶ��A�ǂ������悤������܂����B�Ⴊ�����Ȃ��ẮA��т�̃��b�e������ނ��Ƃ��ł��₵�܂���v
-�@���������Ȃ��̂œd�C��C���ĂԂƁA����́A
-�u���[�^�[����ԂȂ��Ă܂킹�܂����v
-�@�ƁA���Ƃ�����B
-�@�Ō�Ɉꓙ�^�]�m�ɓd�b�������Ă݂�ƁA
-�u��H���A�ł͂ڂ��������󂯂悤�B�ڂ������m�Ɠd�C��C�̂ӂ����A��āA���݂̎��ɍs��������Ȃ����v
-�u����A����͂��肪�����B���}�A���̂ށv
-�u���Ⴀ�A�D���Ƃڂ��Ƃ́A���ꂩ��i�ߓ����o�Ă����B�����ĎO�\���ȓ��ɁA�ӂ������Ă��݂̎��ɂ���������l�v
-�u��낵�����̂ށB�������݂̓�̊Ⴊ�A���̃����[���ɏ��g��ł���S���������Ă��邽����̊Ⴞ�Ƃ������Ƃ��킷�ꂸ�ɑ厖�ɂ��Ă��ꂽ�܂��v
-�@�N�[�p�[�̓p�C�N�\���̗���ɂ��āA�S�z�ł��܂�ʂƂ����ӂ��ɒ��ӂ����B
-�@��������ł����B���̊����������邽�߂ɁA���������������̗͂��ӂ��Ă���̂͂��̂����������B
-�@�����A�͂����ăp�C�N�\���́A�O�\���̂��ɂӂ���̏d�v�����̐l�Ԃ�A��āA�N�[�p�[�������̕����ɂ��ǂ�����Ƃ��ł��邾�낤���B
-
-
-�m���R�������n���Ƃ���m���u���Ƃ���v�͒����o���n
-
-
-�@�����[���{���ɂ��������Ă����t�����X�D�D���]�����̍b�ɁA�p���̖��T��X�~�X�x�����ӂ��ƌ���ꂽ�B
-�@���̌�ɑ����Ĕ�яo���Ă����̂́A�����������茳�C�����������O��v���N�������B
-�u�X�~�X�̂�������B�܂��n�߂Ȃ��́B�ڂ��҂��ǂ������񂾂��ȃ@�v
-�u�E���A���悢��n�߂悤�Ǝv���Ă���Ƃ��낾�B�����A���傤�ǂ����B�ނ�������D��������ꂽ����A�b���Ă݂悤�v
-�@�������������n�߂悤�Ƃ����̂��낤�B
-�@�G�o���D���͑��ς炸�S�ǁs�Ă��؂��t�̂悤�ȍL�������͂��āA�䂤����Ƌ߂Â��Ă����B
-�u�₠�A�������̂킵������Ƃ�܂��킢�B�Ȃɂ���키�ׂ����肪�������ł˂��B���������G�͂ǂ̂���Ƃ��ɂ���̂ł��傤�ȃ@�v
-�@�������̌Â���̂��A����̌�����Ȃ��킢�ɁA�S�r�̂���ɂ��܂��Ă���Ƃ������ӂ����B
-�u�����ŁA�D������v
-�@�ƃX�~�X�x���͂������B
-�u�킽���ɖ��Ă�������ł����A����Č��Ă���܂��񂩁v
-�u�ق��A����͂ǂ�Ȃ��Ƃł��v
-�u����͂ł��ˁv
-�@�ƃX�~�X�x���͂�����Ə΂��āA
-�u���傤����A��g�����o�ŁA���̂ւ�ŋ��Ƃ�����������̂ł��B�킽�������܋����o���܂���v
-�u���܁H�@����͖ʔ����B�킵���񕍂��Ă������B�ꓙ�͂ǂ����Č��߂܂����i�v
-�u����͂ڂ����R�����܂���v
-�u����A�X�~�X���񂪐R�����Ƃ����킯�ł��ˁB�݂�Ȃ������Ă��邨�肩��A����͂����v�������v
-�@�����őD���ɁA�ɂ킩�ɋ����Ƃ錜�܂̂��ӂꂪ�o���B���ǂ낢���̂͏�g�������������B���Ă��ԂłƂ��Ă��ǂ����ł������B�Ƃɂ��������Ƃ�΁A������X�~�X�x�����R�����āA�ꓙ�Ɉꖜ�t�����̌��܋����o���Ƃ����̂ł��邩��A���тł����ւ�Ȃ��킬���͂��܂����B���̂����Ƀ��]�����̓G���W�����قƂ�ǂƂ߂��B
-�@���łɂ��ڂ��̂���҂́A��������䃁s�Ƃ��t�֍s���Ď��������B�{�[�g�ɂ̂��āA�������炦�����炱���o���҂�����B�����`�⃂�[�^�[�E�{�[�g�������ĖԂ����������Ă����҂�����B�吼�m��ɂ͎��Ȃ�ʋ��Ƃ���͂��܂����B
-�u����A�X�~�X�̔����s�����t����B�ڂ����{�[�g�ōs���āA���̂������傫���̂����Ă��܂���v
-�@�ƎO��v���N���A�����s���񂻂��t�ɂ������͂����ŁA�{�[�g�̂Ȃ��ɉ���Ă������B
-�@�X�~�X�x���͂ЂƂ�D���̏�ɂ̂ڂ��āA���̈ٗl�ȋ��Ƃ���̌��i�������낵�Ă���B
-�@�F���j�R�j�R���Ă���̂ɂЂ������A�X�~�X������l�A���������݂ł�����悤�Ȓ��Ɂs������t�Ȗʎ��s���������t�������Ă����B
-�@����͂ǂ�ȍl�������ɔ�߂Ă���̂��낤�B
-
-
-�m���R�������n�ӊO�Ȋl���m���u�ӊO�Ȋl���v�͒����o���n
-
-
-�@���]�����̋��ޑ��́A�����ւ񐷂�ł������B
-�@���̂悤�ɂȂ����吼�m�̊C�ʂɁA�{�D�̌�����N���[���̒��̏�͂����ɂ���΂��A���邢�̓{�[�g��m��ɂ����ׂāA�M�S�ɂ莅������Ă���悤���́A�Ȃ�Ƃ����Ă悢���A���ɂȂ��₩�ȕ��i�ł�����A����Ɠ����Ƀo�J�o�J�������i�ł��������B
-�u�ق���A�������A�������B���΂炵���傫�ȃX�Y�L���B��̉��܏\�Z���`������ł���������B�����ꓙ�܂͂ڂ��ɂ��܂����v
-�@�ƁA���ǂ肠����҂����邩�Ǝv���ƁA
-�u�ȃ@�ɁA�X�Y�L�Ȃ񂩂�������Ă݂Ă����߂��B������ł�����X�Y�L�Ȃ񂩁A���܂���͂����Ȃ���B�����肩�A�߂��炵�������������������Ȃ񂾁B���������B�R�����C�X�E�T�C���\�\���{���ŃT���}�Ƃ����߂��炵�������������v
-�u�T���}�Ȃ�āA�߂��炵���Ȃ���v
-�@�ƁA�O��v���N���Ђ₩������A�m��͂܂�ł��Ղ�̂悤�Ȃɂ��₩���������B���̂��߁A�A���̃����[���b���H�s���������t�ł������邵�������N�̋��̂��������A�X�[�b�Ɛ���Ă����悤�ȋC�������B
-�u�����A���̂ւ�ŁA�R�����X�~�X�x���Ɍ��Ă��炤���i�v
-�@�ꓙ���I�͎����̂��̂��Ǝ��M�����A�����A�]���]���ƃX�~�X�x���̂Ƃ���ɏW�܂��Ă����B
-�u�ǂ��ł��A�x������B����ȑ傫�����������̂͂킽���ЂƂ�ł���B�����A���ق��т����������v
-�@�X�~�X�x���͂����΂��ċ��������Ƃ�ƁA�ܕi�̂����ɔԍ��ӂ������ꂽ�B
-�@�X�~�X�x���̂܂��́A���s��̂悤�ɂȂ��Ă����B�{�[�C���O�l������ł���𐮗�����ƁA���̌����ɎO�l�̗����l�����āA���̋��̂��Ȃ���؂��Ă͂͂�킽���o���A���Ă��˂��ɂ��A���̂͂�킽��؂��Ă݂�̂ł������B
-�u�x������́A���̐��@�Ȃ񂩁A���������͂���Ȃ����B�����o���āA���������Ă���悤�����A����́A�Ђ���Ƃ���ƁA���̖��ňꓙ�񓙂����߂�񂾂�������Ȃ����v
-�@�ȂǂƁA���΂ɗ����Ă���A�������A���A�������킢�ł������A�X�~�X�x���͂�����C�ɂ���悤�����Ȃ��A����؂肳���Ă��闿���l�̎���W�b�ƌ��܂����Ă����B
-�@���̂����ɁA�����l�̂ЂƂ肪�A�ق����傤��������n�b�ƂƂ߂āA�x���̕����ӂ�ނ��A
-�u���b�A�o�Ă��܂�����B���ꂶ�Ⴀ��܂��񂩁v
-�@�ƁA�����o�����̂́A��ׂ̍��z�s�ʂ́t�e�[�v���܂�߂����̂ł������B����������Ă��̃e�[�v���̂΂��Ă݂�ƁA�����̂悤�Ȃ��̂�����ꂽ�B
-�u�����A���ꂾ���ꂾ�v�ƃX�~�X�x���͂��Ȃ����B
-�u�����Ȃ�����Ȃ�Ȃ��Ƃ������Ă����񂾁B����ƃN�C�[���E�����[���́A�ǂ����Ă����̂ւ�̊C�ʉ��ɂ��Ȃ���΂Ȃ�Ȃ��񂾁I�v
-�@�x���̎�ɂ����A���̌��ɂ悲�ꂽ�z�e�[�v�ɂ́A�����A�����Ȃ�L���s���邵�t�����Ă����̂��낤���B
-
-
-�m���R�������n�N�C�[���E�����[���͋��ԁm���u�N�C�[���E�����[���͋��ԁv�͒����o���n
-
-
-�@�G�o���D�����A��������₩���āA�X�~�X�x���̕��ւ���Ă����B
-�u�ǂ�����l�B�������������炵�����v
-�u�����A�D���A����������Ȃ����v
-�@�Ƃ����āA�����o�����z�e�[�v������΁A���̒��ɂ́A�p��Ŏ��̂悤�Ȃ��񂽂�ȕ��傪�^�C�v���C�^�[�ł����Ă������B
-�u�b�r�n�r�s�^�X�P�����g���t�B���̕��߂�T�Z�B�N�C�[���E�����[���v
-�@�N�C�[���E�����[������̋~�����Ȃ̂ł������B
-�u���b�A����̓����[���̒ʐM����B���ށA���ǂ낭�ׂ���������v
-�@�Ƃ����āA�G�o���D���͊����̐F�����߂��āA�X�~�X�x���̋���������������Ƃɂ��肵�߂��B
-�u�₠�A���񂽂��A�����������T��Ƃ́A����Ȃ��獡�̍��܂ŁA�����͎v��Ȃ������B����S���h���̂����肶��v
-�@�X�~�X�x���́A�䂩�����΂��Ȃ���A
-�u�Ƃɂ�������Ō��܂��ƁA�����[���̏�g���͂܂������Ă���Ǝv���܂��B�܂��A��g���͂Ȃɂ��̍Г�ɂ����āA���ꂩ��̂���悤�Ƃ��킾�ĂĂ��邱�Ƃ��킩��܂����B���������ƁA�����͂��̕z�e�[�v�Ɉ�������A������܂�߂���ŁA�������̂��ׂ����Ȃ����̒��ɓ���A������C���ɂ܂��āA�������̂�������Ƃ��ʐM�����݂Ԃ���ɂ����߂�悤�A��������΁A���̃e�[�v���ǂ����Ŕ�������邾�낤�ƍl�������̂ł��B���܂����������̂����Ƃ͂����A����͎��ɂ������낢�ʐM���@�ł��v
-�u���ށA���▼�T�ザ��B�ł́A��������������p�{���֒ʒB���Ȃ���΂Ȃ�ʁv
-�@�������Ƀ��]�����̖��d�́A�����s���傤�Ƃ��t�ɍ����͂����A���e�i����A
-�u�����[����肷���������Ƃ߂�]�X�s����ʂ�t�v
-�@�ƁA���Ƃ��炠�ƂւƂ��킵������œd�����B
-�@�p�{���ł́A������]���Ǝv���Ă��������[������~���M�����������Ƃ����̂ŁA��q�̉Ƒ��������n���J�`�[�t�łȂ݂����ʂ����Č��C�Â����B
-�@�{�����ւ̖��߂�������ꂽ�B�ҋ@���̋쒀�͑��s���������񂽂��t��A�ꂢ�̃��X�L����т̂Ђ������s���́A�V���ɐ����͑�����ėE�􂵂Ăӂ����ё吼�m��߂����Đi���s����ςt�����B
-�@���]�����̋��Ƃ���̎Q���������ɂ��A�����s����ӂ��t����o�Ă����N�C�[���E�����[���̋~���M���̂��Ƃ����񂾂�Ɠ`����Ă������̂ŁA�����������Ŗ{�D�ɂ������Ă���҂����񂾂�ɑ����Ȃ����B
-�u�X�~�X��������B�����[���������������āA�ق�Ƃ��Ȃ́B�ǂ��ɂ����́v
-�@�ƁA�O��v���N���A�J�j�΂���͂��������ās�т��t�������ŁA�X�~�X�x���̂Ƃ���ւƂ�ł����B���܂�x���͑D���̈،h�s�������t�̂܂ƂƂȂ����B
-�u�����A�ǂ��ɂ���̂��A�����͂܂��킩���Ă��Ȃ��̂���A�O��v�N�B���������ɁA�p���C�R������������Ă���邾�낤��v
-�@�����A�p���C�R�I
-�@���̂Ƃ������Ƃ��N�������̂��A�˔@�Ƃ��ă��]�����̔��D�J����Ђт����B
-�@���͉����ƁA�ƑS���͂��ǂ낢�āA���邢�͍b�ɂ���������A���邢�͍�����s�����������t�̕��ɕ����������Ă��B
-
-
-�m���R�������n��������m���u��������v�͒����o���n
-
-
-�@���D�J���q���E�q���E�Ɩ�I��ƁA����ɓ��ꂩ����č����킪�����������炵���A�S�\�S�\�ƎG�����Ђт��Ă����B
-�u�����A�������܉E����烁�[�g�����߂ɁA�������������s�ӂ䂤�Ԃt�������܃@���v
-�@���������������H
-�@���������Ȃ�ł��낤�B
-�@��g������q���A��ꂪ���Ɍ�������̂т������ĉE����烁�[�g�����Ȃ��������ƁA�Ȃ�قǔ����g�������C�ʂɁA������������ē����Ă����̉����̂��������B
-�u���ށA�����錩����B�Ԃ��̐��́A�Ȃ񂾂��S�`���S�`�������F�����Ă��邩��A�n�b�L���`�͂킩��Ȃ����A����͂ꂢ�̃��X�L����т����������Ƃ����w�S����s�Ă��炰�t�x�ł͂Ȃ��̂��ȃ@�v
-�@�ƁA�]�����̒���������ɂ̂����Ă��鍂���D�����������B
-�u�ȂɁA�S���ꂾ���āB����͂����ւ񂾁B�����A������Ƃ��̖]�������������ւ����v
-�@�킠�킠�Ƃ������킬�̂����ɁA�D���ɗ����Ă���G�o���D���́A�������ɂ��̓S����炵�����̂�S���͂ŒǐՂ���Ɩ��߂����B
-�@�D�̋@�ւ́A�����܂����������Ɩ肾�����B���킾�����C�ʂ���Ԃ悤�Ɍ�Ɉړ����Ă����B�D�̂͂��܂ɂ����j�������Ƀu���u���Ƃ��Ȃ�B
-�u����A�����邼�����邼�B�Ȃ񂾂��A��ʂ̂悤�Ȃ��̂���A���邮��܂���Ă��邼�v
-�u����A��C�݂����Ȃ��̂��o�Ă������A���ԂȂ��b�v
-�@�ƁA�����Ă���Ƃ��A�p�b�Ɣ������S����̏�ɂ��������Ǝv���Ԃ��Ȃ��A�h�[���Ɣ������N�������B�Ƃ���ɁA�q���[�Ƃ��Ȃ��Ĕ�т������������Ȃ�̂悤�ȕ��\�\�B
-�@�������L���L���L���ƁA���]�����̐ωחp�̂ق΂���ɂ���݂����B
-�u���b�A����ȂƂ���ւЂ������������v
-�u�����A�����낤�A����́\�\�v
-�@�ЂƂ�̗E���ȑD������Ԃ悤�ɂق΂���̕��ւ����������B�����āA�ق΂���̍����Ƃ̂Ƃ���֍s���āA��b�Ƃ�����������ƁA����ɂ��������B�����ăX���X���ƒ��̏�ɂ̂ڂ�͂��߂��̂ł������B
-�@���錩�邤���ɁA����́A���̂���݂����Ȃ�̂悤�Ȃ��̂���ɂ��񂾁B����ς�Ȃ�ł������B�Ȃ�̗����ɂ͂����肪���Ă����B����́A����������̂ɂ܂����ăO���O���Ƃ���݂��������̂��̂ł������B
-�@������A�D���ɗ����āA���̏�̌��i�������낵�Ă����G�o���D���ƃX�~�X�x���̂Ƃ���ɂ����Ă����̂�����ƁA�D���͋}�ɂ������Ȋ�ɂȂ�A
-�u���ށA����͂߂��炵���ʐM�Ȃ킾�B�ނ����X�y�C���̊C�����g�������̂��Ƃ������A�ǂ�A���̂�������Ђ炢�Ă݂��܂��v
-�u���b�A�X�y�C���̊C���ł����āv
-
-
-�m���R�������n�S����s�Ă��炰�t����̒��Ӂm���u�S���ꂩ��̒��Ӂv�͒����o���n
-
-
-�@��т��������ʐM�Ȃ�̈���̂�������Ђ炢�Ă݂�ƁA�Ȃ�قǁA���̒�����o�Ă����͈̂ꖇ�̂��肽���񂾎��Ђ������B
-�@������Ђ낰�Ă݂�ƁA�͂����āA����҂ő��菑���̐��s�̕��͂��������߂��Ă������B�����ɂ́A�ǂ�Ȃ��Ƃ�������Ă������낤���B
-�@�D���͐����ӂ�킹�Ă�ށA�\�\
-�u���P�����J���i�C�m�j�A�U���V�e�n�C�P�i�C�B���ǐ씎�m�s�i�K���K���n�J�Z�t�m�ӌ������C�e�J���j�Z���B���m�n���p����w�j�؍ݒ��f�A���B���V�R�m���Ӄ��烉�i�P���o�A����m���E�l�ރn�ő�m�s�K�j�I�`�C���f�A���E�B�\�\���F�m�჈���v
-�@�X�~�X�x���͂��[�ނƂ��Ȃ����B
-�@�G�o���D���́A������Ȋ炾�B
-�u�X�~�X����A���́A�Ȃ��̂悤�ȕ����ȉ��s��傤�����t���邱�Ƃ��ł��Ȃ����A�ǂ�������͂�������i�߂Ȃ��炵����v
-�@�X�~�X�x���͎���ӂ�A
-�u����A����ł킩���������R�ł���B���̓S����Ƃ����̂́A��͂�C���D�Ȃ̂ł���B������ߑ�I����������������͂Ȃ̂ɂ���������܂���B�ڂ���̑D���܂����ɂ��܂����̂ŁA����ɗ����Ă͂��܂邩��Ƃ����̂ŁA���̂��ǂ����̎莆�ŁA������ދp���������Ȃ�ł���B���܂���Ă͂����܂���v
-�u�������낤���B�ڂ��͂ނ��딽�΂̍l���������Ă���B�D�ӓI�ɂ����ɒ��ӂ����Ă��ꂽ�̂���Ǝv���B������ꂽ��D���������āA�p����w�ɑ؍ݒ��̒��ǐ씎�m�ɂ������񂵂����������Ǝv���B���E�l�ނ̑�Ȃ�s�K�ɂȂ�Ƃ����ł͂Ȃ����B����͈�厖����v
-�u�D���A�������������܂Œǂ��߂��̂ɁA�ދp����Ȃ�ā\�\�v
-�u�Ƃɂ������ǐ씎�m�Ƃ����ΗL���ȉF���w�҂ł͂Ȃ����B���m�̈ӌ��𕷂��Ă���ɂ��悤�v
-�u����A�킽���͂��₾�B�ł̓��]�����������ĉp���C�R�ɋ~�������Ƃ߂����B���������ӂ��Ɏ�͂������ĉ������v
-�@�G�o���D���́A�l����Ƃ��날���āA���]�����ɓS����̒ǐՂ���߂������B
-�@�X�~�X�x���͂���˂񂻂��ɁA�S����̕��������݂���C�ʂ��ɂ��ł����B
-�@���]�����͑D����������āA���Ƃ̃N�C�[���������ɂ������Ă������B
-�@���̓��̗[���A���d�̂��炭�����āA���]�����ƃp����w�؍ݒ��̒��ǐ씎�m�Ƃ̊Ԃɖ����d�b����肩�킳��邱�ƂɂȂ����B
-�@���悢�悻�̒荏�s�Ă������t�������B
-�@�Ăяo���M���̓u�E�u�E�u�E�u�E�ƁA������ɖ����B�ƁA�₪�ĕ������Ă������m�̓����I
-�u�����A���]�����̑D������ł����B��w�ł́A��������������炭���悤�Ǝv���Ă����Ƃ���ł�����B�吼�m�͍��A���΍E�s�ӂ񂩂����t�̏�ɂ���悤�Ȃ��̂ł���v
-�u���b�v
-
-
-�m���R�������n���ǐ씎�m�̑唭���m���u���ǐ씎�m�̑唭���v�͒����o���n
-
-
-�u�吼�m�͍��A���΍E�̏�ɂ���悤�Ȃ��̂��I�v
-�@�ƁA���ǂ낭�ׂ����t���A�p����w�؍ݒ��̉F���w�Ғ��ǐ씎�m����}�C�N���Ƃ����ă��]�����ɓ`����ꂽ���A�N�ЂƂ�Ƃ��āA���̂��ǂ낭�ׂ����t�̈Ӗ����킩�����҂͂Ȃ������B�Ȃ��吼�m�͕��΍E�̏�ɂ���悤�Ȃ��̂ł��낤���B
-�u���ǐ씎�m��B�M���s�����t�̂��������Ӗ��́A���ꂩ��吼�m�̂ǂ����ɁA�V�����ΎR�����΂��͂��߂邾�낤�Ƃ����̂ł����ȁv
-�@�ƁA���]�����̑D���G�o���͂ӂ��������ɂ����˂��������̂ł������B
-�u����D���B�ΎR���炢�Ȃ�A�܂��������ǂ낭�ɂ�����Ȃ��̂ł��v
-�u�ΎR�ł��Ȃ��Ƃ���Ɓ\�\�ł́A�C��n�k�ł����\�m���ꂽ�̂ł����v
-�u�C��n�k�ł�����܂���v
-�u�ł͈ꂽ���ǂ������Ƃ����̂ł��B���������Ă������������v
-�u����ǂ������݂܂���A�G�o���D������B�\��������ɂ��Ă��A���͂��܂�ɂ��ǂ낭�ׂ����ƂȂ̂ŁA���������ɂ͗E�C���������̂ł��B�����A���イ���傷�邱�ƂȂ����b���܂��傤�B���ǂ낢�Ă͂����܂����B���͑吼�m�̒�ɁA����ׂ�����������ł��邱�Ƃ��������߂�ꂽ�̂ł��v
-�u����ׂ������Ƃ����ƁA�N�W���Ƃ��T���݂����Ȃ��̂ł����v
-�u���₢��A����ȉ����s���Ƃ��t�Ȃ��̂ł͂���܂���B�����̂Ă��ǂ��炢���āA�킪�l�ނɂ܂���Ƃ��A��肨�Ƃ�Ƃ͍l�����Ȃ�����ׂ��������������Ȃ̂ł��v
-�u���ǂ낫�܂����ˁB����Ȃ��̂��A�{�D�̂܉��ɂ���ł���̂ł����v
-�@�ƁA�������̗E�Ҋ͒�����F�������A
-�u�����͂�͂�l�Ԃ̒��ԂȂ�ł����v
-�u�����A���̋���ׂ��C�ꐶ�����A�l�ނł��邩�ǂ����́A�܂��͂�����킩���Ă��܂���B�����ꌤ���������˂Ă��������ɂ킩���Ă��邱�Ƃł��傤���B�\�\�Ƃɂ������̊C�ꐶ���̂��邱�Ƃ́A���̕\�ʂɋN����ӂ����ȕ��󌻏ہs�ق��������񂵂傤�t����킩�����̂ł��v
-�u���b�A�Ȃ�ł��B���̌��̕\�ʂɋN����ӂ����ȕ��󌻏ۂƂ����̂́v
-�u����͂ł��ˁB���̋�C�������Ȃ����̕\�ʂɁA�ߔN�݂傤�ȕ��󌻏ۂ�������̂ł��B����͓d�q�]�����ɂ���Ă����炩�ɂ��ꂽ���ƂȂ�ł����A���Ƃ��΃R�y���j�N�X�R�Ƃ�����R�s���񂶂傤����t������܂����A���̎R�̍������A������J�N�̂����ɂ��������Ђ����Ȃ��āA�킽���̊ώ@�����Ƃ���ɂ��ƁA���̈�N�̊ԂɕS�܏\���[�g�����Ђ����Ȃ��Ă��܂��v
-�u���m�A���b���ł����A�܂������̒��ɂ���R���Ђ����Ȃ����Ȃ�Ă������Ƃ��A����������킩��͂����Ȃ����Ⴀ��܂��񂩁v
-�u����A����͂킯�̂Ȃ����Ƃł��B���̊�R�����z�̌��ɏƂ炳��āA���̕\�ʂɒ������������Ƃ��܂��B���̂����̒������͂����Ă݂�΂����̂ł��B���Ƃ͌��ƒn���̋������킩���Ă���A�܂��n������e�̗��[�������Ƃ��̊p�x���킩��܂�����A���Ƃ͎O�p�@���g���Ċy�Ɍv�Z�ł���̂ł��v
-�u�Ȃ�قǁA�Ȃ�قǁv
-�@�D���̊�́A���񂾂�Ƌْ��ɂ����₢�Ă����B
-�@���m�̖����d�b���A���悢��M���Ă����B���ǐ씎�m�́A����ɂ��ꂩ��ǂ�Ȉٕςɂ��Č�낤�Ƃ���̂ł��傤���B
-
-
-�m���R�������n�y�����ƊC�꒴�l�m���u�y�����ƊC�꒴�l�v�͒����o���n
-
-
-�@���ǐ씎�m�̖��d�́A�܂��Â����B
-�u�������ނ��������Ȃ����悤�ł����A�ʔ����b�ł�����A�����ƕ����Ă��������v
-�@�Ɣ��m�͂����Ă���A
-�u���̃R�y���j�N�X�R�̕���x���A�킽���̃��b�g�Œn������܂�肵�Ȃ���ϑ����Ă܂���Ă݂܂����B�Ƃ��낪�ˁA���̌��ʂƂ��āA�吼�m���猎�ւނ����ēd�g�̂͂₳�ł����ĕs���ȕ��ː������˂���Ă��邽�߁A����ł��̕��󂪂����Ȃ��Ă��邱�Ƃ����傤�߂��ł����̂ł��B�킩��܂����ˁv
-�u����A�Ȃ�Ƃ����Ă悢���A���ɂ��ǂ낭�ׂ����Ƃł��ˁB���ꂩ��ǂ����܂����v
-�u���ꂩ��킽���́A���ӂ������ς�吼�m�ɂނ��āA�p����w���甭�˂���d�g�̗͂�����A�������Â��Ă݂܂����Ƃ���A���ܐ\�����s���s�ӂ������t�ȕ��ː��\�\���������ɂy���Ƃ��ł����܂��傤�B�\�\���̐����o���ꏊ���\�܃J�����C�}�̏�Ŕ��������̂ł��B�Ƃ��낪�A���̏\�܃J���̐����˒n�_�Ƃ����̂��A���ɋ��낵���������Î����Ă���̂ł��v
-�u���낵�������H�@����͂Ȃ�ł��B�܂��������낵�����Ƃł��v
-�u��Ɂs�����t���ׂ���Î��s�������񂶁t�ł��B�����ł����B���̏\�܃J���̕��˒n�_�����ǂ��āA��������łނ��т��킹�Ă����܂��ƁA�吼�m�̂܂�Ȃ��Ɉ�݂傤�Ȍ`���o��������܂����A���̌`�������ւ�Ȃ̂ł��v
-�u�����A���m�B���Ȃ��͂�����̕���ɓ`�����邠�̋��낵���`�����A�킽�������ɐM�������悤�ƂȂ���̂ł͂���܂��܂��ȁv
-�u�G�o���D���B�킽���͂ق�Ƃ��̂��Ƃ����m�点���邽�߂ɁA���Ȃ������ǂ납���̂��܂���ނ����Ȃ����Ƃ��Ǝv���Ă��܂���B�����ƍ��A���Ȃ��͂��܂�����N�O�A��n�k�̂��߂ɑ吼�m�̔g�̉��Ɋזv���������A�g�����e�B�X�嗤�̂��Ƃ��v���o���ꂽ�̂ł��傤�B���̃A�g�����e�B�X�嗤�I�@���N�O�̑啶���I�@�Â��������ق���G�W�v�g���M���V�����������A�A�g�����e�B�X�嗤�ɉԂƍ炫�o�ł��啶���ɂ́A�����Ƃւ����Ȃ������Ƃ����A���̃A�g�����e�B�X�I�v
-�@�ƁA���m�̐��͂ӂ邦�����тāA
-�u������ꎞ�ԂقǑO�A�킽���͂��̃p����w�̌������ŁA�킽���̔��������\�܃J���̂y�����ˏ����C�}�̏�ɂ�˂Ă݂܂����Ƃ���A�Ȃ�Ƃ��ǂ낭�ł͂���܂��񂩁A����́A���̓`���ɂ̂���Ƃ���̃A�g�����e�B�X�嗤�̌`�ɂȂ����̂ł��B�����킽�������w�҂́A�˂ɗ�ÂłȂ���΂Ȃ�܂���B�������A����ׂ��Í��ɂ��āA�ǂ����Đ�ɂ��Ȃ��ł����܂��傤�I�v
-�u�c�c�v
-�@�G�o���D���̊�͂��������Ȃ����B�C��ɒ��񂾃A�g�����e�B�X�嗤�̖S��s�ڂ��ꂢ�t���A���܃��]�����̉��ɂ����߂��Ă���炵���̂��B
-�u�����Ƃ����ƁA����͐M���Ă����Ǝv���܂��B�G�o���D����B�A�g�����e�B�X�嗤�̒��񂾂�����̊C��ɁA����ꐢ�E�l�ނ̒m��Ȃ������A���鐶��������ł���̂ł��B����͂ǂ�Ȑ��������킽���͂܂��m��Ȃ��B�������A���̃R�y���j�N�X�R����󂳂��邻�̎肬�킩�炢���Ă��A����͂������ɂ����l�ނ�荂���Ȑ������ƒf�����Ă����ł��傤�B���̕s���ȃN�C�[���E�����[���̎��H�����A����͂y������˂��鐶���\�\������C�꒴�l���Ƃ�т܂��傤�\�\���̊C�꒴�l���̂Ȃ���킴���Ǝv���΁A�Ƃ��������b���킩��ł͂���܂��񂩁B�M�D�͑傢�Ɍx�����ĉ������B�ꍏ����������������ċA�`�s�������t�����̂����S�ł����v
-�@���m�͐e�؂Ȍ��t�������āA�����d�b����̑��b���ނ��񂾁B
-
-
-�m���R�������n�΂��X�~�X�x���m���u�΂��X�~�X�x���v�͒����o���n
-
-
-�@�t�����X�D�D���]�����̍����D���́A���ǐ씎�m�ƃG�o���D���Ƃ̊ԂɂƂ肩�킳��Ă��閳���d�b���A������ɂ݂��т��ĕ����Ă����B�b��������ł����ɂ�A����̊���������킹���悤�Ɍ��̋C�������Ȃ��Ă������B
-�@�Ȃ�Ƃ����̑�Ȓ��ǐ씎�m�̔����ł��낤�B���m�ɂ���Ė��Â���ꂽ�C�꒴�l�����A���̕��߂̊C�ʂ���A�N�C�[���E�����[�������΂����Ƃ́A�Ȃ�Ƃ������ǂ낭�ׂ��o�����Ȃ̂ł��낤���B
-�@�D�������́A�D���牺���̂����āA�ǂ����낢�C�ʂ��C����邻���Ɍ��߂��B�����A���̉��Ɏ��������̕����A�����Ƃ��������Ă��鉽�牽���Ƃ��������̖ڋʂ��Ђ����Ă���̂��B
-�u���b�̓b�̓b�v
-�@�Ƃ���b�̏�ŁA�吺�ŏ΂����������̂��������B
-�@�N�ł��낤���A�Ԃ�����Ȑl�Ԃ��ƁA���̕�������ƁA����͗]�l�ł͂Ȃ��A�����h���̌x�������烁���[���̑{���̂��߂ɔh������Ă���X�~�X�x���������B����͂Ȃ������炩��Ə΂��Â��Ȃ���A
-�u���m�̗͂��̑�Ȃ��̂��B�������ă��]�����ɂ�������̐M�҂������Ă��܂�������Ȃ��B���b�̓b�̓b�v
-�@����������A���̂悤���������ƌ��Ă����O��v���N�́A�X�~�X�x���̑O�ɏo�āA
-�u�X�~�X�̂�������B���ǐ씎�m�̂��Ƃ�����Ȃɏ΂��Ȃ�Ď��炶�Ⴀ��܂��񂩁v
-�u�Ȃ��ɁA�V��B���܂����������낤���A���悻���̒��ɂ͏펯�Ƃ������̂�����񂾁v
-�u�ł����m�͗L���Ȋw�҂ł��B�ł���߂������͂��͂Ȃ����Ⴀ��܂��񂩁v
-�u�قق��B���݂ɂ�����ς�a�C���������炵���ˁB���N���܂��ɊC��ɑ嗤������ł��܂����̂�����A���̂Ƃ��ɐ����Ă����l�Ԃ����āA�n�����ċ������āA�݂Ȃ��ڂꎀ�ɂ����đS�����ɂ������ɂ��܂��Ă��邶��Ȃ����B���m�ɂ͂���ȏ펯�I�Ȕ��f�������Ȃ��񂾁B�C�̂ǂ����Ƃ��肱���Ă�����������Ȃ����v
-�u����A��������́A�ڂ���̃N�C�[���E�����[�����s���s���ɂȂ��āA�ǂ��łǂ����Ă���Ƃ�����ł����v
-�u�C���D�ɂƂ炦���Ă���񂾂�B�ق�A�������{�D�ɃX�y�C���̊C�����g�����Ƃ����M���Ȃ���Ȃ����w�S�̐���x�Ȃ�Ă�������邾�낤�B���ꂪ�����[�����ʂ��񂾈ꖡ�ɂ������Ȃ��B���ɂ�����p���C�R���͂����肳���Ă����ɂ������Ȃ��v
-�@�X�~�X�x���́A�������������Ƃ܂��������t�����肩�����Ă������B
-�@�͂����Ē��ǐ씎�m���C���ςȂ̂ł��낤���B
-�@����Ƃ��A�X�~�X�x��������s����߂��t�Ȃ̂ł��낤���B���ł��݂����čl������ł���G�o���D���͉�������Ȃ��B
-
-
-�m���R�������n�m��̈É_�s���񂤂�t�m���u�m��̈É_�v�͒����o���n
-
-
-�@�k���̋󂩂�A�C��������悤�Ȃ͂������������������Ă����B
-�u�����A�����A�����v
-�@�����͂₭����𕷂����čb�s����ς�t�ɂ��ǂ肠�������̂́A�X�~�X�x���������B
-�@�����͍��ꍏ�A���̑傫�����܂��āA�₪�Ė��̂悤�ȉ_�̊Ԃ����s�@������ꂽ�B
-�@��@�A��@�A�O�@�c�c�B
-�@�������Ă݂�ƊF�ŏ\��@����Ȃ��@����є����̔�s���ł������B���]�����̋߂��ɂ���ɂ��������āA���ɂ��߂����ꂽ�ցs����t�̖ځs�߁t�̃}�[�N���͂����茩���Ă����B
-�@�p���C�R�ɑ������R�̏o�����B
-�@�������͂����Ă����B
-�@�i�߃��X�L����т̂Ђ�����p���̐��s�@���B
-�@��@���ґ�����͂Ȃ�āA����s�ɂ������B�����ă��]�����̂��΂ɋ߂Â��Ă���̂ł������B
-�@�X�~�X�x���͐g���������ƂƂ̂��āA�G�o���D���̂Ƃ���ւ������ɂ������B
-�u���X�L���i�߂̍D�ӂŁA�킽���͂��ꂩ��킪��s�@�ɂ̂肱�ނ��Ƃɂ��܂��B�ǂ����Ȃ��Ȃ�������ɂȂ��Ă��肪�Ƃ��������܂����v
-�u�₠�A����́\�\�v
-�@�ƁA�D�����x���̂��΂₢�g�̂Ђ����Ɋ��S���A���A������Ă���悤�����B
-�u�₠�V��B���݂��������Ȃ�A��s�@�ɂ̂��Ă�����Ă�낤�v
-�@�x���͎O��v���ȂłĂ������B
-�@�O��v�̐S�͂��������B���]�����ɂ�����A�󍂂���Ԕ�s�@�ɂ̂��Ă�������ǂ�Ȃɂ������낢������Ȃ����炾�B
-�@�������A����˂�Ȃ��Ƃ́A�X�~�X�x�������ǐ씎�m���C���ς��Ǝv���Ă��邱�Ƃ��B����͏��N�ɂƂ��Ă��܂肢�����������Ȃ������B
-�u�����V��B��邩�A���Ȃ����v
-�@�x���͎O��v�ɂ͐e�؂������B
-�@���̂Ƃ��������B
-�u�����A�܂��w�S�̐���x������ꂽ�v
-�@�Ƃ����D���̂��ǂ낫�̐����������Ǝv���ƁA�r���[���Ƃ��Ȃ�𐶂��ă��]�����̂ق΂���߂����ĂƂт��������ʐM�Ȃ�I
-�@�������Ő��v���Ђ���đD���Ɏ�킽�������̂́A�u���F�̊�v����̑���x�����������B���̕��ʂ͑��菑���ŁA�����̂悤�ɏ����Ă������B
-�u�t�^�^�r�x���X���B���d�i���R�g���������B�^�b�e�����g�C�E�i���A�]�s��t�n���E�l�ރm�s�K���~�E�^���A�J���b�e�\�m�\���s�ڂ�����t���v�C�g�h�}���X�f�A���E�B�\�\���F�m�჈���v
-�@�X�~�X�x���͊�������点�ċ��񂾁B
-�u�Ȃɂ��C���D�߂��A�Ȃ܂����ȁ\�\�v
-�@�����A�����ւ�B�S�̐���ƃX�~�X�x���Ƃ̂ɂ�ݍ������B
-�@�吼�m��̔g�͂��悢�捂���B
-
-
-�m���R�������n������唚���m���u������唚���v�͒����o���n
-
-
-�@�X�~�X�x���͑啮�S�s�����ӂ񂪂��t�̂��܂�A���]�����̖��d���ɂ������񂾁B
-�u�����A�������X�L����тɖ����d�b���Ȃ��ł��ꂽ�܂��v
-�@�ƁA����ׂ�̂��������Ƃ΂���A�����Z�m�̂����������B
-�@�Z�m�́A�₪�đD����s�����@�@�Ƃ��炭�������B��b�킩��A�i�߃��X�L����т̐����������͂��߂��B
-�u�������̓��X�L����т��B�X�~�X�x�������ł���̂��ˁv
-�u�����ł��B�������̓X�~�X�ł���v
-�@�ƁA�x���̓}�C�N�̑O�ŁA�����n�g�̂悤�ɂӂ���܂����B
-�u���܁A�ꂢ�́w�S�̐���x���{�D�̍����̕��Ɋ�������Ă��܂���B���̊C���D���A�����������ĉ������B�����łȂ��Ɓw�S�̐���x�����������U������Ƃ����Ă��܂���v
-�u�ȂɁA���������U������Ƃ����̂��B����́A���������B��낵���B�����������ƂɂȂ�΁A����ǂ͓O��I�ɂ�����Ă��܂����v
-�@���X�L����т͔����@���@�Ɍ������āA�S�̐�����������ܔ������邱�Ƃ𖽂����̂ł������B
-�u�X�~�X��������B�Ȃ����d���֍s�����́v
-�@�ƁA�O��v�́A���d������ɂ��ɂ���ŏo�Ă���x���̂��΂ɂ���������B
-�u����A�V��A���������Ă����ŁB���܂��΂炵���q��y�[�W�F���g�������邩��B��������E�ɂق���p���C�R�̌����Ȃ��ł܂���������񂾂��B�����A�������֍s���āA�ڂ�����������ɍ����̌����Ƃ������v
-�u�����Ƃ����ƁA���܁w�S�̐���x�������Ă�������˂��A��������v
-�u����A���́w�S�̐���x���A���ꂩ�猂������āA�Ԃ��Ԃ�������ӂ��Ƃ��낪�A������񂾂�v
-�u�����A����͂��킢��������B��������B�����āw�S�̐���x�ɏ���Ă���w���F�̊�x�́A���E�l�ނ̂��߁A�ނ���������Ⴂ���Ȃ����āA�ڂ�������������ɂȂ��߂Ă����ł��傤�B�C���D�Ȃ�A���E�l�ނ̂��߂Ȃ�Ă��₵�܂����v
-�u��������Ȃ��B�w�S�̐���x�͊C���D�ɂ��܂��Ă���񂾁B���������̂�吼�m��ɐ������Ă����ẮA�킪��p�鍑�̒p�Ȃ񂾁v
-�@�X�~�X�x���͑c���̖��_�ɂ����āA���������t���͂����B
-�@���̂����ɂ��A���@�̔����@�̓��X�L����т̖��߂ɂ���āA��烁�[�g���̏��ɔ�����������ƂƂ̂���ƁA���[�̈�@����͂��߂āA���s�悭�t�����ɂ����ނ����A�����܂��}�~����Ԃ������āA�u�S�̐���v�̐^��ɂ������������Ă������B
-�@�ǂǂǁ[���A�����[���B
-�@���̂������������B
-�@��@�A�܂���@�B�܂�ōH��̒��̋@�B�������̂�����Ƃ��̂悤�ɁA���@�̔������͌����ȌP���Ԃ�������āA�����玟�ւƁA�u�S�̐���v�̏�ɁA�܂�����Ȕ��e���Ȃ����Ƃ����B
-�@�C�ʂ́A���z�s���傤�ق�t����􂷂����̐��͂���ƁA��������ނ܂�����ȉΖ�̂��ނ�Ƃł����āA��������܂�Ă��܂����B
-�@�������A�u�S�̐���v�̂������͂��̂܂�Ȃ��ɂ���������A�ЂƂ��܂���Ȃ��������ꂽ���ƂƁA���̂����܂����������݂��҂́A����ł������v�����B
-
-
-�m���R�������n���������u�S�s�Ăt�̐���s���炰�t�v�m���u���������u�S�̐���v�v�͒����o���n
-
-
-�@���@�̔������́A�܂�����Ȕ��e���u�S�̐���v�̏�ɂ������Ƃ��ƁA��@�܂���@�A�����Ɨ����΂��������₩�ɁA�@�����ɂ��ĂȂ����āA�㏸���Ă����̂������B
-�@���e�́A�܂�������ɊC�ʂ��y��s������t���Â��Ă���B
-�@�ǂǂǁ[���A�����[���B
-�@��C���Ђ������͂������������A���]�����̍b�ɂ������ސl�����̎����A���΂炭�A�������Ȃ����Ă��܂����B
-�u�����A���킢�����ɁA�\�\�v
-�@�ƁA�O��v���N�́u�S�̐���v�̂��Ƃ��܂�������߂�ꂸ�A�ӂ��o�������̂Ȃ��ɂ��̂炸�ɂ͂����Ȃ������B
-�u����A���ꂦ�A�ւ񂾂��B�����A���́A���F�Ɍ���̂͂Ȃ񂾁v
-�u�ǂ�ǂ�B���F�Ɍ���Ă��̂́v
-�u�ق�ق�A���̔����̂Ƃ��납��A�����ƉE�̕��ɂ������Ƃ��낾��v
-�u�������A���ꂩ���A���̌��肾�ȁv
-�@�D���������b�łЂ��߂������Ă���̂́A��������قǉ����Ȃ��C���̌��蕨�������B���̎��F�̌��肾�����������B�������C�ʂɂ͉����̂̌`�������Ȃ������B�Ȃ�قǂւ�ł���B����͊C�ʉ�����o�Ă���̂������B
-�@��x���ɕ����������������@�́A�����ł܂����`���ƂƂ̂��A�������ނ炳���̌�����̂��߂����čU���p�����Ƃ����B
-�@���̂Ƃ��A���̌���́A�����Ƃ�炢�ŁA���܂����}�~�������ɂ��낤�Ƃ��������̔����@�̋@��ɁA�҂����Ƃ��������B�ƁA���̔����@�͋}�ɋ@����������ĕ������������B�\�\����́A�����̂��߂ɑ��c�m�̊Ⴊ�����ŁA���c�̎��R�����΂�ꂽ����ł���B
-�@���]�����̍b������A���ꂪ��ɂƂ�悤�ɂ��肠��ƌ������B
-�u�D������A�����ւ�ł��ˁv
-�@�ƁA�O��v���N���A�G�o���D���̂��łɂƂ肷����ƁA
-�u���ށA�w�S�̐���x�͂�����ׂ�����������Ă���悤����v
-�@�ƁA�D���͂��ł��݂����Ď������񂾁B
-�u���b�A�w�S�̐���x�͂��܂̔����ŁA����ł��܂����̂ł͂Ȃ��̂ł����v
-�u�ǂ����Ăǂ����āA���e��������̂�҂��Ă���悤�ȁw�S�̐���x�ł͂Ȃ��킢�B���킢�����ɁA���ꂽ���ȂƎv�����u�ԁA���Ԃ�Ɛ��̒��ɂ������āA���͂��̂ނ炳���̌��肪�o�Ă���C�ʉ��ɔ��e�������Ă���̂���v
-�@�ƁA���]�����̑D�����������B
-�@�����@�͂����Ɏ��̌���̂��߂Ɏ��E�����܂������āA������f�O�����B
-�@���܂�̂ӂ����ɁA�݂���̂͐����Ȃ��A���̏�̌��i�ɂ̂܂�Ă����B
-
-
-�m���R�������n�X�~�X�x��������m���u�X�~�X�x��������v�͒����o���n
-
-
-�u�Ȃɂ�����Ă���̂ł��B���X�L����сv
-�@�ƁA�X�~�X�x���͂܂������ɂȂ��āA�}�C�N�̒��ɂǂȂ肱�񂾁B
-�u���ށB����˂�Ȃ���f�O�s����˂�t�̂ق��Ȃ��v
-�@�ƁA���X�L����т̐��͔ߑs�������B
-�u�C���D�́A�킪����̂����Ă��Ȃ���P����ł����čU�����Ă����B���̂܂܂ł͂��߂��B�����͓G�����Ȃǂ肷���Ă����v
-�u�f�O����Ƃ����̂ł����B����Ȃ��Ƃ͂Ȃ��B�܂��@�֏e������ł��傤�v
-�u�Ȃɂ������Ă��A�������߂��B�ꂽ��{���Ɉ����グ����ق��͂Ȃ��v
-�@���������Ă��邤���ɁA���@�̔����@�����ނ����u�S�̐���v�́A���X�L����т�������΂����̂悤�ɁA�܂��C�ʂɂۂ�����ƕ������������B���̏������D�́I�@�ǂ����炠�̂悤�ȋ��낵���h���́s�ڂ������傭�t���o�邩�Ǝv���΂���ł���B
-�u�S�̐���v�̏�g���́A�܂����������Ȃ��B�����i�ߓ��̊Ⴉ��A�ꂢ�̎��̌�������ɂނ��ĕ��o���A�����A���ꂩ�炻�����֌����Ă�낤���Ƃ���ʂ΂���ɁA�̂���̎l�@�̒�@�@���̕��ɂ��炿��Ƃ��ǂ�����������݂Ă���B
-�u���ށA�w�S�̐���x�͂���ɗ��������Ă���B�䂾�񂪂Ȃ�Ȃ��v
-�@�ƃ��]�����̑D���́A�ЂƂ育�Ƃ������B
-�@�X�~�X�����d������o�Ă����B
-�u�X�~�X�x���B���Ȃ��͒�@�@�ɏ�肤��Ƃ����b����������A�ǂ�����ˁv
-�@�x���́A���ꂪ�������Ȃ��悤�����悻�����āA�D���̕��ɉ���Ă������B���������A���]�������t�����X�{���̃��A�[�u���`�ɂ��܂łƂ������̂́A��x���b�̏�ɏo�Ă��Ȃ������B
-�@�������l�@�̒�@�@���́A���X�L����т̍��߈ꉺ�A�݂��Ƃȑ��`���ƂƂ̂��āA�p�{���̋󂳂��Ĉ����グ�čs�����̂ł������B
-�@�������āA���D�N�C�[���E�����[���̒���ł���Ǝv����吼�m�̔g�́A���Ƃ̐Â����ɂ��������B
-�@�^��̂��₵���D�u�S�̐���v���A�������[�z�s�䂤�Ёt�ɂ͂���������g�܂ɁA���Ԃ�ƒ���ł��܂����B
-
-
-�m���R�������n�A�`�m���u�A�`�v�͒����o���n
-
-
-�@���]�����͉����������āA���������������悤�Ƀ��A�[�u���̍`�ɋA���Ă����B����̓����[���̑���n���͂Ȃ�Ă���ܓ��̂��̂��Ƃł������B
-�@�����[���̑{����A�u�S�̐���v�̉��s����u�S�̐���v�Ήp����R�̐퓬�Ȃǂɂ��āA���̋A�r�A���d�������Ă��킵���񍐂��Ă������̂ŁA�t�����X�����́A�ЂƂ�̂��炸���]�����̖`����m���Ă����B�����烋�]���������`�����Ƃ��ɂ́A���]���������悤�Ƃ����Q�O���A�g�~��ɂ��A�r���̉���ɂ��A�܂��V����s�@�̏�ɂ��A�����ς��݂��݂��Ă��āA������Ɋ����ӂ�����A�n���J�`���ӂ�����A���΂炵�����}�Ԃ�ł������B
-�@�G�o���D���ȉ��A���ƃ����[���̏�g���̎O��v���N�܂ŁA�S���̑D���͂ЂƂ܂����̂����̂Ƃ肵��ׂ��������B�����Č����蕷�����肵���A�����Ԃ����イ�́A�����ȋL�^�ƂȂ��āA��ɂ܂ŕۑ�����邱�ƂɂȂ����B
-�@���ꂪ���ނƁA����ǂ́A�����Ƃ����ނ���������āA����Ȋ��}��J����邱�ƂɂȂ������A����ɂ��������A�p����w����̂Ƃ��ׂȂ܂˂��������āA�l�ސ��E�̑���ł���吼�m�̉��ɂ��āA���ЂƂ��͂₭�m�肽���Ƃ������ƂȂ̂ŁA�܂����̕��ɏo�Ȃ��邱�Ƃɂ����B
-�@�C�꒴�l���̌�����̐ȏ�ɂ́A���̓��̌��ЃN�[�v���m���͂��߁A�ꂢ�̒��ǐ씎�m�̊���������B
-�@�܂��A�O��v���N�́A�N�C�[���E�����[������O��̘b����͂��܂��āA�G�o���D���̕񍐂�����A���ꂩ��X�ɂ�����ŎO��v���N���~�����������Ƃ�A�X�~�X�x���̋��Ƃ�̑���A�p����R�̊���Ȃǂɂ��āA���킵���m���Ă��邱�Ƃ��ׂ̂��̂ł������B
-�@���m�����́A���̕񍐒k�ɂ��������傫�����Ȃ����Ȃ���A�Ђ��傤�ȋ����������ĕ��������Ă����悤�ł���B
-�@�񍐂����ނƁA�N�[�v���m�͈���������ƌ��܂킵�āA
-�u�ǂ��ł��A�F����B���܂������̂悤�ɁA�O��v�N��G�o���D���̂��b�́A�����ɂƂ��Ă��ɂ��Ƃ��悤���Ȃ��ʁA�����ÁX�s���傤�݂��񂵂�t������̂ł��B�����ǂ����A�w�S�̐���x�Ƃ��������q���\�\���Ǝv���܂����\�\����ɂ��Ă͈ꂱ���S�����肪�Ȃ����A�吼�m�̊C��ɒ��l��������ł��邱�Ƃ́A���܂��_�̂����������Ȃ��Ȃ�܂������B����ɂ��ẮA���͂�^��Ɏv���l�́A�����̂ЂƂ���Ȃ����Ƃł��傤�B�킽�������͎O��v�N�⃋�]�����̕��X�ɑ傢�Ɋ��ӂ��Ȃ���΂Ȃ��v
-�@�Ƃ����āA���m�͌��t��������ƂƂ߁A
-�u�����A�����ɁA�C�꒴�l���̂���ł��邱�Ƃ��������ɏؖ����ꂽ�Ƃ������Ƃ́A�Ƃ���Ȃ������A�����S�l�ނ��A���ܕ��΍E��s�ӂ񂩂������傤�t�ɗ����Ă��邱�Ƃ����߂��̂ŁA���ɂ����ւ�Ȃ��ƂɂȂ�܂����B�啬�΂��N�����āA����ꂪ�͂˂Ƃ΂����̂��A�����A�܂̂Ȃ����Ƃł��傤�B����܂łɁA�����́A���}�A�Ă��Ƃ��ȕ��@���l���āA�C�꒴�l���ɑ΍R���Ȃ���΁A�肨����ɂȂ�܂��B�����A�F����B�������悭�l���Ă��������v
-
-
-�m���R�������n�����[���̐l�����m���u�����[���̐l�����v�͒����o���n
-
-
-�@�������N�[�p�[�̑D���ɂ́A�O�l�̒j������΂��Ă����B����͓��̃N�[�p�[�ƁA����̔鏑�̃}�����ƁA���ꂩ������ЂƂ�́A�D���ł����ЂƂ�Ⴊ������ꓙ�^�]�m�p�C�N�\���ł������B
-�u�ǂ����A�r�n�r�̎莆���A���܂��{���ւƂǂ��Ȃ������悤���ˁv
-�@�Ƃ������̂̓N�[�p�[�������������B����̔��Ăł����āA�u�N�C�[���E�����[���͂��̕��߂ɂ��邩��A�������Ă���v�Ƃ���������A�p�C�N�\���ɖ����Ď���z�̏�����ɏ������A���Ƃɂ��Ă����A������Ђ낤�D��҂��Ƃɂ����̂ł������B����̓��]������̃X�~�X�x���ɂ���ĂЂ낢�������A���E���ɕ񍐂��ꂽ�̂ł��������A���̂��₵���ꏊ�ɂƂ����߂�ꂽ�����[���̏�g�������ɂ́A����Ȃ��Ƃ��킩��Ȃ������B���܂ł����Ă��������ɂ��Ă���Ȃ��Ƃ��������ƁA���̂r�n�r�̎莆�́A�N�̎�ɂ��͂���Ȃ��������̂��Ǝv������ł����̂������B
-�u����A�܂����]����̂͂͂₢��B���̂����ɁA�ǂ����炩�A�������ɗ��Ă����ɂ������Ȃ��B�Ȃɂ���A�ڂ��͂������ɂ��̎莆���ܕS�����đO��܉�ɂ킽���āA�D�O�ɓ������񂾂���A���̂����̂��������Ƃǂ��Ȃ���΂Ȃ��Ǝv���񂾂��c�c�v
-�u����A�ł��A���ꂩ������ܓ�������������Ȃ��v
-�u�ߊς���̂́A�܂������v
-�u�ߊς͂��Ă��Ȃ����A�Ȃ�Ƃ����Ă������鎟���̕��@���l���o���˂ΑD�q�ɐ\���킯�Ȃ��v
-�@�D�q�����͂����s���R�����Ă��邱�Ƃł��낤�B�O�x�O�x�̐H�����A���̂���͒������Ă���p���Ƃ���Â߂Ƃ�z�����邾���������B
-�@������ڂ̌����Ȃ��{�[�C�������A�b��K�i���肳����Ȃ��玝���ĕ����̂�����A�z�����邾���ł��A�Ȃ��Ȃ�����Ȃ��Ƃ������B
-�u�{�D�́A����s���̍ЊQ�ɂ����Ă�����̂Ǝv���܂����A�����ɂ����āA�͂������ĒE�o�����l���Ă��܂��̂ŁA�D�q�݂̂Ȃ��܂ɂ��������܂��ẮA���̂����A�������������āA�����̓w�͂ɐM�����Ă������������̂ł������܂��v
-�@�Ƃ����悤�Ȃ��Ƃ��A���肩�����A�{�[�C�����ɂ����΂��Ă���̂ł������B
-�@�D�����D�q���A���킬�����C�����������āA���낤���ĐÂ��ɂ��Ă���Ƃ�����Ԃ������B�Ȃ��Ȃ�΁A���̋D�D�����o�����Ă���Г�Ƃ����̂��A��ʂ���ʂ�̍Г�ł͂Ȃ��A���ɑO�㖢���̋H�L�s�����t�ȏo�����Ƃł��邱�Ƃ����Â��Ă�������ł������B
-
-
-�m���R�������n��ō܁s���ǂ������t�m���u��ō܁v�͒����o���n
-
-
-�@�������N�[�p�[�́A���Ԃ�ЂƂ�̐S�̒��s�����t�ŁA�d���S�z���������Ă����B
-�@�܂��D�����\���ɒ��ׂ����Ă͂��Ȃ���������ǁA�ǂ����{�D�̑D���͂ǂ��֍s�������䂭�����m��Ȃ��悤�ł������B�D���ɂ��Ă����O��v���N���A����܂��ǂ��ɂ��������������Ȃ��B�����Ƃ��O��v�ɂ��ẮA�N�[�p�[�͒m�炸�Ƃ��A�ǎҏ��N�͂Ƃ��ɂ����񂶂̂͂��ł���B�������A�O��v�����]�����ɋ~��ꂽ���Ƃ́A�N�[�p�[�̒m��Ȃ����Ƃ������B
-�u�����A�������B�Ȃ񂾂��Ⴊ�A�����������Ă����悤�ł���v
-�@�ƁA�鏑�̃}�������Ƃ���傫�Ȑ��ł����񂾁B
-�u�ȂɁA�Ⴊ�������������āv
-�@�N�[�p�[�͐��̂�������ӂ肩�������B����ƁA�ނ����ɁA�����ڂ���Ɛl�Ԃ̌`��������ł͂Ȃ����B����͋v���Ԃ�Ɍ���}�����̎p�ł������B
-�u�����A�}�����B�����錩����B�����ɁA�������Ă���̂͂��܂�����Ȃ����v
-�u�����A�������B�킽���������܂���B���Ȃ��̓p�C�v�����킦�Ă����łł��ˁB�����A���肪�����A�Ⴊ���������Ȃ�āv
-�@����𕷂��Ă����p�C�N�\���́A
-�u�����A����Ƃ���́A�����������t�B�X�D�㒷�̏����s����ق��t�ł����炦���򂪂����������񂾂ȁv
-�ƁA���ꂵ�����ɂ������B
-�@�����t�B�X��t�́A�D���ł����ЂƂ�̊�̂����j�p�C�N�\���̂�����������āA���ꂼ�Ǝv����ō܂�������̂ł������B�������A���ꂪ���ł��������ǂ���ɁA�p�C�N�\�����A���Ȃ����т���������A�͂���ɂ����č�������̂ł������B
-�@���̖�́A�킸���Ɍ܏\�l�������o���Ȃ������B���Ƃ͖򂪂���Ȃ��̂ł������B
-�@�N�[�p�[�̖��߂ŁA���̌܏\�l���̖���A�D�𓮂����ɕK�v�ȑD���ɂ����̂܂����̂ł������B���q���܂̕��́A���Ƃ܂킵�ɂ����肵�������Ȃ������B
-�@���̖򂪁A���悢�悫���������̂ł���B�N�[�p�[�����̊�т͔��Ȃ��̂ł������B�ڂ��������炩������Ȃ�A���̍Г��Ȃ�Ƃ����āA����������i�������邾�낤�Ǝv��������ł������B
-�@���̂Ƃ��A�d�b�̃x�����`���`���`�����Ɩ肾�����B
-�@�N�[�p�[���o�Ă݂�ƁA�d�C��C�̃G���\���̐��������B
-�u�����A�N�[�p�[����B�Ⴊ�������猩�������܂�����B������A�����d�C���N�����܂��B�܂��D���̓d��������܂��傤�v
-�@�d�C��C�̐����A��тɂ݂��݂��Ă����B
-
-
-�m���R�������n�����������h�b�N�m���u�����������h�b�N�v�͒����o���n
-
-
-�@�D���ɂ́A���������Ɠd���������₫�������B����ƁA���܂Ō����Ȃ��������̂��A�}�ɂ͂����茩���������B�����t�B�X���m�̖�ł����āA����Ɠ��̋󂪔��݂��������炢�̖����邳�ɂȂ�A����ǂ͓d�C��C�����d�@���܂킵�ēd���������̂ŁA���z���n�����ɗ��������キ�炢�́A�����Ƃ��̖����邳�ɂȂ����B
-�@����قǁA�l�ԂɌ��C��������̂͂Ȃ��B
-�@�����������A����������悤�Ɍ��C�Â��Ă����B
-�@�N�[�p�[�́A��̌����������D���ɖ��߂��������āA���}�ɑD�������܂Ȃ����Ă܂��A�����āA�̏Ⴉ�ُ�̂���Ƃ��������ׂĕ񍐂���悤�ɂ������B
-�@�������Ă����āA����͈ꓙ�^�]�m�p�C�N�\����鏑�}�����Ƃꂾ���āA�b�֏o���B����͂Ȃɂ����A�D�̂��Ƃ̕��i�������������̂ł���B
-�@�Ƃ��낪�A���s�ӂȂׂ�t�֏o�Ă݂�ƁA�傫�Ȃ��ǂ낫���O�l��҂��Ă����B
-�u����A����ς�C���Ȃ�����Ȃ����v
-�u�����A�C���Ȃ��Ƃ́A�\�\�v
-�@�O�l�͌������ɁA�C�̂Ȃ���Ԃ������B
-�@�������s��������񂹂�t���牺�̐ԃy���L���ʂ����D�����͂�����ƌ���ꂽ�B�܂�ŕ����h�b�N�ɂ͂����Ă���悤�Ȃ��������������B
-�u����͂��ǂ낢���B���������A�����͂ǂ����낤�v
-�@�ƁA�}�����͂Ԃ�Ԃ�ӂ邦�Ȃ��狩�񂾁B
-�@�N�[�p�[�͑o�ዾ�s�������񂫂傤�t���Ƃ��āA�����ƑO�������Ă������A����̊�F�́A���񂾂�Ɛ��Ȃ��Ă������B
-�u���ށA����Ȃ��Ƃ�����΂�����̂��B�˂��A�p�C�N�\���B���������S���[�g���قǂނ�����o�ዾ�ł悭�݂Ă����B�������ɂ��ׂ݂����Ȃ��̂�������B�����Ƃ����̂��ׂ͓����Ȃ񂾂��A����ł����ׂł��邱�Ƃɂ͂܂������Ȃ��v
-�u�ȂɁA�����̂��ׂ���������āB�ǂ�A�\�\�v
-�@�p�C�N�\�����o�ዾ����ɂ��ĂĂ݂āA�����悤�Ɋ�F���������B
-�u�����A�N�[�p�[�B�ڂ������͂Ƃ�ł��Ȃ��Ƃ���֗��Ă��邼�B�C�̂Ȃ��A�����Ȃ��ׂ̒��I�@�����͓V�����n�����̂ǂ������ł͂Ȃ����ˁv
-�u���ށA�����Ȃ��Ƃ��V���ł͂Ȃ��B�Ȃ����āA����Ȃ������V��������Ƃ́A�����ɏ����ĂȂ���������ˁv
-�@���̉�b�𕷂��Ă����}�����́A�}�ɂӂ���ɂ����݂����B
-�u�����A���ց[���B����ƁA��A�킵�����͂�������ł��܂�����ł����˂��B������x�Ɛ���������Ȃ����̂ł����˂��B�O���X�S�[�ɂ́A�킵�̂ɂ傤�ڂ��ƎO�l�̎q�����A���݂₰�������Ă�����̂�҂��Ă����ł��v
-�@�N�[�p�[�́A���̂��킢�����Ȓj�̓����������ɂȂłȂ���A
-�u�����A���ꂪ�V�����n�����̂ǂ������ł����������A�ǂ̈ʂ���������Ȃ���B���������ꂪ�A���̂ǂ����ł��Ȃ��āA����ς萶���Ă��鐢�E�̂Â��������Ƃ�����A���̂��܂�̂ӂ������́A�ڂ��̋C��ςɂ��Ă��܂����낤�v
-�u�c�c�v
-
-
-�m���R�������n������̉��G�s�����Ă��t�m���u������̉��G�v�͒����o���n
-
-
-�@�����͂��������A�N�[�p�[�͌��قǂ���ĂĂ���킯�ł͂Ȃ������B����̂܂�̂�����ɂ́A�����������̂قǂ������Ă����B
-�u�˂��A�p�C�N�\���B�ڂ������́A���΂炭�A���ǂ낭���Ƃ���߂悤����Ȃ����v
-�u���ǂ낭���Ƃ���߂���āA�ǂ�����񂾁v
-�u���ށB�����́A�����ւ�ӂ����ȏꏊ�֗��Ă���悤�����A�������������ǂ낢����ł́A���܂ł����Ă��A�������琶����������@��������Ȃ����낤�B�������ꂩ��͂��ǂ낭�̂���߂āA���Ƃ����Ĕ����������@���l���邱�Ƃɂ��悤�v
-�u���ށA����͂������Ƃ������Ă��ꂽ�B����ڂ����A���ꂩ��͉������悤�Ƃ��ǂ납�Ȃ����v
-�@�������ƈꓙ�^�]�m�̊ԂɁA�������\�����킹���ł����B�}�������ӂ邦�Ȃ���A����ɂ��񂹂������B
-�u���Ⴀ�A�p�C�N�\���B��l���Ă���B���̓����Ȃ��ׂ́A���������Ȃ񂾂낤�v
-�u�����A�Ȃ񂾂��ꂱ���킩��Ȃ����A�Ƃɂ��������͂ւ�ȂƂ���ɂƂ����߂��Ă��邱�Ƃ͂��������B�您���A���̂��ׂ��Ȃ�ł��邩�A��������߂��̂ɂ������@������v
-�u�������@�Ƃ����Ɓv
-�u����A�ڂ������ꂩ���邱�Ƃ����Ă����܂��v
-�@�p�C�N�\���͎����̎��s�ւ�t�ւ��������A�₪�Ď�Ɉꂿ�傤�̏e�������Ĉ����������Ă����B
-�u�����A����Ȃ��̂łǂ�����񂾁v
-�u����ł��̓����Ȃ��ׂ������Ă݂�񂾁B�ǂ�Ȏ育���������邩�A��������悤����Ȃ����v
-�u�����A�p�C�N�\���B����͂����l�����Ƃ͎v�����A�������肠�炷���͂��Ȃ����ȁv
-�@�N�[�p�[�́A�������ɐS�z���ł���B
-�u�Ȃ��ɁA���܂��s���Ȃ���΁A�ǂ����A���Ƃ��Ƃ��B�܂����Ă���v
-�@�p�C�N�\���͏e�����܂���ƁA���̓����Ȃ��ׂ��߂����āA�ǂǂ�A�ǂǂ�Əe�ۂ𔭎˂����B
-�@�e���́A������ɂ����܂��āA����[���Ƃ��̂������Ђт��𔭂����B
-�@�ɉ��s���傤����t�������̂�҂��āA�O�l�͂��܎ˌ����������̂��ׂ��ǂ�ȂɂȂ����ł��낤���ƁA���̕����Ȃ��߂��B
-�u����A�ǂ����Ȃ��Ă��Ȃ����v
-�u�K���X�܂ǂ̂悤�ɂ����邩�Ǝv�����̂ɁA�ǂ����A�����Ă₵�Ȃ��v
-�u�Ȃ�ƁA�͂肠���̂Ȃ����ƁI�v
-�@�ƎO�l�͐������킹�Ă����񂾂��A����͂��������v�s���������t�ł������B
-�@�Ȃ��Ȃ�A���̂Ƃ��O�l�̊Ⴊ�A�������A�����낪��̌��s�ӂȂׂ�t�ɂ�������Ă����Ȃ�A�����͂����Ƃ��̏�ɂƂт���������������Ȃ��B���傤�ǂ��̂Ƃ��A���̂��Ƃ���A�܂�ŃN���Q�ɑ傫�ȓ�̊�������悤�ȑO�㖢���̉������A�����l�A�܏\�҂����A����肻���ƑD�̏�ɂ͂��������Ă��āA����������ɂȂ��Ă���O�l�̒j�̕��ցA�����Ƌ߂Â��Ă����̂ł���B
-
-
-�m���R�������n�������m���u�������v�͒����o���n
-
-
-�@�N���Q�Ɋ�ʂ������悤�ȁA�O�㖢���̉����l�A�܏\�҂��́A����肻���ƎO�l�̂�����ɂ��܂��Ă���B
-�@���ԂɁA����ɋC�������͎̂������N�[�p�[�ł������B
-�u�����A�������B�\�\�v
-�@���܂�Ȃ��L�C���A�N�[�p�[�̕@�������̂������B�����A�g�Ӂs����؂�t�ɂ�����ɂ����悤���̈ٗl�ȏL�C�������B���ꂪ�ЂƂ�����͂��������ɂ̂��Ă����̂��B
-�@�N�[�p�[�́A�͂��Ƃ��Ă�������ӂ�ނ����B�����܂�����̊�ɂ������̂́A���̈ٗl�ȉ����Q�̂������������B
-�u�����A�������\�\�v�Ƃ���͂�����Ńs�X�g���������Ȃ������B
-�@���̐��ɁA�ꓙ�^�]�m�p�C�N�\���Ɣ鏑�̃}��������������ӂ�ނ��āA�͂��߂Ă��̉����������B
-�u�������A�\�\�v
-�@�ƃ}�����́A���̏�ɂ������ʂ����Ă��܂����B
-�u���̂΂����̂��I�v
-�@�p�C�N�\���͍��E�s�����䂤�t���B�e�����܂���ƁA�����Q�߂����āA�ǂǂǁ[���ƈ��������Ђ����B
-�@�擪�̉������݂��ƂɂЂ����肩�������B���̂�����̉������A�ǂ��Ɖ��������ɂȂ����B
-�@�L�L�L�b�A�L�L�b�B
-�@�݂傤�ȁA�Ȃ����������āA�����Q�͂��킬�������B�������e�ۂɂ����ꂽ��Ђ����A�e�ۂ̂��������Ƃ�����A�����G��s���傭����t�ł����Ă�����Ȃ���N�����������B�e�ۂɂ������Ď��񂾂��̂Ǝv���Ă����̂ɁA���񂪂��ւ����ŋN���������Ă����̂ł���B
-�@�����Q�́A�傫�Ȗڂ��ނ��āA�Ȃ񂾂��������֌����ĕ��������Ă���悤���������A�Ȃɂ������Ă���̂��A�����ς�Ӗ����ʂ��Ȃ��B
-�@�L�L�L�b�A�L�L�b�A�L�L�L�b�B
-�@�����Q�́A�܂�����肻���ƎO�l�̕��ɋ߂���Ă���B�������ɎO�l���P�����悤�Ƃ����ԓx���������B
-�u�����A�Ȃ܂����ȁ\�\�v
-�@�Ƃ΂���A�p�C�N�\���͓������ӂ�݂����A�e�������܂��āA�˂��Ǝ˂��ƁB
-�@�������N�[�p�[���A�����Ȃ��Ă͂����債�Ă��Ă��ނ��ł���Ƃ������B������s�X�g�����Ƃ�Ȃ����ĉ����Q���ς�ς�Ƃ������B
-�@���̖Ҏ˂ɂ́A�����Q�������Ԃ�܂������炵���B�ׂɒe�ۂɂ������Č����o���Ƃ����̂ł͂Ȃ����A�e�ۂɂ͂�����āA����肻���ƌ�ނ��͂��߂��B
-�@�O�l�͂������Ɖ����Q�Ƃ��������B�}�������N���������āA�b�̂�����ɗ����Ă���ؕЂ�f�b�L�E�S���t�̂��܂Ȃǂ��Ƃ��ẮA�ǂ�ǂ񓊂�����B
-�@�O�l�Ή����Q�̂��������́A�܂��O�l�̕��ɊM�́s�������t�����������B
-�@�������A�͂����Ă��ꂪ�ق�Ƃ��̏����ł��������ǂ����B
-
-
-�m���R�������n��P���s�������イ�����t�m���u��P���v�͒����o���n
-
-
-�@�����Q�������s���񂻂��t�������Ăނ����ɂ���ē�������ƁA�O�l�́A�������킹���悤�Ƀz�b�Ɛ[�����������B
-�u�ȁA�Ȃ�Ƃ������낵���΂����̂��낤�v
-�@�ƁA�������N�[�p�[���ڂ��݂͂����B
-�u�������A����͉����̂ł��v
-�@�}�����͂ӂ邦���Ƃ܂�Ȃ��B
-�u�����A�����ς�킩��Ȃ��B�����������炪�����Ɛ����Ă��鐶�����Ƃ������Ƃ́A����ɂ��f���ł���B�킪�����[���́A�Ƃ�ł��Ȃ��Ƃ���֗������̂��v
-�@�ꓙ�^�]�m�p�C�N�\���́A�E���ɂ������ւłĂ����āA�����̓����čs�����������������Č��Ă������A���̂����ɂς��Ɛg���Ђ邪�����āA�������ǂ����B
-�u�������B�t�P���v
-�u�����A�t�P�H�v
-�u�������t�P���Ă����B����ǂ͖җ�Ȃ������B���̓������ׂ̉�����A���낼��͂�����ł���̂��B�b�ɏo�Ă�����댯���B�D���ւ��Ă����������������v
-�u���ށA��������������B�}�����A�����D���ɂ͂���v
-�@�O�l�͑D���ɂς��ƂƂт���ŁA�������h�A�ɂ��傤�����낵���B
-�@�N�[�p�[�̓}�����ɖ����āA�D���Ɍx������������B
-�@�܂��A�v���v���ɓd�b�������āA�������������Ƃ���悤�ɒ��ӂ����������B
-�@�D�q�̂��ǂ낫�͂����ւ�Ȃ��̂ł������B
-�@�Ⴊ�����Ȃ��Ȃ��ĕs���ɂƂ�����Ă���Ƃ���ցA��������������͂�����ł���Ƃ����̂�����A�����������A���悢�悢�̂��̏I��Ƃ��������Ǝv�����B
-�@�D���͕s���R�Ȏ��͂ɋ������A�E���ɂ��D�q�����𗎂��������邱�ƂɂƂ߂��B����������厖�����N�����ẮA���̂��̂��ƂȂ񂩐S�z���Ă����������Ȃ��B������͋C�𗎂����邱�Ƃ��B�������Ă�������΁A�Ȃ�Ƃ��؂�ʂ�����������ł��邾�낤�B
-�@�����Q�̂܂邢�A�Ԃ�Ԃ悵�����́A���悢�挽�����炠���ꂽ�B
-�@���Ƃ��炠�Ƃ֍b�ɂ͂��̂ڂ��Ă���B
-�@�L�L�b�A�L�L�L�L�b�A�L�L�b�B
-�@�Ȃɂ�������ɘb�������Ă���B�G��ƐG��Ƃ��A���̏�̂Ƃ���ł����Ƃ��Ă���B
-�@���̂����ɉ����Q�̖ڂ��A��x�ɂ����ƃN�[�p�[�����̗��Ă������Ă���D���̕��ɂނ����B
-�@���ꂩ�����߂��������̂ł��낤���B�����Q�͍b�̏�ɒ�`�w�s�Ă���������t������ƁA�N�[�p�[�̑D���߂����āA���킶��Ƃ����悹�Ă����B
-�@�����̒�`�w�͗��̓I���B�����̓��̏�ɁA���̉������̂��Ă���B���̏�ɂ��܂��A���̉������̂��Ă���A�܂�ŐϒM�s�݂���t�����߂Ă���悤�ł���B
-�@�O�l�͑D���̃h�A�ɁA�����킩�����x�b�h��{���Ȃ����Ă����āA����h�A����Ԃ��Ă��h�킪�ł���悤�ɂ����B
-�u�����b�A��邼�I�v
-�@�ƃp�C�N�\����������ŁA�e�������Ȃ������B
-
-
-�m���R�������n�Â������s���Ƃ��t�m���u�Â������v�͒����o���n
-
-
-�@�͂������e�����A�܂ǂ̂��ƂɂЂт����B
-�@�p�C�N�\�����A�D���̂܂�܂ǂ���A���悢��ˌ����͂��߂��̂������B
-�u����A���܂����₪��v
-�@�ϒM�̉��������炮��Ƃ�炢���B�����ꂽ��҂��̉������A�ǂ�ƁA������ɂ͂˂Ƃ΂��ꂽ�̂��B
-�@�����������Q�́A�܂��Ȃ��`�����ĂȂ������B���������́A�������ɁA�ƂȂ蓯�m�Ƃ����������Ƃ肠���Ă���̂ŁA�e�ۂɂ͂˂Ƃ΂��ꂽ�����́A���������̎�ŁA���Ƃ̂悤�ɂЂ����ǂ��ꂽ�̂��B
-�@�����낵���e�͂̂��邩�ׂ��B
-�@�����Ȃ�ƒe�ۂ̗̈͂��Ȃ��Ȃ�B
-�u���A�������傤�B��������̂��v
-�@�p�C�N�\���́A�e���ǂ�ǂ�Ƃ����Â���B
-�@�N�[�p�[�̂܂����Ă���܂ǂ̉��ɂ��A�ʓ����̉����Q�������Â����B
-�@�D���́A���������͂���Ă��܂����̂ł���B�����Q�́A�ǂ����Ă��N�[�p�[�������̂��Ă��܂�����ƌ������B
-�@�N�[�p�[�́A���͂͂₱��܂łƂ�����߂āA���܂̎c�肷���Ȃ��s�X�g���������āA�܂ǂ��炻�Ƃ��ˌ����͂��߂��B
-�@�����������ł��������Ƃ��B�����Q�̑g�݂��ĂĂ��邩�ׂ́A�т��Ƃ����Ȃ��B
-�u�����A���܂����ꂽ�v
-�@�p�C�N�\���������񂾁B��]�̐����B���܂��؂�ẮA�����ǂ����邱�Ƃ��ł��Ȃ��B
-�u�}�����A���܂����̂ւ�ɗ����Ă��Ȃ����B�ꔭ�ł������񂾂��v
-�@�}�����͂䂩�̏���͂��܂�����B
-�@�ł��A���������܂͈�������Ă��Ȃ������B
-�@�N�[�p�[�����Ԃ�������āA�s�X�g�����̂�������ł���B
-�u�\�\���܂����悢��Ȃ��Ȃ����v
-�@�N�[�p�[�̃s�X�g�����A�������ɂ����Ȃ��Ȃ����̂��B�����ǂ����邱�Ƃ��o���Ȃ��B
-�@�e���������Ă��܂��ƁA�����Q�͂ɂ킩�ɂ����������܂����B
-�@�܂�܂ǂ̂Ƃ��납��A�����̓����͂����Ă����̂��B�p�C�N�\���́A�����ɗ����Ă��������s�Ԃ񂿂�t���ɂ����āA�����̓�������Ƃ����قǂȂ������B
-�@�҂����B
-�@�ςȉ��������B
-�@�������A�����͂܂�܂ǂ̌����֓����Ђ����߂悤�Ƃ͂��Ȃ��B
-�@�҂����A�҂����A�҂����B
-�@�����̓��́A���񂴂�ɂȂ������ꂽ�B���A�ꂱ���Ɏ育�������Ȃ��B
-�@�N�[�p�[�́A�������ӂ肩�Ԃ��āA�����̓��ɂ����������B
-�@���������߂ł������B�����͕��C�̂ւ����ł������B�����Ă��ɁA�ǂ���ƂɂԂ��������āA�����̈�҂����D���ɂƂт��肽�B
-�@���悢������́A�����ɂ͂����Ă����̂��B
-
-
-�m���R�������n��̐▽�m���u��̐▽�v�͒����o���n
-
-
-�@�܂�܂ǂ��Ƃ����āA�����Q�͂��������ƑD���ւ��ǂ肱��ł���B
-�@�N�[�p�[�A�p�C�N�\���A�}�����́A���܂�A�����ł����ĉ����ɂ����ނ������B
-�@�������ł��������ł��g�݂������B
-�@�N�[�p�[�̂Ђ��g�񂾂�́A���ł�����̑傫����������B
-�@��������邮��܂킵�Ȃ���A���{���́A�^�R�̂悤�ȑ�������݂��Ă���B
-�@�Ӂ[���Ƃ������炠�炵��������ɂ�����ƁA���Ƃ��悤���Ȃ��L�C�s���イ���t���N�[�p�[�̋����ނ��ނ��������B
-�@�����̑��́A������ɃN�[�p�[�̊���˂���Ă���悤���B�͂炦�ǂ��͂炦�ǂ��A�����ɕʂ̑����A�҂���҂���Ɗ�ʂ����B
-�@����ɂЂǂ��L�C�̂��炵���B
-�@�N�[�p�[�́A���܂⎀�������Â����Ǝv�����B����̂��̂��������ł́A���Ƃ��Ƃ肱�ɂȂ��Ă��A���̂��̂Ȃ��̂͊o�債�Ȃ���΂Ȃ�܂��B
-�@�N�[�p�[�́A���̋}���̂킩��Ȃ��������܂��������Ă��܂��Ă��܂����B�ǂ�����Ή������܂���̂��A����Ƃ������Ȃ��̂��B
-�@�҂���b�I
-�@���ɖڂ̏���A�Ђǂ��ł��ꂽ�B
-�@�N�[�p�[�̖Ԗ��s�����܂��t�ɁA�L���A�L���A�L���Ɛ����U�����B�����ċ}�ɂ����肪�ځ[���ƌ����Ȃ��Ȃ����B�����̑������܂����������������B
-�@���ꂩ��A�N�[�p�[�́A�ЂƂ�ł�������������Ď����̂���悤�Ƃ��΂�܂�����B���Ԃ��������߂āA����̂Ƃ��낫��킸�Ԃ�Ȃ������B��̂ւ�ɂ����Ƃ�������̂��A���������Ă��Ԃ�Ƃ��݂����B�����������Ē������Ƃ΂����B�����Ȃ�Ƃł��Ȃ�ł���B
-�@���̊i���́A��N���Ȃ����Â����悤�Ɏv�����B����قǒ��肫�����C���̐��\���ł������B�N�[�p�[�́A���Ɏ��񂾂悤�ɂ�������ƂȂ����B������������C�͂��A�̗͂��o�����Ă��܂����̂������B
-�u�}�����A���Ȃ����B�����A�p�C�N�\���v
-�@�N�[�p�[�́A���邵�������Ђ����ڂ��āA�ӂ���̒��Ԃ̖�����񂾁B
-�@�������A���������ɕԎ������Ȃ������B
-�@���̂����ɃN�[�p�[�́A�����̂��炾���ӂ��ƕ������������̂��������B�܂�ŃX�v�����O�̏�ɂ̂��Ă���悤�ȋC���������B
-�@�L�L�L�b�A�L�L�L�L�b�A�L�b�B
-�u������v
-�@����͎���������āA������΂��������B
-�@���̂Ƃ��A�ڂ���Ƃ���������̌i�F���ڂɂ������B�\�\�N�[�p�[�̂܂��ɂ́A�ꂢ�̉��������悤�悤���߂��Ă��邱�Ƃ�m�����B�N�[�p�[�͉����Q�ɂ����������Ă���̂��B����Ƃ킩���Ă݂Ă��A����ɂ͂����������̗̑͂��Ȃ������B
-�@�����Q�̓N�[�p�[�����ɂ��āA�N�C�[���E�����[���̌������������B�����Ĕ��R�s�΂�����t�����Ԃ��A�䂤�䂤�Ƃނ����֍s���B
-�@�N�[�p�[�͂ǂ��ւ�Ă������̂��낤�H�@����̉^���͂ǂ��Ȃ�H
-�@�p�C�N�\����}�����́A�ǂ������̂��낤�B���̊�فs�����t�ȉ����̐��͈̂�̂Ȃ�ł��낤�B
-
-
-�m���R�������n�{���s�������t���Ȃ����m���u�{�����Ȃ����v�͒����o���n
-
-
-�@��͂ʂ������悤�ɐ���Ă���B�������g�̂��˂�͂����Ƃ��傫���B
-�@�D�̂����F�ɂʂ������]�����́A���܂��̂��˂���ʂ��āA���֐��֑D�r�s���񂫂Ⴍ�t���͂�߂Ă����B���]�����̓G�o���D���̎w���ɂ���āA���A�[�u���`���o�A�ӂ����ё吼�m��ɏ�肾�����̂ł���B
-�@�D��ɂ͍ō��̒��q�s���񂫂Ⴍ�t������Ă����B����͈�̂���ł������낤���B
-�@���ǐ씎�m���B
-�@�n�������j�̌����ɁA�L���̌��Ў҂Ƃ��Ēm���钷�ǐ씎�m�������B
-�@�p����w�ɑ؍ݒ����������m�́A���]�����̕񍐂ɂ��ƂÂ��A�傽��Ȑ������ĂčL�����E�̐l�ނɌx������Ƃ��낪���������Ƃ͑O�ɂׂ̂��B
-�u�\�\������ׂ��������A�吼�m�̊C��ɂ���ł���̂��B������A�g�����^�j�A���܂��͊C�꒴�l�ƌĂڂ��B���̊C�꒴�l�����́A�킪�l�ނ����͂邩�ɍ����̐������Ɛ��肳���B���ؑD�N�C�[���E�����[�����A���ɁA���̃A�g�����^�j�A���̂��߁A�C��ӂ����Ђ����肱�܂ꂽ�̂ł��낤�B�����́A�͂₭���̊C�꒴�l�Ƃ̈ӎu�����������Ȃ�˂΂Ȃ�ʁB�����Ȃ���΁A�킪�l�ޑΊC�꒴�l�̖��v�s�ނ����t�ȑ������N�����āA���ɂ͗L�j��s�䂤�����傤�t�ő�̔ߌ��𐶂ނł��낤���Ƃ��A�����Čx���������B�\�\�v
-�@�ƁA���m�͕������Ă���B
-�@�A�g�����^�j�A���A�ʖ����C�꒴�l�Ƃ�������������ł���Ƃ̔��m�̐���́A���łɓǎҏ��N�������񂶂̂悤�ɁA�����Ƃ������Ă���̂ł���B�������A����ɔ��΂���w�҂͏��Ȃ��Ȃ������B�͂Ȃ͂��������Θ_�҂̒��ɂ́A�w��̗̈�������Ċ���I�ɂȂ�A���ǐ씎�m���̂̂���҂����o�Ă����B
-�@�p���ɂ����ẮA���̕��̍ő匠�ЎҁA�T�[�E���r���\���������A���ǐ씎�m�̐����̎x�������B�������p���̊C��R��A�ꂢ�̃X�~�X�x���̑����Ă���x�����ł͒��ǐ씎�m�̐����݂Ƃ߂��A���ܒn���C�ɂ����C�������͂����΂�Ă���ł͂Ȃ����A������Α吼�m�ɂ��C�������Ȃ��ƁA���ꂪ�ۏ؂ł��邩�ƁA�����܂ŊC�������Ƃ��Ă���B�����ċ߂������ɂ����āA���͂������Ă��̊C����ߊl�s�ق����t���Ă݂���Ɨ͂�ł����B
-�@���ǐ씎�m�́A�����������Θ_�ɂ͎����������A�t�����X���ǂƂӂ����������Ƃ��������A���ɊC�꒴�l���T�������ƂȂ��āA�吼�m�ɂ̂肾�����Ƃ��������A�����āA���]�����̕o�q�s�Ђ񂫂Ⴍ�t�ƂȂ����̂ł���B
-�@���m�͒T������g�D����ƂƂ��ɁA�C��ɂ����邽�߂̂�����p�ӂ��ƂƂ̂����B�K���p����w�̎Ⴋ�������h�����m����s�̕��c���Ƃ��ĉ���邱�ƂɂȂ�A���̗p�ӂ̕��͂����ւ�֋X�s�ׂ񂬁t�𓾂��B
-�@�܂����H�D�s������������t�����[���̃{�[�C�������O��v���N���A���̒T���̈���Ƃ��āA��������ɂ������Ƃ���邳�ꂽ�B����ŁA���N�͂��ܑD��̑�l�C�҂ƂȂ��āA�͂肫���Ă���B
-�@�吼�m�̂䂤�䂤���邤�˂�́A���܃��]�������������ɂȂԂ��Ă���B�\�����Ԍ�̑�\���J�Ȃǂ͒m����Ƃ����ӂ��ɁA�܂�ł��ƂȂ��������B
-
-
-�m���R�������n���b���]���I�m���u���b���]���I�v�͒����o���n
-
-
-�u�₠�A���ǐ씎�m�B���悢�挻��ɂ����Â��܂�����v
-�@�ƁA�G�o���D�������΂�������݂��B
-�u�Ȃ�قǁB���܁A���̂�����ւ����������Ă���̂ł��ˁv
-�@���m�͒����Ђ����w�����ł܂݂Ȃ���A�C�}���̂�������ł���B�����͑D���s���񂫂傤�t���B
-�@�O��v���N�́A���Ԃ�̐g�̂������������]�����ɂ�������āA�C�ʂ�������ɂ������Ă���B
-�u������A�ւ񂾂��v
-�@���N�͋��񂾁B
-�u�ǂ������A�O��v�N�v
-�@�ƃG�o���D���́A�܂����ȓ���s�ǂ�����t�����N�̕��ɂ悹�Ă���B
-�u����������Ȃ����B���]�����g�Ԃɕ����Ă��܂���v
-�u�Ȃɐ��]�����\�\�v
-�@�G�o���D�����̂����Ă݂�ƁA�Ȃ�قǔg�ԂɁA�������ɐ��]���̓���������ŁA�[���Ə������g�����ĂĂ���B
-�u�ق��A���ꂪ������΁A���݂͈�l�O�̊C�����B�\�\����������͂����ւ�B�����A�퓬�����I�v
-�@���]�����͂��̊Ԃɂ��A����ǂ͕��������Ă����B���������΁A�J�o�[�ł܂ꂽ�݂傤�Ȃ��̂��b�̂��������ɂ���B���̌`���琄���āA��C�̂悤�Ȃ��̂�����A�΋�C�s���������ق��t�̂悤�Ȃ��̂�����B����ł͂���ςȉ������m�́s�����������悤����t���B
-�@�b��̂��������ő傫�ȍ��߂̐�������B���ׂ����̂��Ǝv���悤�ɕq���s�т񂻂��t�ɑ����Ă������v�����B�J�o�[���Ƃ��āA���̖C������ꂽ�B�����ĖC���͈�]���āA�E���s������t�͂邩�̊C��ɂ˂炢�������߂��B
-�@���ɂ����񂢂񂽂�C�����Ƃǂ낫�A�ɉ����������ɔg���C��ɂЂ낪���Ă��������ł���B�퓬�̑O�́A���Â܂�悤�ȋْ��������B
-�@���̂Ƃ��A���]���́A���񂾂�C�ʂɂ̂яオ���Ă����B
-�@��_�s�G�Ȃ�I
-�@�����v���Ă��邤���ɁA���悢��D�̂�����킵�āA���]�����̌����s���񂻂��t�܂����ɂۂ���Ƃ����т��������̂�����΁A���ꂼ�p���C�R���C�����Ƃ��łɂ���ł���u�S����s�Ă��炰�t�v�������������B
-�@�G�o���D���͑o�ዾ��ڂɂ��Ă��܂܁A�D���ɖ_�����ɂȂ��Ă���B
-�@�C�肽���́A�D���̍��߂ƂƂ��ɁA��C�̈��������Ђ�����ŁA�y�э��ɂȂ��Ă���B
-�@���̂Ƃ��A�D���������ƍ����Ў���������B
-�@���悢��A�������͂��߂̍��߂��B
-�u�������B��������Ȃ��B���΂炭��������Ȃ��B�w�S����x���������֐M�����Ă��邼�v
-�@��̐������u�S����v���A���]�������Ă�ł���Ƃ����̂��B���������o���Ĕ�s�@���Ȃ�܂����肷��C�������A���]�����ɂȂ�̗p������Ƃ����̂��B
-�u�����A���ȁA���ȁv
-�@�ƃG�o���D���͂�����ɂƂ߂Ă���B
-�@���΂ł́A���ǐ씎�m���������͂���āA������ɑo�ዾ�̃s���g�����킹�Ă���B
-�u�ق��A�����ւ�Ȃ��Ƃ������Ă��₪�����B�\�\�����M�������o���B�k�Ԏ������邩�炵�΂炭�҂��Ă���l�ƁA�o���Ă���v
-�@�������̃G�o���D�����A�u�S����v�̐M���ɂ��ǂ낢�Ă��������B
-�u�D���A�ނ����͉��������Ă�����ł����v
-�@�ƁA���ǐ씎�m�������������B
-�u�����A���ǐ씎�m����B���炢���ƂɂȂ�܂����B�ނ����ɂ��邠�̐������́A���˂Ă��b���Ă������w�S����x�Ȃ�ł���v
-�u�ق��A�w�S����x�Ƃ͂���ł����B����͂߂��炵���B����Ȃ�A�����Ƃ悭����񂶂�����v
-�@�Ɣ��m�͑o�ዾ���Ƃ�Ȃ����B
-�u���ǐ삳��B����̂͌�ł�낵���B��������A�����ւ�Ȃ��Ƃ������Ă��Ă����ł��v
-�@�ƑD���́A������ɂɂ��킸�A����ĂĂ���B
-�u�قق��A����͈ꂽ���Ȃɂ��Ƃł������v
-�u���������̂ł��B�\�\�ނ����̒��ɎO�l�΂���悹��]�T�����邩��A�킵���͂��߁A���ǐ씎�m�A�ق��ɁA���ꂩ�����ЂƂ�Ƃ����Ƃ���ŁA�������֏�肤��Ȃ����Ƃ����̂ł��B��������΁A�����[���̒���ł���C��ֈē�����Ƃ����̂ł��v
-�@�G�o���D���͂���ׂ�Ȃ���A�����̂����Ă��邱�Ƃɂ��ǂ낢�Ă���B������ނ�ł͂Ȃ��B��̐������u�S����v����̏��҂Ȃ̂ł���B�Ȃɂ��C����邢�Ƃ����āA����قǋC���̂�邢���̂����낤���B�Ƃ���͑吼�m�̂܂������Ȃ��A�����č��ؑD�N�C�[���E�����[���̑�������ꕍ�߂��B�������A�܂˂����肪�A�Ȃ�Ɓu�S����v�ł���B
-�u��������Ă��Ȃ��K�����B�킵�͏悹�Ă��炢�܂��傤�v
-�@�ƒ��ǐ씎�m�͂������������B
-�u�������A���Ȃ��͂����łɂȂ�܂����v
-�u���Ȃ��͂ǂ�����́v
-�u�킵�͂��߂ł��B�D�����D������邱�Ƃ͂�邳��Ă��܂���v
-�@�ƑD���͎���ӂ����B�����Ă��炽�߂Ĕ��m�̗���������������������ƌ��߁A
-�u��͂肠�Ȃ��͊w�҂ł��Ȃ��B�w��̂��߂ɂ͊댯��������݂��Ȃ��v
-�u�ł́A���Ƃ̂ӂ���͂���ɂ��邩�Ȃ��v
-�@����ƁA���΂ɘb�������Ă����O��v���N���A�҂��Ă��܂����Ƃ΂���ɁA
-�u���m�B�ڂ������ИA��Ă��Ă��������B�ڂ��̓����[���ɂ��钇�Ԃɂ͂₭���������̂ł��v
-�@�ƁA�M�S��ʁs�����āt�Ɍ����Ă������B
-�u�������˂��A�O��v�N�B���݂Ȃ�킵�Ƃ�������ɂ䂭���i������悤���v
-�@�ӂ���͂��܂����B�ł́A�̂���ЂƂ������ɂ��߂邩�B
-�@�����֏��~������A�h�������������������łƂт���ł����B
-�u���ǐ씎�m�B���Ȃ����w�S����x�ɏ����̂ł�����A�킽�������Ƃ������܂��傤�B���Ȃ��Ƌ��Ɍ�������悤�ɖ������Ă����̂ł�����A�킽�������]�����ɂ̂����Ă��邱�Ƃ͈Ӗ�������܂���v
-�@�h���������̘b�́A�����Ƌؓ��s�����݂��t�������Ă���B
-�u��낵���B��������ɗ��Ă��������B�����������s�����߂��t�̂��Ƃ́A�킵�͐ӔC���������˂܂���B�����������́w�S����x�Ƃ����̂��A�Ȋw�I�ɂ��������܂鑶�݂Ȃ�łˁv
-�@�O�l�͂��悢�悵���������āA���傩�炨��Ă������B�Ԕ�̃g�����N������Ƃ������Ă���B����ɂ͔��m�̎�܂��i���͂����Ă���B
-�@�O�l���̂������[�^�[�E�{�[�g�́A�{�D���͂Ȃ�āu�S����v�̕��ւ�����ł������B
-�@�G�o���D���̖ڂɂ́A�O�l���u�S����v�̍b�ɏ�肤�����̂��������B����ƁA�܂邢�S�Ԃ����ۂ���Ƃ������B�O�l�͂��̒��ɂ͂����Ă������B�u�S����v�̐l�͂�����������킳�Ȃ��B�ӂ������܂�ƁA���������͂��̂܂܁A���Ԃ��ԂƊC���ɂ����݂͂��߂��B�����Čܕ��������Ȃ������ɁA�����u�S����v�̂������͂܂����������Ȃ��Ȃ����B
-�@���ǐ씎�m�A�h���������A�O��v���N�̎O���́A���ꂩ��ǂ��Ȃ�H
-
-
-�m���R�������n�ւ�ȕ��i�m���u�ւ�ȕ��i�v�͒����o���n
-
-
-�@�������̓����[�����B
-�@�����[���̎��ۂ̎w���҂ł���N�[�p�[�������́A���S�s�ނ���t�ɂ����␅��s���炰�t�ɖڕ@�������悤�ȉ����Ɏ�ǂ葫�ǂ�ɂ���A�����s���񂻂��t�������Ă�����ɂ��A����Ă����B
-�u���A�������傤�I�@���A�����Ăǂ����������v
-�u�������傤�v�Ɓu���������v�Ƃ�A�����Ȃ���A���������̃N�[�p�[�́A�����̂Ȃ����܂܂ɂȂ��Ă���B�鏑�}�����͂ǂ��Ȃ����B���݂̂Ɏv���ꓙ�^�]�m�p�C�N�\���͂ǂ��ɂ���̂��낤�H
-�@�N�[�p�[�́A������ł悭�����Ȃ�������݂͂��āA���܂ǂ�Ȃ��Ƃ��A���Ԃ�̎��͂ɋN�����Ă��邩������߂悤�ƁA�Ȃ݂����܂����w�͂����Ă���B
-�u�����A�����Ƃ�ł���v
-�@�������ɒ����ӂ�ӂ�Ɣ��ł���̂��B�����ĉ_�̒��ɂ���悤���B
-�@���̂����ɁA����̌ċz���}�ɂ���Ȃ�ɂȂ����B�ǂ������̂��낤�B
-�u�����A����A�ꂵ���B�\�\�v
-�@�҂���҂���Ɩ��ȉ������������B�L�L�L�L�b�Ƃꂢ�̉����������B�ċz�͂܂��܂��ꂵ���Ȃ�B
-�u�������A����ł��܂��̂��v
-�@�N�[�p�[�͗���Ŏ����̂̂ǂ������ނ������B�ċz�͂܂��܂��ꂵ���Ȃ�B
-�u�������A�\�\�v
-�@�N�[�p�[�͋ꂵ�����Ȉꐺ���̂����āA���ɋC��s�����t���Ă��܂����B
-�@���ꂩ��̂��A�ǂ�قǂ̎��Ԃ����������A�N�[�p�[�ɂ͂��񂺂񂨂ڂ����Ȃ������B
-�@���ꂪ�͂��ƋC�������Ƃ��́A������͂܂�Ŕ����s�͂����イ�t�̂悤�ɖ����邭�Ȃ��Ă����B���ẮA���Ƃ̐��E�ւ����������Ƃ�낱�񂾂̂́A�ق�̂��̂܂������B
-�u����A�\�\�v
-�@�N�[�p�[�͂��Ԃ�̑O�ɓW�J����Ă���ٕ��i�ɋC�����āA�v�킸�ߖ��������B
-�@���b�������B���̉������\�҂���S�҂����т��ł͂Ȃ��B���������Ƃ��������قǂ�������ŃN�[�p�[���Ƃ�܂��Ă���̂������B�܂�ŃV�[�Y���̖싅��֍s���āA�O���E���h�̂܂�Ȃ��ւ���肱�񂾂Ƃł����������悤�ȕ��i�������B���������́A�傫�Ȋ�ʂ����邮�邳���āA�N�[�p�[�̕������낶�댩�߂Ă���B
-�@�����A���ꂩ�炢�������Ȃɂ��n�܂�̂��낤�H
-
-
-�m���R�������n��������Ђ��m���u��������Ђ��v�͒����o���n
-
-
-�@�����̕ߗ��s�ق��t�ɂȂ����N�[�p�[�������́A�����ϔO�����B
-�@����͂���炢�A�����ւ񓪂��悭�A������������A�����ĕs���s���s�ӂƂ��ӂ��t�̐a�m�ł������B�A���O���E�T�N�\���l��́A�ł��悢�����������Ă��邩�ꂾ�����B
-�@�N�C�[���E�����[��������Ă��炱�����̂���̂Ȃ݂����܂��������s�ӂ�Ƃ��t�Ԃ�ɂ́A�w�G�s���イ�Ă��t�Ƃ����ǂ�����������炸�ɂ͂����Ȃ����낤�B�܂������̂Ƃ���A�����[���̏�g���̂Ȃ��ŁA����قǁA�������肵�Ă���l���͂ق��Ɍ�����Ȃ������̂�����B
-�@���̃N�[�p�[���A����̒m���ł͂ǂ��ɂ��������Ƃ̂ł��Ȃ�����s���炰�t�̂΂����݂̂����ȉ����c�̑O�ɂЂ��������āA�܂������ϔO�̊�s�܂Ȃ��t��s�Ɓt�����B���̏�A�����������đ����Ă݂Ă����߂��Ǝv�����B
-�@����Ƃ��̂Ƃ��A��҂��̉������A���ʈ�i�����Ƃ���ɂЂ����Ă���A���̂̑傫�������܂炵�������\�\��ɂ킩�����Ƃ���ɂ��΁A���ꂪ����ς艤���܂������\�\�ƂȂɂ��b�����Ă������A���̂����ɂ݂傤�ȂЂ��������āA�N�[�p�[�̂Ƃ���ւ���Ă����B
-�@���̂Ђ��͂ӂ����Ȍ`�����Ă����B
-�@�����S���ǂ̂悤�ł����āA�Ƃ���ǂ���ɒ��l��s���傤�Â߂����t�̂��Ԃ����Ă����B�����Ă��̐�ɂ͖т̂悤�Ȃӂ��ӂ��������̂����Ă����B
-�@���̉����̓N�[�p�[�̂Ƃ���ɂ����Â��A���̂Ђ��̑��̂͂����Ƃ��āA����̎��̂�����ɂ͂�����B
-�@����Ƃӂ����Ȃ��Ƃ����������B���܂܂ł��₪��Ƃ����Ă��邾���ŁA���������Ă�����킩��Ȃ��������������̐����A�}�ɂ͂����蕷���Ƃ��悤�ɂȂ����B������������΂���łȂ��A���������̂����Ă��錾�t�̈Ӗ����킩��悤�ɂȂ����̂��B
-�@���̒����Ђ��́A�C�꒴�l���ŏo������Ȏ�b��ł������̂��B���ꂳ������΁A���l�ꂪ���̐����ɂ��킩��Ƃ��������ւ�ӂ����Ȋ�B�������B
-�u�ǂ������邩��ɁA�����݂͂ɂ����������������Ă��邶��Ȃ����B�����A�C������邢�v
-�u�Ȃ񂾂��̂̕��X���A���ς��Ă��āA�߁s�ӂ��t�̂Ƃ��낪�����񂾁B�����݂����ɁA�ǂ��ł����R�ɓ����Ȃ��Ƃ݂���B�ǂ��l���Ă������������ˁv
-�u���̂ӂ��ӂ����Ă���̂́A�G�o�s����������t�̂���ږсs�ׂ�����t���Ǝv���Ă͂��߂͂т����肵�����A��������Ȃ��B����͉��̗p�����Ȃ����̂��B����ǂ����΂����݂̂������Ȃ��v
-�@�������������A������ɃN�[�p�[�̎��ɂ͂���B����̂��Ƃ������Ă���̂��Ǝn�߂͕��������Ă������A�悭�l���Ă݂�ƁA�Ȃ�̂��Ƃ��A���̚}�΁s���傤���傤�t����Ă��铖�l�Ƃ����̂��A�ق��Ȃ�ʃN�[�p�[���g�̂��ƂƂ킩��������A�����A������ĕ��������Ȃ��B
-�i�����������́A�݂ɂ����΂����̂��̂Ƃ������A������̕�����قǂ΂����̂���Ȃ����j
-�@�ƁA�N�[�p�[�͂ӂ񂪂����Ă݂����A�Ȃɂ��둽���s�������t�ɖ����s�Ԃ����t�łǂ��ɂ��Ȃ�Ȃ��B�����͎��������̂΂����݂̂����Ȃ������Ɍ��Ȃ�Ă��āA�͂��߂Ă݂�n��̐l�ނ̂��������ւ�Ɏv���Ă��������Ȃ��̂ł��낤�B
-�@�ǂ�����s�Ȃ����t�Ȃ����ƂɂȂ������̂��B
-
-
-�m���R�������n�����܂̐q��s�������t�m���u�����܂̐q��v�͒����o���n
-
-
-�@���̂����ɁA��҂��\�\�Ƃ������A�ЂƂ�Ƃ������A�Ƃɂ����C�꒴�l���N�[�p�[�̑O�ւ���Ă��Ă��傱�Ȃ�Ƃ�������B
-�u�������ł��ȁB�킽�����\���Ă��錾�t���A���Ȃ��ɒʂ���ł��傤�ȁB�����A�Ԏ������Ă݂Ă��������v
-�@�����������t�́A�悭�N�[�p�[�ɕ����Ƃꂽ�B�����ւ�Ă����傤�Ȍ��t�Â����ł������B�N�[�p�[�͂������C���悭�����B
-�u����������A���Ȃ������̘b���悭�킩��悤�ɂȂ�܂����B�����Ԃ�A�ڂ��̈����������Ă���l�\�\������܂��ˁB�݂ȕ������Ă��܂���v
-�@����Ƃ��̒��l�͂���ĂČ���ނ��āA�����������낶��݂Ȃ��爫�s�����t������s�����t���������Ă���A���̕��Ɏ�łȂɂ����}�������B����͂������Ă���炵�������B
-�@�������Ă����āA���l�͂ӂ����уN�[�p�[�̕��ɂނ��Ȃ���A
-�u����A�ǂ������悤���Ȃ��̂ł���A���̎q�������́v
-�u�́[��A����͎q���Ȃ�ł����v
-�u�����ł��A�q���ł��B�܂��̂̔�����ł��ĂȁA��V�s�ꂢ���t���Ȃ�ɂ������ĂȂ���ł��v
-�u�͂͂��A���̍��ł���͂��V�Ȃ�Ă��̂�������̂ł����v
-�u�������ł��B���̒��͂��ׂĂ͗�V����o�����Ȃ���΁A���܂������܂�܂���B�\�\�Ƃ���ŁA�����܃A�g���a�����A���Ђ��Ȃ��ɂ�����āA���낢�낤�����������Ƃ��������̂ł��B�ނ����֍s���āA���b���������Ă���܂��񂩁v
-�@���������Ē��l�́A�ނ������w�����B������̏�ł́A�����܃A�g���a�����A�傫�ȓ����d�����ɂԂ�Ԃ�ӂ��āA�N�[�p�[�̕������Ă����B
-�u��낵���A�s���܂��傤�B�������A�����Ă����܂����ˁA�킽�����������s�݂����́t�������͂悵�ĉ������B����s�Ԃꂢ�t�Ȃ��Ƃ��Ȃ��ꂽ��A�܂���Q����������悤�Ȃ��Ƃ�����΁A�킽���͐l�ނ̖��_�̂��߂ɁA���̂��������Ă��������������ǂ݂܂���B�����ł����ˁv
-�@�ƁA�N�[�p�[�͂�����҂�A���炢�Ƃ�����������B
-�u����Ȃ��Ƃ͂���܂���B����̂Ȃ��悤�ɏ\���ɐS�����܂��B�킽���\�\�O����b�����^�̖��_�ɂ����Ă������܂��v
-�u�����ł����B����Ȃ炢���̂ł��v
-�@�O����b�����^�́A�����ŃN�[�p�[����āA�����܃A�g���a���̑O�֏o���B
-�u�a���B�l�Ԃ̑�\�҂���Ă܂���܂����B���O�̓N�[�p�[�B���̃N�C�[���E�����[���̎��������Ƃ߂Ă���A�Ȃ��Ȃ���V�������l���ł���܂��v
-�@�ƏЉ������ƁA�ł����̉����܂́A�܂��܂��������E�ɂ悭�ӂ�Ȃ���A
-�u�����������B�������֋߂���đ傢�ɂ��낰�A�Ƃ����Ă���v
-�@�����^�̓N�[�p�[�̕����ӂ肩�����āA
-�u�������̂Ƃ���ł��B�����A�����֗��ď\�����낢�ł��������v
-�@�Ƃ����āA�����܂̑O�ɂ���A�Ԃ�Ԃ悵�����s���t�ԂƂ�݂����Ȃ��̂��w�����B
-�@���āA���悢��C�꒴�l�̉����܂ƃN�[�p�[�݂̂傤�ȏ��Ζʁs���傽���߂�t���͂��܂邱�ƂƂȂ����B
-
-
-�m���R�������n���ԃN�[�p�[�m���u���ԃN�[�p�[�v�͒����o���n
-
-
-�u�����A�N�[�p�[�N���B�ꂵ�イ�Ȃ��B�������Ƃ���ցv
-�@�N�[�p�[�͏΂������̂��ꐶ����߂��ɂ��܂񂵂��B�C�꒴�l�̉����܂Ƃ��������́A�܂�Ŏŋ��݂����Ȍ��t�������B
-�u�₠�A�킽�����N�[�p�[�ł��B�킽�������܂˂����������āA�����ւ���h�ł��B�ł����A�܂��������������O�ɐ\�������Ȃ���΂Ȃ�񂱂Ƃ́A���Ȃ��������N�C�[���E�����[����\�͂ɂ���Ă��܂ł�����ȂƂ���֊ċցs���񂫂�t���Ă��邱�Ƃł��B����͈�̂ǂ��������Ƃł����B�ӔC�̂���ٖ��s�ׂ�߂��t���������������B�����Ȃ��ƁA�����[�������������Ă���킽���Ƃ��āA�p���֋A���Ă���\���J�����ł��܂���v
-�u�͂��͂��͂��B���邳�����Ƃ�\�����B����Ȃɖڂ��Ƃ񂪂炩���Ȃ��ŁA�ق��炩�ɖʔ����V��ł�������ǂ����B���݂����́A�ǂ������\�ł�����ˁv
-�u���\�H�@���\�Ƃ́A�ǂ����̂��Ƃł��B�吼�m�������₩�ɍq�C���Ă���킪�N�C�[���E�����[��������ȂƂ���ւЂ��ς肱�ނȂ�āA���������ł͂���܂��񂩁B��̂����͂ǂ��Ȃ�ł��v
-�@�N�[�p�[�́A�܂��������吼�m�̊C��嗤�Ƃ͒m��Ȃ�����A����Ȃ��Ƃ��܂��������������B
-�u�܂�ŁA���݂ɂ��ׂ��ׂɐq�₳��Ă���悤���ˁB�������ǂ��ł��邩�A����͂��݂����܌��Ă���Ƃ��肾�B��������킵�͂��݂����̐������m�肽���B���݂����͂��̂悤�ȏ����ȓ������́i�D�̂��Ƃ炵���j�ɏ���ĂȂɂ����Ă���̂��ˁB�Ȃ��A�����Ƃ��Ĉ�Ƃ���ɂƂ܂��Ă͂��Ȃ��̂��ˁv
-�@�N�[�p�[�́A���炩��Ə΂��������B
-�u�����͂��͂��B��͂肠�Ȃ������͐l�ނ̂��炢���Ƃ�m��Ȃ��񂾁B�l�ނ͂��Ȃ��������͂����ƌ����s����߂��t���B�C�̏�𑖂邱�Ƃ��ł��邵�A����ƂԂ��Ƃ��ł���v
-�u�����A���̋���ƂԂƂ������B�Ƃ��ǂ����Ȃ��̂��󒆂���ł���̂������邪�A��������݂����̒��Ԃ̎d�Ɓs���킴�t���v
-�u�����ł��Ƃ��v
-�@�ƃN�[�p�[�͂������@�������Ȃ����B
-�u�܂����ǂ낭���Ƃ��������񂠂�܂����B���̏�ɂ͎����Ԃ�����\�\�v
-�u���Ƃ����ƁA�\�\�v
-�u���A����m��Ȃ���ł����B�܂�A���Ȃ��������������ďZ��ł���悤�ȏꏊ���A�C�̏�ɍ����������Ă���̂����ł��B����͂����ւ�L���v
-�u���ށA�ǂ̂��炢�L���̂��ˁv
-�u�ǂ̂��炢�L���Ƃ����Ă��A������Ƃ����܂���v
-�u���̍L��̉��{���炢���邩�ˁv
-�u���̍L��̉��{�H�@�������{�Ƃ������A�S���{�̕S���{�̂��̂܂��S���{�̕S���{���炢�͂���܂���B�l�Ԃ̂��������đ債�����̂ł��B�����Ƃ��񂶂傤���Ă��ܕS���l���炢�͂���ł����B���ꂩ��܂��\�\�v
-�@�ƁA������ɃN�[�p�[������ׂ��Ă���Ƃ��A�ǂ��������̂��A�ɂ킩�ɂ����肪�������������Ȃ����B
-
-
-�m���R�������n�����[���q�m���u�����[���q�v�͒����o���n
-
-
-�@�Ȃɂ��Ƃ��낤�Ǝv���āA�N�[�p�[���ڂ�������ƁA�����ւ�������ł����\�l�A�ܖ��̒��l�������܂̑O�ɂ҂���Ƃ�����āA
-�u���A�����ւ�ł��B���H�s���������t����Ă��������[���q���܂���������ɂȂ�܂����B�C�����̂Ƃ���ցA���܂�������ɂȂ�܂����v
-�u�ȂɁA�����[���q���A���Ă����Ƃ����̂��B����͂��ǂ낢���B�����������֗����Ƃ����B�����͂Ȃ����ԁA��̂Ȃɂ����Ă����̂��낤���B�����A��������v
-�@�ƁA�����܂̓N�[�p�[�̂��ƂȂǂ͂킷��āA�}�ɂ��킻�킵�͂��߂��B
-�@���H���Ă������q�����[�a���̂��A��Ƃ������A���̍��ɂ����H�Ȃ�Ă������Ƃ�����̂��ƁA�N�[�p�[�͂����ꂽ�B
-�u���ꂪ�����܁A���̂Ȃ�ł������܂��B���q���܂��O�l��Ă���ꂽ�̂ł������܂��ā\�\�v
-�u�q����Ă����B���҂���Ă����̂��v
-�u����ς�l�Ԃ炵�������܂��B�傫���̂��ӂ���ɁA�������̂��ЂƂ�ł��v
-�u�Ȃ񂾁A������l�Ԃ�A��Ă��Ă����߂��B�������̕����������肨�����ɂ���Ă���킢�B�����[�ɁA���������B���܂��Ȃ񂩁A�����A���Ă��Ȃ��Ƃ��������āv
-�@�ƁA�����܂͂ɂ킩�ɂӂ�����ɂȂ����B
-�@����ƁA���̂Ƃ��O����b�����^���i�݂łāA
-�u�����܂ɐ\�������܂��B�����[���q�a���́A�l�ԍ̎�s�ɂ񂰂񂳂�����t�ɂǂ̈ʋ�J���Ȃ��ꂽ���킩��Ȃ��̂ł������܂��B�����킸���΂���A���ꂪ�����ꂽ�Ƃ��������ŁA�����ƎO�l���A��Ă��A��ɂȂ����̂ł�����A�������͉��q���܂ł���ƁA�b���ꓯ�͊��V�s���񂽂�t�\���グ�Ă��邵�����ł������܂��B���ЂƂ��ǂ����A���}���ɂȂ�܂��悤�ɂ˂����܂���v
-�@����Ɖ����܂́A�܂��}�ɂ����񂪂悭�Ȃ��āA
-�u�������A���܂����͂��ߐb���s����݂�t�ꓯ�A���q�̗E���ȗ��s���ق߂Ă���Ƃ������B�ł́A����ɂ߂񂶂ē�������邷�Ƃ��悤�B�����[�ɂ����������֗����Ƃ����B�l�Ԃ��A��Ă���悤�ɂ�������񂾂��v
-�u�͂͂��A���肪���������킹�ł������܂��v
-�@���������ĊO����b�����^�́A�����܂̂����񂪂����ʂ����ɁA��̕��ւ��������Ă������B�₪�đt�y�s���������t�̉�����������ƁA���悢�扤�q�����[�a�������̍L��ւ͂����Ă����B
-�@�N�[�p�[�͉��q�Ƃ͂ǂ�Ȃ���Ǝv���Ă��̕������Ă���ƁA�����ւ͂����Ă����̂́A���ȃ}�X�N�����ăS���̕��𒅂��l�ԂƁA���̂��Ƃɓ��m�l�̑傫���̂Ə������̂��ЂƂ肸�A���̂܂����Ƃɔ��l���ЂƂ�A�͂����Ă����̂ŁA����Ⴀ���Ƃ��ǂ낢���B
-
-
-�m���R�������n�O�l�̋q�l�s���Ⴍ����t�m���u�O�l�̋q�l�v�͒����o���n
-
-
-�u�����A���̏��N�̓{�[�C�̎O��v����Ȃ����B���[���B�O��v�A�O��v�v
-�@�N�[�p�[�́A�����킷��Ă��̏�ɗ���������A�������ւ���Ă��鏭�N�̕��Ɏ���ӂ����B
-�@���ǂ낢���͎̂O��v���B
-�@�݂傤�������ȃ^�R�̂΂����݂̂����ȓ������A�����Ⴄ���Ⴉ���܂��Ă��邻�̒�����A�����Ȃ�p��ł����Ď����̖����Ă΂ꂽ���̂�����A�������Ԃ��̂��ǂ���ł������B�����A���̐��̂����������΁A���ꂼ�����ڂ��̂���l���\�\�������悭���킢�����Ă��ꂽ�N�C�[���E�����[���̎������N�[�p�[����������A����ǂ͂��ꂵ���ɋ������[���Ƃ܂����B
-�u�����A�N�[�p�[�������I�@�ڂ��A�O��v�ł��B�悭�����Ă��܂����ˁv
-�@�O��v�͊K�i�����낪��悤�ɂ���āA�N�[�p�[�̋��ɂς��ƂƂт����B
-�u�����A����ς�O��v���B�悭���Ă��ꂽ�B���܂��ɂ����āA�ڂ��\�\�ڂ��͂ǂ�Ȃɂ����ꂵ�����B���O�͋}�ɑD�ォ�炷���������������A��̂ǂ����Ă����񂾁v
-�u�ڂ��ł����B�ڂ��͋C�����Ă݂�ƁA�C���Y���s�Ђ傤��イ�t���Ă�����ł��B�����ăt�����X�D�D���]�����ɂ�������ꂽ��ł��B�����ł��A�N�[�p�[�������B���̃��]�����͂��܂��N�C�[���E�����[����{���̂��߂ɁA���傤�ǂ��̐^��s�܂����t�̗m�����������Ă���̂ł���v
-�u�������A���̐^��̗m��Ƃ����̂����B��̂����͂ǂ����낤�˂��v
-�@�N�[�p�[�͎O��v���Ђ��Ƃ������߂āA�͂Ȃ����Ƃ����Ȃ��B�����ł��낤�B����͒m�肽���Ǝv���Ă���������̖͗l�����܎O��v�̌��������Ă���̂ŁA�܂�ŋQ�s���t�����҂��H�s���傭�t�����Ƃ߂�悤�Ȃ��킬�ł������B
-�u�N�[�p�[�������A���Ȃ��͂܂��m��Ȃ��̂ł����B�����͑吼�m�̊C��ł���v
-�u�吼�m�̊C�ꂾ���āH�@����A����Ȃ΂��Ȃ��Ƃ�������̂��ˁB�C�ꂾ�Ƃ������A�C��Ȃ�C���ɂ����Ă��Ȃ���΂Ȃ�Ȃ��B�Ƃ��낪�����ɂ͋�C������΂���ŁA�C���Ȃ񂩂ǂ��ɂ������Ȃ���B�C��ł͂Ȃ��v
-�u��������Ȃ��ł���A�N�[�p�[����B�C���͂Ȃ�����ǁA�吼�m�̊C��ɂ͂������Ȃ��̂ł��B�C��̂��̂܂���ɁA���������A�g�����^�Ƃ�����������̂ł��B�����Ƃ����̍��̐����́A�C���ɂ���ł�����������i�������̂ŁA��̓����݂����Ȍ`�����Ă��܂����A���܁A�C��嗤�̋�C���s�������ǂ��t�̒��ɂ͂����āA��C�������Đ����Ă���̂ł��v
-�u�Ȃ񂾂�����Ȃ����A���܂����Ȃ��Ȃ��w�҂݂����Ȍ��������悤�ɂȂ����ˁv
-�u���A�N�[�p�[�������B����͊C��嗤�̌�����Ƃł��钷�ǐ씎�m�ɋ�������̂ł���B�ڂ��͒��ǐ씎�m�Ƃ���������ɂ����ւ���Ă����̂ł��B���ꂩ��p����w�̃h������������������ł���B�ق�A����������Ȃ����v
-�@�Ƃ����āA�O��v���N�̓N�[�p�[�ɁA���Ȃ��ɗ����Ă���l�����w�����B
-
-
-�m���R�������n�₳�������m�̐S�m���u�₳�������m�̐S�v�͒����o���n
-
-
-�@�N�[�p�[�����ǂ낢�āA�ڂ������Ă��΂�����ƁA�������A�������������������m�l�Ɣ��l�Ƃ��ތ��s���񂰂�t�Ȋ���������֌����Ă����B
-�u�₠�A���Ȃ������́A�����[���������ɂ��Ă����������̂ł��傤�B�ڂ��͂��Ȃ������ɁA�����S�؂�������܂���v
-�@���������ăN�[�p�[�́A�ӂ���̎������邪��鋭���ӂ��Ă�낱�񂾁B
-�u�N�[�p�[�������B�����������ǐ씎�m�A���������h���������ł��v
-�u�����A�������A�ǂ�����낵���A�ǂ�����낵���v
-�@�ƁA�N�[�p�[�́A�Ђ��������ɂ������΂���ɑ��낱�тł���B
-�u�N�[�p�[����B�ق��̑D�����q�����͂ǂ����Ă��܂����v
-�@�ƒ��ǐ씎�m�́A�܂��l���s����߂��t��S�z���āA������N�[�p�[�ɂ����˂��B
-�u�l���ł����B�\�\�l���͑啔�����S�ł����A���ɂ͂��̂΂����̂����Ɗi�����n�߂āA�E�s��t��ꂽ�҂������炩����悤�ł��v
-�u���ށA�啔���������Ă����Ƃ͉����ł��B���Ȃ������̖{���ł́A�����ւ�S�z���Ă���悤�ł�����A���Ȃ������́A�����ɖ{���֋A��ꂽ���������v
-�u���A���̂Ƃ���ł��B���m�\�\���̂����ǐ씎�m�Ƃ������Ⴂ�܂����ˁB�ǂ��������N�C�[���E�����[���̈ꓯ�����������������v
-�@�ƁA�N�[�p�[�͂��������A�}�ɓ������E�ɂӂ��āA
-�u����A���߂��A���߂��A���̋��s�����t�낵���΂����̂ǂ����A�킽�������������ȒP�Ɏ�΂Ȃ��Ƃ͎v���Ȃ��B�킽�����������̂΂����̂ǂ������l���E���Ă��邩��Ȃ��v
-�@�ƁA���ɂ���肱��ł��܂��΁A���ǐ씎�m�͓���ɂ����Ȃ��Ƃ������ʎ��ŁA�N�[�p�[�������̌������邭�������A
-�u����A�����S�z�����Ȃ��ł������ł���B�킽�������������ւ���Ă������̎g���Ƃ��āA�N�C�[���E�����[���̑D�̂Ə���Ƃ����S�ɂ��Ƃւ��ǂ��Ƃ������Ƃ�k�����ތ��S�ł��v
-�u���m�A����͂ق�Ƃ��ł����B�ق�Ƃ��ɂ������Ă�������̂ł����v
-�u�������ł��Ƃ��B���̂悤�ȊC��嗤�ւ̊ċցs���񂫂�t���Ȃ����Â��ƁA�����[���̑D�q�ɂ�����ɂ��a�l����������łĂ���ɂ������Ȃ��B�킽���͂��ꂩ��s���āA�C�꒴�l�����ɁA���Ȃ������̎ߕ��s���Ⴍ�ق��t�������Ă��܂��傤�v
-�u���m�A�ǂ������˂������܂��B���Ђ��͂�݂��Ă������������v
-�@���m�͂���������܂킵���B
-�u�����[�a���͂ǂ��ɂ����邩�ȁv
-�@���m�́A��������W�܂��Ă���C�꒴�l�̊Ԃ��ʂ��āA���q�����[�a���̎p�����������Ƃ߂��B
-
-
-�m���R�������n�C�꒴�l�̔閧�m���u�C�꒴�l�̔閧�v�͒����o���n
-
-
-�@���q�����[�a���\�\
-�@�����[�a���Ƃ́A�ǎ҂̂܂��ɂ߂��炵�����ł͂���������ǁA�a���̎p�́A���͂��̕���̍ŏ�����A�������łɂ��Ȃ��݂ł���̂��B
-�u�S����v�Ƃ��������������A�吼�m��ɂ��΂��Ύp�����킵�����Ƃ����������A���̒����ɂ͈�l�̉��l������������Ă��āA�Ƃ��ɍb����p�����킵�����Ƃ����������A���̉��l�����́A�Ƃ���Ȃ��������̊C��嗤�̉��q�����[�a���Ȃ̂ł������B
-�@�����\���΁A�ǎ҂������Ǝv���������邱�Ƃ��A���낢�날�邾�낤�Ǝv���B
-�@���q�����[�a�����A�Ȃ�����Ȑ���������ɓ��ꂽ���A�����ĂȂ��吼�m�̔g�Ԃɏo�v������A�܂����]�����ɒʐM������A�p���̑{�����Ƃ������������A�����̂��Ƃɂ��ẮA�u�����[�a���̓��L�v�ɂ܂т炩�ł��邪�A����͍������ɂ��Ƃ����肠���Ȃ����Ƃɂ���B�����������Ȃ�ǎ҂́A�������łɁA�����[�a�����Ȃ��Ȃ��E���ł���A���܂����`���ɋ������Ƃ�m���Ă���͂����B
-�@�ꌾ�ɂ��Ă����΁A�����[�a���͊C��嗤�ɂ����鐏��s���������t�̃C���e���ł�����A�܂�����̖`�����ł��������̂��B�����ĊC��嗤�Ƃ킪�l�ނƂ̊Ԃ��ނ��Ԍ����X�l�s�������Ђ傤����t�̂悤�Ȗ����������񂶂Ă����̂��B���傤�ǁA�킪�l�ޑ�����̘A���g�߂��A���ǐ씎�m��h���������ł������̂Ɠ�������ɂ���B
-�@�����烍���[�a���́A���]�����ɋ߂Â��Ē��ǐ씎�m��s���܂˂��A�u�S����v�ɏ悹�ĊC��嗤�ɘA��Ă����Ƃ����킯�ł���B
-�u�������ǐ씎�m�A�\�\�v
-�@�ƁA���m�̌����ォ�炽���������̂�����B
-�@���m���ӂ肩�����Ă݂�ƁA�ꂢ�̃S���̕��𒅁A�����ē��̏ォ�炷���ۂ�ƃ}�X�N�����Ԃ��������[�a���������Ă����B
-�u�����A�����[�a���B���Ȃ����������Ă����Ƃ���ł��B���˂Ē����ł��b���܂����悤�ɁA�N�C�[���E�����[���Ə���������A�����ɊC��ւ����ǂ��˂��������ł��ȁv
-�u���m�A���̂��Ƃł���B���A�g�������͂��߁A�O����b�̃����^�ȉ��A�F�X�A�Ȃ��Ȃ���������m���܂���B���̂悤�ȑ傶�����Ȃ��Ƃ����Ȃ������Ă��������߂����N�C�[���E�����[�����A���̂܂܂͂Ȃ��̂͂��₾�Ƃ����̂ł��v
-�u����͂��܂�B�����[����������ĉ�����Ȃ��Ƃ��́A����߂ĐS�z�Ȗ������l�����܂���B�����ł��\�����悤�ɁA���̊C��嗤�Βn��嗤�̑�푈���Ђ��������Ƃ���܂ł����ɂ���������܂���B����͂����������܂ɁA���̂������Ƃł͂Ȃ��̂ł��B��E�C�s�������肭�t�Ƒ嗐��s�������ҁt�Ƃ̂����Ȃ���O�ɁA�����͗���������Ȃ���΂Ȃ�܂���B���̂��߂ɂ́A�����[�����ꎞ�Ԃ��͂₭�C��ւ��ǂ����Ƃ������̂ł��v
-�u���m�A���܂������ƂɁA�킪�A�g�����^�j�A���́A�n��l�ނ̋���ׂ����Ƃ��܂��͂�����m��Ȃ��̂ł��v
-�u���肪���낵���Ƃ������Ƃ����A���`�����炢���āA���������A���Ƃւ��ǂ��Ă��˂΂Ȃ�܂��ʁB�����ł͂���܂��񂩁v
-�@���ǐ씎�m�̐��_�s�������t�̑O�ɁA�����[�a���́A���ق��Ă��܂����B�܂���������ɂ������Ȃ��B���m�̂����Ƃ��肾�B�������C�꒴�l�����ɂ́A���m�̂܂��C�����Ȃ��Ƃ���́A��Ɂs�����t���ׂ��A�َ퐶���̐S�̒��𗬂���閧������B����������ǂ�Ȃӂ��ɔ������邩�A���m�͒m��Ȃ��̂��B�����[�a�����g���A�������܂ł͐����������Ȃ��Ǝv���Ă���B
-
-
-�m���R�������n�^���̂킩��݂��m���u�^���̂킩��݂��v�͒����o���n
-
-
-�@�����[�a���́A���ǐ씎�m�ɂ��΂炭�҂��Ă��Ă����悤�ɂ��̂�ŁA�܂��{�a�s���イ�ł�t�̉��������Ďp���������B
-�@���΂炭����ƁA�����[�a���́A�ӂ����юp�����킵�āA���ǐ씎�m�̂Ƃ���֋}�����ł���Ă����B
-�@�����ł������Ă������A�����[�a���̎p�́A�C�꒴�l�̂悤�Ȃ������������Ă��Ȃ��B����͂��傤�ǁA�������Ɛ������ԂƂ����Ԃ����l�Ԃ̂悤�Ȍ`�����Ă���̂ł������B�����ӂ��̐l�Ԃɂ���ׂāA�͈̂ꃁ�[�g���΂���������A�����đ̂̊����ɓ������傫�������B�}�X�N�̒�����͍�����̊Ⴊ�̂����Ă������A����͈��̉��ʁs���߂�t�ł����āA�l�Ԃɉ���Ă���������ǂ납���Ȃ����߂̐[�����ӂ���݌v���ꂽ���̂ł������B�܂葁�������΁A�����[�a���͐l�ނƐڋ߂���Ƃ���������ǂ납���܂��Ǝv���āA�אS�s��������t�̒��ӂ��͂�����O���s���������t���ƂƂ̂��Ă���̂ł������B
-�u���ǐ씎�m�A�b�͂��܂����܂����v
-�@�ƁA�����[�a���͂��ꂵ�����ɂ������B
-�u�ǂ��b�͂��܂������v
-�u���ꂩ�炷���A�N�C�[���E�����[�����C��ɂ��ǂ��܂��B�D����������F�A���Ƃ̂悤�ɂ��ǂ��܂��v
-�u����͂������Ƃł��B�킽�������S���܂����v
-�u�������m�A����ɂ͈�̏���������̂ł����c�c�v
-�@�ƁA�����[�a���͂����ɂ������ɂ��������B
-�u�ȂɁA��̏���������Ƃ����̂ł����A���̏����Ƃ����͉̂��ł��v
-�u����͂܂�\�\�܂�A�킽�����w�S����x�ł����Ă��A�ꂵ�����Ȃ������O�l�ɂ́A�ނ�����N�Ԃ��̍��ɑ؍݂��Ă������������Ƃ������Ƃł��v
-�u�ނ�����N�Ԃ̑؍݂�����Ƃ����̂ł����v
-�@���ǐ씎�m�́A�����ƁA�����т���ނ���Ń����[�a�������߂����A
-�u����A�킽���͂��ꂭ�炢�̂��Ƃ͊o�債�Ă��܂����B�������h���N�ƎO��v�N�ɂ������Ă݂Ȃ���΂Ȃ�Ȃ��v
-�@���m�͗��l�����΂ɂ��ŁA�C�꒴�l���̂������o��`�����B����ƃh���������́A�������Ɍ��ӂ��āA���ǐ씎�m�Ɛi�ނ��Ƃ��ɂ������Ƃ������B�O��v���N���܂��A����΂�Ƃ����������B
-�@�������N�[�p�[�́A�N�C�[���E�����[�����ߕ������ƒm���āA�������̂悤�ɂ��ǂ��Ă������A���̑㉿�ɒ��ǐ씎�m�ȉ��O�l�����̍��ɂƂǂ܂�ƕ����āA����͂����Ȃ��Ǝ咣�����B
-�u����ȂƂ���ɂ̂����Ă���ƁA�C�꒴�l�̂��߂ɂǂ�Ȗڂɂ������킩��܂����B�Ȃ�ł����܂��܂��񂩂�A�����[�����C��ւ��ǂ�Ƃ���܂ł��Ă��ĉ������B�����Ă��悢��Ƃ����Ƃ���ŁA�ڂ���Ƃ�������ɓ������ł��ˁB�C��ɂ́A�����Ƃ킪�p���͑����R���҂��Ă��邾�낤�Ǝv���܂�����ˁA����ɏ��������Ƃ߂�Α��v�ł���B���ꂪ�����ł͂���܂��񂩁v
-�@�ƃN�[�p�[�́A���m�����ɁA���l�����܂��ĊC��֏o����A���̑��Ń����[���̏���Ƃ�������ɓ����������Ƃ�������ɂ����߂�̂ł������B
-
-
-�m���R�������n�؂肽���m���u�؂肽���v�͒����o���n
-
-
-�@�N�[�p�[�������́A������ɒ��ǐ씎�m������āA�C��嗤����̒E���������߂�̂ł������B������A�ނ�Ȃ�ʂ��Ƃ������B�N�C�[���E�����[���������ӂ����ъC��ɕ����ׂ΁A���̉��l�͒��ǐ씎�m�ł������B�����炻�̉��l���A�����N���A���̊C��嗤�ɂ����΂Ȃ��ɂ��Ă����ɂ͔E�тȂ�����A�p��C�R�̎������āA���l���ǐ씎�m�����������˂Α����܂ʂƎv���Ă���̂������B
-�u����A�N�[�p�[����B�킽���̂��ƂȂ�S�z�͖��p�ł��v
-�@�ƒ��ǐ씎�m�́A�����s���񂩁t�ɂ��������B
-�u�킽���͂�͂肱�̊C��嗤�ɂ��̈�N�Ԃ��炵�܂��B�񑩂͂���ς�񑩂ł�����Ȃ��v
-�u�񑩂Ƃ����Ă��A�l�ԓ��m�̖񑩂ł͂Ȃ��A����͂΂����̂��Ⴀ��܂��񂩁B���m�A�ڂ������Ƃ�������ɓ����邱�Ƃɂ��Ă��������v
-�u����A�Ȃ�܂���B���肪�l�ԂłȂ��΂����̂ł���΂����A�킽�������͍אS�̒��ӂ����A�����āA�񑩂��܂���˂΂Ȃ�Ȃ��B�����Ȃ��Ƃ��́A�\�\�v
-�@�Ƃ����āA���m�͂����ƌ������񂾁B
-�u�����Ȃ��Ƃ��́\�\�ǂ������Ƃ����̂ł����v
-�u�N�[�p�[����B�ǂ����Ă������͕��a�I�������K�v�ł����B�킽���͐l�ނ̍K���̂��߂ɂ��������̂ł��v
-�u�킩��܂����B���m�A���Ȃ��́A���܂�ɂ��̂΂����̂����s�����t�ꂷ���Ă���̂ł��B�������킪�p���̋�C�R�͂��΂炵�������v
-�@�N�[�p�[�͂������B
-�u�Ȃ�Ƃ��Ȃ����������Ƃ��A�킽���͂����ɂ̂��錈�S�ł��B�킽���͐M�`�s���񂬁t����ɏd�s�����t�񂶂�悤���炳��Ă����̂ł��v
-�@�ƁA���m�͂����ς肱�������B
-�u�����ł����B����������͂��܂�ɂ����납�ȋ`���s����t���ĂƂ������̂ł��B�ڂ��͂ǂ����Ă����l���锎�m���������������ɂ͂����Ȃ��v
-�@�ӔC�̑傫���N�[�p�[�́A�܂�����̐M����Ƃ�����A�ǂ��܂ł������悤�Ƃ͂��Ȃ������B
-�@���̂Ƃ��A�����[�a���̑傫�ȃ}�X�N���������ւ�炢�ł���̂��������̂ŁA�ӂ���͋��ɂ��܂��Ă��܂����B
-�u���ǐ씎�m�B���́A���Ȃ����������ӂ��Ă����������̂ŁA�����Ԃ�܂񂼂��̈ӂ�\���܂����B����ł́A�킽���ǂ��͂����p�ӂɂ������āA������l���Ԍ�ɂ́A�����[����吼�m��ɂ����ǂ�����悤�ɂ͂��炢�܂��v
-�u�����[�a���A���m���܂����B������l���Ԃ̂��Ƃ����Ɓ\�\�v
-�@�Ɣ��m�͎��v�����āA
-�u�����A�吼�m��͖�ɂ͂������΂���̎����ɂȂ�܂��ˁv
-
-
-�m���R�������n���S�m���u���S�v�͒����o���n
-
-
-�@���ǐ씎�m�A�h���������A����ɎO��v���N�̎O���́A�h�ɂɂ��Ă�ꂽ�n�����̂悤�Ȋ��C���s�ق����������t�̂Ƃ��ɉ������A������̔�J���₷�߂Ă��邤���ɁA���̂܂ɂ��l���Ԃ͉߂������āA���悢��N�C�[���E�����[�����C��֕Ԋҁs�ւ񂩂�t���鎞���Ƃ͂Ȃ����B
-�u���ǐ씎�m�A�����o���ł���v
-�@�ƁA��������N�[�p�[���͂����Ă����B
-�@���m�͖��f�s�߂��킭�t�����Ȋ�������B
-�u�킽�����������Ă����Ȃ��ł��A���Ȃ������͊C��ւ������ł��傤���ȁv
-�u��������Ȃ��ŁA���Ђ�������ɂ��Ă��Ă��������B�����[�N�ɂ��A��낵����������̂�ł����܂�������B�����A���傤�ǂ����B�����[�N�����Ȃ����ނ����ɂ����悤�ł���v
-�@���������Ă���Ƃ���ցA�͂����ă����[�a���̑傫�ȓ�����������͂����Ă����B
-�u���ǐ씎�m�B���ꂩ��A�h��������O��v�N���A�����[�����C��ɂ��ǂ��Ƃ�������ɂ����܂��傤��v
-�u�킽���͂����ɂ������̂ł����v
-�u�Ȃ��ł��v
-�@�ƃ����[�a���͖₢���������B
-�u�킽�������͈ꍏ���͂₭�C��嗤�̌������������̂ł��v
-�u���┎�m�B�킽���͓S����ɂ̂�A�����[���ɂ��ĊC��܂ł����Ȃ���΂Ȃ�܂���B����Ƃ��Ȃ���������ɂ̂����Ă������Ƃ͐S�z�ł�����\�\�͂��͂��͂��A�S�z����قǂ̂��Ƃ�����܂��񂪁A����A���Ȃ�Ȃ��킪�Z������������𓭂��Ɛ\���킯�Ȃ��̂ŁA���ЊC��܂ł킽���Ƃ�������ɂ����Ă��������B�킽���Ƃ�������ɂ���΁A���������Ɉ��S�ł�����v
-�@�ƁA�����[�a���́A���m��������ɂ̂����Ă��������Ȃ��C�����A�͂�����Ɛ��������B
-�@���m������قǂ܂łɂ����ẮA�Ƃ܂��Ă���킯�ɂ��m���u�Ƃ܂��Ă���킯�ɂ��v�͒�{�ł́u�Ƃ܂��Ă���킯���Ɂv�n�����Ȃ��̂ŁA�悤�₭�Ƀ����[�a���ɂ��āu�S����v�ɂ̂肱�ނ��Ƃ����m�����̂ł������B
-�@�ߌ㔪���\�\����́A�吼�m��̎����ł������B�Ȃ��炭�C��嗤�ɕ��߁s�Ԃ�ǁt���Ă������D�N�C�[���E�����[���͂��܂��Ȃ�A�҂̓r�ɂ̂ڂ邱�ƂƂ͂Ȃ����B�͂����Ă����Ȃ���@�ɂ���āA�m��ɕ����т�����̂ł��낤���B���m�����S���̕��g��Ɓs�ӂ悤�����傤�t�ɂ��đ傫�ȋ����������Ȃ��ł��Ȃ���������ǁA���������̋������́A�����[���������̏�q���g���ƂƂ��Ɉ��S�ɖ{���ɋA������Ƃ����̂�C���̂ق����傫�������B���ہA���̊C�꒴�l�̂�����ׂ��Ȋw�͂ƁA�����Đl�Ԃ̓��]�ł͂Ƃ��Ă��͂��邱�Ƃ̂ł��Ȃ����l�I�v�z�Ƃ�m���Ă���̂́A���ǐ씎�m�����ЂƂ�ł������̂��B
-�i����ׂ��C�꒴�l����B�����Ēn��̐l�ނ́A�Ȃ�Ƃ����̂񂫂Ȑ������낤�j
-�@�����������Q���s���񂹂��t���A�����������тƂȂ����m�̋��̂����ɂ��肩������Ă���̂��A�����炭�h�����������A�܂��A���̑��̂�������m��Ȃ��ł��낤�B
-�@�N�C�[���E�����[���́A����m��ɏo���Ƃ����̂ŁA��g���Ƃ��킸�A�D�q�Ƃ��킸�A�S�����D���̉��ӂ����ւ������߂�ꂽ�B
-�@�N�[�p�[�������ƁA�����č����s�����ڂˁt�����������ł��āA�Ȃ������������s���񂬂�t���Ă��������[���̘V�D���̂����ӂ��肪�A�D���ɋ߂��ꎺ�ɘA���̂��߂Ƃ߂����ꂽ�܂܂ŁA���͑S���A�D��ɂ��イ���イ�Â߂ł������B�����̂Ȃ��΂́A�ӂ����ѐl�Ԑ��E�ɂ�����邱�Ƃ���낱�сA�܂����̔����́A�͂����Ė����ɂ��̋��D���m��ɕ����т����邾�낤���ƁA������ɋ��������߂Ă����B
-�u�����A���悢��o�����v
-�@���g�W�̊C�꒴�l���A�ǂ�ǂ�ǂ�ƁA�N�[�p�[�̂��镔�������Ƃ��炽�����āA�o���̍��}�������B
-
-
-�m���R�������n�C��o���m���u�C��o���v�͒����o���n
-
-
-�@�ꂢ�̊C�꒴�l���̎�b������ɂ��Ă���N�[�p�[�́A�o�����Ƃ�ԕ��g�W�̌��t����傤���������B
-�u�D���A���悢�惁���[��������������܂���v
-�@�V�D���́A���y�����̏�ɐQ���ׂ��āA�����񂸂���Ƃ����ލ����������Ă������A�N�[�p�[�̂��̌��t�ɁA�q���̂悤�ɖڂ������₩���ƁA
-�u�킵�͖����݂Ă���̂���Ȃ����ȁB�܂������M�����񂱂Ƃ��v
-�@�ƁA����A���E�ɂӂ����B
-�u����A�D�̂��Ƃ́A�킽���ɂ܂����Ă����Ă��������B���Ȃ��́A�����h���ɓ��`���Ă̂��̊��}�ɂ������鎫�s���Ƃ΁t�ȂǍ�����l���Ēu����邪�����ł��傤�v
-�@�N�[�p�[�͎v�����Ԃ������t���A�V�D���ɂȂ����B
-�u�����A�킵�͐S�z�����B�Ȃ�قǍ��A�D�͂Ȃ񂾂��A���Ƃ�Ɖ������ĂĎ������������悤���Ⴊ�A�ق�Ƃ��ɁA���Ƃ̑吼�m�ɂ��ǂ��̂��̂��B���݁A������Ƃ��Ƃ����Ă���ʂ��v
-�u���Ƃ͌��Ă͂Ȃ�Ȃ��񑩂Ȃ�ł��B���A�҂��Ă�������Ⴂ�v
-�@�ƃN�[�p�[�͂����Ƃ܂�܂ǂɋ߂Â��Ă��Ƃ������������B���̂Ƃ��A�Ȃ񂾂��������܂�����������m���u����v�ɖT�_�n�̂悤�Ȃ��̂��A���邮�铮���Ă���悤�Ɍ������B�͂āA����͉����낤�Ǝv���āA�܂�܂ǂɊ�����Ă悤�Ƃ����Ƃ��A�܂ǂ͂��Ƃ���҂���ƎՌ��s���Ⴑ���t���ꂽ�B
-�@�Ռ������̂́A�܂�܂ǈ�ς��́A�C�꒴�l�̂���������ł������B�Ȃ�Ƃ����C���̂�邢��ł��낤�B
-�@���̂Ƃ��A�h�A���ǂ�ǂ�Ƃ��Ƃ��炽������A
-�u����A�N�[�p�[�B������Ȃ�ʂƂ����񑩂��Ȃ���Ԃ����B�����[���̕��g��Ƃ𒆎~���Ă������̂��ˁB������x���������Ă݂�B���̂Ƃ��͗e�́s�悤����t�͂��Ȃ����v
-�@���l�́A��΁s������t�̂悤�ɓ{���āA�h�A�����܂ł��ǂ�ǂ񂽂����Â����B�������̃N�[�p�[���A����߈����͂������A�ʐl�̂悤�ɂ��傰�Ă��܂����B�C�꒴�l������������A�ǂ�Ȃɂ��킢���Ƃ��A����͒m��ʂ킯�ł͂Ȃ����������ɋ��낵�������B
-�u����A�N�[�p�[�B����������点��ȁv
-�@�ƁA���������V�D�����A���܂͂ӂ邦���������B���������̋A�ҁs������t�����̂���Ƃ����Ă��܂��ẮA�܂��Ɉ�厖�ł��邩��A�����Ȃ��ẮA����̂����������Ǝ肠���Ƃ��Ă����˂Ί댯�ł������B
-�@�D��ɂ������߂��Ă���ꂢ�̏�q�̂����ɂ́A�鏑�̃}������ꓙ�^�]�m�̃p�C�N�\�����܂����Ă����B�������A�����[���̑D���Ƃ��āA����Ȏ����ɂ������֌W��A�ǂ������Ă��Ƃ��������Ǝv�����B�����A�����̂�邢���ƂɁA�����ɂ͊C�꒴�l�̌��͂�Ԃ��A�䂾��Ȃ�����낫���Ɩڂ����点�āA�����ɂ������߂Ă���D�������̊���ɂ��ł���̂ŁA�ǂ��ɂ��Ȃ�Ȃ��B
-
-
-�m���R�������n�����������Ɓm���u�����������Ɓv�͒����o���n
-
-
-�@�����ɂ͂܂������z���̂��Ȃ����Ƃ��A���A�C��ɂ����Ă����Ȃ��Ă���B�N�C�[���E�����[���̕��g��Ƃł���B
-�@�S����s�Ă��炰�t�ɏ���Ă��郍���[�a���́A���ǐ씎�m���͂��ߎO�l�̐l�Ԃ����ɁA�Ƃ��ɂ��̂��΂炵����Ƃ����邱�Ƃ���邵���B
-�@�O�l�́A����邪���S����̂��Ƃ������鐅���]�����ɂƂ���āA���ǂ낭�ׂ��C�꒴�l�̒q�\�͂ɐ���܂����B
-�@�����]�����͐����͂̐��]���̂悤�ɁA�V�䂩��Ԃ��Ƃ������Ă���~����s����Ƃ����傤�t�̂��̂ŁA���ɂ̓n���h�����܂킷�ƁA�㉺���E�A�ǂ���ł����������R�Ɍ����ł�����̂ł������B
-�u�����A�����錩����B���ꂪ�����[�����v
-�@�Ɣ��m�����ǂ낫�̐����������B
-�@�܂�����ȑ�[�C�̒�ɁA�����[���̋��̂��������ɂ�����Ă���B�ǂ����痈��̂��A�����̂܂������������D���ɂ������Ă���B�D�̂͂��Ȃ�Ђǂ����т��āA���̔������N�C�[���E�����[���̎p�͂ǂ��ɂ������Ȃ������B
-�@�悭���Ă���ƁA���̂͂������ɕ����������Ă����B����ɂ��Ă��A�����[���͐��т����ɂȂ��Ă���̂��Ǝv���Č��Ȃ����ƁA�����ł͂Ȃ��炵���B�}�X�g�ɂ������Ȃǂ̌`���炵�āA�ʂɐ��ɂʂ�Ă���Ƃ͎v���Ȃ��B
-�u���ށA��̂ǂ��������ƂɂȂ��Ă���̂�����v
-�@�ƁA�Ȃ������m�͂ЂƂ݂������߂Č��Ă��邤���ɁA�݂傤�Ȃ��̂𔭌������B����́A���̂̎��͂ɑȉ~�`�s�����񂯂��t�̗֊f�s��񂩂��t�������邱�Ƃł������B���ꂪ���̂Ƃ�������ɁA���������Ƃ����������Ă����B�܂�Ń����[����ȉ~�̊z�s�����t�Ԃ��ɓ��ꂽ�悤�Ɍ������Ƃ�������킩��ł��낤�B
-�@���̂����ɁA�ق�Ƃ��͊z�Ԃ��ł͂Ȃ��A���D�������̂̒��ɂ͂����Ă��邱�Ƃ��킩�����B�܂�A���̂�����Z�����C�h�ł����āA���̒��ɂ��邫�݁m���u���݁v�ɖT�_�n���N�C�[���E�����[���Ǝv���΂悢�̂ł������B
-�@���̊O�k�s���������t���A���ɖ��ł������B
-�@����́A�l�Ԑ��E�ɂ͂܂���������Ă��Ȃ��S���ޗ��s�˂񂿂Ⴍ������傤�t�ŏo���Ă�����̂炵���B
-�@���̂����ɂ��A���D�͂��񂾂�ƕ����������āA�₪�Ăۂ�����ƊC�ʂ֏o���B
-�@��������ɂ�����ł���悤�Ȃ����������B
-�@�������A���D�͂܂����񂾂悤�ɂȂ��Ă���B
-�@���̂����ɁA�ȉ~�`�̉�����A�������ɊC�����͂����Ă����B
-�@���т������D�̒�̕�����A�C���͂������ɏ�ւ̂ڂ��Ă����B
-�@���̂����Ƀ����[���̑D���ɂ́A���ʊC��ɕ�����ł���Ƃ���̂Ƃ���܂ŊC�����̂ڂ����B
-�@���Ƃ͂܂�����Ȗ邾�B
-�@�C��͔g�����Ă���B
-�@���̂Ƃ��ȉ~�`���ς��ƒ��ɂƂт������B�����[������ł����O�k���Ƃꂽ�̂��B���D�͎O�J���Ԃ�ŁA����Ƒ�C�̒��ɂ������̂ł������B
-
-
-�m���R�������n�Đ��s���������t�̖�m���u�Đ��̖�v�͒����o���n
-
-
-�@���敗�����������ȊC��ł������B
-�@���܁A���D�N�C�[���E�����[���͂Ђ������Ԃ�ɁA�Ȃ������C��ɂۂ����蕂����ł���B
-�@�D�̂̃y���L�́A�������邩�����Ȃ��قǂ����Ȃ��͂��Ă���̂ł��邪�A�K�s������t���ɖ�̂��ƂƂāA��݂̒��ɂ��܂��ڂ����Ȃ������B
-�@�����̑D�����q�����́A�C�꒴�l�̂��ߑD����D��ɂ������߂��Ă��邪�A�{�D���C��ɂ����񂾂��Ƃ��A����Ǝ@�����B�Ȃ��Ȃ�A�����́A�g�̂��˂�ɑD�̂����[���Ƃ���̂ɋC����������ł���B
-�@�C�꒴�l�́A���܂�p����������̂ŁA�Q�s����t���Ȃ��āA���낼��ƍb�̏�ɂ͂��̂ڂ��Ă����B�������݂�邢�傫�Ȃ܂邢�����A�܂�ŃS�����D���悹���߂��悤�Ɍ����A�����Ă����́A�܂�ŕ�����q�s���傤���t�̔j��ڂɂ�����Ƃ��ɔ�����悤�Ȋ�قȐ��������āA������ɂȂɂ��Ƃ������₫�������B����͂��Ԃ�A���g��Ƃ��I���Ă܂��悩�����˂��A�Ƃ������悤�Șb�炵�������B
-�@�₪�ĊC�꒴�l�����́A���c�s�Ȃ��t�肨�������ɍb�����܂킵����A���ꂩ���т������Ƃ���Â��C�ʂ��Ȃ��߂��肵�Ă����B
-�@�������N�[�p�[�́A�����Ȃ�@����˂���Ă����̂ł���B
-�@����́A���΂₭�ꓙ�^�]�m�p�C�N�\���̂��ƂɁA���閧�߁s�݂ꂢ�t���������B���肩��p�C�N�\���́A�D��ɂ������Ƃ���ɂƂ����߂��Ă������A�N�[�p�[����̓d�b�ɁA�C�꒴�l�̂��������������đD�ꖳ�d���ɂ��̂т�����B
-�@�K���ɁA�����Ɍ��͂�����Ă����C�꒴�l�̎p�͌����Ȃ������̂ŁA�����肩�������ƁA�������ܖ��d���ɂƂт��񂾁B
-�@���d���̒��ɂ́A�N�����Ȃ������B���d�Z�t�͂ǂ��֍s�������A�����s���傤�����t�͂܂������s���ł������B��ꂱ�̑D�ꖳ���d�M���Ƃ����̂́A����̏ꍇ�ɍŌ�Ɏg�����d���Ȃ̂ł��邩��A��B�����񂽂�ł��܂ł������B
-�@�p�C�N�\���́A���������S����s�܂�t�̊Ԃɂ݂��āA���d��B�̂܂��ɋ߂Â����B�����āA�܂��A�d���X�C�b�`�������Ɠ���Ă݂�ƁA���܂��d�C������ł͂Ȃ����B����͎v�킸�A
-�u���߂��c�c�v
-�@�Ƃ����񂾁B
-
-
-�m���R�������n���߁m���u���߁v�͒����o���n
-
-
-�@�p�C�N�\���́A���d��B�ɂ��āA�������͒m���Ă����B
-�@����͂����Ɏ����~��M�����M�@������̂ɖڂ����A���΂₭���̐Ԃ��ڂ�����������B
-�@��B�́A�҂��Ă��܂����Ƃ΂���A���Ƃ��ƂƂ܂�肾�����B�^��ǂ����A�����@���܂��o���A���܂����Z�O�����g���������~��M�����s���イ�Ȃ񂵂񂲂��Ƃ��t���܂�肾���A���������Ƃ�����Ɏ����d���s���ǂ��ł񂯂�t���͂���B
-�u���ށA���܂����������B�������̋~��M�������ꂩ����M���Ă��ꂽ��A�킪�����[���͏�����ɂ������Ȃ��v
-�@�N�[�p�[�������̂��Ƃւ́A�����������̂��Ƃ�񍐂��Ă������B
-�@�N�[�p�[�͂�낱��ŁA
-�u���ށA���܂��������B�C�꒴�l�͋C�����Ȃ��ł���悤���v
-�@�Ƃ����Ă���A�}�ɐ������Ƃ��A
-�u���܍����̌���Ɂw�S�̐���x��������ł���̂��B���Ă����A���F���������Ă��邩��B���̓S�̐�����A�ǂ��ɂ����Ă��܂��Ă��ɂ�C�����܂Ȃ��v
-�@���������Ă��邤���ɁA�܂�����ȋ�̈ꂮ������A�����������锚�����������Ă����B
-�@��s�@�̉��炵���B
-�@���̂����������锚���́A�݂�݂�߂��ɂ��܂��Ă����B�����Ă��̔����͂��悢��傫���������Ă���Ƃ��������ƁA���Ȃ肨�т����������炵���B
-�@����𕷂������̂̓N�[�p�[�������������B����͂�낱�т̐��������āA�������ɒ����̂тĂ���V�D������肤���������B
-�u�D���A���̔������������܂��ʂ��B��������̔�s�@������Ă���悤�ł���B�����ƁA�������������~��M���𕷂������̂ɂ������Ȃ��v
-�@�Ƃ����΁A�V�D�����������̏ォ��ނ�����N��������A
-�u�Ȃ񂶂�A��s�@����Ƃ����̂��B��̂ǂ��̔�s�@���낤���v
-�@�Ƃ����Ă��邤���ɁA�����͂�������ɗ����B
-�@�ƁA�ρ[���Ɩڂ�����ތ��e�s��������t���󒆂ɂ��������ꂽ�B
-�@��e�A�܂���e�B
-�@���Ƃ��炠�ƂւƋ󒆂ւ������������e�́A���񂾂�Ƃ����Ƃ܂Ԃ����Ƃ𑝂��A������̊C�ʂ͂܂�ŁA�Ђ�܂̂悤�ɖ����邭�Ȃ����B
-�@���̂Ƃ��A�����̓d�b�킪�A���肶��Ɩ����B�N�[�p�[���Ƃт��悤�ɂ��Ď�b����Ƃ肠���Ă݂�ƁA�p�C�N�\���̐��ŁA
-�u�₠�A�΂񂴂��ł��B�킪�p����R������d������܂����B�O��I�ɋ~�����邩����S����Ƃ����̂ł��v
-�@����������āA�N�[�p�[�͂��ǂ肠����A
-�u�������B����ł͋�R�ւ������܁A�����`����B�C�꒴�l�̉��q�����[�Ȃ���̂��A���ܖ{�D�̍�������ɂ��邩��ؗ��s�ӂ��t�ɂ���悤�ɁA�Ƒœd�s���ł�t����񂾁B�������񂾂��v
-�u�S���܂����v
-�@�p�C�N�\���͂��񂽂�ȕԎ������āA�������ܑ��M�@�Ɍ������A�N�[�p�[���炢������ꂽ�Ƃ����œd�����B
-�@�C�꒴�l�����́A�����m���m�炸��B
-
-
-�m���R�������n�₠�I�@���X�L����сm���u�₠�I�@���X�L����сv�͒����o���n
-
-
-�@���т����������e�ɏƂ炵�����ꂽ�A�͂��������̃N�C�[���E�����[���I
-�@���̍b�̏�ɂ́A�Ԃ�Ԃ悵���傫�Ȃ܂邢������A�O�S�A�q�f�s�����Ɓt�����您���قǂ̕s�C���s�Ԃ��݁t�Ȍ��i���Ă����Ȃ���A�������������Ă��݂����Ă���B
-�u�����A�ւ�Ȃ��ƂɂȂ��Ă������B�ǂ����悤���v
-�u�t�l���������Ă�����̂ɁA�Ȃ񂾂������₩�łȂ����Ƃ���邶��Ȃ����v
-�u�����[�a���ɑ��k���Ă݂悤�B���̏�ł����̑ԓx���͂����肫�߂悤�ł͂Ȃ����v
-�@�ȂǂƂ������Ӗ��̂��Ƃ��A�C�꒴�l�����͂��������ɂ����т����Ă���̂ł������B
-�@�������͎������N�[�p�[�ł���B
-�@����͑D�ꖳ�d���ɂ���p�C�N�\�����͂��܂��āA�O���Ƃ̖����d�b���A�������̕������瑗��ł���悤�ɁA�d�C��H�̐ڑ��������������B
-�@���ꂪ���܂��J�ʂ���ƁA����͂��������~���ɂ��Ă��ꂽ��R�ƘA�����Ƃ����B
-�u���A���Ȃ��̓��X�L����сI�v�N�[�p�[�͂т����肵�Đ���傫�������B�u�����A���Ȃ��������Ƃł��B�킽���͎������N�[�p�[�ł���B���Ȃ��̉ƂƂ킽���̉ƂƂ́A�����O���X�S�[�s�̃X�^�[�X�Ɍ��������Ă��܂����ˁB�悭���Ă����������c�c�v
-�@���X�L����т́A�@�ォ��N�[�p�[�����Ɍ��C�����A
-�u����ǂ����́w�S�̐���x���A���ꂩ��A�����ő��s���񂼂��t���Ƃ����������������A��������ɂ�����Ă��܂��܂��v
-�@�ƁA�E�s�����t�܂��������ł����āA
-�u�������A���������Ƃɋ@�ォ�猩��ƁA���̉����ǂ��͍b�ɂ��悤�悵�Ă���΂���ŁA���������Ȃ��̂ł���B���̂܂܂ł͂܂�����������킯�ɂ������܂���ˁv
-�u�������A���X�L����сB�Ȃ�Ƃ����āA���̉����ǂ����b����ǂ��ς���Ă��������v
-�u����A��ނ����܂���B����i��p���܂��傤�v
-�u�����A����i�B�󒆂���{�D�𔚌�����̂��Ⴀ��܂��܂��ˁB����Ȃ��Ƃ�����Ɓ\�\�v
-�u������񂹂��������ǂ��Ă��������[����j�󂷂�悤�Ȃ��Ƃ͂��܂����B�×܉t�s�����邢�����t���󒆂���܂��܂��v
-�u�×܉t�H�@�����A���̉t�̂��Ƃł��ˁv
-�u�����ł��B�ł�����D�����q�����́A���������͂₭�D���ɔ��s�ЂȂ�t����悤�ɂ����Ă��������B�����Č˂Ȃǂ��������Ƃ��āA�t�₻�̉������D���ɂ͂��肱�܂Ȃ��悤�ɂ����ł��ˁB��낵�����v
-�u�����A�悭�킩��܂����B�ł͂��Ə\���ԂɁA������D���ɔ����܂��v
-�@�󒆂���b�ɂނ����ĉt���܂��Ƃ͂����ւ񂢂��l�����B����ň��S�����ӂ���ƁA�N�[�p�[�́A�����傤�Ă�ɂȂ��Ă�낱�񂾁B
-�@�������ɁA�D�����܂Ȃ��x��͔�����ꂽ�B
-
-
-�m���R�������n�×܉t�s�����邢�����t�m���u�×܉t�v�͒����o���n
-
-
-�@�������Ԃ̏\���Ԃ́A�͂₭���������B�N�C�[���E�����[�����C��ɏo���Ƃ����̂ŁA���ꂵ�܂���ɁA���낵���̂��킷��čb�ɏo�Ă����l�����̊Ԃ��ʂ��āA���̖��߂͓`�����A�ꓯ�͋}���őD���ɂ������Ă����B�����ăh�A�����������낵�A����ǂ͍b��̉������ǂ����Ă��͂��肱�߂Ȃ��悤�ɂ����B
-�@�}�����鏑�͐����̋����s�������傤�t�ȑD�����Ђ���A���̂܂ɂ��N�[�p�[�̂Ƃ���ւ������Ă����B�����āA�ď��Ɓs�낤���傤�����傤�t�����т��тƂ���Ă̂����B
-�u�N�[�p�[�������A���ꂾ�����Ă����΁A�������v�ł��v
-�@�ƁA�h�A�̂Ƃ���ւ��Ă������x�b�h��d���������m���u�����v�ɖT�_�n�Ȃǂ����߂��āA���M���肰�ɖڂ������₩�����B
-�@�N�[�p�[�́A���Ƃɂ��߂����ꂽ�C�꒴�l�����ꂩ��ǂ�Ȃ��킬�����񂸂邾�낤���ƁA�C���C�łȂ��B
-�@�܂ǂ͂��ׂē����킩��A�_�Ə��Ђƃt�g���Ƃŕ⋭���Ă��������A���̂����̈���킸���ɂ����������Ă��āA�K���X�z���Ɍ��e���ɐ�������b���������猩�����B�N�[�p�[�́A���s�Ȃ܁t�΂��̂�ŁA�Ȃ�䂫�����ɂƌ��߂Ă����B
-�@�×܉t���󒆂���~���Ă����̂́A���ꂩ��A���̂̌ܕ��Ƃ����Ȃ��ゾ�����B
-�@�\������̔�s�@�������������锚���������A�}�X�g�ɂԂ��肻���Ȓ���s�łƂ��肷�������Ǝv���ƁA���΂炭���Ă���A�҂��ɂ܂������킬���N�������̂ł���B
-�@�����̂܂��ɂ�肠�܂��Ă����A���̑�Q�̏�ցA�߂����J���ꂪ�A�ۂ�Ƃ����Ă����Ƃ��̂��킬�̂悤�ɁA�b�̏�ɂ����܂��Ă����C�꒴�l�������A�ɂ킩�ɏ�����ւ̑嗐���s�������Ƃ��t���͂��߂��B
-�@��ւƂт�����ҁA�����Ă���ƂɂԂ���ҁA�g�݂������܂܂��낰�܂��ҁA�܂邢�����܂�łӂ肱�̂悤�ɂ�肤�������ҁA�\�\���₽���ւ�Ȃ��킬�ł���B
-�@�����߂��A���������������ĂĂ��邱�ƂƎv�����A�܂ǂ��݂Ȍ��d�s���񂶂イ�t�ɂӂ������Ă���̂ŁA�N�[�p�[�̎��ɂ́A�Ȃɂ��������Ȃ��B
-�@�Ԃ�Ԃ悵���V�傠���܂̏�ɂ́A�������ɔZ�s���t�����F�s�������傭�t�̂��肪����Ă����B
-�@��s�@������o�����×܉t���A�ǂ�ǂ񂨂��Ă���̂��B
-�@�V�哪�s�ڂ��������܁t�̏�ɂ́A���錩�邭�낸�񂾂����Ȃ����݂��ڗ����Ă����B�X���s���イ�����t�ȐG��s���傭����t�̂悤�Ȃ��̂����{�ƂȂ��V�傠���܂��������Ă���B
-�@���X�L����т̍��́A��������}�ɂ��������̂��B
-�@�������̊C�꒴�l���A�×܉t�̂��߁A����h���s�������t����āA�܂��A�Ƃ߂ǂ��Ȃ��o�āA��������܂����Ă��܂����B
-�@�����𑈂��āA�����s���񂻂��t����C�ʂւǂڂ�ǂڂ�Ƃ��낰������B���ɂ́A���������������錳�C�����Ȃ��Ȃ��āA�b��ɂւ��΂���̂����o�Ă����B
-�@�C�꒴�l���ɔs��̐F�͂������ɔZ���B
-�@���X�L����т̎w�������R�����́A���肩�������肩�����A���̉t���܂����B
-�@�N�[�p�[�������́A���̂��肳�܂���������悤�ɂȂ��߂Ă���B
-�@�{�D�̍�������̊C�ʂɂ�����ł���͂��́u�S�̐���v�́A���Ȃɂ����Ă���̂ł��낤���B
-
-
-�m���R�������n�����h���킫������m���u�����h���킫������v�͒����o���n
-
-
-�u�N�C�[���E�����[����������I�v
-�@���̈�����́A�͂邩�����h���ɒB�����B����͂����^�钆�ł���������ǁA�a�a�b�ǉ��̊e�����ǂ͂��킽���������M�@���N�����āA���̖��̂悤�ȃ����[���̍ďo�����A�S���ɂނ��Վ��j���[�X�Ƃ��ĕ��������B
-�@�T�C�������肾�����B
-�@�ԉ΂��A�܂�����Ȗ��ɁA�ۂ�ۂ�Ɨ�s���t���s�ȁt�����B
-�@���O����̏��N���A�吺�ŊX�H���ǂȂ��Ă����B
-�u�����ւ񂾃b�B�����A�N�C�[���E�����[���̏����s���傤�����t�m�����r�́u���傤�����v�͒�{�ł́u���傻���v�n���킩�����Ƃ����卆�O�I�@���܏o�܂����卆�O�I�v
-�@�������Âȃ����h���s�����A���̑�j���[�X�𕷂��āA������ނ��݂ȍV���s�����ӂ�t���Ă��܂����B�ǂ̉Ƃ̂܂ǂ��ۂ�ۂ�ƂЂ炭�B�����ւ��������҂�����B�Ȃ�̂��߂��A�����Ԃ������ς肾���ďo������҂�����B�܂�Ŗ钆�̑�n�k�̂悤�Ȃ��킬���B
-�u�N�C�[���E�����[���������������āH�v
-�@�s�������́A�����[���̔����ɂ��āA�����Ƃ��킵���j���[�X��m�肽�������B�܂��A���̌�̂悤�����ꍏ�������m�肽�����āA�����ǂ�V���Ђɂ́A�d�b��Q�O�����������āA�ǂ��ɂ�����������Ȃ������B
-�@�₪�āA�҂��ɂ܂��ꂽ���񂪔��\���ꂽ�B
-�u�N�C�[���E�����[���́A���X�L����т̎w�����ɂ����R�̎�ɂ���Ă�����������A�ډ��C��������h���ɂނ��A�q���ł���B�D�q�Ə�g���͂����Ԃ錳�C�ł���B����������̑�����ɂ���Ď���������҂�����悤�ł��邪�A�܂��ڕ�s���傤�ق��t�͔��\����Ȃ��v
-�@�s�������́A���̑�������ɂ��āA���������薞���̊������������B
-�@�������A���΂炭����ƁA�܂������Ƃ͂��������̏ڕ�𑁂��m�肽�������B
-�u�N�C�[���E�����[���������ɂ������Ă���Ȃ�āA�܂�Ŏ��l�����s����t�̒��ɐ������������悤�Ȃ��̂��ˁv
-�u�������A��������A�����Ƃ����Ɛ_��s����ҁt�Ȋ�ւ��B�����[���������h���ɂ������Ă���ƁA����͂܂������l�ŁA�����ւ�Ȃ��킬���͂��܂��v
-�u����A�킵�̂悤�ȘV�l�́A�j���[�X�f��ƕ����Ƃł��܂񂵂Ȃ���΂Ȃ�Ȃ����낤���A����ŁA�����ܔN���Ⴏ��΁A�l�������̂��Ă��u���s�ӂƂ��t�ւ����Č���񂾂��Ȃ��v
-�@�����h���s���́A�Q����炸�A���ɋŁs�������t��ܓ��s�قǂ��t�̏�łނ������҂������Ȃ��Ȃ������B
-�@�ނ���Ȃ��B���E�ɂق���吼�m�̏����N�C�[���E�����[�����A��֓I�ɐ��҂����Ƃ����̂ł��邩��A���ꂭ�炢�̂��킬�͂�����O�ł��낤�B
-�@�N�C�[���E�����[���́A���܁A�ǂ̂ւ�̊C����q�s���Ă���ł��낤���B
-�@���̂悤�ɂ������Ȃ��A�C�꒴�l���̎肩��͂Ȃ��ꂽ�̂ł��낤���B
-�@�×܉t���A���ɊC�꒴�l�������S�Ɉ��|���Ă��܂����̂ł��낤���B
-�@�C��͍L���ĈÂ��B���S����ɂ́A�܂������悤���B
-
-
-�m���R�������n���Ƃ��܂m���u���Ƃ��܂v�͒����o���n
-
-
-�@�����A�N�C�[���E�����[���𒆂ɂ͂��݁A���X�L����юw���̉p��R�ƊC�꒴�l�̌Q��Ƃ̂ɂ�݂����́A�����I���ɂȂ����킯�ł͂Ȃ������̂ł���B
-�@��P�I�ɍ×܉t���͂����̏ォ��܂��ꂽ�C�꒴�l�����́A��Ȕߖ������āA�ǂڂ�ǂڂ�Ƃ܂�����ȊC�ɂ����Ă����B���Ƃ��炠�ƂւƁA���̂����Ȕs���ҁs�͂���������t�̎p���A�����[���̂Ă�����̂肱���āA�ނ����ɒė��s���炭�t���Ă����̂��A���e�̏Ɩ����Ɍ���ꂽ�B
-�u�ɂ��B�ǂ������Ă���v
-�u�E���Ă���B���̕����܂����v
-�@�ȂǂƁA�ꂵ�݂ɂ������C�꒴�l�����́A�×܉t���̂낢�Â��Ă����B
-�@���܂̓N�C�[���E�����[���̎��ۂ̎w���҂ł��鎖�����N�[�p�[�́A�܂ǂ̂����܂���A�b��ɓW�J���Ă䂭���̜��Ɓs���������t�Ȍ��i�ɖ�����ꂽ�悤�ɁA�����ƌ��߂Ă����B���܂⃁���[����̑S���́A�܂�����������Ă˂ނ���̂��B
-�@���̂Ƃ��}�����鏑���A�N�[�p�[�̌������������B
-�u�������A���X�L����т���̖����d�b�ł��v
-�u�ȂɁA���X�L����т���v
-�@�N�[�p�[�͖����炳�߂��l�̂悤�ɁA�ӂ������߂��������āA�܂ǂ���͂Ȃꂽ�B
-�@�d�b�ɏo�Ă݂�ƁA�������Ƀ��X�L����т̐����B
-�u�₠�A�N�[�p�[����B���������\�\�w�S����s�Ă��炰�t�x�Ƃ������܂����ˁB������Ƃ��Ƃ��ߊl�s�ق����t���܂�����v
-�u�����A�S��������܂��܂������B�����͂����ւ�Ȃ��Ă���ł��B�������A�悭���܂�܂����ˁv
-�u�킽���́A�킪�h�������͂ɘA�����āA�ߊl���Ă�������̂ł��B�Ƃ��낪���́w�S����x�ł����A�ߊl�������̂́A���̂悤�ȏꏊ�ł�����A�ꍇ�ł�����A���̂܂܁A�Ԃ����Ă��邱�Ƃ��ł��Ȃ�����A�킪�͑��̎�Łw�S����x�𔚒��������Ƃ����̂ł��B����ɂ��āA�Ȃɂ��ӌ�������܂����v
-�@���X�L����т́A�S���ꔚ�������������N�[�p�[�������ɖ₢���킹�������̂��B�N�[�p�[�͂���𕷂��ƁA�܂��Ȃɂ������ɁA�S����ɂ̂��Ă���͂��̉��l���ǐ씎�m��s�̂��Ƃ��������A���ɁA�����ǂ��Ď肪��ɂ������Ƃ������Ă��郍���[�a���̂��Ƃ��l�����B
-�u��сA����Ⴂ���܂����B���̓S����ɂ́A�킽���������������ĊC��ɏo����悤�ɓw�͂��Ă��ꂽ���ǐ씎�m������Ă����ł��B���m���܂������Ă��������B���ꂩ��C�꒴�l���̉��q�����[�a���Ƃ����̂�����Ă��܂�����A����𐶂��ǂ��Ă����΁A���ꂩ��̂��C��嗤���炨�т₩���ꂸ�ɂ��ނƂ������܂���B�Ƃɂ����������������łȂ��ƁA�������Ă�����Ă͂��܂�܂��v
-�u�ق��A�\�\�v
-�@�ƁA���X�L����т͋@��Ŗڂ��܂邭���Ă���悤�ł������B
-
-
-�m���R�������n�����ҁs���傤���傤����t�m���u�����ҁv�͒����o���n
-
-
-�u���ЁA�S����̏���͏��������Ă��������B���Ƃɒ��ǐ씎�m�ɂ́A�����̂Ȃ��悤�Ɂv
-�u���ށA������Ƃ߂�ǂ��Ȃ��ƂɂȂ������A�͑��Ƒ��k���Ă݂܂��傤�B�Ȃɂ���A�͑��͂��ꂩ��C��嗤�𔚌����悤�Ƃ��Ă���̂ŁA�����ւ񒣂肫���Ă���̂ł��v
-�@���X�L����т́A�����ňꂽ��d�b��؂����B�N�[�p�[�͔��m�̂��Ƃ��S�z�ŁA�Ȃ񂾂����̂Ƃ���ɂ��������ł����悤�ŁA���邵�������B
-�i�\�\�����璷�ǐ씎�m�ɂ������񂾁B��������ɓ����Ă��������ƂˁB���̂Ƃ������Ă���΁A����Ȃ��ԂȂ��ڂɂ���Ȃ��ł��񂾂̂ɂȂ��B�������A�����S�z�����j
-�@�N�[�p�[�̓p�C�N�\���ƃ}�����ɂ��̘b�����āA�܂����̂��Ƃœd�b���������Ă����炷����莟���悤�ɂƂ������B
-�@�S���ꂪ�A�������񂽂�ɉp���̐����͑��ɐ����ǂ�ɂ���Ă��܂����Ƃ́A�ӊO�Ȃ��Ƃł������B�S����́A���������͐��s�����肫����t�Ƃł������Ă悢����ȕ��ː����o�����u�������Ă����B������s�@�ɂ��Ă�ƁA��s�@�͍s���̎��R�����΂��A�܂������l�Ԃɂ��Ă�ƁA���̐l�Ԃ͎��͂������Ƃ����A���낵������������Ă����͂����B�Ƃ��낪������������������Ă��Ȃ���A������������͑��̐����ǂ�ɂȂ��Ă��܂����Ƃ́A�܂��ƂɁA�킯�̂킩��Ȃ��o�����������B�Ȃ��S����́A���̂���Ƃ炦�悤�Ƃ�������͑��ɂ������A���͐������т������āA��R���Ȃ������̂��B
-�@���͂���ɂ́A���ǐ씎�m�̂����ւ�ȓw�͂��������̂��B
-�@���ł����m�́A�l�ނƊC�꒴�l�Ƃ̊ԂɏՓ˂̋N���邱�Ƃ��ɗ́s���傭��傭�t��������B�Ȃ����������������Ƃ����ƁA���̑O�㖢���̏Փˎ����́A���Ȃ炸�ڂ��������΂���̑�S���s�������񂰂��t�𐶂���ɂ������Ȃ������̂ŁA����𔎎m�͂����ւ�ɐS�z�����̂��B���������m�̍l���ɂ��΁A�킪�l�ނ́A�����Ƃ���������ł��낤�Ƃ������Ƃ����������B���܂ł̌����ɂ��΁A�C�꒴�l���́A�l�ނ����͂邩�ɋ���ׂ��Ȋw�͂������Ă������A�܂��A���̎c�E���s����ɂ񂹂��t�ɂ����Ă��x������K�v�̂��鐶�����ƍl���Ă����̂ł���B
-�@���m�́A�����[�a�����Ȃ��߂�̂ɁA�ǂ�Ȃɂ������������B�͂��߃����[�a���́A�ꎞ�ɂ���������͑��ɂ����邱�Ƃ��ǂ����Ă����m����Ȃ������B���������m�́A���̏�A�C�꒴�l���×܉t�U���������邱�Ƃ����ł��邱�Ƃ��Ƃ����B�����āA�܂������ɁA�o���̌�����甭���Ă���A�����̃N�C�[���E�����[������������Ɉ��������Ă����āA�l�ޑΊC�꒴�l�Ԃ̑�Փ˂ł��������悤�Ȃ��ƂɂȂ��ẮA�o���̑�s�K������A�����͎������炰�Ȃ����߂��΂炭�E�ς��āA�ꎞ�����[�a���̕�������Ђ����`�ɂ��Ȃ���΂����Ȃ��ƁA���ӂ������ĂƂ����̂ł���B
-�@�������ɊC�꒴�l�̐V�l���郍���[�a���́A���m�̌��t���悭���݂킯�A�����Ĕ��m�ɖ����s�΂񂶁t���܂������̂ł���B
-�@�������Ȃ���A���̔��m�ƃ����[�a���Ƃ��������Ă��鐳�`�̐M�O���A�͂����ăN�C�[���E�����[���{�����̐l�X�͒m���Ă���̂ł��낤���B
-
-
-�m���R�������n���[�����ցm���u���[�����ցv�͒����o���n
-
-
-�@�����[�a����s�ɂ������āA�p�������̓��[�����֏�肤��悤�ɁA�M���͔�����ꂽ�B
-�@���m�͂��̐M���𗹉������B
-�@�����[�a�����A���܂͂��傤�����ꂽ�B
-�@�h���������́A���������Ƃ��āA���ǐ씎�m�̂������߂��Ƃ���ɂ��������Ă���B
-�@�O��v���N�́A�����ւ�S�z���Ă���B�q���̂悤�ɓV�^ࣖ��s�Ă񂵂���܂�t�Ȑ��i�̎���ł��郍���[�a�����A�{�����̐l�X���ӂ݂ɂ���͂��Ȃ����낤���Ƃ������Ƃł������B�����[�a���ɂ́A�O��v�ɂ��̏���Ȃ�����ꂽ�̂ł������B
-�@�����̓��[�����́A�g�Q�s�͂낤�t�Ƃ��������S����ɋ߂Â��Ă������B�͋��ɂ́A�Ⴂ�҂��҂������͒��U�x�������т��A�����ƍ������g���A�J�����ςɂ�ŗ����Ă����B
-�@�T�Ɠ����}�X�g�̏ォ��A�S��������������ƏƂ炵����B���[�����̑D�y�s���񂻂��t���Ђ炩��A�ꂹ���̌y�Β��s�������Ă��t����g�����̂����܂܁A�ڂ����ƊC��ɂ��낳�ꂽ�B
-�u�������Ԃ˂��B�Ђǂ�����͗l���v
-�@�y�Β��́A�������������؁s���t�̗t�s�́t�̂悤�ɂ�ꂾ�����B��������Ζ{�͂̓����s�ǂ��Ȃ��t�ɂԂ����肻���ł���B
-�@�S����̕��͂ƌ���΁A������C�ʂɕ����������āA�W�]���̂ӂ��������Ă���B���̒����烍���[�a���͂��ߎl�l�̏���������������Ă���B
-�u�����A�����Ƃ���A�������֏�肤��B�g�����Ԃ�ƁA���񂶂܂�����ˁv
-�@�ƁA�����͂ӂȂׂ�ɗ����Ď�������ׂ̂��B
-�@�O��v���N���܂��y�Β��ւƂт������B
-�u�����A���܂��͓��m�l�̎q�����ȁB�q���̂����ɁA�΂��^�R�̖��������Ă��₪�����񂾂ȁv
-�@���̈����̂ŗL���Ȑ����W�����A�����̂������o���Ă������B
-�u��������A�Ȃɂ������񂾁B���Ƃ��炭�킵���b�����Ă�����v
-�@�ƁA�O��v�͗����s��イ���傤�t�ȉp��ł��������B
-�u����A���܂��A�p�ꂪ����ׂ��̂��B�ق��ق��v
-�@�h�����������A���ԖڂɓS���ꂩ��Ƃт������B
-�@��O�Ԗڂ͂��ꂩ�Ǝv���Ă���ƁA�����Ɍ���ꂽ�̂̓����[�a���ł������B�ꂢ�̂Ƃ���A�a���͐����v�̂��Ԃ�悤�ȑ傫�Ȃ܂邢�S�̂��ԂƂ����Ԃ��Ă���B�����đS�g���܂������v�̂悤�ɃS���̕��𒅂Ă���B��̂Ƃ���ɂ́A�l��s���񂲁t�̂킩��ʘb�����������Ă������B
-�@���̂����납��A���ǐ씎�m�̊炪�������B
-�@�ӂ���͑O�サ�āA�y�Β��ɂƂт̂����B
-�u����[���A���������̂΂��^�R�̉��q���܂��B�����v����E�ɂ��Ă��Ȃ���ƌ�����B�����Ԃ񌩎��ȓa�����v
-�@�ƁA���̂�邢�������������B
-�u�\�\�����A�����čŌ�̂ЂƂ�́A�싞�H�s�i���L����t�̖��p�t�s�܂�����t�Ƃ����łȂ������ȁB����A�����l����Ȃ������B�����ƁA�t�W���}�̍��̐�t�s����Ȃ����t���v
-�@���ǐ씎�m�̓����[�a���̂��΂��͂Ȃ�Ȃ��B
-�u�����A�D���ɂ͂�����������Ȃ��̂��ˁv
-�@�ƁA�U�x�������т͂����˂��B
-�u�����B��������܂���v
-�@�ƁA�����[�a�����ʘb����Ƃ����āA�݂傤�ɂ䂪�񂾉p��ł��������B
-�u�������A���̋��l�搶���p�ꂪ������񂾂��v
-�@�ƁA�W���������A�т����肵���B
-�u�W���B�ނ����̒�����������Ƃ݂Ă����v
-�@�ƁA�U�x�������т́A�����ɂ��������B
-�u�����̒������̂����Ă����ł����B���傤�����܂����B�Ȃɂ��󕨂��A�����Ă���Ƃ����Ȃ��v
-�@���������ăW�������́A�S����̏�ɂ����ƂƂт̂��ē������܂������Ƃ������A�ǂ��������Ƃ����������Ă͂���Ȃ��B
-�u���₨��A�K���X����\�\�ł��Ȃ��̂ɁA����͂ǂ��������Ƃ��ȁB�������傤�A�ӂ�����Ȃ��v
-�@�ƁA�C��嗤���Y�̓����d���s�Ƃ��߂������܂��t�����łɓ������ӂ����ł���Ƃ����炸�A�W�������͂Ȃ���������ɁA�����Ɍ���������֑������悤�Ƃ������Ă����B���̂Ƃ��S����͂��񂾂񐅒��ɒ��݂͂��߂��B�W�������������ƋC�������Ƃ��ɂ́A����̉����g�͂������т����ɂȂ��Ă����B
-�u����[���A���A�������Ă��ꂦ�v
-
-
-�m���R�������n�S����҂ām���u�S����҂āv�͒����o���n
-
-
-�@���������S���ꂪ�A�W���������̂����܂܁A���񂸂�C���ɂ����݂��������̂��B����Ă��̂̓U�x�������т������B
-�@�S����̌������߂�����Ă���̂ɁA���̂܂ܓS���ꂪ����ł��܂��ẮA�U�x�������т̐E�Ӂs���傭�����t���͂����Ȃ��B
-�u�����A�W���B�S����𒾂܂�����Ȃ�񂼁B�Ȃ������ւ͂����Ă���ׂȂ��̂��v
-�@�����牺�𐅂Â���̃W�������́A���������������B
-�u�S����������܂���ȂƂ���������Ă��A�킵�ɂȂɂ��ł��܂����̂��B���A�S����̓����ւ͂���Ɩ��߂���Ă��A�ǂ��������̂��A�������݂��Ă��邭���ɁA�̂������ɂ����Ă͂���Ȃ���ł����v
-�u�΂��������ȁB��������������݂��Ă��āA����ł͂���Ȃ��Ƃ́A�ǂ������킯���B�����ς�킯���킩��Ȃ����v
-�u���悤�ł��B�܂������킯���킩��Ȃ��̂Ł\�\�v
-�@�ƁA�����Ă��邤���ɂ��A�S����͂��񂸂񒾂񂾁B�C���́A�W���̂ւ����ʂ炵�āA���ɂ��܂��Ă���B����͈ꐶ����߂��A�͋��s���񂫂傤�t�̂ق΂���ɂ��܂��Ă���B
-�u���[���A�S���ꂪ����ł��܂����H�v
-�@�W���͔ߖ��������B
-�@�U�x�������т́A�W�����������A�����Ƃ����Ƃ���Ă��B
-�@�ނ͂Ƃ����C��S����̕��ɂނ��������B
-�@��������āA�����ʂ����قǂ��ǂ낢���̂̓W���������B
-�u�����A����ł����B���������������Ⴂ��ł���B�d�C�s���イ�ɂ�t�����тāA�����ɂ��Ă���W�������������ł�����ˁB�����Ƃ����Ⴂ���܂����v
-�@�C��̕����A�W�������̂��Ƃɂ͋C�����Ă����B
-�u�U�x�������сB�S����̏�ɂ̓W���������̂��Ă��܂��B���̂܂ܖC������΁A�W���̑̂́A�����ς݂���ɂȂ��Ă��܂��܂��v
-�@���������āA���тɌx���������B
-�@����ƒ��т́A
-�u�W���̊댯�����A�{���ɂ�������ꂽ�C���̂ق����d�傾�B���܂����œS������������Ƃ��Ȃ���A����͊͑��i�ߊ��֕񍐂��ł��Ȃ��B���܂�Ȃ�����A�˂炢�����āA�ǁ[��ƈꔭ�Ԃ��ςȂ��B�W���ɂ́A�͂₭�C���ւƂт���œS���ꂩ��͂Ȃ��ƐM������v
-
-
-�m���R�������n�C���m���u�C���v�͒����o���n
-
-
-�@�������W�������́A�S����ɂ����݂����܂܂������B
-�@�U�x�������т̖C�����߂ɁA�C��͂�ނ������A��C�s����ق��t�̏Ə��s���傤�����t���������S����̕��ɂ����B
-�u�����A�������āB�S���ꂪ�����Ă��܂��ẮA�Ȃ�ɂ��Ȃ�Ȃ�����Ȃ����v
-�@���т́A�����œS����𓦂����Ă��܂��ẮA�܂�����A�S����ɂ��΂����ƐS�z�Ȃ̂��B
-�@�C��́A�ꐶ����߂��ɁA���肫��ƏƏ������ł܂킵���B���܂�̋ߋ����ˌ��ł���B�C���͂Ђ����������Ă����B
-�u�����A�܂����ĂȂ��̂��v
-�u�͂��A�C���p�ӂ�낵���v
-�u���Ⴀ�A���āI�v
-�@�΂��[��\�\�ƁA�C���͂܂�����ȉ����͂��āA�C�e�������������B
-�@���̖C�e�́A�S����ɂ�����Ȃ��ŁA���̏���Ƃт����A�͂邩�ނ����̊C�ʂɔw�̍����������������B
-�u�Ȃ񂾁B�Ə����Ȃ��Ƃ��v
-�u�͂��A�C�ʂ�����Ă���܂����̂Łc�c�v
-�u�Ȃ񂾂ƁB�����܂͗����ł͂Ȃ��ĊC���Ȃ񂾂낤�B�D�̂���̂ɁA�����炨�ǂ낭������邩�B�\�\��������Ə������āA�Â��ĖC������v
-�u�͂��v
-�@�C��́A�܂��Ə������Ȃ������B
-�@����������ɂ��Ă݂�΁A���Ԃ̃W�����S����ɂ����݂��Ă���̂ɁA�����C���������Ȃ������̂��B
-�@�Â��đ���ڂ̖C�������s���ꂽ�B
-�@�剹���������āA�C�e���y��s������t�������A������܂��S����̏���Ƃт������B
-�u�������A�Ȃ�Ƃ����܂����C�����B�����A�Ə���A�����v
-�u�U�x�������сB�C������ȏ�A�����ނ��Ȃ��̂ł��v
-�u�ȂɁA�C�������ނ��Ȃ��B����ŖC�e���S����̏���Ƃт����Ƃ����̂��B�͂͂��A����Ȃ��ƂŁA��������܂���Ƃ������Ă���̂��B���Ⴀ�Ə��́A���ꂪ����v
-�@�U�x�������т́A�C�̂��΂ւ��������B
-�@�����ďƏ��]�����̃N���X�w�A���̂����Ȃ���A�A���n���h�����A���邮��܂킷�̂ł������B���̂����ɁA����͂܂���Ђ��߂��B
-�u���A�Ȃ�قǁA����͂ǂ������߂��B�{�͂��A�����ƓS���ꂩ��Ђ��͂Ȃ��B�����A�}���őS����i���v
-�@�U�x�������т��A����܂����ɂ��ĂǂȂ��Ă���ԂɁA�����͂͂悤�₭�������������B
-�u�悵�A���̂ւ�ŃX�g�b�v�v
-�@�U�x�������т͎���������B
-�@�����Ŕނ́A�S����ɂނ����āA���炽�߂ďƏ����߂悤�Ƃ����B���������̂Ƃ��S����͂ǂ��ɂ������̂��A�C�ʂ���p�����������Ă����B
-�u�����A�Ƃ��Ƃ�����ł��܂������v
-�@�U�x�������т̂��₵���邱�ƁB
-�@�������b�̏�ŁA����������Ƃ݂Ă��������[�a���́A�傫�Ȃ��ԂƂ̒��ŁA�ɂ��Ə΂����B
-�@�S����́A���Ƃ��ƒ��ނ悤�ɁA�����[�a�����d�|���Ă��������̂ł���B
-�@�W���͂��̊ԁs����t�ɖ����ɋ~��������ꂽ�B
-
-
-�m���R�������n�����h���A�`�m���u�����h���A�`�v�͒����o���n
-
-
-�@�A�ҁs������t���B
-�@�����A�ӂ����ь��邱�Ƃ��ł��Ȃ��Ǝv���������h���`��������B�N�C�[���E�����[���̐����҂͑��낱�т��B
-�@�M���s��������t���B
-�@�N�C�[���E�����[���~���̖��߂������A�����吼�m��ɔh�����ꂽ�p��C�R�̕����́A���܂��C���͂����āA�ǂ��ǂ��p���s�������傤�t�����h�������ĊM�����Ă����̂ł���B
-�@�����h���́A���̓����Ղ�̂悤�Ȃ��킬�������B�����h���̎s���͘V�s���t�����Ⴋ���A�����[���̌�����u���s�ӂƂ��t�⍂�w���z�̂܂ǂɂ��܂��Ă����B�����ă����[�����܂����`���Ȃ��悩��A�����ӂ�����A�܍ʁs�������t�̎��Ёs���ւ�t���΂�܂����肵�āA���̂������M���Ԃ�ł������B
-�@�����ɏW�܂����̂̓����h���s�������ł͂Ȃ��B�ߍx�s���񂱂��t������A���������ƁA���̑��ւ̋D�D�����悤�ƌ����l���W�܂��Ă����B
-�@�e�[���Y�͂��A�N�C�[���E�����[�����̂ڂ�͂��߂��Ƃ������W�I�̃A�i�E���X������ƁA�҂��ɑ҂����l�X�́A����Ƃ�낱�т̐����������B�����Ĉꂹ���Ɋ�������₩���āA�L����ʁs������t�̕��ւ܂������̂т����点��̂������B
-�@�ہ[�@�ۂہ[�B
-�@�D�J�������B
-�u�����A�����[�����������Ă����v
-�u�����A���������B�����錩����B�����[���̃}�X�g������Ă��炠�v
-�@�����[���̑O��ɂ́A�~���ɂ����������͂�쒀�͂���q���A�܂���ɂ͋�ŁA���X�L����т̂Ђ�����h����R�s�͂��񂭂�����t���A���������ґ��������ĕ����Ă����B
-�u�N�C�[���E�����[���A�΂񂴁[���v
-�u�΂񂴁[���v
-�@�҂������т�ĕs���������Ă����Q�O���A���܂͂������܂ꂽ�悤�ɁA�����[���̕��ɂ̂т�����A������ɉ��F���������������B
-�@�����A�N�C�[���E�����[���́A�Ȃ�ƕς�͂Ă��p��B
-�@�ق΂���͐܂�A�D���͂��ڂ݁A�ʕ����݂͂ɂ����܂���A������ނ���Ȏp�ł������B
-�@�D�̂��O�F�ɂ��߂Ă����������y���L�́A��������Ԃ͂��ɂ͂��āA�܂�œS���u��s�Ă��������΁t����Ђ��ς肾�����悤�Ɍ�����B
-�@�������A�D�����炠��������̖��������Ђ��ς肾���A�ق΂��炩��A�ق΂���ւ͂�߂��炵�āA���߂ĊC�̏����̐g�����Ȃ݂������悤�Ƃ����̂ł��������A���̖��������A�����͂͂�����悲�ꂽ��j�ꂽ�肵�Ă��āA���Ă���҂����Ďv�킸�܂��܂����B
-�@�N�C�[���E�����[�����A���̂��ꂫ�����D�̂�u���ɂ����Ƃ��A�����h���s���͍s��̐擪�ɂ����āA���̊�֓I�Ȑ��ґD��K�₵���B
-�@�}�C�N���t�H����������āA�D���ւ͂��΂��B
-�@�ʐ^�ǂ��A�t���b�V���E���C�g���ς��ς��Ƃ����B�����h���͂��̓����A�ǂ���Ɩ��ɂ������߂��Ă�������B
-�@�Q�O�́A�����[���ɂ����������B
-�@���A�܂������������ȃ����[���̎p�Ɉ��S��������ƁA�����̓��W�I��V���̏�ł��˂čD��S���킩���Ă������̂̕��ցA���ӗ͂������͂��߂��B
-�u�����A�C��嗤�̃����[�a���������Ă��炢�����v
-�u�������A�������B���������낢�v
-
-
-�m���R�������n�����������Q�O�m���u�����������Q�O�v�͒����o���n
-
-
-�@�ǂ��̍��ł��A�Q�O�́A�͂����Ȃ����̂ł������B
-�@�l�Ԃ��܂����̑��݂�����Ȃ������C�꒴�l���A�N�C�[���E�����[�������݂₰�ɂ�Ă����Ƃ����̂ŁA�����ЂƊ�ł��������ƁA�Ђ��߂������Q�O�������B
-�u�C�꒴�l��������v
-�u�����[���̑D�q�Ə���̐��������΂����C�꒴�l��������v
-�@�Q�O���ދ�C�́A���������������s���񂠂����t���Ă����B
-�@�N�[�p�[�������́A���܂܂őD���ɗ����A�N�C�[���E�����[�����}�̌Q�O�ɂ������A�ڂɗ܂������ׂĊ����̖X�q���ӂ��Ă������A�Ђ��߂��Ă���Q�O�̒�����A�C�꒴�l�ɂ�������̂낢�̐�����������ƁA��F�������Ɛ��Ȃ����B
-�@�����ł����낤�B
-�@�����[���̓����҂Ƃ��āA�����[�a�����֒��x�s�Ȃ񂫂�Ă��ǁt�ɂ��āA���݂₰�ɑc���s�������t�ւЂ��ς��Ă�������ł��������A�Q�O�́A�����[���Ŏ��񂾐l�����̂���݂��A�����[�a���ɂނ����ĉ����܂����C���ł������B
-�u����́A���ƁA�߂�ǂ��Ȃ��ƂɂȂ����킢�v
-�@�ƁA�������̃N�[�p�[���������܂������悤�����B
-�@�����ֈꓙ�^�]�m�̃p�C�N�\�����A�������Ă����B
-�u�������B���܂������Ƃ��ł�����v
-�u�Ƃ́A�ǂ������̂��ˁv
-�u�o�ނ����̌Q�O���D���ɂ��΂ꂱ��ł����B�����[�a�����o���Ƃ�߂��Ȃ���A�D���Ƃ����D�����������܂���Ă���̂��v
-�u�ӂށB���������Ă͂Ȃ�Ȃ��v
-�u���̂܂܂���A�₪�Č����āA�����[�a�����Ȃ��肱�낵�Ă��܂���B�܂���������Ă��܂����v
-�u�����[�a���𐶂��ǂ�ɂ����񍐂��A����ȂɃ����h���s�����A�h���s�������t����Ƃ͂�����Ȃ������B����A�ڂ��̎��s���B�ł́A�����[�a����D�y�s���񂻂��t�̉��ɂ����āA���S���͂���Ƃ����̂͂ǂ����낤�v
-�u�ǂ��փ����[�a���������Ă��A�D��������Ƃ���ɓG���肾�B�M�����Ă���Q�O���߂��ƁA�D���܂ł��ꂵ��ɔM�����Ă��܂��񂾂���ˁB�ނ���Ȃ��A����̒��Ԃ����Ȃ肽������C�꒴�l�ɎE���ꂽ�񂾂���v
-�u�ǂ���������Ȃ��v
-�@�ƁA�N�[�p�[�������͂�������l������ł��܂����B
-�@���΂炭����ƁA����͋}�Ɋ�������A
-�u�������A�������Ƃ�����v
-�u�������ƂƂ́A�N�[�p�[�N�A�ǂ�����̂��v
-�u���ꂩ�������[�a���ɉ�������̂��B�����āA������ƌQ�O�̂̂ڂ�Ȃ��}�X�g�̒���ɂ̂ڂ点��B�Q�O�����̕��ɋC���Ƃ��āA����悠���Ƃ����Ă��邤���ɁA���ǐ씎�m�ɂ��̂�Ń����[�a������Đ���@�œ����Ă��炤�v
-�u�����[�a���̂ɂ��҂͂������A�����[�a�����ق�Ƃ��ɓ������Ă��܂��̂��ˁv
-�u�����ł͂Ȃ��B�Q�O���܂�����A���̂��Ƃł܂��e�[���Y�͌��s�������t�ɖڗ����Ȃ��悤�ɒ��������Ăӂ����ш����Ƃ�̂��B�P���u���b�W��w�̐����w���A�����[�a���ւ̖ʉ�\�����܂�Ă���񂾂�B���̕��֓n���΁A�܂������͈��S���Ă����邾�낤����B�����Ȃ��Ƃ��A�����̐ӔC�����́A�������ɂȂ��Ȃ邩��A���̕��������Ǝv���v
-�@�N�[�p�[�������́A�^���Ȋ�F�ŁA���ꂪ���܍l���Ă��郍���[�a���̎n���ɂ��ĕ�������B�͂����ă����[�a���Ⓑ�ǐ씎�m�́A���ꂩ��ǂ�ȗJ�ځs�����߁t�ɂ����̂��낤���B
-�@���q�����΂�ꂽ�C�꒴�l�́A���܂��Ďw�����킦�Ĉ�������ł��邾�낤���B
-
-
-�m���R�������n�h�����s���キ�͂�����t�m���u�h�����v�͒����o���n
-
-
-�@�N�C�[���E�����[���̎������N�[�p�[�����Ă������[�a���̈��S�㗤�v��́A�v���̂ق����܂��������B
-�@�����[�a���ɉ��������}�����鏑���A�Q�O�̒��ӂ����΂��Ă���ԂɁA�{���̃����[�a���͒��ǐ씎�m�Ƃӂ���Ń����[���̏�ɂ�ł�������@�ɏ��A�J�^�p���g�łƂт������B�����ċ؏����ǂ���e�[���Y�͌��ɒ��������̂��A�����ɑ҂������Ă����P���u���b�W��w�̐����w���V���g�����m���͂��߁A�w�E�̐l�X�ɂނ������A�����ɑ�w�̉��[���A�ꋎ��ꂽ�̂ł������B
-�u�₠�A���q�����[�a���Ƃ��B���̒n������a���̋��ԂƂ��߂܂��傤�B�����Ȃ�A�����\���s�ڂ��݂�t�ɂ������邱�Ƃ�����܂��񂩂�A�ǂ������S�Ȃ����v
-�@�ƁA�V���g�����m�́A�܂������@�Ɣ����Ђ��Ƃ���������ɂ��ƂȂłȂ���A�����[�a���ɂ������B���������Ȃ�����A���m�͔얞�������̂�������A�݂傤�ɂӂ�Ȃ���A�����[�a���̈ꋓ�ꓮ���A����肶���Ƌ��s���傤�t�ӂ����ɂɂ�ނ̂ł������B
-�u��e�؁A�ǂ������肪�Ƃ��v
-�@�����[�a���́A���񂽂�ɂ��������B�Ƃ�����΁A�ނ�ނ�Ɣ��R�S��������B������݂����炨������̂ɁA�ǂ�Ȃɂ���J���Ȃ���΂Ȃ�Ȃ������B
-�u�����A���ǐ씎�m�v
-�@�ƁA�V���g�����m�́A�����[�a���̂��΂ɉq���s�����ւ��t�̂悤�ɗ����Ă��钷�ǐ씎�m�����ŁA
-�u���Ȃ���A���Ƃ��炱�̒n�֓������邱�ƂɂȂ��Ă���h����������A�O��v���N�ɂ́A��w�̕��߂ɂ����z�e��������܂����̂ŁA�����������Ă����܂�������A���Ƃ܂肭�������v
-�@�Ƃ������B
-�@���ǐ씎�m�́A����𕷂��ƁA
-�u����A�킵�̓����[�a���Ƃ�������ɋN���ӂ����܂��B�a������w�̒n�����ɂƂ܂���̂Ȃ�΁A�킵����������ɂ����ɂƂ܂�܂��B�z�e���̕��͎��ނ��܂��v
-�u��������Ȃ��ł������ł��傤�B���Ȃ����͐l�ԂȂ̂�����A����ȁA�������̂���Ȃ������Ƃ�������ɋN���ӂ����邱�Ƃ͂Ȃ��ł͂���܂��񂩁v
-�@�V���g����̐e�؂ł͂��������A�v���Ƃ��낪�����Ē��ǐ씎�m�͎��ނ����B
-
-
-�m���R�������n�a�������l�X�m���u�a�������l�X�v�͒����o���n
-
-
-�@�����[�a���̗��h�s��債�キ�t�̖��ŁA���ǐ씎�m�́A�h����������O��v���N�ɁA��̂ǂ����邩�Ƒ��k�������B
-�u�킽���́A��͂胍���[�a���̂��΂ɂ������Ƃ������܂��v
-�@�ƁA�h���������������ς肢���΁A
-�u�ڂ����A��������ɂ������ł���B�����[�a���ɖ���̂��Ƃ������Ă͐S�z�ł�����˂��v
-�u�����A����ł��݂����̋C���͂悭�킩�����B�����[�a�����A����������Ăǂ�Ȃɂ�낱�΂��ł��낤�B�ł̓V���g����ցA�킽�������̌��ӂ�`�B���邱�Ƃɂ��悤�v
-�@���ǐ씎�m�́A���Ƃ̂��Ƃ��ӂ���ɂ��̂�ł����āA�h�����̌��̂��߂ɁA�V���g����̂��錚���ւƏo�������B
-�@�����w��́A������w�\���́A���c�^�̂������������Â߂����������s��񂪁t�Â���̌����̒��ɂ������B
-�@�V���g��������Ƃ����ƁA�����߂����g���s���Ă��t���łĂ��āA�������炢�L���Â����Ɉē��������B����͑傫�ȍL�Ԃł����āA�V���g����̂ق��ɁA�ꌩ�A�w�҂��Ƃ킩�钆�N�A�V�N�̐a�m���W�܂��Ă����B�����͑吺�ł�����ɂȂɂ��Ƃ��_���Ă����悤�ł��������A���ǐ씎�m�������Ɏp������킷�ƁA�҂���Ƙb����߂Ă��܂����B
-�u�₠�A���ǐ씎�m�B�Ȃɂ��p�ł��ȁv
-�@�V���g����́A��@���ŋ߂Â����B
-�u���傤�ǂ����Ƃ��낾�B�킪�����E�̌��Ў҂��ꓰ�ɉ�Ă���Ƃ���Ȃ�ł��B���Ђ��Ȃ����T���s�ڂ����傤�t���Ă�������Ⴂ�B���Ȃ������m�֋A���Ę_�����������ɂ��Ă��A�����ƎQ�l�ɂȂ�܂����v
-�@���ǐ씎�m�́A���邭���̌��Ӂs�������t���Ӂs����t���������ŁA�ꂢ�̏h�������ɂ��A���Ԃ񂽂��̓����[�a���ƂƂ��ɋN���ӂ�����̂������Ǝv������A��������ɒn�����ɓ���Ă��炢�����ƁA���̗p�����ׂ̂��B
-�u����͂悵�����������̂���Ȃ����Ȃ��B�킵�͂��Ȃ������Ɍh�ӂ�\���A���܂��A���Ȃ����v���Ă������߂��Ă���̂����c�c�v
-�u�ł́A������s�l���͂�������ɒn�����ɑ؍݂��܂��v
-�u������낵���A���ꂪ���]�݂Ƃ���΁B�����A�C������ꂽ�������ł����B�\�\�ł́A���ƂŎO�l���̃x�b�h����ꂳ���܂��傤�v
-
-
-�m���R�������n�V���A�����ƊC��i�����m���u�V���A�����ƊC��i�����v�͒����o���n
-
-
-�u�����A���̕������ǐ씎�m�ł����B�킽���̓h���[�������ł��v
-�@�ƁA�ЂƂ�́A�ЂƂ̂悳�����Ȃ͂����̘V�l���A���ǐ씎�m�̂Ƃ���ւ���Ă��āA��������Ƃ߂��B
-�u�����A�h���[�����ł����v
-�u����A���������������Ă͂����܂���Ȃ��B�킽���́A����ł܂��������ł��B�����̖��N�������ł���B�܂�����Ȃ��Ƃ͂ǂ��ł���낵���B�킽���͂��˂��˂��Ȃ��̌����_���ɂ������A�[�r�s���񂶂�t�Ȃ�h�ӂ��͂���Ă���҂ł��ĂȁA�C�꒴�l�̑��݂Ȃǂ́A�������傭�A���Ȃ����������Ă��̂ł�����ˁB�悭�����ɂȂ�܂����B��������Ă��������܂��傤�v
-�@�h���[�V�������̂��������傫�Ȏ���A���ǐ씎�m�͂��ꂵ���ɂ����ĐU�����B
-�@�ނ����ł́A�V���g������ꓯ�ɂނ����A����ɓ��_���Â���ꂽ���ƁA�������������B
-�u���Ⴀ�A�������̋c�_�ɂ�����A�C�꒴�l�̔����N���ɂ��āA�킵�̘_�������߂܂��傤�v
-�@�ƁA���y�֎q���獘���������̂́A�����w�҂Ƃ��Đ��E��Ɛ܎��������Ă���X�g�b�N�z������w�̃x���g���m���B
-�u�\�\�킵�̍l����Ƃ���ł́A�C�꒴�l�́A���̗V������A�����Ă����Ƃ���̐����ł���Ǝv���B�܂�C�꒴�l�́A���P�b�g�̂悤�Ȃ��̂ɏ��A�͂�΂�n���ɋ߂Â����B�����ă��P�b�g��吼�m�̊C��ɂ����̂ł���B����͊C�꒴�l�̐����͂��炢���āA�C��ł��邱�Ƃ�K�v�����Ƃ������炾�B�����ĊC�꒴�l�̓N�C�[���E�����[�����˂���āA�����ɐl�ނƂ̏����������Ȃ����ƂɂȂ����̂ł���B������C�꒴�l�̕ꍑ�́A���̉F���Ɉ�̗V���ƂȂ��āA���܂��Վ�ἁX�s�������񂽂�t�Ƃ��āA���̐A���������Ȃ����Ƃ��Ă��邩������Ȃ��v
-�u����͂ǂ����s�������v
-�@�Ɣ����Ђ��́A�₹�����炾�̘V�l�����Ȃɗ������B�A�C�������h��w�̃N�C�������B
-�u�������N�[�p�[�̕񍐂ɂ��ƁA�C�꒴�l�̐l���́A������ƌ����Ƃ���ł��S���l���������̂ł������Ƃ����B����������ʂ̈ږ����A�l�ނɒm�ꂸ�ɂ����ȒP�ɏo����킯�̂��̂ł͂Ȃ��B�����������̂��V�U�s�Ă񂪂��t���炭��΁A�C�ۊϑ��̏�ɂ��ُ퐔�l���񍐂����͂��ł���B�����Ȃ��Ƃ��A�Ȃ݂͋N����ł��낤�B������ɁA����Ȃ��Ƃ̂������b�������ʂƂ��������΁A�x���g���m�̘_���͐��藧���ʁv
-�@�N�C�V�����̓x���g���m�̎�_�������B
-�u�ł́A�N�C�����B���Ȃ��̘_�|�́A�ǂ������̂ł����ȁv
-�@�ƃV���g������t�Ɏ��₵���B
-�u�킵�̐��́A���悤�ł���v�ƁA�N�C�����͒������ꂽ�����Ђ��������ƂЂ��ς��āA�����ނ�Ɍ����J�����B
-�u�C�꒴�l�́A�����đ��̗V�����炫�����̂ł͂Ȃ��B����͂��Ƃ��ƊC��ɂ���ł�����̓����̐i���������̂ł���B�l�ނ͂ނ����T���Ɠ����悤�ȑc��������Ă������A���ꂪ���͂킩��Đl�ނƃT���Ƃ͂͂������ʂ����悤�ɂȂ����B�[�C�̓�̓����ɂ��Ă��A����ɂ̓^�R�␅��s���炰�t�̂悤�ȑ��ς炸�����Ȃ��̂����邵�A�܂�����ł́A�l�ނƓ��l���邢�͂���ȏ�̃X�s�[�h�Ői�������C�꒴�l������Ƃ������ƂɂȂ�̂ł���B���ꂪ�킵�̘_�|���v
-�@���������āA�N�C�����́A���ΐ��������炩�ɂ��āA��������܂킵���B
-
-
-�m���R�������n�A�g�����e�B�X�����̉��s�����t�m���u�A�g�����e�B�X�����̉��v�͒����o���n
-
-
-�u�N�C�����̐����A���Ȃ�ւ�ɕ�������v
-�@�ƁA����ǂ́A�ꂢ�̈̑�Ȃ�͂����̎�ł���h���[���������A���Ȃ���Ƃт������B
-�@�V���g����́A��������߂��B
-�@���̘V���Ă܂��܂����C�ȃh���[�������́A�����Ƃ܂��F���΂��ɂ����悤�Ȋw�����͂��ɂ������Ȃ��̂��B
-�u�����A�h���[�N�B���񂽂�ɂ��݂̐����ׂ̂��܂��v
-�u�͂��A�������܂��傤�B�\�\���܉����A���񂽂�ɂׂ̂�Ƃ������Ƃł���܂��̂ŁA�ق�Ƃ��Ȃ�A�����ɗՐȁs��񂹂��t���Ă����钷�ǐ씎�m�̑O�ɁA���킵���������u�����A���̋������������������̂ł���܂����A��͌��_���������ł�����悤�ł�����A��ނ𓾂����񂽂�ɂ��܂��B���ւ�v
-�@�h���[�V�l�́A�͂��������ƂȂłāA���t�������B
-�u�����A�َ҂͂܂��N�C�搶�̐��𔽔��s�͂�΂��t���܂��B�搶�̌���́A�����ւ�ʔ����̂ł���܂����A����˂�Ȃ��ƂɁA�j���s�����t�𖳎����Ă�����v
-�u�ȂɁA�j���H�@���j�̂��Ƃ��ˁv
-�@�ƃN�C�����́A���Ɏ�����ĂāA���炾���̂肾���B
-�u�����ł��B�n����ɓ`�����Ă�����j�̂��Ƃł��B�܂苳���̐��́A����s�����傤�t�̋�_�s�������t�ł���B�����Ƃ����낤���̂��A�������j�����Ȃ�������ɂ��āA����̋�_�ɏI�n���Ă���Ƃ����͈̂⊶�疜�s�����񂹂�΂�t�ł����āA�������������_�ƂȂ�Ă��̂́A�������c�̂Ȃ��ɂ͈�l�����Ȃ��̂ł���v
-�u���ꂱ��A�h���[�N�B���t�����݂��܂��v
-�@�ƁA�V���g����́A�e�[�u�������������B
-�u�\�\���ނ��܂Ȃ��Ƃ����قǂ̑債�����t�ł��Ȃ����A���ꂶ��A����ɃN�C�搶�̂����邲�Ƃ��A�C��ɂ����āA�l�ނƂ͕ʓr�ɊC�꒴�l�����B�������̂Ƃ�����A���ꂪ�����܂ň�x���l�ނƌ��������Ȃ������Ƃ����̂́A���܂�ɂ��Ƃ��҂ł͂Ȃ����B�����ƕʂ̌��t�ł����΁A�C��ƊC�ʂƂ͊C���łÂ��Ă���̂ł���B�C�̏�ɂ́A��������イ�D�D���Ƃ����Ă���B������ɁA�����͖������ĊC�꒴�l�ɂԂ��������Ƃ��Ȃ��B���x�͂��߂ăN�C�[���E�����[���������ƍs���������̂ł���B���Ȃ��n���ɂ����āA�l�ނƂ��Ȃ��N��ɂ����āA�C�꒴�l�����B�������̂Ȃ�A�N�C�搶�̐��͏펯�I�ɂ�������̂ł���v
-�u�ȂɁA���悾�ƁH�v
-�@�N�C�V�����̊�́A�݂�݂�g�}�g�̂悤�ɐԂ��Ȃ����B
-�u����Ȃ��Ƃ����A�͂₭�����������I�v
-�@�Ƌ��Ԃ��̂�����B
-�u����A�����͂�������v
-�@�ƁA�h���[�������́A�܂��͂��������ƂȂŁA
-�u�C�꒴�l�Ȃ���͉̂����̂���B���N�͂܂��A�L�j�ȑO�ɂ����đ吼�m�̊C�ʂɑ��݂����ƁA���̃v���g�[���ƂȂ����A�g�����e�B�X�嗤���A���܂��̐����ƂƂ��ɊC��ɒ��񂾂Ƃ����j�����������N�����˂΂Ȃ�ʁv
-�u�Ȃ񂶂�A�A�g�����e�B�X�嗤���ƁH�v
-�@����͋}�ɂ�������B
-�u������B�A�g�����e�B�X�嗤����B���ɂȂ��Ă��ǂ낢�������N�B����Ȃ��ƂŐ����w�҂Ƃ��΂��Ă����邩�B�A�g�����e�B�X�����̉���m�炸���āA�ǂ����ĊC�꒴�l���_�����悤���v
-�@�h���[�������́A���̏�Ȃ��悢�C���ŁA���Ԃ�̋����ۂ�ۂ񂽂����Ĉ�������܂킵���̂ł������B
-�@�A�g�����e�B�X�����̉��Ƃ́A���������Ƃł��낤���B
-
-
-�m���R�������n�h���[�������m���u�h���[�������v�͒����o���n
-
-
-�u�A�g�����e�B�X�����̉��I�@�����m�炸���āA�����w�҂ł�����ƁA�傫�Ȋ�����Ă�������������A�킵�͂��̐搶�̂܂��ŁA�����������ď΂������̂��v
-�@�h���[�V�́A���Ȃ����Ƃ��x�����肩�����āA�ꓯ�����܂킷�B
-�u����A�h���[�N�B�{�_�ȊO�̂��Ƃɂ��Ă͂���ׂ�Ȃ��悤�Ɂv
-�@�V���g����́A�܂����̐��b���Ă�����V�������ɁA���ӂ̌��t�𔭂����B
-�u����A��t���B���ꂪ���������{�_�Ȃ̂ł��Ăˁv
-�@�ƁA�l���΂��ɂ����悤�ɂ͂��������ƂȂŁA
-�u�����\�\��������܂��傤�B�����Ƃ����N������𗝉�������₢�Ȃ�A����ɂ��Ă͂킵�͐ӔC��������B�Ƃɂ��������܂��B���������悤�ɁA�A�g�����e�B�X�嗤�͊C��ɒ��񂾁B���̑嗤�ɂ���ł��������́A���Ăǂ��Ȃ������B�n�������j���g�����l�Ԃ��A�݂ȊC���ɂ̂܂�āA���ڂꎀ��ł��܂����낤�Ǝv������낤�v
-�@�h���[�V�������́A�ӂĂԂĂ����ʂ��܂��ŁA�܂������������[���ƌ��܂킵���B�����Ă܂����t���Â���B
-�u���b�̓b�̓b�́B�����v���̂͑f�l�l�s���낤�Ƃ��񂪁t������B�����Ȃ�Ă��̂́A�Ȃ��Ȃ������͂̂�����Ȃ��̂ŁA����Ȃ��Ƃňꎞ�Ɏ��ɂ�����悤�Ȃ��Ƃ͂Ȃ��B�������A�A�g�����e�B�X�嗤�̐����̑����́A���̒n�ς̂Ƃ����񂾂��A���̒��s�����t�Ɏ��O�s���イ�˂�t�Ԃ��������̂������̂��A�����̊C�꒴�l�Ƃ����ꑰ���B�ǂ����A����Ŗ��͂Ƃ����ł͂Ȃ����v
-�@����́A�ɂ킩�ɂ������������Ȃ����B
-�u�Ƃ�ł��Ȃ��b���v
-�u����A�h���[�N�͂Ȃ��Ȃ������Ƃ�������Ă���v
-�@�ȂǂƁA�͂񂽂�����҂�����΁A�܂��^������҂��������B
-�u�h���[�������ɂ�����Ƃ����������A���̘b�̂悤�Ȃ��ƂŊC�꒴�l�����܂ꂽ�Ƃ���ƁA���̊C�꒴�l�̑O�g�́A�����������ł������̂��B��͂�l�ނł��������A����Ƃ��^�R�ł��������v
-�@�ƁA����̓V���g����̎���ł������B
-�u����A�������������ł���B�킵�͂��ꂩ�炻�̓_�ɂ��Č����������߂���肶������B���������ǐ씎�m�́A�����킵����ɂ��̌��_�����Ă����ł̂��Ƃ���낤�B��̘b�͔��m�ɂ��肢���������悢�Ƃ���������A�킵�͂��̂ւ�ŁA���Ȃ����Ă��炤�Ƃ��悤�v
-�@�h���[�������͒��ǐ씎�m�̂ق��ɁA���}�s�������t�̂悤�Ȍh����������āA�Ȃɂ����B
-�u�����A�ł͒��ǐ씎�m�ɁA����Â��Ă����������B�����ǂ����A�������֏o�Ă��Ęb���Ă������������v
-�@���ǐ씎�m�́A���ɁA����ׂ�Ȃ��ł͂��܂Ȃ����ƂɂȂ����B
-
-
-�m���R�������n���ǐ씎�m���m���u���ǐ씎�m���v�͒����o���n
-
-
-�@���ǐ씎�m�́A���ɉ��d�ɗ������B
-�@���E�I�ɗL���Ȑ����w�҂����́A���̓��m�̊w�҂���ǂ�Șb�������邩�ƁA�D��̊�����点��B���̂Ȃ��Ƀh���[�V�������́A�܂�Ŏ����̂����ꂪ�剉������̂��F�Ɍ����т炩���ł�����Ƃ��̂悤�ɁA�@���X�ƁA�Ȃ��痧������A���������A�����ւ�Ȃ͂��Ⴌ�悤�ł������B
-�u�����A���N�v
-�@�ƁA���ǐ씎�m�́A���Ɂs�������t�������������ł����āA����ɂ��������ׂ̂��̂��A
-�u�C�꒴�l�̋N���s�I���W���t�ɂ��āA�������܁A�������̋��������������������܂������A�킽���Ƃ������܂��ẮA�����Ƀp����w�ɂ����Ăׂ̂܂����Ƃ���A�A�g�����e�B�X�嗤�̐�������l��N�߂��̊ԁA�C�ʉ��ɂ����Đ����s���������t���Â��A�����āA�����킪�l�ނƌ������悤�ɂȂ����̂ł���ƍl���Ă��܂��v
-�@�q���q���ƁA�傫�Ȑ��ł����Ԃ��̂��������B����͂������h���[�V�ɂق��Ȃ�Ȃ������B
-�u�킵�̐��Ƃ܂��������ꂶ��B���������A�N�����v
-�@�ƁA���₻�̂��邳�����ƁB�������Ȃ��A�h���[�V�̂��΂���Ȃ𑼂ւ����҂����ł����B
-�@���ǐ씎�m�͌��t�����A
-�u�\�\���āA�ނ����A�g�����e�B�X�嗤�ɐ������Ă����@���s�����t�Ȃ鐶�����A�����̊C�꒴�l�ɉ����s�������t�����̂��Ƃ������Ƃɂ��܂��ẮA�h���[�����������y����������ɂȂ����悤�ł���܂����c�c�v
-�@�ƁA�_�����s�����t��΁A�h���[�������͎��ȂŖڂ𔒍����Ă���ĂĂ����B���͘V�w�҂ɂ��A���̌������́A�܂������Ă��Ȃ������̂ł���B
-�u�\�\�킽���̌��܂��Ƃ���ł́A�C�꒴�l�̋N���s�I���W���t�́c�c�v
-�@�Ƃ����āA���ǐ씎�m�͂��炽�߂āA��������܂킵���B�ꓰ�ɏW�܂鐢�E�̐����w�҂����́A�����̂�Ŕ��m�̌��������Ƃ݂߂Ă���B
-�u�c�c����́A��͂�A�����l�ԂƓ���̐����ł���ƍl���܂��v
-�@�������������ƁA����͂����܂����킪�����Ȃ����B���̒��ɁA�h���[�������̔���΂��肪�A�l���΂��ɂ����悤�ȋ��������Ăĕ��������B
-�@���ǐ씎�m�́A���̌��t���Ȃ����B
-�u�\�\���_�����\���ƁA�����ɂ��˔�s�Ƃ��ҁt�ɕ������܂��傤���A����͊C�ʉ��ɒ����s���񂩁t����ȑO�̃A�g�����e�B�X�嗤�̏�Ԃ�m��A���͍����̊C��嗤�ɂ��Ă��킵�����@��������łȂ���Ηe�ՂɂȂ��Ƃ����ł��܂��ʂ��A�v�_��\���Ǝ��̂悤�ɂȂ�܂��B���Ȃ킿�A�A�g�����e�B�X�嗤�ɂ́A�����b�����s��������t���������������Ƃ��w�E�������B����͈��̏@���I�ȁA�����Ă܂��m���I�ȁA�����ł���܂��āA�I�[���\���Ƃ�����������܂����A���̖����́A�͂₭���A�g�����e�B�X�嗤�ٕ̈ϋ߂���\�m���Ă������̂��ǂ����킩��܂��ʂ��A�Ƃ��������A���̑厖���ȑO�ɒn���ɂ����āA�������͂��߂Ă����̂ł���v
-�@���ǐ씎�m�̋����ׂ��_���ɁA����͂��[��Ƃ����܂����B
-
-
-�m���R�������n�C�꒴�l�̐��́m���u�C�꒴�l�̐��́v�͒����o���n
-
-
-�@���m�́A�����ň�i�Ɛ����������A
-�u�����֑嗤�������N�������̂ł���B�Ȃɂ䂦�ɂ��̋���ׂ������������N���������A����ɂ��ẮA�܂��������鎖�����킩���Ă��܂����A�����ɂ͊֌W�Ȃ��̂ŁA�ȗ����Ă����܂��傤�B�Ƃɂ����嗤�����ɂ���āA�A�g�����e�B�X�嗤�̒n��ɂ��������́A�قƂ�ǑS�����C���ɂ̂܂�Ď���ł��܂����B�������I�[���\�������́A�n��ɂ��������䂦�ɁA���̑�E�C�s�������肭�t����̂��ꂽ�̂ł���B�����āA�����̒n�ꐶ�����n�܂����B�����͕����I�ɁA����̐��E���犮�S�ɐ≏�s������t�����ɂ��������B�������ł����N�B���������������܂��傤���v
-�@����̊w�҂̊�ɂ́A�O�Ƃ������āA�����ւ�[���Ȃ��킪�����т������Ă����B�m����ے���Ȃ��B�����A���ɂ����Ȃ��ʎ��s���������t�ł������B
-�u�����\���΁A���N�A�Ƃ�����A�����Ɉ�̋^����������ł��낤�B�����l�ԂƓ���̊C�꒴�l�������A�Ȃ��A���̂悤�ɂ����Ƃ͂��������`�̂������Ă���̂ł��낤���B�����Ƃ������āA�ނ����̓����ɂ��������́s�������t�������Ă���̂͂Ȃ����v
-�@�C�꒴�l�̓�̂ɂ��ẮA����琶���w�҂́A�ꍏ���͂₭�����[�a�����͂����ɂ��Ă݂����Ɗ���Ă����̂ł���B����������ɂ́A�����[�a���̐g�Ӂs����؂�t���܂����Ă��钷�ǐ씎�m��h���������Ȃǂ�����܂ɂȂ��āA�����̗|�]�͑��}�ɂ͂Ƃ����Ȃ�����ɂ������B�Ƃɂ������ǐ씎�m�̂��̌��t�́A�w�҂��������āA�����[�a���̗��g�s�炵��t�ɂ��āA�ُ�̍D��S���N�������Ȃ��ł͂��Ȃ������B
-�u���̐����́A���̂悤�ɂ���̂���낵���Ǝv���v
-�@�ƁA���ǐ씎�m�̓e�[�u���̂܂��ɏ㔼�g���̂肾���A����߂đ��d�s�������傤�t�Ȍ����������āA
-�u�C�꒴�l�́A����ȗ��l��N�Ƃ������̂��A�����������т��A�n��ł��炵���B���̂��߂ɁA�����̎��̂́A�����l�ԂƂ͂����ւ񂿂��������̂ɂȂ��Ă����̂ł���B��������΂���ł͂Ȃ��B�����̌`�̂������Ƃ������邵���ω������߂����̂́A���ɉF�������Օ��s����ւ��t���Đ����������Ƃɂ��e���ł���v
-�u�ȂɁA�F�����̎Օ��I�v
-�@������̊w�҂����́A�v�������Ȃ����A���ǐ씎�m���F�����̉e���������������̂ŁA�͂��Ƌ������ꂽ�悤�Ɏv�����B
-�@�F�����I�@�F�����I
-�@�F�����́A�V�U�s�Ă񂪂��t����n���ւ����ł���ӂ������̕��ː��ł���B����͂w���̎O��{���������ː��ł����āA�����l�Ԃ́A���̍D�ނƍD�܂���Ƃɂ�����炸�A�ꕪ�ԂɈꖜ�ܐ�̉F�������q�ɂ�����ʂ���Ă���̂��B
-�@���̉F�����̗��q��𐅒��ɂ͂ȂƁA���Ԃ�ł����Đ��ɂ�������Ė񎵕S���[�g����������ʂ��͂�����B
-�@�C��嗤�ł́A�ǂ����B�C��嗤�́A�����͂܂��킩��ʂ��A�V�U����򗈁s�Ђ炢�t����F�������A���ɂƂǂ��Ȃ����Ȃ̂ł���B������C�꒴�l�́A�������̂�����m��Ȃ��Ŏl��N�߂��̂Ȃ����N�����o���̂ł���B������n��̐l�ނƂ��Ȃ��悤�Ȕ��������Ƃ͍l�����Ȃ��B
-�@���ǐ씎�m���A�C�꒴�l���ٗl�Ȏ��̂����悤�ɂȂ��������̈���A����炪�F�������Օ����Ă̎l��N�߂��̐����ɋA�s���t�����̂́A�������A�܂��Ƃɑ씲�Ȉӌ����Ƃ����ׂ��ł���B
-�u�����A�Ȃ�قǁA�F�����̎Օ����̐������\�\���ށA����͋C�����񂶂�����v
-�u���ށA���ǐ씎�m�ɂ������A�����͐S����h�ӂ����������΂Ȃ�܂��v
-�@����̊w�҂����́A����܂ł̑ԓx�����ĂāA��ꏟ�s���t���ɐȂ������āA���ǐ씎�m�Ɉ�������Ƃ߂�̂ł������B��������āA�h���[�V�������̊�Ԋ������Ȃ������B
-
-
-�m���R�������n�����[�a���̕s���m���u�����[�a���̕s���v�͒����o���n
-
-
-�@���ǐ씎�m���h�ɂɋA��Ƃ����������Ƃ��A��������V���s�����ӂ�t�����V���g����͂��߈���̐����w�҂����́A���ЂƂ����m�ɂ��Ă����āA�����[�a���ɂ��炽�߂Čh�ӂ�\�������Ƃ����������B
-�@���m�̓����[�a�������������V��s���ꂢ�t�����̂܂�Ȃ��Ƃ����āA�ɗ́s���傭��傭�t��������Ƃ��������ǁA�w�҂����͂Ȃ��Ȃ��������Ƃ𕷂��Ȃ������B����قǔނ�́A���ǐ씎�m�̐V�w���ɂ������A��V���̏�Ԃɂ������̂ł���B
-�@���m�́A�ꂢ�̑�w�\���̒n�����ɂ�������ꂽ�h�ɂ֋A���Ă����B�����āA�܂������ɂЂƂ�Ń����[�a���̂܂��ɗ������̂ł���B
-�u�����A���ǐ씎�m�B���Ȃ��̋A���҂��Ă��܂�����B���́A�ڂ��͋}���Ō̍��֋A�肽���̂ł��v
-�@�h���������̐S�z�����Ȋ炪�A�a���̌������ɂ����ꂽ�B����͂ǂ����A�a���̋A���\�o�ɂ������A���m�ɂ�����Ĉꐶ����߂��ɂȂ��߂����A���ɗ͂�����΂Ȃ������ƁA��F�ł����Ēm�点�Ă���悤�ł������B
-�@���ǐ씎�m�́A�傫�����Ȃ����A
-�u�������Ƃ��ł��B�킵�ƂāA�a���̊�]�ɑ������������Ƃ������Ă��܂��B�������a���A���͂�����Ǝ�������������Ǝv���܂��B�����A�����āA���A�҂ɂȂ�΁A�����ƁA�p���l�����͓a���Ɏ�������邾�낤�Ǝv���āA�S�z�ł��܂�܂���B����ɑ��A���敨��p�ӂ���ɂ��Ă��A���̓y�n�ł́A�����Ƃ����Ă��ǂ��ɂ��Ȃ�܂���v
-�@����ƁA�����[�a���́A
-�u�敨�̂��ƂȂ�A�S�z�͂Ȃ��̂ł��v
-�u���A�Ȃ��ł��B�Ȃɂ��敨�ɂ��Ă��l��������̂ł����v
-�u�����A����͐S�z�Ȃ��ł��B�킽���̓S����s�Ă��炰�t�͂��ł��g�����ɗp�ӂ���Ă���܂��v
-�u�����A�S����ł����āv
-�@�S����Ƃ��āA�O��v���N���������΂ւ���Ă����B
-�u�����ł��B�ł́A�����ɂ���܂��傤���v
-�@�����[�a���́A�������ɂ��������āA�Ȃɂ������s�������t�̂悤�Ȃ��̂��ƂȂ��͂��߂��B����ƒ��ǐ씎�m�����́A�Ȃɂ��d�C�ɂ�����ł������悤�ȁA�ւ�ȋC���ɂ�����ꂽ�B
-�i����͂��������I�j
-�@�Ǝv���Ă��邤���ɁA�����̂䂩�ɂ����߂��Ă����������s��񂪁t���ꃁ�[�g�������قǁA���炮��Ƃ�炬�͂��߂����Ǝv���ƁA�₪�Ă��̗����~�̂Ƃ��낪�ނ��ނ��Ə�ɂ����������āA������v�������Ȃ����s���񂶂傤�t�ȓS�Ԃ����ނ�����ƌ���ꂽ�B
-�u�����A����́v
-�u�����A����͌����ڂ�������B���̓S����̎i�ߓ��̂ӂ������A�ǂ����Ă��ꂪ�n�ꂩ��c�c�v
-�@�Ɣ��m���������ǂ낯�΁A�����[�a���͕ʂɂ��ǂ낢���C�F�s�����傭�t���Ȃ��A
-�u�Ȃ��ɁA�S����́A�l���Ăׂ΁A�ǂ��ւł�����ė��܂���v
-�@�ƁA�������B
-�@���̂Ƃ��n�����̓����ɑ҂����˂Ă��������w�Ғc���A�����҂����˂ăh�A����Ԃ�A�ǂ��ƊK�i����������Ă����B
-
-
-�m���R�������n�V���s�����ӂ�t�̗��m���u�V���̗��v�͒����o���n
-
-
-�u�Ȃɂ��Ƃł��B���̂������������́\�\�v
-�@���ǐ씎�m�́A�n�����̊K�i����Ƃт���ł��������w��̉���������ӂ肩�����āA����������B
-�u����A���ǐ씎�m�v�ƂЂƂ�̉�����ꓯ���\���Ă��������B
-�u�킽�������͍��A���c�����Ƃ��낾�B�C�꒴�l�̌������炢�A�����K�v�ɂ��܂��Ă�����̂͂Ȃ��B�����ňꓯ�̂��񂹂��ɂ��A�����ɂ���C�꒴�l�̃����[�a���Ƃ������炢�ɂ����̂��B���������ɓn���Ă��ꂽ�܂��B���̂����A�����͋M���s���Ȃ��t�ɍő�̖��_��^����B���̖��_�Ƃ����̂́c�c�v
-�u����B�҂��Ă��������B�����[�a����n���ȂǂƂ́A�Ƃ�ł��Ȃ��b�ł��B�l���Ă��킩��ł͂���܂��񂩁B�����[�a���́A�����p�̓����ł͂���܂���B�l�i�Ǝ��R�Ƃ��������A����ςȐl�ނȂ̂ł����v
-�@���ǐ씎�m�́A�ő�̖��_�Ȃǂ̍D�a�s�������t�ɂ��邱�ƂȂ��A�����悹����������̖\���s�ڂ�����t�����܂��߂�Ƃ��낪�������B
-�u�����˂����ǐ씎�m�B�N�C�[���E�����[���̎������e�Ƃ����A�����Ĕ��m�̂������̂��b�Ƃ����A�����͈ꍏ���͂₭�C�꒴�l���������Ă����Ȃ��ƁA���ɂ��ׂ��ׂɂ���ꂪ���߂��Ă���ɂ������Ȃ��B�����l�ނ��~�����߂ɂ́A�ЂƂ�̃����[�a������U���邱�Ƃ��炢�͉��̂݂ł��Ȃ��B���€�Ⴍ�ɑS�l�ނ�芴�ӂ����ɂ������Ȃ��v
-�u���₢��A�Ȃ�Ƃ����Ă����߂ł��B���A���̂킽�����A��������m���܂���v
-�u���݂͂�����ɂ���w���s�������イ�t�̍s����j�~�s�����t���悤�Ƃ��Ă���B�����́A���݂ɂ���������邨�ڂ��͂Ȃ��̂��B�������̂����܂��v
-�@�擪�ɗ���\����̌��t�ɁA��������͂��������V�����A����A�����[�a���̑O���ɗ����ӂ����钷�ǐ씎�m�������̂��Ă��A�����[�a����߂炦�����Ƃ����C���ň�ς��������B
-�@�����[�a���́A�܂�ŐΑ��s���������t�̂悤�ɂ����Ɣ��m�̂�����ɗ����Ă����B�����Ă��̏�̂��肳�܂ɁA�a���͂��悢�悱�̒n���͂Ȃꂽ���Ǝv���ɂ��������B
-�@���̂Ƃ������w�҂����́A���ɒ��ǐ씎�m�������̂��Ăǂ��ƊK�i������A�a����������Ɗ����Ă��܂����B
-�@��厖�ƁA�h����������O��v���N���Ƃт��������A����܂��A�V���������Ă���l�X�̂��߂ɂ͂˂̂����Ă��܂����B
-
-
-�m���R�������n�����_�m���u�����_�v�͒����o���n
-
-
-�u�F����́A�]���ǂ����悤�Ƃ����̂ł����v
-�@�����[�a���́A�₳�����ꓯ�ɂ������čR�c���ꂽ�B
-�u�������킩���Ă���ł͂Ȃ����B�M���͂����̂��߂ɋM�d�Ȍ����ޗ��ł���B�����A�����Ƃ�������ɍs�����v
-�u���₾�v
-�@�a���͂��̎���ӂ�͂Ȃ����B
-�u����Ƃ͉����B���݂́A���܂苭�����Ă͑�����B�����̊Ⴉ�猩��΁A���݂͓������̂���Ɏ����Ă���ސl���Ƒ卷���Ȃ��̂��v
-�u�����������Ă���ƁA�s���������悹�Ă��邼�B�����̓N�C�[���E�����[���̑D����D�q�̂���݂��͂炵�����ƁA�����肽���Ă���̂��B�����������ڂ��Ȏs�������ɂӂ݂ɂ���ꂽ���Ȃ�������A�����ł����̂������Ƃ����������������ł����v
-�@�w�҂����́A���X�ɂ͂��������t�������[�a���ɂȂ��������B�����́A��x�Ǝ�ɂ͂���Ȃ����̂��΂炵�������ޗ���ڂ̑O�ɂ��āA������ł��A�������ɓ���˂΂����ʂƂ������S�ł������B
-�@�����[�a���́A�����ƒ������Ă����B���������̑傫�ȋ��`�s���イ�����t�̓��́A�������ɂӂ邦�Ă����B�a���̐S���ɁA�������ɂ����ǂ��肪�̂ڂ��Ă����̂ł���B
-�u�n��l�ނ�����B���s���傤�t��́A����Ȃɂ܂ł��āA�]�𕎐J�s�Ԃ��傭�t�������̂��v
-�u�����B�҂��Ă��������A�����[�a���v
-�@�ƁA���ǐ씎�m�̐����A�w�҂����̌ォ�畷�������B
-�u�����A���ǐ씎�m�B�]�̔E�ϗ͂́A�������łɁA���ɗ����Ȃ��Ȃ�܂����B�����A�����܂��ł��B����A���Ƃ��]�����̏オ�܂񂷂�Ƃ��Ă��A�킪�C�꒴�l�ꑰ�́A���͂₪�܂�����Ȃ��ł��傤�B������܂���ނ𓾂ʂ��Ƃł��v
-�u����A�����[�a���B�����������A����ڂ����Ă��������A�킽���͂����Ɓ\�\�v
-�u�����A���ǐ씎�m�B���������ł����A�����������ł��B���ܗ]�̎��ɂ́A�͂�����ƊC�꒴�l�̓{��̐����������Ă��܂����B���m�ɂ́A���̂��킬���������܂��񂩁B���̒n���s���Ђсt�����������܂��ʂ��v
-�@�������������Ƀ����[�a�����Ƃ�܂����w�҂����̎��ɂ��A���[�b�Ƃ����C���̂�邢�n�����ƁA�����ĉ������ȂƂ��m���u�Ƃ��v�ɖT�_�n�̐��Ƃ��A����܂����ĕ������Ă����B
-�u�����A�Ȃ񂾂낤�A����́\�\�v
-�@�Ǝv���Ă��邤���ɁA�Â��������s��񂪂��āt�̂��ׂ��A�݂��݂��Ɩ肾�����B
-�u�����A�n�k���v
-�@���ŁA�w�҂����̗����Ă��鑫�̉����A�D�̂悤�ɂ�ꂾ�����B�����A�����ւ�ł���B�w�҂����́A�����قǂ̋C�F�s�����傭�t���ǂ��ւ��A���̏�ɂ͂��܂��҂�����A���邢�͊K�i������������҂��������B
-�@��̂Ȃɂ��Ƃ��N�������̂ł��낤���H
-
-
-�m���R�������n�y���s�����ނ�t�̂��Ȃ��m���u�y���̂��Ȃ��v�͒����o���n
-
-
-�u���ǐ씎�m�B�������ւ�������Ⴂ�B�h���������A�O��v�N�B�����O�l�Ƃ��������ւ�������Ⴂ�v
-�@�����[�a���������񂾁B
-�@���܂�ٕ̈ςɁA���m�����͂Ƃ��ɋC�����������Ă����Ƃ��낾�������A�a���̐�������Ǝ��ɂ͂������B��������n�͐���ɂ��Ă��āA�����͂��������Ȃ��B
-�i�ǂ��������̂��H�j
-�@�Ǝv���Ă���ƎO�l�͂����ɐg�����邭�Ȃ��āA�₪�Ăӂ��Ɖ��ɂ��낳�ꂽ�B����̓����[�a�����A���m�������ЂƂ�ЂƂ肾�������āA���̂܂ɂ��A���̒n�����̂䂩��ɂ�������p������킵�Ă����S����̒��ɂ͂��񂾂̂ł������B
-�@�Ō�ɁA�����[�a�����S����̎i�ߓ��̒��ɂƂт��񂾁B�����ďd���S�̂ӂ����A�ǂ���Ƃ��܂����B
-�@���ꂪ���������̂悤�ɁA���܂Ők���ɂ����Ă����Â���������̌����́A���炪�炪��ƈ�剹���𔭂��ĕ��󂵂��B�S����̏�ɁA��������Ƃ����������A��x�ɑ�̂悤�ɗ������������B�����S������A���̗����̉������ɂȂ��āA�؂���񂱂ɂЂ����Ă��܂������Ǝv��ꂽ�B
-�@�������肭���ꗎ���āA���݂͂ɂ��������̎R�Ɖ��������̌Â������̂��Ƃ���A���������Ɖ�������������Ǝv���Ă��邤���ɁA���̗����̎R���A�܂��y���������āA�ǂ��Ƃ�����Ȃ������B
-�@����ƁA���̒�����A�̂��̂��Ƃ͂������Ă����傫�Ȑ�Ԃ��������B����A����͐�Ԃł͂Ȃ������B����́A�ꂢ�̉��������S����ł������B
-�@�S����́A�D�u�s���������t�Ƒ�w�̒�𑖂肾�����B���͈ꃕ���Ƃ��Ă��ڂ�ł���Ƃ�����Ȃ������B�Ђ��傤�ɂ������O�ǂ������Ă���ƌ�����B�S����͗��؁s�������t���͂˂Ƃ΂��A�_�������������A�X�s�[�h�������đ��肾�����B
-�@�S����́A�������ł���Ɠ����ɁA������͂��点�Ă������Ԃ����̂��̓��������߂��̂ł������B
-�@�����S����́A�����[�a���ƁA���ǐ씎�m�A�h���������A�O��v���N�̎l�����̂��āA�ǂ��֑��苎�낤�Ƃ����̂ł��낤���B
-�@���̂���A�X��͓����܂ǂ��Q�O�ł����ւ�Ȃ��킬�ł������B
-�@��́A�Ȃɂ��Ƃ��N�������Ƃ����̂ł��낤���B
-�u�����B���������B�������ɂ������v
-�u����A�������֓�����v
-�u�����A�΂����̂��B�킽���̎q�����Ƃ��Ă�������B���A���ꂩ�����ā\�\�v
-�u�������������Ⴞ�߂��B�����ɂ��Ȃ��ƁA���܂��������������ɂ��낳��Ă��܂���v
-�u����A�킽���͎q�������΂��������̂��v
-�@�����������킬�̂����ɂ��A�Q�O�̓��̏ォ��A������R���N���[�g�̂����܂肪�A���炪��Ɨ����Ă����B������ɂȂ�Ԍ����́A�����Ƃ����ꂨ�����B������������y���́A�����������̎��E�����������Ă��܂����B���̓y���̂ނ����ɂ́A��������̂��킩��Ȃ����A��������́A�������A�l�X�̋��s������t�̂��߂����ƁA��߂������Ԑ������������B
-�@�����A���̓y���̂ނ����ɂ���̂��낤�H�@���킭�A�����[�a�������΂��āA�������肩�����ɂ����C�꒴�l�̑�Q�I
-
-
-�m���R�������n��c�~�m���u��c�~�v�͒����o���n
-
-
-�@�˔@�����h�����P�������C�꒴�l�̑�Q�́A�l�ނɂ͂ƂĂ��z���ł��Ȃ����炢�Ȃ͂������j��̂��Ƃ��̂����āA�ꎞ�Ԃ̂̂��ɂ́A�ǂ��Ƃ��Ȃ��p�����������Ă��܂����B
-�@�s���̑����́A�܂��͂����肵������ׂ͂��Ȃ����A�����ւ�Ȃ��̂��낤�Ƃ�����B�������ʋ@�ւ̔j�󂳂ꂽ���́A����������Ȃ��B
-�@�������������A�����h���s���ɂ��������傫�Ȃ��̂͊C�꒴�l���܂��P�����͂��Ȃ����Ƃ����傫�ȋ��|�S�ł������B
-�@�܂������̂Ƃ���A�C�꒴�l�̒ʉ߂������Ƃǂ߂�@���Ȃ镐������@���Ȃ������B�d�C�s���イ�ق��t�������Ă����Ă��A���e�������Ă����Ă��A�C�꒴�l�Q�͂т��Ƃ����Ȃ��̂ł������B�×܉t�ł����A����P���̊C�꒴�l�ɂ͂����ς���ɗ����Ȃ������B��������Ƃ���A�C�꒴�l�͉p���̓�����s���s�Ƃ��΂Ђ��������t��肤�����܂��̑��Q�ɂ���āA����ǂ͖h�ň߁s�ڂ��ǂ����t�������Ē��p���Ă������̂炵���B
-�@���⃍���h���s���́A�����������s���������t�̂Ȃ݂��ɂ���Ă���B
-�u�C�꒴�l��{�点���̂������B�����������ꂪ�A�C�꒴�l�����̂悤�ɓ{�点���̂��v
-�u�����A����͂��ꂾ�낤�ˁv
-�@�s���́A�����Ȃɂ��l����͂��Ȃ��Ȃ����Ƃ����ӂ��Ɍ�����B�����Ăӂ�����΁A�����͂��Ȃ炸����ȉ�b���͂��߂�̂ł������B
-�u���̎��A�C�꒴�l�͂����邾�낤���v
-�u����A���邩���m��Ȃ��Ƃ������Ƃ��B�V���g�����m�����ߎҁs�������񂵂�t�ɂ����Ƃ��炵���������v
-�u���̘b�Ȃ�A�ق����畷�����B�������V���g�����m�́A���̂Ƃ������̉��ɂȂ��āA�傯���������̂ł͂Ȃ��������ˁv
-�u���������b������B���́A�ڂ��͉����m��Ȃ��񂾂�B�����A����A�C�꒴�l���܂�����悤�ȋC������񂾁v
-�@���̂Ƃ��낻�̊C�꒴�l�͂�������胍���h����K�₵�Ȃ��B���̂���ɂȂ��āA�s�������͂���Ƌ��|���班���~��ꂽ�B
-�@�S����̂䂭���́A���܂��ɂ킩��Ȃ��B���������Ē��ǐ씎�m��s�̏������܂��s���ł���B�����������������Ƃ͑z�����ł��͂��Ȃ��ł��낤���B�܂�A���ǐ씎�m�͂ӂ����сA�C��嗤�֍s���Ă���̂ł���B�����ē{�藧�C�꒴�l�������A���ӂ������ĂȂ��߂Ă���̂ł���ƁB
-�@���m�́A�������A����Ȃ��Ƃ��m�[�g�̂͂��ɏ����L���Ă���B
-�u�C�꒴�l�̋���ׂ����͂ɂ������ẮA�Ƃ��Ă��l�ނ͂��̓G�łȂ��B�����������Ȃ郍���[�a���̍ݐ��s���������t����邩����A���҂̏Փ˂͖��R�ɖh�~�ł��邾�낤�B����͗��҂ɂƂ��āA�K�^�Ȃ��ƂƂ���Ȃ���΂Ȃ�Ȃ��v
-�@�����ǂ݂������Ă��A���ǐ씎�m�����܂����Ȃ�ڕW�ɂނ����ēw�͂����Ă��邩�A��̐��@�ł���ł͂Ȃ����B
-�@�킪�l�ނƊC�꒴�l�Ƃ��A���Ȃ����`�ϔO�̏�ɗ����A�������Ɉ��������Ď���ɂ����̂́A���̓��̂��Ƃł��낤���B���܂艓�����̂��Ƃł͂Ȃ��ł��낤�B
-�@�������I�̋��فI�@�����C��嗤�I
-
-
-
-��{�F�u�C��\�O�S�W�@��4���@�\�����̉��y���v�O�ꏑ�[
-�@�@�@1989�i�������j�N7��15����1�ő�1�����s
-���o�F�u�q���̉Ȋw�v
-�@�@�@1937�i���a12�j�N4���`1938�i���a13�j�N12��
-���́F��c�T�u
-�Z���F���{���m�q
-2013�N1��20���쐬
-2013�N5��19���쐬
-�󕶌ɍ쐬�t�@�C���F
-���̃t�@�C���́A�C���^�[�l�b�g�̐}���فA�󕶌Ɂihttp://www.aozora.gr.jp/�j�ō���܂����B���́A�Z���A����ɂ��������̂́A�{�����e�B�A�̊F����ł��B
+［＃３字下げ］大西洋上のメリー号［＃「大西洋上のメリー号」は中見出し］
+
+
+　三千夫《みちお》少年の乗り組んだ海の女王といわれる巨船クイーン・メリー号は、いま大西洋のまっただなかを航行中だった。
+　ニューヨークを出たのが七月一日だったから、きょうは三日目の七月三日にあたる。油のようにないだ海面を、いま三十ノットの快速を出して航行している。あと二日たてばフランスのシェルブール港にはいる予定だった。
+　ちょうど時刻は昼さがり。食堂もひととおり片づいて、乗客たちは、水着に着かえて船内の大プールにとびこんだり、または船尾の何段にもわかれた広い甲板《かんぱん》の上でテニスをやる者、デッキ・ゴルフをやる者、輪なげをやる者など、それぞれに楽しい遊びにむちゅうであった。
+「オイ、日本のボーイ君。ここへきて、点をつけてくれんか」
+　などと、そこへ船長をさがしにきた三千夫少年に声をかけるフランスの老富豪などもあった。
+「ハイ、すぐまいります」
+　三千夫はにこやかにあいさつをして、船客たちの間をかけぬけていった。船長はどこの組にはいってゲームをしていられるのか。
+「船長！　船長！」
+　三千夫のかわいい声が耳にはいったものと見え、ゴルフ組にいたデブデブふとった船長ストロングが、打ちかけた手をとめて、
+「オイ、ボーイ。なんの用だ。大した用事でなかったら、おれがいまお客さまに、とくいのファイン・プレーをやってお目にかけるまで待て」
+　三千夫少年は、船長のことばにおかまいなく、まりのようにそばへ飛んでいった。
+「船長。いま、事務長から電話がございました。すぐお耳に入れるようにとのいいつけです」
+「ああ、そうか」
+　事務長からの電話だと聞くと、ストロング船長は、ついに球をうつことをあきらめて、三千夫を手まねきした。そしてひくい声でいった。
+「いったい何事か」
+　三千夫はふとった船長に腰をかがめてもらい、その耳もとに口を近づけて、なにごとかをボソボソささやいた。船長のくちびるがグッと、への字にまがるのを船客たちは見のがさなかった。なにか一大事らしい。船底から水がもり出したというのではなかろうか。まさか海の女王クイーン・メリー号にそんなことがあってたまるものかと思うが……。
+「進路はかえない方がいいだろうといえ」
+　船長は三千夫に命じた。
+　船客たちは、ハッと顔を見合わせた。
+「船長さん。この船はどうかしたんですか」
+「事務長はなにを見つけたのですか」
+　船客たちは、もうゲームどころではなかった。船長の顔色の中に、なにごとか突発したらしい事件を読もうとした。
+　そのとき、ストロング船長は微笑を浮かべていった。
+「いや、ただいま、本船の前方十マイルさきの海面に、おびただしいサケの大群がおよいでいることを発見したというんです。どうも非常な数らしいので、本船がそのまま突っきってもいいかどうかと、事務長は聞いてきたんです」
+「なんですって、サケの大群ですって。あッはッはッ」
+　これを聞いた船客たちはドッと爆笑した。
+
+
+［＃３字下げ］ふしぎな大漁《たいりょう》［＃「ふしぎな大漁」は中見出し］
+
+
+　船長は、それほど笑わなかった。
+　この大西洋でサケの大群にあうということは、かれの長年の経験にもいまだ一度もないことだったから。
+「船長さん。十マイルも遠方におよいでいるサケの頭が見えるとはおどろきました。さすがに海の女王クイーン・メリー号ですね」
+　とアーサー卿《きょう》がいった。
+「いや、本船はもっと遠方まで見える装置をもっています。昼間でも夜間でも、器械だけが本船の進路にあたる海面をにらんでいるのです。もしその方向にあたって、木片一つ浮いても、すぐ警報のベルがなるようなしかけになっています。この器械を自動監視鏡《じどうかんしきょう》といいますが、これがあるおかげで、本船は、人間が見ていなくても船の前方に流氷《りゅうひょう》があればすぐそれとわかりますから、進路をかえて氷山とのしょうとつをさけることができます。それからまた、難破船《なんぱせん》があって、ただひとりの人間が海面をただよっていても、やはり同じ自動監視鏡がそれを見つけて、警報ベルをならします。サケの大群を発見することなんか、まったくわけのないことです。いずれ、サケの先生がたは、水面からピョンピョンはねあがっているのでしょう」
+　船長はいささかとくいげに、メリー号がそなえているすぐれた「人造眼《じんぞうがん》」についてのべたてた。
+（これほど安全な汽船は、世界中どこをさがしてもありませんよ）
+　と、いいたげであった。
+　それからしばらくたつと、甲板上に多勢の船員や水夫たちが出てきて、しきりに海面を見まわしはじめた。
+「見えますか」
+　船客のひとりがたずねた。
+「ええ、あれです。海の色がかわっているのが見えるでしょう。あの黒ずんだ水をごらんなさい。ああ、さかんに波立っています。あの下にサケのむれがおよいでいるのです。すてきな魚群《ぎょぐん》だなァ、――」
+　船員は、またのびあがって海面をながめるのであった。
+「オイオイ、船尾へ行ってみようよ、船尾じゃあ、あみを持ちだしたよ。サケをとるつもりらしい」
+「そうか、それはおもしろい。早く行って見よう」
+　船尾では、なるほど大さわぎが始まっていた。二等運転士が指揮をとって、大きな本式の魚あみを用意している。
+「いいかァ。用意はいいんだな。じゃ始めるぞ。――魚あみおろせエ」
+　ザンブと、大きなあみは船尾から海中に投げこまれた。黒山のように上層の甲板に集まって見物していた船客たちは、一度に手をたたいた。
+「見える、見える。サケがおよいでいる」
+「どれどれ、どこに……」
+　三千夫少年はこの時、やっと仕事をすませて、甲板にとびだした。かれはスルスルとマストの上によじのぼっていった。
+　見える、見える。じつにすばらしい魚群だった。巨船クイーン・メリー号も、いまや右舷《うげん》も左舷《さげん》もサケの大群にかこまれてしまった。魚の群れは、メリー号と競走しているように、同じ進路をとっておよいでいる。どうして、このようなおびただしいサケ群が大西洋にまよいこんだのだろう。それにしても、おそらく本場のカムチャッカにおいても、こんな大群を見ることはめずらしかろう。
+　船尾では水夫のどなる声が聞こえる。
+「二等運転士。もう、あみの中がサケでいっぱいですぞォ。このへんであみを引かなきゃ、あみが破れて、せっかくのサケがみなにげてしまいますぜ」
+「よォし、あみを引けーッ［＃「引けーッ」は底本では「引け―ッ」］」
+　二等運転士が勇ましく号令した。
+
+
+［＃３字下げ］口に入らぬサケ料理［＃「口に入らぬサケ料理」は中見出し］
+
+
+　船内はどこでもここでも、サケの話でもちきりだった。
+「今晩の食卓に、さっきとれたサケを料理してつけます」
+　という船内アナウンスが、どの船室にもひびいたからだ。
+　やがて晩餐《ばんさん》を知らせるシロホンが、ボンボンボンとなりだした。六等船客たちはその楽器の音を聞いただけで、口の中につばがわいてきてしかたがなかった。いよいよあのうまそうなサケがうんとくえるぞ。
+　上《かみ》は特別一等船客から、下《しも》は船底に住むれいの六等船客のところまで、サケの料理は全部にゆきわたった。船員たちも、それぞれの部屋で、じぶんたちの仲間が目の前でとったサケを料理のさらの中に見出した。その魚肉《ぎょにく》の上には、つまようじにつけた小さな旗がそえてあった。その旗には字が書いてあった。指さきにつまんで読んでみると、
+「われらの女王クイーン・メリー号は海上を征服し、今また海中をも征服す」
+　とあった。
+「なんだ、これは。サケ漁を祝った文句らしいが、あまりうまい文句じゃないネ」
+　とひとりの船員がいった。
+「うん、この文句の次に――よって、はなはだ疲れたれば、われわれはこれより海底に眠らんとす――と書いておけばいいのに」
+「よせッ。海底にねむるなんて、えんぎでもない――」
+　三千夫少年もボーイ室に、皿に大山もりのサケ料理をもっていった。
+「サケの本場はどこだか知ってるかい。知らなきゃ教えてあげよう。日本の北のほうにある漁場カムチャッカだ」
+　大いばりでフォークをにぎろうとしたとき、
+「三千夫ボーイ、事務長のおよびだ」
+　と、ボーイ長がどなった。
+「ちえッ、つまらないの」
+　三千夫は日本語でいって、いきおいよく背の高いいすからすべりおりた。
+　そのとき船内には、あちこちでねむそうな声が聞こえて来た。アーアと大きなあくびをする者もあった。船長は階段をのぼりながら、手すりにぶらさがってコックリコックリいねむりをしていた。ロボット操縦装置を持ったメリー号の船体だけが、一こう変らぬ全速力で、まっくらな海上を東に向かって航行していった。
+
+
+［＃３字下げ］ルゾン号の無電報告［＃「ルゾン号の無電報告」は中見出し］
+
+
+「クイーン・メリー号行方不明となる！」
+　このおどろくべき報道が全世界に向けて放送されたとき、人々はあっとおどろきの声をはなった。
+　でも、なにかのまちがいではないか？
+　しかしそれがまちがいでないことは、それから矢つぎばやに放送される臨時ニュースの内容によってだんだん明らかになっていった。
+「クイーン・メリー号に無線電話をもってよびかけたが、さらに応答がない。最後に同汽船から通信を受けとったのは午後八時二十分であった。それいらい、一通の電信も電話も、同汽船から受けとっていない」
+　ニューヨーク、ロンドン、パリなど、各国の都では、クイーン・メリー号の船客となった親や子供や親類や上官や友人などの身の上を案じて、汽船会社のまえは群衆で黒山のようになった。
+　高声器《こうせいき》が鳴った。
+「クイーン・メリー号は、不可解なる原因のため無電に故障を生じたものと思われます。当局ではただちに、海軍飛行隊に出動を命じました。ただいま偵察第十二戦隊が出発いたしました。また駆逐艦《くちくかん》六隻も現場にむけて出発いたしました」
+　人々は顔を見合わせて、うちうなずいた。今に飛行機が快報を知らせてくるにちがいない。
+　ロンドンの汽船会社の重役室では、社長ラングレー氏が首脳部をあつめて協議を進行させていた。
+「ああ、ありました。フランス汽船のルゾン号です」
+　と、航路部長のロイド氏が、数字のたくさん書いてある書物の上をおさえながらいった。
+「おおルゾン号か。すぐ無電で問い合わせたまえ。午後八時二十分から九時の間にメリー号にすれちがったはずだが、同汽船を見たかどうか、なんでもいいから、メリー号に関する詳細を知らせてくれといってやりたまえ。もちろん、ていちょうなことばでもってな」
+　無電係はただちに電波を汽船会社の屋上から発射した。フランス汽船ルゾン号は、まもなく応答してきた。
+「本船は予定したる時刻においてクイーン・メリー号に遭遇《そうぐう》せず、さらにその時刻の前後においても遭遇せず。ついに船影《せんえい》すらもみとめざりき。海上は風やや強きも難航《なんこう》の程度にあらず」
+　果然《かぜん》、ルゾン号は、クイーン・メリー号と、たしかにすれちがうはずだったのに、船影さえ見なかったというのだ。
+　メリー号のゆくえは如何《いかん》？　いまごろ乗組員たちは何をしているのであろうか、サケ料理をたべそこなった三千夫少年はどうなったか。
+
+
+［＃３字下げ］スミス警部の出発［＃「スミス警部の出発」は中見出し］
+
+
+　大西洋において、奇怪なる失踪《しっそう》をした海の豪華船クイーン・メリー号の行方については、ありとあらゆる捜査がこころみられた。勇敢なる英国海軍の偵察第十二戦隊は、大きな危険をおかして、荒浪《あらなみ》激《げき》する洋上をすれすれに飛んだり、あるいはまた、雲一つない三千メートルの高空にのぼったりして、消えた巨船の行方をさがしもとめたけれど、なかなか思うようなてがかりがえられなかった。
+　駆逐艦六隻も、つづいて現場めがけて急行した。その一隻には、とくに英国警視庁の有名なる探偵スミス警部も乗っていた。
+　スミス警部は、出発にさきだって、警視総監から激励《げきれい》のことばをうけた。
+「――なにしろ、世界一のクイーン・メリー号がどこへ消えたかわからないとあっては、わが大英帝国の国辱《こくじょく》問題だ。巨船の行方がわからないうちは、ふたたびロンドンに帰ってこないつもりで、大いに任務をつくしてもらいたい」
+「もちろんです、総監閣下。メリー号の竜骨《りゅうこつ》をつかむためには、百《もも》ひろの底へもぐってもいいと思っています」
+　スミス警部は、決心のほどをかたくむすんだくちびるのあたりに見せて、総監の前をさがろうとした。
+「スミス警部！」
+　と、総監はいすからたちあがって、スミスにかたい握手をもとめ、そして声をひくくしてささやくようにいった。
+「これは、大秘密なんだが、聞くところによると、ちかごろ大西洋方面から怪しい電波がときどきとびだしてくるそうだ。何者が打つのか、まだ正体はしかとわからないが、大いに気をつけたがいい」
+「怪しい電波ですって。無線電信ですか、無線電話ですか」
+「それはどっちともわからないんだ。暗号電信のようでもあり、また人間の声のようでもある。なにしろ海軍当局――いや、某所《ぼうしょ》で受信した度数も少ないので、正体なんかハッキリしていない。とにかくきみのあたまのどこかに、そのことをしまっておいてくれたまえ」
+「ハア、かしこまりました」――
+　今スミス警部は、駆逐艦の艦橋《かんきょう》から暗い海面をじっと見やりながら、総監から餞別《せんべつ》にもらったこの言葉を、いくども胸のなかにくりかえしひろげていた。夜目にも、潮が白く歯を見せてほえているのがわかった。
+「この暗い海を見ていると、千尋《ちひろ》の底には、きっとおどろくべき秘密がかくされているように思えてくるんだ。船にのりつけないじぶんの気まぐれかしら」
+　スミス警部は、首にかけた双眼鏡《そうがんきょう》のつり革をいじりながら、ひとりごとをいった。
+　そのとき、タラップを当直の水兵がトコトコと靴音をさせてあがってきた。
+「――おォーイ、スミス警部どのォ。警部どのォ」
+　警部はその声に気がついた。
+「オーイ。ここにいますよォ」
+　水兵は、その声をたよりにかけあがってきた。
+「ただいま、あなたあてに本国から電信がきていますよ。すぐいっしょに艦長室まで来てください」
+「おお、そうですか。よろしい。いま行きます」
+　なにごとだろうと思って、スミス警部は大急ぎで艦橋をおりていった。
+　艦長は一通の電信紙をテーブルの上において、スミスのくるのを待っていた。
+「おお、これは総監閣下からの命令です」
+　スミスは、じっと、文面に見入った。
+「なになに、メリー号とすれちがったはずのルゾン号が、ロンドンに向かうのを中止して、現場にひきかえすから、ルゾン号に乗りかえて捜査《そうさ》しろ――という命令か、いや、これはおもしろくなってきた」
+　警部はなにか事の起こるのを予想しているらしく、ひとり大きくうなずくのであった。
+
+
+［＃３字下げ］ルゾン号に移乗《いじょう》［＃「ルゾン号に移乗」は中見出し］
+
+
+　ただちにルゾン号との間に、無線電信がいそがしげに交換された。
+　そのけっか、あと三時間ほどすれば、ルゾン号と洋上で出会うことに手はずがととのった。
+　スミス警部の乗った駆逐艦《くちくかん》は、それに応ずるように、きゅうに進路をまげて隊列をはなれた。
+　そして暗い海上を全速力で飛ばしていった。エンジンの音は一段と高くなり、震動はいよいよ加わっていった。
+　それから、かなりながい時間がたった。
+　水兵のどなるような声が聞こえた。汽笛がポーポーと鳴った。甲板《かんぱん》に出てみると、まっくらな海上に、左舷の方にあたって赤と青との灯《ひ》がみえた。その灯はだんだんとこっちに近づいてくるのがわかった。
+「フランス汽船ルゾン号だ」
+　信号兵がつぶやいた。
+　艦長はスミス警部を部屋に呼んだ。そして、クイーン・メリー号の捜査情報のなかから最も新しいものをえらんで教えてやった。それは主として捜査艦艇の配置と、その報告の羅列《られつ》だった。
+「――しかし、けっきょくのところ、メリー号の行方は今夕とおなじようにサッパリわからないのだ」
+　そういって艦長は、沈痛な顔をして言葉をむすんだ。
+　スミス警部も、それを大きなためいきとともに聞いた。艦長の立つうしろのかべには、大きな大西洋の海図がかかっていた。まったく大西洋ははてしもないほど広いのであった。
+　甲板から当直将校の声が伝声管をつたわって聞こえてきた。いよいよルゾン号に追いついたというしらせであった。
+　甲板に出てみると、いつしか東の空がポーッと白みかかっていた。汽艇は波の間に浮いて、スミス警部を待っていた。
+「やあ、しっかりやって来たまえ」
+　そういう声に送られて、警部は暁《あかつき》の洋上に船をのりかえることになった。彼はもう海軍の軍人のように、挙手の礼をもって祖国の駆逐艦に別れをつげた。
+　スミス警部は、やがてフランス汽船ルゾン号上の人となった。
+　ルゾン号は五千トンばかりの貨物汽船であった。しかし、戦時にはいつでも航空母艦になれるように出来ていたから、スピードも三十ノットの上出るというすこぶる快速船だった。銑鉄《せんてつ》とワタとをうんとつんでいた。もちろんマストの上には、三色旗がへんぽんとひるがえっていた。
+　エバン船長は欧洲大戦生き残りの勇士で、いまなおおかすべからざる気概《きがい》をもっていたが、一面｜好々爺《こうこうや》でもあった。スミス警部をむかえると、かたい握手をもとめて、クイーン・メリー号の遭難について見舞いをのべたのち、
+「――本社の指令にもとづき、スコットランド・ヤード（ロンドンの警視庁）の名警部スミス氏を歓迎し、メリー号の捜査について、いかようなる便宜をもはからうの光栄を有するものです」
+　スミス警部は、ふかくその好意を謝したうえで、ただちに現場附近におもむいて捜査をしてくれるようにとたのんだ。とりわけ、海上のメリー号に、関係のある漂流物《ひょうりゅうぶつ》について、細心《さいしん》の注意をはらって見つけてくれるようにと依頼した。
+「やあ、海上捜査ならばわたしのお手のものですわい。まあ安心して見ていていただきたい」
+　エバン船長はにっこり笑って、またスミス警部の手を強くふった。
+　スミス警部には、フランス汽船の強い自信が、なんとはなく重苦しいほどせまってくるのを感じないではいられなかった。
+
+
+［＃３字下げ］漂流物《ひょうりゅうぶつ》［＃「漂流物」は中見出し］
+
+
+「船長、漂流物が見えます。左舷《さげん》――」
+　と、一等運転士がかけこんできた。
+　ちょうどスミス警部が、船長室で、船長と共に朝飯のテーブルについているときのことだった。
+　船長はニヤリと笑って、警部の方を見た。どうです、さっき申したとおりでしょうがネ、といいたげな目つきである。
+（すこし早すぎるようだが――）
+　と、スミス警部はすこし胸をつかれた形であった。
+　甲板へ出てみると、水夫たちがモーター・ボートをおろしていた。ボートはスルスルとあざやかに舷側《げんそく》をすべりおりて、海面に浮かんだ。と思うと、はや、白波をけたてて進んでいった。
+「どこに見えるんですかネ」
+　スミス警部は双眼鏡をつかんでたずねた。
+「この見当です」
+　と一等運転士は長い指をのばして、海上を指した。
+「すぐそこです。いますぐボートがひろいあげますから。そうとうのえものですよ」
+「そうとうのえもの？」
+　スミス警部は、いそいで双眼鏡を目にあてた。かれは不器用な手つきで、ピントを合わせていたが、やがてとび上がるようにさけんだ。
+「ああ、あれだな。人間のようだ」
+「そうです。人間にちがいありません。しかも少年です。最新式の浮標《ブイ》にはいっている。クイーン・メリー号の名までハッキリついているやつです」
+「ええッ、クイーン・メリー号ですって？」
+　海上では、モーター・ボートがすでにおいついて、少年を波間からひろいあげていた。やがてボートは、またルゾン号の舷側にかえって来た。つりばしごをトコトコとのぼってくる、しお焼けをした船員や水夫たち。
+「――おどろいちゃいけない。日本の少年ですよ。船のボーイらしい服装をしています」
+　すくいにいった二等運転士が報告するその言葉の下に、ふたりの水夫にかかえられた全身ズブぬれの少年が、甲板の上におろされた。少年は気を失っているらしい。すくわれたので急に気がゆるんだのであろう。この少年こそたれあろう、サケ料理を食いはぐれた、クイーン・メリー号のチンピラボーイ三千夫少年にほかならなかった。
+　警部はじめ一同は、少年のそばによって、かいほうをくわえた。この少年こそは、クイーン・メリー号の唯一の遺品でもあり、ただひとりの手がらびとであるかも知れないのだ。汽船の上にすくいあげた以上は、なんとしてもかれの意識をよみがえらせねばならない。そして、少年がどうしてメリー号から脱出して海上にただようようになったか、そのわけを聞かせてもらわねばならないのだ。
+　このとき三千夫少年は、やっと気がついたらしく、まゆにしわをよせ、うでをグッとまげた。
+
+
+［＃３字下げ］洋上の怪物［＃「洋上の怪物」は中見出し］
+
+
+「うん、気がついたらしい」
+　と、一同は大よろこびだった。
+「さあ、それでは下へつれていって、すこしいたわってやれ。元気がかいふくしたうえでないと、なにを聞いてもいけないぞ」
+　と、エバン船長は、厳然《げんぜん》たるなかに、深いおもいやりのある言葉をかけた。
+　スミス警部は、船長の方をチラリと見て、こまったなァという顔つきをした。警部としては一秒たりともはやく少年の告白を聞いて、メリー号の安否《あんぴ》をただしたいのであった。しかしかれの希望は、すっかりじゃまされてしまった。その上、ルゾン号づきの医師が甲板に出てきて、三千夫少年を診察したあげく、少年が、夏の海とはいえ、かなり体をひやして、心臓がたいへん弱っているから、すくなくとも一時間は十分に手あてをくわえて経過を見ていなければ、取りかえしのつかないことになると警告したから、なおさらどうしようもなかった。
+　スミス警部はしかたなく、その一時間を待つことになった。
+　そのかわり、かれはただちに、メリー号の失踪《しっそう》現場附近でボーイ三千夫少年をルゾン号が救助したことを無線電信でもって、本国ならびに捜査隊に急報した。このスミス警部の報道は、全英国に大きな感動をあたえた。ボーイがひとりみつかった。それなら、やがて本船もその附近で発見されるにちがいない。
+　ところがなかなかそうはいかなかった。海上は朝をむかえて、ふたたび飛行機の偵察がはじまったが、どこにもいぜんとしてメリー号の船影を見つけることができないという入電《にゅうでん》ばかりが、むなしくつくえの上につみかさねられていった。
+　海上の天候は、このとききゅうにかわった。低気圧の中心が、足ばやにこっちの方におしだしてきたものと見える。風がひゅうひゅうと鳴りだし、海はしだいに白く波頭をたてて荒れはじめた。三千夫少年には、不幸中の幸いだった。もう一刻、すくわれるのがおそかったら、かれの生命《いのち》はどうなっていたか、それはわかったものではない。
+　英国軍港から特派された航空母艦からは、いまや刻々、気象報告が、捜査にしたがっている偵察機にむけて発せられていた。偵察機は、やむをえず、雲ひくい海上を、低空飛行によって進路を見失わぬようにつとめていた。
+　そのときであった。偵察機ＥＳ一〇一号は荒れ模様の海面に、奇妙な形をした鋼鉄浮標《こうてつブイ》とも潜水艦ともつかぬものが浮いているのに気がついて、急いで僚機《りょうき》にあいずを送った。
+　大西洋上の波浪にあらわれている鋼鉄製の怪物は、一体何ものであろう。
+
+
+［＃３字下げ］怪物を追う［＃「怪物を追う」は中見出し］
+
+
+　二機の偵察機は、変妙な怪物を追うため、ぐっと下げかじをとり、波間とスレスレの低空飛行にうつった。
+「へんなかっこうをしているが、しかしどうも潜水艦くさい！」
+　と、司令のラスキン大尉が双眼鏡を目におしあてたままさけんだ。
+　偵察機は、一たび怪物の頭上をとびこえると、またグルリと旋回して、ふたたび波間の怪物めがけて強襲していった。
+「おい、ハーン信号兵。停船命令をかかげろ！」
+　ラスキン大尉の命令で、偵察機の尾部からは落下傘仕掛けの信号旗がおとされた。「タダチニ停船セヨ」との信号だった。そうして、機は怪物の上をすれすれに飛んだ。
+　だが怪物は、その停船信号をきかなかった。きかなかったばかりではない。重そうな鋼鉄ばりの頭をグラグラとゆすぶると、しだいに波間にからだを沈めていくようすだ。
+　このようすを見るより、ラスキン大尉はじめ偵察機の乗組員はむかむかとしてきた。英国海軍の厳然《げんぜん》たる命令をあざ笑うにひとしい怪物のずうずうしい態度だ。
+　なにしろ洋上は荒れているので、晴れたおだやかな日のように、上から海中の姿を見すかすことができなかったから、せっかく発見した洋上の怪物に、ここでずぶずぶと海面下にかくれられてはおしまいだった。
+　司令ラスキン大尉は気をもんだ。こうなれば、最後の手段だ！
+「戦闘用意！　射《う》ち方始め！　射撃目標は潜水艦！」
+　僚機にも信号が送られた。ラスキン大尉は双眼鏡をすばやくしまって、機関銃座にしがみついた。
+「射て！」
+　で、射程にはいった怪物にむけて、猛烈な機関砲の射撃がはじまった。
+　口径二十三ミリの砲弾はドドドッとものすごいひびきをたてて、怪物の上に雨あられと降った。たちまち怪物はこなみじんとなるかと思いのほか、意外にも砲弾はカンカーンとはねかえされた。
+「ウヌ！」
+　ラスキン大尉が歯がみをして、なおも引き金をひきつづけた。だが怪物はびくともしない。
+　そのうちに怪物は、ユラリユラリと気味のわるい灰色の体を波間にかくしてしまった。そしてあとには白いあわがブツブツゆらいでいるばかりだった。
+　偵察機は、とうとう怪物をとりにがしてしまったのだ。
+
+
+［＃３字下げ］大西洋の鉄水母《てつくらげ》［＃「大西洋の鉄水母」は中見出し］
+
+
+「大西洋の鉄水母」――と、ラスキン大尉は、れいの怪物のことを、そう呼ぶのであった。その大西洋の鉄水母のことは、ラスキン大尉から無線電信で打電したので、捜査本部をはじめクイーン・メリー号の捜査にしたがっていた汽船ルゾン号なども皆それを受信した。
+「ラスキン大尉の発見した鉄水母というのは、いったい何物なんだろうネ」
+　大西洋の怪物鉄水母のことは、ひどく捜査隊の連中をおどろかせたようであった。
+　ラスキン大尉は、鉄水母をとりにがしたことをたいへんざんねんがっていた。あれをとらえることができれば、クイーン・メリー号の行方もきっとわかったにちがいないと思っていた。もしこのつぎ、あの鉄水母を見つければ、こんどはきっととらえてみせると、大尉はたくましいうでをなでまわした。
+　フランス汽船ルゾン号の上でも、船員といわず乗客といわず、鉄水母のうわさで持ちきりだった。
+　エバン船長はＡ甲板の上でスミス警部をとらえて、さっそくこの話を持ちだしていた。
+「ねえ、スミス警部さん。あなたのお国のラスキン大尉のお手がらをお祝いしますよ。鉄水母とはおもしろい名まえですね。あなたは、あの鉄水母がどんなものだとお思いですか。ぜひ聞かせてください」
+　スミス警部は、つやつやしたあから顔を海上はるかに向けながら、
+「さあ、鉄水母とは何物ですかな。うわさによると、鉄水母はこの世界に二つとないふしぎな生物だという話ですが、わたしはそうは思いませんね。やっぱり人間の作ったものにちがいないのですよ。つまり潜水艇だろうと考えています」
+「潜水艇？」
+　船長は警部の返答に失望しながら、
+「潜水艇なら、英国海軍がひと目見ればそれとわかるはずじゃありませんか。わたしは、もっとほかのものだったと思いますよ」
+「すると、海ぼうずの一種だとおっしゃるのですか」
+「いや、まさか海ぼうずなどというばけものだとはいいませんが……」
+　ふたりは顔を見合わせて声高く笑った。
+
+
+［＃３字下げ］遭難談［＃「遭難談」は中見出し］
+
+
+　エバン船長はスミス警部とつれだって、せまい階段にコトコトと鳴るくつおとをしのばせながら船内の病室の方へ下りていった。
+　医務長のあんないで、船長は三千夫少年の寝ている病室へはいっていった。
+「やあ、日本少年。気分はどうだね」
+　三千夫はそれとみるより、ベッドの上に元気よく起きあがり、漂流中をルゾン号にすくわれてからの礼をのべたのち、
+「――気がついてからも、どうしても、ぼくはクイーン・メリー号のなかにいるとしか思われなくて、こまりましたよ」
+　といった。船長は、
+「ウンそうかそうか」とうなずきながら、
+「一体、きみは、どうしてメリー号からほうりだされたのかネ」
+「それがハッキリおぼえていないのですが、なんでもあれは、船内の夕食がすむかすまぬうちのことでした。――」
+　と、少年の語りだしたところによると、三千夫少年は、サケ料理をパクつこうとしたとたんに、事務長から呼ばれたので、おしくもサケ料理のさらをそのままにして、廊下にとびだしたのであった。
+　三千夫少年が事務長の部屋にいってみると、事務長クーパーは机の上に、たくさんの四角な封筒入りの手紙を整理していた。それは翌日の夜、船内に開かれるところの仮装舞踏会《かそうぶとうかい》の招待状であった。
+　ボーイの三千夫は、事務長からのいいつけで、まず右舷の一等船客のところへ、この招待状をもっていくよう命じられた。
+　三千夫がその一たばの封筒を手に持って部屋を出ようとしたとき、なんの気なしにクーパー事務長の方をふりかえってみると、かれは残りの招待状を船客名簿とひきあわせながら、こっくりこっくり、居ねむりをはじめていた。
+　あのしっかり者の事務長が、仕事中に居ねむりをするとはどうしたことだろうと、ちょっとふしぎに思いはしたが、少年はそのまま室外に走りでたのである。なぜなら、事務長に注意をしてやることよりも、このとき、もっと少年の注意をひくことが起こったからである。それは異様な臭いであった。なんというか、非常になまぐさい一陣の風が、室外から吹きこんできたのである。
+「その臭《くさ》さといったら、めずらしい臭さなんですよ。これまでにあんな変なにおいをかいだことがないんです」
+　少年はベッドの上で胸をおさえて、まゆをひそめた。
+　それから三千夫は甲板にとびだした。夜だった。明かるい甲板の灯が、海面を船のまわりだけ照らしていた。そのときかれはふしぎなものを見た。
+　白くあわだった波が、逆流してくるのであった。そして水面はきゅうにグングンと上がってくるのであった。その時、船体はなにかにつきあたったらしく、ゴトンゴトンとゆれはじめた。
+「沈没だッ！」
+　三千夫は、とっさにそう思った。かれはメリー号の名のついている浮標《ブイ》を身体《からだ》につけた。
+　船体はグラッと右にかたむきだした。
+　甲板を走っていた少年は、何かにつまずいた。そして、あッという間もなく海中にドブンとほうりだされた。頭の上から、つめたい海水がどっと滝のように落ちてきた。かれはそこまではおぼえていたが、あとは気を失ってしまった。
+　気がついてみると、かれは浮標《ブイ》をからだにゆわきつけて、海上をただよっていたのである。
+　いつしか夜は明けていた。
+　ルゾン号にすくいあげられたのは、それから四、五時間のちだったという。
+　エバン船長は、三千夫が遭難談を語り終ると、いすから立ちあがり、少年の手をにぎって、その幸運を祝った。スミス警部は、だまりこんだままなにごとか熱心に考えていた。
+
+
+［＃３字下げ］海賊潜水艦説［＃「海賊潜水艦説」は中見出し］
+
+
+　三千夫少年は、元気になって甲板に出られるようになった。
+　ルゾン号は、メリー号遭難の地点と思われる海面を、ぐるぐるとまわっていた。
+　船底からは海底に向け、たえず信号音が発せられ、それが海底から船底にふたたびかえってくる音の強さと時間とが測定されていた。これは水深測定器《すいしんそくていき》だった。もしどこかにメリー号の船体が沈んでいたとすれば、帰ってくる音の強さと時間とが急にちがうはずだった。
+　しかし、メリー号の船体らしいものには、なかなかつきあたらなかった。
+　スミス警部は三千夫のお守り役のようにして、少年のそばにいつもくっついていた。が、このとき肩をたたきながら話しかけた。
+「三千夫君、きみのほかに、浮標《ブイ》をつけて海中に飛びこもうとしていた者はありませんでしたか」
+「さあ――」
+　といったが、考えてみると、ほかに誰もそんな人を見かけなかったようだ。
+　このむねこたえると、スミス警部はギロリと眼玉をうごかして、
+「それはへんですネ。他の人は、どうして気がつかなかったのでしょう」
+　ほんとうにふしぎだ。船が沈没するらしいと、三千夫だけが気がついたというのはおかしい。しかもそのときのメリー号が、ただの状態にいたとは決して考えられない。
+（なぜ、ほかの人は気がつかなかったのだろう？）
+　三千夫は目をぱちぱちさせて考えこんだ。
+「あッ、そうだ。サケ料理のせいかもしれない」
+「えッ、サケ料理とは？」
+　スミス警部は、いきなりサケ料理の話が出たので面くらった。しかしかれは、ぜひその話を聞かせてくれるようにと少年にたのんだ。
+　三千夫は例のサケの大漁から、その日の夕食にサケ料理が出た話をした。
+「サケ料理をたべた人は、皆ねむくなったんじゃないでしょうか」
+「さあ――」
+　とスミス警部はあごをなでた。
+「どうもサケをたべてねむくなったという話は聞いたことがありません。しかしサケが大漁だったとはへんな出来ごとです」
+　少年は、どうしても、あのサケ料理があやしいように思った。
+「じゃ警部さんは、メリー号がどうして遭難したと思うのですか」
+　三千夫の大質問に、スミスは、ちょっとタジタジの形だったが、やがて静かにいった。
+「わたしの考えでは、やはり、これは怪潜水艦を利用する海賊団のしわざだと思うのです」
+「海賊団ですって。海賊団がメリー号をうち沈めたのですか」
+「いや、海賊団はメリー号の財宝を盗るのが目的だから、沈めないで、どこかへつれていったと思います。もし沈めたとすると漂流物がなければならない。ところが漂流していたものはきみひとりではありませんか。だからメリー号は安全に、どこかの海上を引かれているのだと思います」
+　探偵らしい説だった。
+　少年の沈没説と、スミス警部の捕獲説と、どっちがあたっているのだろうか。
+
+
+［＃３字下げ］怪《あや》しき目ざめ［＃「怪しき目ざめ」は中見出し］
+
+
+　なんだか黄いろい粘液《ねんえき》のようなものが、しきりにグルグル渦を巻いているのであった。その渦は大きくなったり小さくなったり、また横にほそながくなったり、そうかと思うと風に吹きとばされたようにすうッと消えてしまったり……
+「ううゥ、いやなにおい［＃「におい」に傍点］だ」
+　全くいやなにおい［＃「におい」に傍点］だった。胸がむかむかして胃ぶくろが裏がえしになりそうだ。
+「――オイ、そんなくさいものをおいていっちゃこまるよ。早くとりかたづけんか。ボーイはいないか。おい、ボーイ、ボーイ」
+　事務長のクーパーは、クイーン・メリー号の自室の中でしきりにじぶんの胸をかきむしっていた。今までにひどくひっかいたらしく、制服の金ぼたんはとれ、ネクタイははずれ、白いワイシャツはまっかな血でいたいたしくそまっている。
+「ああ、わたしはどこにいるのだろう。豆スープのように濃《こ》い霧《きり》だ。なんにも見えない。こんなひどい霧にあったことは、わたしのながい海上生活にも始めてだ」
+　事務長のクーパーは、手さぐりで室内をソロソロと歩きだした。しかし、とたんにガタンと大きな音がして、かれは下にどうとたおれてしまった。
+「あッ、あ痛《い》たッ」
+　なにやらかたいものに、いやというほど腰骨《こしぼね》をぶっつけた。手さぐりで、そこに、いすがひっくりかえっていたことが、やっとのみこめた。
+「ああくさい。これはなんのにおいだ」
+「どうもひどい霧だ。なにも見えやしない」
+　甲板でも船室でも、同じようなことでひどいさわぎが起こっていた。船員も乗客も、みょうな、へっぴり腰で、ゆかの上をごそごそはいまわっていた。甲板の上では、しきりに鉢合《はちあ》わせが起こって、いまいましさにどなる声が聞こえた。
+「船長、いま本船はどこを航海しているのか。どうもへんだぞ」
+「うむ、たしかにどうも変だ。機関の音はしているが、波の音が聞こえないじゃないか」
+「船がすこしもゆれていないぞ。――うわーッ、海はどこかへ行っちまったッ」
+　船客たちの怒号が、だんだんはげしくなっていった。
+「海がどこかへいってしまったって？　そんなばかなことが……」
+　甲板へはいだしてきた事務長クーパーは、それを聞きとがめた。
+「フン、うちの船客は気がちがったらしい。海の上を走っているのに、海がどこかへ行ってしまったなんて……」
+　と、いいかけて、クーパーはハッと息をとめた。
+「ありゃりゃ。海の音が聞こえないぞ。これはひょっとすると、ほんとうに海がどこかへ行っちまったのかもしれない。だけど、誰がそんな奇蹟《きせき》を信じるものか」
+　クーパーはしきりに目をぱちぱちやっていたが、そのとき背後からかれの名をよぶものがあった。
+「事務長はいませんか。電話です。電話ですよ」
+　それは秘書のマルラの声だった。クーパーはその声のする方に、またゴソゴソ四つンばいになって近づいていった。ところが、頭をイヤというほどマルラの頭にぶつけてしまった。マルラも同じように、ゆかの上をカニのようにゴソゴソはいまわっていたのだった。
+「事務長、機関部から電話です。一こくも早くあなたを電話口へ呼んでくれといっています」
+
+
+［＃３字下げ］危険信号［＃「危険信号」は中見出し］
+
+
+　電話機のところまでたどりつくのに、また、なかなか骨がおれた。はって歩くには、何かにつきあたるごとに、これはどこにおいてあったいす［＃「いす」に傍点］かしらなどと考えなければ、じぶんがいま部屋のどこにいるんだか、けんとうがつかなかった。そのうちにこんがらがってしまって、じぶんが部屋のどこにいるかわからなくなってくる。
+「おい、マルラ。電話機をさがしてくれよ」
+　クーパーも、とうとう悲鳴をあげた。
+「はい、事務長。だがよわりましたな。わたしはさっきから、急に目が見えなくなってしまったんです。さっき電話のかかってきたときは、ベルが鳴っていたものですから、電話機のあり所も知れたんですが、今はベルが鳴ってくれませんので、ハテ、どこにあることやら――」
+「しようがないなァ。物が見えなくては」
+　と、クーパーは舌うちした。
+「事務長。もうわたしには秘書の役はつとまりません。眼が見えなくなってしまったんですからネ。海の中へはいって死んでしまった方がましです」
+　マルラはじぶんが怒られたのかと思って、ひどく悲観してしまった。
+「おいおい、あまり早まっちゃいけないぞ。眼が見えなくなったというが、ほんとうに眼が見えなくなったのかなァ。そうじゃないよ。われわれはいま、濃い霧の中にはいっているだけのことなんだよ」
+「濃い霧の中へはいったのですって？　そうじゃありませんよ、事務長。目をやられてしまったんですよ。眼が見えなくなっては、もうなんの楽しみがありましょう。わたしはやっぱり海へはいります」
+　秘書は絶望のあまり、しきりに海中へとびこみたがった。
+「マルラ。気を強くもたなけりゃいけない。第一、海へはいりたいといっているが、その海がどこかに行ってしまったらしいんだよ」
+「ええッ、海がどうしましたッ」
+「海がなくなったらしいんだ。波の音も聞こえなければ、ブツブツというあわの音もしないのだ」
+「海がどこかにいってしまうなんて、そ、そんなばかげたことが……」
+　そのときであった。ボウボウと、本船の警笛がひびいた。それはいつものさえざえとした音とはちがい、なんだか変な音色だった。しかもそれは、危険信号を伝えていたのである。
+「あッ、危険信号だッ」
+　事務長は、サッと青ざめた。
+「これはぐずぐずしていられない。おいマルラ。どうしても電話機をさがさにゃならんのだ。こっちへ来い。いっしょに手をつないで歩きまわった方が、はやく室内のようすがわかるだろう」
+「そりゃいい思いつきだ」
+　マルラは喜びの声をあげた。
+「事務長、わたしはここにいるんですよ。早くこっちへ手をのばしてください」
+　やがてクーパー事務長は、マルラの冷えきったブルブルふるえている手をさがしあてた。マルラはよろこびの声をあげて、クーパーの手にせっぷんした。
+「――さあ、しっかり立って歩くんだ。手をうんとひろげるんだぞ」
+　広い、事務長の室の中をふたりが鬼ごっこをはじめた。
+　でも、その鬼ごっこは、ついに成功して、ゆかの上に転がりおちていた電話機をひろいあげることができたのは、それからものの五分とかからぬ後のことだった。
+　事務長はさっそく受話機を耳にあててさけんだ。
+「クーパーだ。そっちは機関部かネ」
+「おお、クーパーの声だッ」
+　と、むこうでは、たいへん待ちかねたような歓声《かんせい》をあげた。機関長シリンの声だった。
+「おお、クーパー。たいへんなことになった。本船の機関は、いつ爆破するかしれないんだ」
+「ええッ」
+
+
+［＃３字下げ］船底からのなげき［＃「船底からのなげき」は中見出し］
+
+
+「本船の機関が爆破するかもしれんとは、どういうわけだッ」
+　事務長は棒立ちになってさけんだ。
+「それは、こういうわけなんだ」
+　と、シリンが半泣きの声で説明するところによると、機関部では、どういうわけかわからぬが、皆がトロトロと居ねむりをしてしまったこと、それから後になって目をさましてみると、たれもかれも、ことごとく目が見えなくなっているのがわかったこと、そんなわけだから、いま機関部員は、ただ日ごろの熟練《じゅくれん》によって、目は見えないが、手さぐりによって、この精巧なクイーン・メリー号の機関をかろうじてあやつっていること、したがって、メーターもゲージもよめないので、いつまで安全に機関を運転しつづけられるかわからない、きっと、操縦はどこかに大きなむりをつくって、恐るべき機関の爆破が起こるかもわからないというのだった。
+「今の今まで、わがメリー号は眼が見えない者ばかりの手で運転されていたのか。そいつは全くあきれたはなしだ」
+「ねえ、事務長。どうして皆がそろいもそろって眼が見えなくなったんだろうネ」
+「どうもよくわからない。実はこっちも皆、眼が見えないんだ。わたしやマルラはもちろん、船客たちも眼が見えないといってさわいでいる。しかしほんとうに眼が見えなくなったのか、それともひどい濃霧《のうむ》につつまれたのか、それはどっちかわからない」
+「濃霧じゃないと思うね」
+　と、機関長シリンは反対した。
+「でも、すこし、あかりは見えるような気がするんだよ。物の形はいっこうに見えないがネ。なんだかこう、豆スープの中にはいったように、まッ黄いろなあかるさを感じるんだが……」
+「こっちはまっくらさ」
+　とシリンははきだすようにいったが、きゅうに声をふるわせて、
+「――事務長、とにかくこれは大異変だよ。ぼくたちは、もう運転の自信を失ってしまったんだ。もう総辞職だ。しかも英国につかないうちに、魚の腹のなかにはいってしまうだろう、ああ」
+　事務長も、それをなぐさめるすべを知らなかった。でも今はろうばいしているときではない。異変があるとすれば、極力《きょくりょく》しっかり気をおちつけて、そこを切りぬける工夫をしなければならないのだ。そう思った事務長は、声をはげまして、機関長シリンをしかりつけた。
+「いや、しかられてもしかたがない。しかし、ぼくはもう力がないんだ」
+「力がないなんてことはないよ。きかなくなったのは、たかが眼だけのことじゃないか。ほかにまだ手もあり足もあり、脳もあれば耳もあり、鼻もある。――そうだ、きみのところは何かくさくはないか」
+　と、事務長はふと気がついて、れいのいやな臭気《しゅうき》についてたずねてみた。
+「くさい？　いや、別になんにもくさくはないが、それがどうしたのかネ」
+「なに、そっちはくさくないのか。それはふしぎだ。船室や甲板一たいには異様な臭気がただよっていて、じつにへいこうしているのだ。機関部がくさくないとは全くふしぎだ。するとこれは、やっぱり海霧《ガス》につつまれているとしか思えない。だが、そのガスも尋常《じんじょう》いちようのガスではない――」
+
+
+［＃３字下げ］夢の国のとりこ［＃「夢の国のとりこ」は中見出し］
+
+
+　事務長のクーパーは機関長をはげましておいて、電話を、本船の上甲板《じょうかんぱん》のもう一段上にある操縦室につなぎかえた。
+　一等運転士のパイクソンがでてきた。
+「おう。パイクソン。こっちはクーパーだが、本船の操縦はうまくいっているかネ」
+「とうとうかぎつけたネ。じつはいま船長とふたりで、ちえをしぼっているところだ。たいへんなことが起こったよ」
+「たいへんはしょうちしているよ。そっちの連中も目が見えないんだろう」
+「そうだ。ほとんど目の見えない連中ばかりだ」
+「ほとんどというと――」
+　と事務長はせきこんで聞きかえした。
+「――誰か眼の見えるのがいるかネ」
+「うむ、少し眼の見えるやつがいる。そいつはぼくだ。ぼくひとりなんだ」
+「ええッ、パイクソン、おまえだけ眼が見えるのか。それは意外だ。どうしておまえだけ眼が見えるのか」
+「それはよくわからない。ただぼくは夕食中、きゅうに気持がわるくなって、自室にひきとったんだ。そして急激な嘔吐《おうと》に下痢《げり》だ。半死半生《はんしはんしょう》のていでベッドにもぐりこんでいたが、それから後、元気をとりかえして、いま船橋《せんきょう》に立っているが、船中の眼が見えないさわぎのうちに、ぼくだけは少し見えるので意外に思っているわけさ」
+　聞けば聞くほどふしぎな話だった。その幸運な一等運転士も、やはり視力はおとろえていた。
+　それでも、夏の朝霧のなかに鳥がとんでいるのが見えるほどには見えるらしいのは、まったく見つけものだった。
+「で、航路は――」
+「その航路だが、要するにめちゃくちゃだ。前方がまったく見えない。昼夜時計《ちゅうやどけい》によると、時刻は正《まさ》に午前九時なんだが、さっぱり前方が見えない。どこを向いても、ただまっ黄いろな空間があるばかりだ。クーパー君。おどろいてはいけないよ。海面すら見えないのだ」
+「ああ、海がどこかへ行ってしまったのだネ」
+「海がどこかへ行ってしまった？　まあ、そうかも知れない。しかし船のスクリューには、ちゃんと手ごたえがあるんだよ。船は水のようなものの上に浮いていて、そのなかを、たしかにスクリューがまわっているんだ。だから、本船はすくなくとも時速三十ノットで前進していきそうなものなんだが、メーターをしらべてみると、ジッととまっているとしか考えられない。こんなへんなことがあるだろうか」
+　さすがの一等運転士も、心細いことをいいだした。これでは、眼が見えても大したちがいではなさそうだ。
+「――で、本船の位置は？」
+「全くわからない。とまっていることはわかるが、自記航路計がくるってしまって、どの地点にいるのだかわからないのだ。やがて夜にでもなって北斗星《ほくとせい》が出てくれば、六分儀《ろくぶんぎ》でもって測定できるだろうがネ」
+「そいつはよわったなァ」
+「全くよわった。ぼくはなんだか夢の中にいるような気がする。しかもクイーン・メリー号ごと夢の国に持っていかれたような気が……」
+　船橋にいる一等運転士パイクソンの声は、まるで地の底から聞こえてくるように、陰々《いんいん》たるひびきをもっていた。
+
+
+［＃３字下げ］火におじる者［＃「火におじる者」は中見出し］
+
+
+　クイーン・メリー号の事務長クーパーは、いまは死を待つばかりだと思った。そのうち機関長のシリンがいったように本船が爆発するか、さもなければ一等運転手パイクソンのいったように夢の国、じつは死の国に横づけになるかもしれないのだ。
+「ああ、船乗り稼業もこのへんでおしまいだ」
+　と、クーパー事務長は、見えぬ眼をまたたいた。日ごろ豪胆《ごうたん》をもって鳴っていたが、メリー号の全身不随《ぜんしんふずい》となったのを知って、今は、すっかり絶望のふちに沈んでしまったかれだった。
+「事務長、たばこをお持ちじゃありませんか」
+　と、室のすみにうずくまっていたマルラが、とつぜん顔をあげていった。
+「なに、たばこだって？　たばこならあったはずだ。そうだ、このさわぎにたばこをのむことすらわすれていたねえ。マルラ、こっちへ来い。いっしょにのもう」
+　マルラは事務長のやさしい言葉にあって、犬の子のようにゴソゴソはいよっていった。
+「さあ手を出して。ホラ、たばこを受け取ってくれ」
+　ふたりは手さぐりで、紙巻たばこを一本ずつ取り出した。
+「マッチは？」
+「おお、マッチもあるぞ」
+　クーパー事務長は、ポケットをさぐって、マッチを取りだした。そして、何のちゅうちょすることなく、シュッと火をつけた。
+　その瞬間だった。
+「ギャーッ！」
+　と、とつぜん、怪しい悲鳴が聞こえた。みょうな声音だ。人間がそんな奇妙な声を出すのをはじめて聞いたとクーパーは思った。とたんに、あわてきったような足音――それは、なにか大きなぬれ足を引きずるような、ペッチャ、ペッチャという音だったが、入口の方に消えていった。
+　クーパーは、秘書のマルラが気がおかしくなったんだとばかり思っていた。
+「かわいそうなマルラだ。甲板から飛びこまなきゃいいが……」
+　と、クーパーがつぶやけば、
+「えッ、わたしがどうしたとおっしゃるので……」
+　と、思いがけなくも、クーパー事務長の鼻の先にマルラの声が聞こえた。
+「おやッ、マルラ！　そこにいたのか」
+「おやッ、事務長ですね。わたしはここにいますが、わたしはまた、あなたがかけ出したんだとばかり思っていたが、今のはそうじゃなかったのですか」
+「もちろん、ぼくじゃない」
+　と、クーパーはぶっつけるようにいって、
+「そしてきみでもない。ふたりのほかのだれかだ。しかも、あんな変な声を出すやつって、一たいだれだろう」
+　とたんに、どこからともなく、れいのなまぐさい悪臭《あくしゅう》がプーンとおそってきた。
+　そのとき、テーブルの上に手をついたクーパーが、びっくりするような大声で叫んだ。
+「おやッ、マルラ。テーブルの上をさぐってみろ。なんだかベトベトしたものが一ぱいついているんだ。におうのはそれなんだ。わかった。おい、気をつけていろ。なんだかみょうな生き物が、そこらをうろうろしているらしいぞ」
+　マルラはそれを聞くと、歯の根も合わず、ガタガタふるえだした。
+
+
+［＃３字下げ］人間か怪物か［＃「人間か怪物か」は中見出し］
+
+
+　事務長クーパーはマルラをはげまして、さっそく手さぐりながら、入口のドアをとじてガチャリとかぎをかけた。窓という窓はピシャンとしめて、外界からの交通が出来ないようにした。
+「これでいい。とうぶんこうして、籠城《ろうじょう》したままで善後策《ぜんごさく》を考えるんだ」
+　クーパーは、どっかと廻転椅子の上にこしをおろした。眼は見えぬながら、心眼《しんがん》というものを開いて物を見ようと思った。
+　さっき、たばこに火をつけようとしたとき、ギャッと奇声をあげ、ピチャピチャと足音をたてて逃げだしたのは何物だったろう。それから、テーブルの上に残った、ねばねばした悪臭のある粘液《ねんえき》も、あの怪しい何者かに関係があるように思う。いったい何者なんだろう。人間か、それとも獣か？
+　とにかくかれは、これまでにあったことのないようなふしぎな難所《なんしょ》にとじこめられているのを知った。かればかりではない。五千人に近い人間をのせた巨船クイーン・メリー号ごと、そういう難所にとじこめられてしまったのだ。
+　いったい、ここはどこであろうか？
+　そういうことを考えると、かれはにわかに頭が痛くなるのであった。なにしろ、クイーン・メリー号は海上を航海していたのだ。それが、今は海のない地点にきているのだ。海はないがスクリューはまわっているというから、船は何物の上にか浮かんでいるのであろう。そういうところが、海の――大西洋のつづきにあるのだろうか。
+「どうも想像のできないふしぎさだ」
+　クーパー事務長は、たばこの煙をうまそうに出しながらつぶやいた。
+　しかし、結局かれは、さっきたばこの火をつけようとしたときに、ギャッといって逃げだした怪物が何者であったかを解くことができれば、巨船メリー号が今どこにいるかがそうとうはっきり知れるだろうと思いついた。かれはそう決心すると、船内の要所《ようしょ》要所《ようしょ》に電話をかけて、もしや怪しき生物が現われなかったかを問い合わせた。
+「――じょうだんじゃない」と船橋《せんきょう》にいた老船長がおこりだした。「この年になるが、海の中でそんな生物を一度も見かけたことはない。クーパー君。きみは気がたしかかネ」
+　クーパーは無言で電話を切った。ほんとうにその怪物に出会ったものでなければ、そういうふしぎな地点へメリー号がはまりこんでいるということを信じられないのだ。
+「どうだネ。シリン君」
+　と、こんどは機関部へ電話をかけた。
+「おお、おおッ、そッ、それだッ」
+　と、機関長シリンは、つかえながら電話口にかじりついた。
+「それがどうしたんだ」
+「いや、クーパー君。そういうへんてこなやつが、さっきからウロウロしているんだ。そして、しきりにギャアギャアと悲鳴のようなものをあげているんだが、それがきまりきって、エンジンの焼けている附近で起こるんだ。ぼくは思うに、そのふしぎな生物は、そこんところの焼け鉄管《てっかん》に接触して、いちいちやけど［＃「やけど」に傍点］をしているのだと思うよ。全くちえのたりないやつだ。きっと海にすんでいるけものじゃないかと思うよ」
+　クーパーはそれを聞くと、呼吸《いき》をはずませながら、
+「そうか。きみも獣説《けものせつ》か！　するとわれわれは今、その怪獣《かいじゅう》のすんでいる洞穴《どうけつ》のなかにいるんだろうか」
+「そうかもしれない。それでぼくは……」
+　と、いいかけているとたん、機関長シリンは急にあッと声をあげた。そして胸の底からしぼりだすような声でさけんだ。
+「――人殺しッ。おい、クーパー助けてくれ――いまおれの首をしめているやつが……」
+　とまでは聞こえたけれど、それから後、ふたたびシリンのはばのある声は電話機のなかからひびいてこなかった。
+
+
+［＃３字下げ］さあ、やるぞ！［＃「さあ、やるぞ！」は中見出し］
+
+
+　クーパー事務長は、呆然《ぼうぜん》として受話機をにぎっていた。もうシリンの声は聞こえないが、何かしらピシュルピシュルと革のひもでもふりまわすような音が、機関部とおぼしき室のなかにしているのが聞こえた。そして、シリンの断末魔《だんまつま》らしい、ウームといううなり声が、かれの耳そこにハッキリと聞こえた。いよいよ事態は重大となった。このままでいくと、この豪華船のなかは恐ろしい修羅場と化していくであろう。
+「おいマルラ。おまえも武装をしろ」
+　クーパーは秘書を呼び、机の長引き出しの奥から一ちょうの軽機関銃をとりだして、手さぐりで渡した。そして、かれ自身も一ちょうのピストルをポケットにしのばせた。
+「だが、ぼくの命令のないうちは、どんなことがあっても、うっちゃならぬぞ」
+「え、大丈夫です。でもこれさえあれば、どんなやつがきたって――」
+　マルラは機関銃をもらって、にわかに気が強くなったようだ。
+　戸じまりもいい。武装は出来た。これで安心だ。事務長クーパーは、それからの策戦《さくせん》をどうしたものか考えだしたいとつとめた。
+　しかしこの場合、眼が見えなくてはどうすることも出来ない。なによりほしいのは視力だ。
+　そこで考えた。第一に、船医を呼んで視力を恢復《かいふく》させるように努力すること。第二に、電気主任を呼んで、この怪しい黄霧《こうむ》を散らすこと。第三に、一等運転士のパイクソンがすこし眼の見えるのを幸い、これを呼びよせること。この三つのうちのどれかが成功すれば、不幸な船客のために、クイーン・メリー号の今の運命を判断することができるだろうと思った。
+　クーパー事務長は決心がつくと、電話機をとりあげて、船医長のモルフィス博士を呼んだ。
+　博士はすこぶる元気のない声で答えた。
+「これじゃ、どうもしようがありませんよ。眼が見えなくては、薬びんのレッテルをよむこともできやしません」
+　しかたがないので電気主任を呼ぶと、かれは、
+「モーター一つあぶなくてまわせませんや」
+　と、ことわった。
+　最後に一等運転士に電話をかけてみると、
+「よォし、ではぼくが引き受けよう。ぼくが博士と電気主任のふたりを連れて、きみの室に行こうじゃないか」
+「うん、それはありがたい。至急、たのむ」
+「じゃあ、船長とぼくとは、これから司令塔を出ていく。そして三十分以内に、ふたりをつれてきみの室にいきつくからネ」
+「よろしくたのむ。だがきみの二つの眼が、このメリー号に乗り組んでいる全員が持っているただ二つの眼だということをわすれずに大事にしてくれたまえ」
+　クーパーはパイクソンの両眼について、心配でたまらぬというふうに注意した。
+　さあこれでいい。この危難を克服するために、すこしずつこっちの力がふえてくるのはたのもしかった。
+　だが、はたしてパイクソンは、三十分のちにふたりの重要役割の人間を連れて、クーパー事務長の部屋にたどりつくことができるだろうか。
+
+
+［＃３字下げ］魚とり大会［＃「魚とり大会」は中見出し］
+
+
+　メリー号捜索にしたがっていたフランス汽船ルゾン号の甲板に、英国の名探偵スミス警部がふらりと現われた。
+　その後に続いて飛び出してきたのは、もうすっかり元気を恢復した三千夫少年だった。
+「スミスのおじさん。まだ始めないの。ぼく待ちどおしいんだがなァ」
+「ウン、いよいよ始めようと思っているところだ。ああ、ちょうどいい。むこうから船長が来られたから、話してみよう」
+　いったい何を始めようというのだろう。
+　エバン船長は相変らず鉄壁《てっぺき》のような広い胸をはって、ゆうぜんと近づいてきた。
+「やあ、さすがのわしも弱っとりますわい。なにしろ戦うべき相手が見つからんでねえ。いったい敵はどのけんとうにいるのでしょうなァ」
+　さすがの古つわものも、相手の見つからない戦いに、鉄腕のやり場にこまっているといったふうだ。
+「そこで、船長さん」
+　とスミス警部はいった。
+「わたしに名案が一つあるんですが、やって見てくれませんか」
+「ほう、それはどんなことです」
+「それはですね」
+　とスミス警部はちょっと笑って、
+「きょう一日、乗組員総出で、このへんで魚とり大会をしたいのです。わたしが懸賞金を出しますよ」
+「懸賞？　それは面白い。わしも寄附してもいい。一等はどうして決めますかナ」
+「それはぼくが審査しますよ」
+「じゃ、スミスさんが審判長というわけですね。みんなくさっているおりから、これはいい思いつきだ」
+　そこで船内に、にわかに魚をとる懸賞のおふれが出た。おどろいたのは乗組員たちだった。つっても網でとってもどっちでもいい。とにかく魚をとれば、それをスミス警部が審判して、一等に一万フランの懸賞金を出すというのであるから、大喜びでたいへんなさわぎがはじまった。そのうちにルゾン号はエンジンをほとんどとめた。
+　うでにおぼえのある者は、さっそく艫《とも》へ行って糸をたれる。ボートにのって、えっちらえっちらこぎ出す者もある。ランチやモーター・ボートをつかって網を引っ張っていく者もある。大西洋上には時ならぬ魚とり大会がはじまった。
+「じゃ、スミスの伯父《おじ》さん。ぼくもボートで行って、ものすごく大きいのをつってきますよ」
+　と三千夫少年も、舷側《げんそく》にかけたはしごで、ボートのなかに下りていった。
+　スミス警部はひとり船橋の上にのぼって、この異様な魚とり大会の光景を見下ろしている。
+　皆がニコニコしているのにひきかえ、スミスただ一人、歯がいたみでもするような沈痛《ちんつう》な面持《おももち》を見せていた。
+　かれはどんな考えを胸に秘めているのだろう。
+
+
+［＃３字下げ］意外な獲物［＃「意外な獲物」は中見出し］
+
+
+　ルゾン号の魚釣大会は、たいへん盛んであった。
+　鏡のようにないだ大西洋の海面に、本船の舷側やクレーンの柱の上はいうにおよばず、あるいはボートを洋上にうかべて、熱心につり糸をたれているようすは、なんといってよいか、実になごやかな風景でもあり、それと同時にバカバカしい光景でもあった。
+「ほうら、つったぞ、つったぞ。すばらしく大きなスズキだ。眼の下五十センチもあるでっかいやつだ。さあ一等賞はぼくにきまった」
+　と、おどりあがる者がいるかと思うと、
+「なァに、スズキなんかいくらつってみてもだめさ。いくらでもいるスズキなんか、入賞するはずがないよ。それよりか、めずらしい魚をつった方が勝ちなんだ。おれを見ろ。コロライス・サイラ――日本名でサンマというめずらしい魚をつったぞ」
+「サンマなんて、めずらしくないや」
+　と、三千夫少年がひやかしたり、洋上はまるでお祭りのようなにぎやかさだった。そのため、連日のメリー号｜失踪《しっそう》でおもくるしかった誰の胸のうちもが、スーッと晴れてきたような気がした。
+「さあ、このへんで、審判長スミス警部に見てもらうかナ」
+　一等当選は自分のものだと自信をもつ連中が、ゾロゾロとスミス警部のところに集まってきた。
+「どうです、警部さん。こんな大きい魚をつったのはわたしひとりですよ。さあ、ごほうびをください」
+　スミス警部はただ笑って魚をうけとると、賞品のかわりに番号ふだをくれた。
+　スミス警部のまわりは、魚市場のようになってきた。ボーイが三人がかりでそれを整理すると、その向うに三人の料理人がいて、その魚のおなかを切ってははらわたを出し、ごていねいにも、そのはらわたを切ってみるのであった。
+「警部さんは、魚の寸法なんか、すこしもはからないぜ。腹を出して、料理をしているようだが、これは、ひょっとすると、魚の味で一等二等をきめるんだかもしれないぞ」
+　などと、そばに立っている連中がワアワア立ちさわいでいたが、スミス警部はこれを気にするようすもなく、腹を切りさいている料理人の手をジッと見まもっていた。
+　そのうちに、料理人のひとりが、ほうちょうを持つ手をハッととめて、警部の方をふりむき、
+「あッ、出てきましたよ。これじゃありませんか」
+　と、さし出したのは、一つの細い布《ぬの》テープをまるめたものであった。血をあらってそのテープをのばしてみると、文字のようなものが現われた。
+「おお、これだこれだ」とスミス警部はうなった。
+「こうなくちゃならないとおもっていたんだ。するとクイーン・メリー号は、どうしてもこのへんの海面下にいなければならないんだ！」
+　警部の手にした、魚の血によごれた布テープには、そも、いかなる記号《しるし》がついていたのだろうか。
+
+
+［＃３字下げ］クイーン・メリー号は叫ぶ［＃「クイーン・メリー号は叫ぶ」は中見出し］
+
+
+　エバン船長が、顔をかがやかして、スミス警部の方へおりてきた。
+「どうじゃネ。何か見つかったらしいが」
+「ええ、船長、これをごらんなさい」
+　といって、さし出した布テープを見れば、その中には、英語で次のようなかんたんな文句がタイプライターでうってあった。
+「｜ＳＯＳ《タスケヲモトム》。この附近を探セ。クイーン・メリー号」
+　クイーン・メリー号からの救助文なのであった。
+「ややッ、これはメリー号の通信じゃ。うむ、おどろくべき発見じゃ」
+　といって、エバン船長は感激の色をしめして、スミス警部の魚くさい手をぐっとにぎりしめた。
+「やあ、あんたが、こうした名探偵とは、失礼ながら今の今まで、そうは思わなかった。いや全く敬服のいたりじゃ」
+　スミス警部は、ゆかしく笑いながら、
+「とにかくこれで見ますと、メリー号の乗組員はまだ生きていると思われます。また、乗組員はなにかの災難にあって、それからのがれようとくわだてていることもわかりました。これを見ると、かれらはこの布テープに印刷をし、それをまるめた上で、何か魚のたべそうなえさの中に入れ、それを海中にまいて、魚がそのえさもろとも通信文を胃ぶくろにおさめるよう、そうすれば、そのテープがどこかで発見されるだろうと考えついたのです。こまったあげくのちえとはいえ、これは実におもしろい通信方法です」
+「うむ、いや名探偵じゃ。では、さっそくこれを英本国へ通達しなければならぬ」
+　ただちにルゾン号の無電は、檣頭《しょうとう》に高くはったアンテナから、
+「メリー号よりすくいをもとめる云々《うんぬん》」
+　と、あとからあとへとくわしい情報を打電した。
+　英本国では、もう絶望だと思っていたメリー号から救助信号があったというので、乗客の家族たちもハンカチーフでなみだをぬぐって元気づいた。
+　捜索隊への命令が発せられた。待機中の駆逐艦隊《くちくかんたい》や、れいのラスキン大尉のひきいる飛行隊は、新たに潜水艦隊をつれて勇躍してふたたび大西洋上めがけて進発《しんぱつ》した。
+　ルゾン号の魚とり大会の参加員たちにも、魚腹《ぎょふく》から出てきたクイーン・メリー号の救助信号のことがだんだんと伝わっていったので、さおをかついで本船にかえってくる者がだんだんに多くなった。
+「スミスおじさん。メリー号が見つかったって、ほんとうなの。どこにいたの」
+　と、三千夫少年も、カニばかりはいった魚籠《びく》をかついで、スミス警部のところへとんできた。いまや警部は船内の畏敬《いけい》のまととなった。
+「さあ、どこにいるのか、そいつはまだわかっていないのだよ、三千夫君。しかし今に、英国海軍がそれを教えてくれるだろうよ」
+　ああ、英国海軍！
+　そのとき何ごとが起こったのか、突如としてルゾン号の非常汽笛が鳴りひびいた。
+　こは何ごと、と全員はおどろいて、あるいは甲板にかけあがり、あるいは高声器《こうせいき》の方に聞き耳をたてた。
+
+
+［＃３字下げ］怪物見ゆ［＃「怪物見ゆ」は中見出し］
+
+
+　非常汽笛がヒョウヒョウと鳴り終ると、それに入れかわって高声器が働きだしたらしく、ゴソゴソと雑音がひびいてきた。
+「ああ、ただいま右舷二千メートル附近に、怪しき浮游物《ふゆうぶつ》が見えまァす」
+　怪しき浮游物が？
+　いったいなんであろう。
+　乗組員も乗客も、われがちに舷側からのびあがって右舷二千メートルかなたを見やると、なるほど白く波立った海面に、見えつかくれつして動いている一個の怪物体があった。
+「うむ、見える見える。赤だの青だの、なんだかゴチャゴチャした色をしているから、ハッキリ形はわからないが、これはれいのラスキン大尉が名をつけたという『鉄水母《てつくらげ》』ではないのかなァ」
+　と、望遠鏡の中をしきりにのぞいている高級船員がいった。
+「なに、鉄水母だって。それはたいへんだ。おい、ちょっとその望遠鏡をこっちへかせ」
+　わあわあというさわぎのうちに、船橋に立っているエバン船長は、ただちにその鉄水母らしきものを全速力で追跡しろと命令した。
+　船の機関は、たちまちごうごうと鳴りだした。あわだった海面が飛ぶように後に移動していく。船体はいまにも爆破しそうにブルブルとうなる。
+「うん、見えるぞ見えるぞ。なんだか、眼玉のようなものが二つ、ぐるぐるまわっているぞ」
+「おや、大砲みたいなものが出てきたぞ、あぶないッ」
+　と、いっているとき、パッと白煙が鉄水母の上にあがったと思う間もなく、ドーンと爆音が起こった。とたんに、ヒューとうなって飛びきたった黒いなわのような物――。
+　そいつがキリキリキリと、ルゾン号の積荷用のほばしらにからみついた。
+「あッ、あんなところへひっかかったぞ」
+「何だ、何だろう、あれは――」
+　ひとりの勇敢な船員が飛ぶようにほばしらの方へかけだした。そして、ほばしらの根もとのところへ行って、やッとかけ声をすると、これにだきついた。そしてスルスルと柱の上にのぼりはじめたのであった。
+　見る見るうちに、かれは、そのからみついたなわのようなものを手につかんだ。やっぱりなわであった。なわの両方にはおもりがついていた。それは、さわったものにまきついてグルグルとからみつくしかけのものであった。
+　それを、船橋に立って、この場の光景を見下ろしていたエバン船長とスミス警部のところにもってきたのを見ると、船長は急にあお白な顔になり、
+「うむ、これはめずらしい通信なわだ。むかしスペインの海賊が使ったものだというが、どれ、そのおもりをひらいてみたまえ」
+「えッ、スペインの海賊ですって」
+
+
+［＃３字下げ］鉄水母《てつくらげ》からの注意［＃「鉄水母からの注意」は中見出し］
+
+
+　飛びきたった通信なわの一方のおもりをひらいてみると、なるほど、その中から出てきたのは一枚のおりたたんだ紙片だった。
+　それをひろげてみると、はたして、えんぴつで走り書きの数行の文章がしたためられてあった。そこには、どんなことが書かれてあったろうか。
+　船長は声をふるわせてよむ、――
+「ワケモワカラナイノニ、攻撃シテハイケナイ。長良川博士《ナガラガワハカセ》ノ意見ヲ聞イテカラニセヨ。博士ハ今パリ大学ニ滞在中デアル。モシコノ注意ヲ守ラナケレバ、現代ノ世界人類ハ最大ノ不幸ニオチイルデアロウ。――黄色ノ眼ヨリ」
+　スミス警部はうーむとうなった。
+　エバン船長は、けげんな顔だ。
+「スミスさん、この、なぞのような文句を諒解《りょうかい》することができないが、どうもこれはうっかり進めないらしいよ」
+　スミス警部は首をふり、
+「いや、これでわかったも同然ですよ。あの鉄水母というのは、やはり海賊船なのですよ。それも近代的武器をもった潜水艦なのにちがいありません。ぼくらの船がまぢかにせまったので、それに来られてはこまるからというので、このおどかしの手紙で、われわれを退却させるつもりなんですよ。だまされてはいけません」
+「そうだろうか。ぼくはむしろ反対の考えをもっている。好意的にわれわれに注意をしてくれたのじゃと思う。だから一たん船をかえして、パリ大学に滞在中の長良川博士にそうだんした方がいいと思う。世界人類の大なる不幸になるというではないか。これは一大事じゃ」
+「船長、せっかくここまで追いつめたのに、退却するなんて――」
+「とにかく長良川博士といえば有名な宇宙学者ではないか。博士の意見を聞いてからにしよう」
+「いや、わたしはいやだ。ではルゾン号を去って英国海軍に救いをもとめたい。そういうふうに手はいをして下さい」
+　エバン船長は、考えるところあって、ルゾン号に鉄水母の追跡をやめさせた。
+　スミス警部はざんねんそうに、鉄水母の浮きしずみする海面をにらんでいた。
+　ルゾン号は船首をかえして、もとのクイーン号遭難現場にかえっていった。
+　その日の夕刻、無電のれんらくがついて、ルゾン号とパリ大学滞在中の長良川博士との間に無線電話が取りかわされることになった。
+　いよいよその定刻《ていこく》だった。
+　呼び出し信号はブウブウブウブウと、しきりに鳴った。と、やがて聞こえてきた博士の肉声！
+「おお、ルゾン号の船長さんですか。大学では、今こっちかられんらくしようと思っていたところでしたよ。大西洋は今、噴火孔《ふんかこう》の上にあるようなものですよ」
+「えッ」
+
+
+［＃３字下げ］長良川博士の大発見［＃「長良川博士の大発見」は中見出し］
+
+
+「大西洋は今、噴火孔の上にあるようなものだ！」
+　と、おどろくべき言葉が、パリ大学滞在中の宇宙学者長良川博士からマイクをとおしてルゾン号に伝えられたが、誰ひとりとして、そのおどろくべき言葉の意味がわかった者はなかった。なぜ大西洋は噴火孔の上にあるようなものであろうか。
+「長良川博士よ。貴下《きか》のおっしゃる意味は、これから大西洋のどこかに、新しい火山が噴火をはじめるだろうというのですかな」
+　と、ルゾン号の船長エバンはふしぎそうにたずねかえしたのであった。
+「いや船長。火山ぐらいなら、まだそうおどろくにあたらないのです」
+「火山でもないとすると――では、海底地震でもが予知されたのですか」
+「海底地震でもありません」
+「では一たいどうしたというのです。早く教えていただきたい」
+「いやどうもすみません、エバン船長さん。申しあげるについても、実はあまりにおどろくべきことなので、いいだすには勇気がいったのです。もう、ちゅうちょすることなくお話しましょう。おどろいてはいけませんよ。じつは大西洋の底に、恐るべき生物がすんでいることがたしかめられたのです」
+「恐るべき生物というと、クジラとかサメみたいなものですか」
+「いやいや、そんな下等《かとう》なものではありません。ちえのていどからいって、わが人類にまさるとも、よりおとるとは考えられない恐るべきかしこい生物なのです」
+「おどろきましたね。そんなものが、本船のま下にすんでいるのですか」
+　と、さすがの勇猛艦長も顔色をかえ、
+「そいつはやはり人間の仲間なんですか」
+「さあ、その恐るべき海底生物が、人類であるかどうかは、まだはっきりわかっていません。いずれ研究をかさねていくうちにわかってくることでしょうが。――とにかくその海底生物のいることは、月の表面に起こるふしぎな崩壊現象《ほうかいげんしょう》からわかったのです」
+「えッ、なんです。その月の表面に起こるふしぎな崩壊現象というのは」
+「それはですね。あの空気も水もない月の表面に、近年みょうな崩壊現象がおこるのです。それは電子望遠鏡によってあきらかにされたことなんですが、たとえばコペルニクス山という環状山《かんじょうさん》がありますが、その山の高さが、ここ一カ年のうちにすこしずつひくくなって、わたしの観察したところによると、この一年の間に百五十メートルもひくくなっています」
+「博士、お話中ですが、まさか月の中にある山がひくくなったなんていうことが、こっちからわかるはずがないじゃありませんか」
+「いや、それはわけのないことです。その環状山が太陽の光に照らされて、月の表面に長いかげをおとします。そのかげの長さをはかってみればいいのです。あとは月と地球の距離がわかっており、また地球から影の両端を見たときの角度がわかりますから、あとは三角法を使って楽に計算できるのです」
+「なるほど、なるほど」
+　船長の顔は、だんだんと緊張にかがやいてきた。
+　博士の無線電話も、いよいよ熱してきた。長良川博士は、さらにこれからどんな異変について語ろうとするのでしょうか。
+
+
+［＃３字下げ］Ｚ光線と海底超人［＃「Ｚ光線と海底超人」は中見出し］
+
+
+　長良川博士の無電は、またつづいた。
+「すこしむずかしくなったようですが、面白い話ですから、もっと聞いてください」
+　と博士はいってから、
+「そのコペルニクス山の崩壊度を、わたしのヨットで地球を一まわりしながら観測してまわってみました。ところがね、その結果として、大西洋から月へむかって電波のはやさでもって不可解な放射線が発射されているため、それでその崩壊がおこなわれていることがしょうめいできたのです。わかりますかね」
+「いや、なんといってよいか、実におどろくべきことですね。それからどうしました」
+「それからわたしは、注意をもっぱら大西洋にむけて、パリ大学から発射する電波の力をかり、研究をつづけてみましたところ、いま申した不可解《ふかかい》な放射線――これをかりにＺ線とよんでおきましょう。――その線を出す場所を十五カ所も海図の上で発見したのです。ところが、その十五カ所の線放射地点というのが、じつに恐ろしい事実を暗示しているのです」
+「恐ろしい事実？　それはなんです。まったく恐ろしいことです」
+「戦慄《せんりつ》すべき大暗示《だいあんじ》です。いいですか。その十五カ所の放射地点をたどって、これらを線でむすびあわせていきますと、大西洋のまんなかに一つみょうな形が出来あがりますが、その形がたいへんなのです」
+「ああ、博士。あなたはもしや昔物語に伝えられるあの恐ろしい伝説を、わたしたちに信じさせようとなさるのではありますまいな」
+「エバン船長。わたしはほんとうのことをお知らせするために、あなたをおどろかすのもまたやむをえないことだと思っていますよ。きっと今、あなたはいまから九千年前、大地震のために大西洋の波の下に陥没し去ったアトランティス大陸のことを思い出されたのでしょう。あのアトランティス大陸！　九千年前の大文明！　古い文化をほこるエジプトもギリシャも中国も、アトランティス大陸に花と咲き出でた大文化には、足もとへもよれなかったという、そのアトランティス！」
+　と、博士の声はふるえをおびて、
+「今から一時間ほど前、わたしはこのパリ大学の研究室で、わたしの発見した十五カ所のＺ線放射所を海図の上につらねてみましたところ、なんとおどろくではありませんか、それは、かの伝説にのこるとおりのアトランティス大陸の形になったのです。ああわたしたち学者は、つねに冷静でなければなりません。しかし、恐るべき暗号について、どうして戦慄しないでいられましょう！」
+「……」
+　エバン船長の顔はあお白くなった。海底に沈んだアトランティス大陸の亡霊《ぼうれい》が、いまルゾン号の下にうごめいているらしいのだ。
+「きっときっと、それは信じていいと思います。エバン船長よ。アトランティス大陸の沈んだあたりの海底に、われわれ世界人類の知らなかった、ある生物がすんでいるのです。これはどんな生物だかわたしはまだ知らない。しかし、月のコペルニクス山を崩壊させるその手ぎわからいっても、これはたしかにわれわれ人類より高等な生物だと断言していいでしょう。あの不可解なクイーン・メリー号の失踪こそ、それはＺ線を放射する生物――これを海底超人族とよびましょう――その海底超人族のなせるわざだと思えば、ともかくも話がわかるではありませんか。貴船は大いに警戒して下さい。一刻も早く現場を去って帰港《きこう》されるのが安全ですぞ」
+　博士は親切な言葉をもって、無線電話からの送話をむすんだ。
+
+
+［＃３字下げ］笑うスミス警部［＃「笑うスミス警部」は中見出し］
+
+
+　フランス汽船ルゾン号の高級船員は、長良川博士とエバン船長との間にとりかわされている無線電話を、高声器にみちびいて聞いていた。話がすすんでいくにつれ、だれの顔もいいあわせたように血の気をうしなっていった。
+　なんという偉大な長良川博士の発見であろう。博士によって名づけられた海底超人族が、この附近の海面から、クイーン・メリー号をうばったとは、なんというおどろくべき出来事なのであろうか。
+　船員たちは、船から下をのぞいて、どすぐろい海面を気味わるそうに見つめた。ああ、この下に自分たちの方を、そっとうかがっている何千何万という怪物の目玉がひかっているのだ。
+「あッはッはッ」
+　とつぜん甲板の上で、大声で笑いだしたものがあった。
+　誰であろうか、ぶえんりょな人間だと、その方を見ると、それは余人ではなく、ロンドンの警視庁からメリー号の捜査のために派遣されているスミス警部だった。かれはなおもからからと笑いつづけながら、
+「博士の力も偉大なものだ。こうしてルゾン号にたくさんの信者をつくってしまったからなあ。あッはッはッ」
+　さっきから、このようすをじっと見ていた三千夫少年は、スミス警部の前に出て、
+「スミスのおじさん。長良川博士のことをそんなに笑うなんて失礼じゃありませんか」
+「なあに、坊や。おまえも聞いたろうが、およそ世の中には常識というものがあるんだ」
+「でも博士は有名な学者です。でたらめをいうはずはないじゃありませんか」
+「ほほう。きみにもやっぱり病気がうつったらしいね。九千年もまえに海底に大陸が沈んでしまったのだから、そのときに生きていた人間だって、馬だって牛だって、みなおぼれ死にをして全部死にたえたにきまっているじゃないか。博士にはそんな常識的な判断さえつかないんだ。気のどくをとおりこしておかしいじゃないか」
+「じゃ、おじさんは、ぼくらのクイーン・メリー号が行方不明になって、どこでどうしているというんですか」
+「海賊船にとらえられているんだよ。ほら、さっき本船にスペインの海賊が使ったという信号なわをなげた『鉄の水母』なんてえやつがいるだろう。あれがメリー号をぬすんだ一味にちがいない。今にそれを英国海軍がはっきりさせてくれるにちがいない」
+　スミス警部は、さっきいったとまた同じ言葉をくりかえしていった。
+　はたして長良川博士が気が変なのであろうか。
+　それとも、スミス警部が頑迷《がんめい》なのであろうか。うでぐみをして考えこんでいるエバン船長は何もいわない。
+
+
+［＃３字下げ］洋上の暗雲《あんうん》［＃「洋上の暗雲」は中見出し］
+
+
+　北西の空から、海を圧するようなはげしい爆音が聞こえてきた。
+「あっ、来た、きた」
+　いちはやくそれを聞きつけて甲板《かんぱん》におどりあがったのは、スミス警部だった。
+　爆音は刻一刻、その大きさをまして、やがて霧のような雲の間から飛行機が現われた。
+　一機、二機、三機……。
+　かぞえてみると皆で十二機からなる偵察および爆撃の飛行隊であった。ルゾン号の近くにくるにしたがって、翼にそめだされた蛇《じゃ》の目《め》のマークがはっきり見えてきた。
+　英国海軍に属する空軍の出動だ。
+　無線がはいってきた。
+　司令ラスキン大尉のひきいる英国の精鋭機だ。
+　一機が編隊列をはなれて、低空飛行にうつった。そしてルゾン号のそばに近づいてくるのであった。
+　スミス警部は身じたくをととのえて、エバン船長のところへあいさつにいった。
+「ラスキン司令の好意で、わたしはこれからわが飛行機にのりこむことにします。どうもながながおせわになってありがとうございました」
+「やあ、それは――」
+　と、船長も警部のすばやい身のひき方に感心し、かつ、あきれているようすだ。
+「やあ坊や。きみも来るつもりなら、飛行機にのせてもらってやろう」
+　警部は三千夫をなでていった。
+　三千夫の心はうごいた。ルゾン号にいるより、空高く飛ぶ飛行機にのっている方がどんなにおもしろいかしれないからだ。
+　しかし、ざんねんなことは、スミス警部が長良川博士を気が変だと思っていることだ。これは少年にとってあまりいい感じがしなかった。
+「さあ坊や。乗るか、乗らないか」
+　警部は三千夫には親切だった。
+　そのときだった。
+「ああ、また『鉄の水母』が現われた」
+　という船員のおどろきの声がしたかと思うと、ビューンとうなりを生じてルゾン号のほばしらめがけてとびきたった通信なわ！
+　いそいで水夫がひろって船長に手わたしたものは、「黄色の眼」からの第二回警告文だった。その文面は走り書きで、次ぎのように書いてあった。
+「フタタビ警告スル。無謀ナルコトヲヤメヨ。タッテヤルトイウナラ、余《よ》ハ世界人類ノ不幸ヲ救ウタメ、カワッテソノ暴挙《ぼうきょ》ヲ思イトドマラスデアロウ。――黄色ノ眼ヨリ」
+　スミス警部は眼をいからせて叫んだ。
+「なにを海賊船めが、なまいきな――」
+　ああ、たいへん。鉄の水母とスミス警部とのにらみ合いだ。
+　大西洋上の波はいよいよ高い。
+
+
+［＃３字下げ］又もや大爆撃［＃「又もや大爆撃」は中見出し］
+
+
+　スミス警部は大憤慨《だいふんがい》のあまり、ルゾン号の無電室にかけこんだ。
+「さあ、すぐラスキン大尉に無線電話をつないでくれたまえ」
+　と、しゃべるのもおそいとばかり、無線技士のかたをついた。
+　技士は、やがて船上を飛行する偵察機とれんらくをつけた。受話器から、司令ラスキン大尉の声が聞こえはじめた。
+「こっちはラスキン大尉だ。スミス警部がよんでいるのかね」
+「そうです。こっちはスミスですよ」
+　と、警部はマイクの前で、胸をハトのようにふくらませた。
+「いま、れいの『鉄の水母』が本船の左舷の方に顔をだしていますよ。あの海賊船を、すぐ爆撃して下さい。そうでないと『鉄の水母』がこっちを攻撃するといっていますよ」
+「なに、こっちを攻撃するというのか。それは、けしからん。よろしい。そういうことになれば、こんどは徹底的にやっつけてしまうぞ」
+　ラスキン大尉は爆撃機八機に向かって、鉄の水母をすぐさま爆撃することを命じたのであった。
+「スミスおじさん。なぜ無電室へ行ったの」
+　と、三千夫は、無電室からにこにこ顔で出てくる警部のそばにかけよった。
+「うん、坊や、左舷を見ておいで。いますばらしい航空ページェントが見られるから。それも世界にほこる英国海軍の見事なうでまえが見られるんだぞ。さあ、そっちへ行って、ぼくもいっしょに高見の見物といこう」
+「左舷というと、いま『鉄の水母』が見えている方だねえ、おじさん」
+「うん、その『鉄の水母』が、これから撃沈されて、ぶくぶくあわをふくところが、見られるんだよ」
+「えっ、それはかわいそうだよ。おじさん。だって『鉄の水母』に乗っている『黄色の眼』は、世界人類のため、むちゃをしちゃいけないって、ぼくたちをしきりになだめているんでしょう。海賊船なら、世界人類のためなんていやしませんよ」
+「そうじゃない。『鉄の水母』は海賊船にきまっているんだ。ああいうのを大西洋上に生かしておいては、わが大英帝国の恥なんだ」
+　スミス警部は祖国の名誉にかけて、すごい言葉をはいた。
+　そのうちにも、八機の爆撃機はラスキン大尉の命令によって、一千メートルの上空に美しい隊列をととのえると、左端の一機からはじめて、翼《よく》を左にかたむけるや、たちまち急降下状態をもって、「鉄の水母」の真上におそいかかっていった。
+　どどどーン、ががーン。
+　ものすごい爆音だ。
+　一機、また一機。まるで工場の中の機械が動くのを見るときのように、八機の爆撃隊は見事な訓練ぶりを見せて、次から次へと、「鉄の水母」の上に、まっくろな爆弾をなげおとした。
+　海面は、狂奔《きょうほん》する幾すじもの水はしらと、あたりをつつむまっくらな火薬のけむりとでもって、すっかりつつまれてしまった。
+　もちろん、「鉄の水母」のすがたはそのまんなかにあったから、ひとたまりもなくやっつけられたことと、このすさまじい爆撃をみた者は、だれでもそう思った。
+
+
+［＃３字下げ］たたかう「鉄《てつ》の水母《くらげ》」［＃「たたかう「鉄の水母」」は中見出し］
+
+
+　八機の爆撃隊は、まっくろな爆弾を「鉄の水母」の上におっことすと、一機また一機、くるりと翼さばきもあざやかに、機首を上にたてなおして、上昇していくのだった。
+　爆弾は、まださかんに海面に炸裂《さくれつ》をつづけている。
+　どどどーン、ががーン。
+　空気をひきさくはげしい音響が、ルゾン号の甲板にたたずむ人たちの耳を、しばらく、きこえなくしてしまった。
+「ああ、かわいそうに、――」
+　と、三千夫少年は「鉄の水母」のことがまだあきらめられず、ふき出す黒煙のなかにいのらずにはいられなかった。
+「おや、あれえ、へんだぞ。おい、あの、紫色に光るのはなんだ」
+「どれどれ。紫色に光るてえのは」
+「ほらほら、あの爆撃のところから、ずっと右の方にいったところだよ」
+「ああっ、あれかい、あの光りだな」
+　船員たちが甲板でひしめきあっているのは、爆煙からほど遠くない海中の光り物だった。その紫色の光りだけが見えた。しかし海面には何ものの形も見えなかった。なるほどへんである。光りは海面下から出ているのだった。
+　一度上空に舞いあがった爆撃機は、そこでまた隊形をととのえ、怪しいむらさきの光りものをめがけて攻撃姿勢をとった。
+　そのとき、紫の光りは、さっとゆらいで、いましも急降下爆撃にうつろうという左翼の爆撃機の機首に、ぴしゃりとあたった。と、その爆撃機は急に機首をかえして方向をかえた。――それは、光線のために操縦士の眼がくらんで、操縦の自由をうばわれたからである。
+　ルゾン号の甲板からも、それが手にとるようにありありと見えた。
+「船長さん、たいへんですね」
+　と、三千夫少年が、エバン船長のうでにとりすがると、
+「うむ、『鉄の水母』はおそるべき武器をもっているようじゃ」
+　と、船長はうでぐみをして歯をかんだ。
+「えッ、『鉄の水母』はいまの爆撃で、沈んでしまったのではないのですか」
+「どうしてどうして、爆弾が落ちるのを待っているような『鉄の水母』ではないわい。かわいそうに、やられたかなと思った瞬間、ずぶりと水の中にもぐって、今はあのむらさきの光りが出ている海面下に爆弾をさけているのじゃ」
+　と、ルゾン号の船長がいった。
+　爆撃機はつぎつぎに紫の光りのために視界をさまたげられて、爆撃を断念した。
+　あまりのふしぎに、みるものは声もなく、この場の光景にのまれていた。
+
+
+［＃３字下げ］スミス警部くさる［＃「スミス警部くさる」は中見出し］
+
+
+「なにをやっているのです。ラスキン大尉」
+　と、スミス警部はまっさおになって、マイクの中にどなりこんだ。
+「うむ。ざんねんながら断念《だんねん》のほかない」
+　と、ラスキン大尉の声は悲壮だった。
+「海賊船は、わが戦隊のもっていない奇襲兵器でもって攻撃してきた。このままではだめだ。われわれは敵をあなどりすぎていた」
+「断念するというのですか。そんなことはない。まだ機関銃があるでしょう」
+「なにがあっても、もうだめだ。一たん本国に引き上げるよりほかはない」
+　そういっているうちに、八機の爆撃機を撃退した「鉄の水母」は、ラスキン大尉らをあざ笑うかのように、また海面にぽっかりと浮きあがった。その小さい船体！　どこからあのような恐ろしい防禦力《ぼうぎょりょく》が出るかと思うばかりである。
+「鉄の水母」の乗組員は、まったく見えない。ただ司令塔の眼から、れいの紫の光線を空にむけて放出し、さあ、これからそっちへ向けてやろうかといわぬばかりに、のこりの四機の偵察機隊の方にちらちらとおどかしをこころみている。
+「うむ、『鉄の水母』はいやに落ち着いている。ゆだんがならない」
+　とルゾン号の船長は、ひとりごとをいう。
+　スミスが無電室から出てきた。
+「スミス警部。あなたは偵察機に乗りうつるという話じゃったが、どうするね」
+　警部は、それが聞こえないようすをよそおって、船室の方に下りていった。それっきり、ルゾン号がフランス本国のルアーブル港につくまでというものは、一度も甲板の上に出てこなかった。
+　もちろん四機の偵察機隊は、ラスキン大尉の号令一下、みごとな隊形をととのえて、英本国の空さして引き上げて行ったのであった。
+　かくして、巨船クイーン・メリー号の沈んでいると思われる大西洋の波は、もとの静けさにかえった。
+　疑問のあやしい船「鉄の水母」も、いつしか夕陽《ゆうひ》にはえる美しい波まに、ずぶりと沈んでしまった。
+
+
+［＃３字下げ］帰港［＃「帰港」は中見出し］
+
+
+　ルゾン号は快速をだして、さっきもいったようにルアーブルの港に帰ってきた。それはメリー号の遭難現地をはなれてから五日のちのことであった。
+　メリー号の捜索や、「鉄の水母」の怪行動や「鉄の水母」対英国空軍の戦闘などについて、その帰途、無電をもってくわしく報告しておいたので、フランス国民は、ひとりのこらずルゾン号の冒険を知っていた。だからルゾン号が入港したときには、ルゾン号を見ようという群衆が、波止場にも、ビルの屋上にも、また遊覧飛行機の上にも、いっぱいみちみちていて、さかんに旗をふったり、ハンカチをふったり、すばらしい歓迎ぶりであった。
+　エバン船長以下、もとメリー号の乗組員の三千夫少年まで、全部の船員はひとまずそのすじのとりしらべをうけた。そして見たり聞いたりした、いちぶしじゅうは、部あつな記録となって、後にまで保存されることになった。
+　それがすむと、こんどは、がらりとおもむきがかわって、盛大な歓迎会が開かれることになったが、それにさきだち、パリ大学からのとくべつなまねきがあって、人類世界の大問題である大西洋の怪について、ぜひともはやく知りたいということなので、まずその方に出席することにした。
+　海底超人族の研究会の席上には、その道の権威クープ博士をはじめ、れいの長良川博士の顔も見えた。
+　まず、三千夫少年の、クイーン・メリー号遭難前後の話からはじまって、エバン船長の報告があり、それから更にすすんで三千夫少年を救いあげたことや、スミス警部の魚とりの大会や、英国空軍の活躍などについて、くわしく知っていることをのべたのであった。
+　博士たちは、この報告談にいちいち大きくうなずきながら、ひじょうな興味をもって聞き入っていたようである。
+　報告がすむと、クープ博士は一座をずっと見まわして、
+「どうです、皆さん。いまお聞きのように、三千夫君やエバン船長のお話は、われわれにとってじつにたとえようもない位、興味津々《きょうみしんしん》たるものです。ただどうも、『鉄の水母』という怪潜航艇――だと思いますが――それについては一こう心あたりがないが、大西洋の海底に超人族がすんでいることは、いまや一点のうたがいもなくなりましたぞ。これについては、もはや疑問に思う人は、ただのひとりもないことでしょう。わたしたちは三千夫君やルゾン号の方々に大いに感謝しなければならん」
+　といって、博士は言葉をちょっととめ、
+「だが、ここに、海底超人族のすんでいることがたしかに証明されたということは、とりもなおさず、われわれ全人類が、いま噴火孔上《ふんかこうじょう》に立っていることをしめすので、実にたいへんなことになりました。大噴火が起こって、われわれがはねとばされるのも、もう、まのないことでしょう。それまでに、われわれは、至急、てきとうな方法を考えて、海底超人族に対抗しなければ、手おくれになります。さあ、皆さん。ここをよく考えてください」
+
+
+［＃３字下げ］メリー号の人たち［＃「メリー号の人たち」は中見出し］
+
+
+　事務長クーパーの船室には、三人の男ががんばっていた。それは当のクーパーと、かれの秘書のマルラと、それからもうひとりは、船内でただひとり眼が見える一等運転士パイクソンであった。
+「どうも、ＳＯＳの手紙も、うまく本国へとどかなかったようだね」
+　といったのはクーパー事務長だった。かれの発案でもって、「クイーン・メリー号はこの附近にいるから、たすけてくれ」という文句を、パイクソンに命じて紙や布の小ぎれに書かせ、そとにすてさせ、それをひろう船を待つことにしたのであった。それはルゾン号上のスミス警部によってひろいあげられ、世界中に報告されたのであったが、このあやしき場所にとじこめられたメリー号の乗組員たちには、そんなことがわからなかった。いつまでたってもたすけにきてくれないところを見ると、そのＳＯＳの手紙は、誰の手にもはいらなかったものだと思いこんでいたのだった。
+「いや、まだ失望するのははやいよ。そのうちに、どこからか、たすけに来てくれるにちがいない。なにしろ、ぼくはたしかにあの手紙を五百つくって前後五回にわたって、船外に投げたんだから、そのうちのいくつかがとどかなければならんと思うんだが……」
+「うん、でも、あれからもう五日もたったからなあ」
+「悲観するのは、まだ早い」
+「悲観はしていないが、なんとかしてたすかる次ぎの方法を考え出さねば船客に申しわけない」
+　船客たちはさぞ不自由をしていることであろう。三度三度の食事も、このごろは貯蔵してあるパンとかんづめとを配給するだけだった。
+　それも目の見えないボーイたちが、甲板や階段を手さぐりながら持って歩くのだから、配給するだけでも、なかなか困難なことだった。
+「本船は、ある不慮の災害にあっているものと思われますが、幹部において、力をつくして脱出方を考えていますので、船客のみなさまにおかせられましては、このさい、落ちつきをもって、われわれの努力に信頼していただきたいのでございます」
+　というようなことを、くりかえし、ボーイたちにさけばせているのであった。
+　船員も船客も、さわぎたい気持をおさえて、かろうじて静かにしているという状態だった。なぜなれば、この汽船が今出あっている災難というのが、一通りや二通りの災難ではない、じつに前代未聞の稀有《けう》な出来ごとであることを感づいていたからであった。
+
+
+［＃３字下げ］解毒剤《げどくざい》［＃「解毒剤」は中見出し］
+
+
+　事務長クーパーは、じぶんひとりの心の中《うち》で、重い心配をせおっていた。
+　まだ船内を十分に調べつくしてはいなかったけれど、どうやら本船の船長はどこへ行ったかゆくえが知れないようであった。船長についていた三千夫少年も、これまたどこにもすがたを見せない。もっとも三千夫については、クーパーは知らずとも、読者諸君はとくにごぞんじのはずである。しかし、三千夫がルゾン号に救われたことは、クーパーの知らないことだった。
+「おお、事務長。なんだか眼が、すこし見えてきたようですよ」
+　と、秘書のマルラがとつぜん大きな声でさけんだ。
+「なに、眼が見えだしたって」
+　クーパーは声のする方をふりかえった。すると、むこうに、うすぼんやりと人間の形が見えるではないか。それは久しぶりに見るマルラの姿であった。
+「おお、マルラ。見える見える。そこに、つったっているのはおまえじゃないか」
+「ああ、事務長。わたしも見えますよ。あなたはパイプをくわえておいでですね。ああ、ありがたい、眼が見えだすなんて」
+　これを聞いていたパイクソンは、
+「おお、するとこれは、さっきモルフィス船医長の処方《しょほう》でこしらえた薬がききだしたんだな」
+と、うれしそうにいった。
+　モルフィス医師は、船内でただひとりの眼のきく男パイクソンのたすけをかりて、これぞと思う解毒剤を作ったのであった。もちろん、かれが口でいう処方どおりに、パイクソンが、たなから薬びんをさがし、はかりにかけて作ったものであった。
+　その薬は、わずかに五十人分しか出来なかった。あとは薬がたりないのであった。
+　クーパーの命令で、その五十人分の薬を、船を動かすに必要な船員にだけのませたのであった。お客さまの方は、あとまわしにするよりしかたがなかった。
+　その薬が、いよいよききだしたのである。クーパーたちの喜びは非常なものであった。目さえいくらか見えるなら、この災難からなんとかして、逃げだす手段が見つかるだろうと思ったからであった。
+　そのとき、電話のベルがチリチリチリンと鳴りだした。
+　クーパーが出てみると、電気主任のエレソンの声だった。
+「おお、クーパーさん。眼がうっすら見えだしましたよ。だから、すぐ電気を起こします。まず船内の電灯からつけましょう」
+　電気主任の声も、喜びにみちみちていた。
+
+
+［＃３字下げ］怪しき浮きドック［＃「怪しき浮きドック」は中見出し］
+
+
+　船内には、こうこうと電灯がかがやきだした。すると、今まで見えなかったものが、急にはっきり見えだした。モルフィス博士の薬でもって、やっと東の空が白みかけたくらいの明かるさになり、こんどは電気主任が発電機をまわして電灯をつけたので、太陽が地平線に落ちた直後くらいの、そうとうの明かるさになった。
+　光りほど、人間に元気をつけるものはない。
+　たれもかれも、見ちがえるように元気づいてきた。
+　クーパーは、眼の見えだした船員に命令をくだして、至急に船内をくまなく見てまわり、そして、故障か異状のあるところをしらべて報告するようにいった。
+　そうしておいて、かれは一等運転士パイクソンや秘書マルラとつれだって、甲板へ出た。かれはなによりも、船のそとの風景を見たかったのである。
+　ところが、舷《ふなべり》へ出てみると、大きなおどろきが三人を待っていた。
+「おや、やっぱり海がないじゃないか」
+「えっ、海がないとは、――」
+　三人は舷ごしに、海のない空間を見た。
+　水準線《すいじゅんせん》から下の赤ペンキをぬった船腹がはっきりと見られた。まるで浮きドックにはいっているようなかっこうだった。
+「これはおどろいた。いったい、ここはどこだろう」
+　と、マルラはぶるぶるふるえながら叫んだ。
+　クーパーは双眼鏡《そうがんきょう》をとって、ずっと前方を見ていたが、かれの顔色は、だんだんと青くなっていった。
+「うむ、奇怪なこともあればあるものだ。ねえ、パイクソン。ここから二百メートルほどむこうを双眼鏡でよくみてごらん。たしかにかべみたいなものが見える。もっともそのかべは透明なんだが、それでもかべであることにはまちがいない」
+「なに、透明のかべが見えるって。どれ、――」
+　パイクソンも双眼鏡を眼にあててみて、同じように顔色をかえた。
+「おお、クーパー。ぼくたちはとんでもないところへ来ているぞ。海のない、透明なかべの中！　ここは天国か地獄かのどっちかではないかね」
+「うむ、すくなくとも天国ではない。なぜって、こんなくさい天国があるとは、聖書に書いてなかったからね」
+　この会話を聞いていたマルラは、急にふたりにしがみついた。
+「うあ、うへーっ。すると、わ、わしたちはもう死んでしまったんですかねえ。もう二度と生きかえれないものですかねえ。グラスゴーには、わしのにょうぼうと三人の子供が、おみやげをもってかえるのを待っているんです」
+　クーパーは、このかわいそうな男の頭をしずかになでながら、
+「ああ、これが天国か地獄かのどっちかであった方が、どの位いいかしれないよ。もしもこれが、そのどっちでもなくて、やっぱり生きている世界のつづきだったとしたら、このあまりのふしぎさは、ぼくの気を変にしてしまうだろう」
+「……」
+
+
+［＃３字下げ］うしろの怪敵《かいてき》［＃「うしろの怪敵」は中見出し］
+
+
+　そうはいったが、クーパーは口ほどあわてているわけではなかった。かれのまゆのあたりには、強いかくごのほどが見えてきた。
+「ねえ、パイクソン。ぼくたちは、しばらく、おどろくことをやめようじゃないか」
+「おどろくことをやめるって、どうするんだ」
+「うむ。われわれは、たいへんふしぎな場所へ来ているようだが、今いちいちおどろいたんでは、いつまでたっても、ここから生きかえる方法が見つからないだろう。もうこれからはおどろくのをやめて、何とかして抜けだす方法を考えることにしよう」
+「うむ、それはいいことをいってくれた。じゃぼくも、これからは何を見ようとおどろかないぞ」
+　事務長と一等運転士の間に、かたい申し合わせができた。マルラもふるえながら、それにさんせいした。
+「じゃあ、パイクソン。一つ考えてくれ。あの透明なかべは、いったいなんだろう」
+「さあ、なんだか一こうわからないが、とにかくわれわれはへんなところにとじこめられていることはたしかだ。よおし、あのかべがなんであるか、それをためすのにいい方法がある」
+「いい方法というと」
+「うん、ぼくがこれからやることを見ていたまえ」
+　パイクソンは自分の室《へや》へいったが、やがて手に一ちょうの銃をもって引きかえしてきた。
+「おお、そんなものでどうするんだ」
+「これであの透明なかべをうってみるんだ。どんな手ごたえがあるか、それを見ようじゃないか」
+「おい、パイクソン。それはいい考えだとは思うが、すこし手あらすぎはしないかな」
+　クーパーは、さすがに心配げである。
+「なあに、うまく行かなければ、どうせ、もともとだ。まあ見ておれ」
+　パイクソンは銃をかまえると、その透明なかべをめがけて、どどん、どどんと銃丸を発射した。
+　銃声は、あたりにこだまして、うわーンとものすごいひびきを発した。
+　硝煙《しょうえん》が晴れるのを待って、三人はいま射撃した透明のかべがどんなになったであろうかと、その方をながめた。
+「おや、どうもなっていないぜ」
+「ガラスまどのようにこわれるかと思ったのに、どこも、こわれてやしない」
+「なんと、はりあいのないこと！」
+　と三人は声を合わせてさけんだが、それはすこし早計《そうけい》であった。
+　なぜなら、そのとき三人の眼が、もしも、うしろがわの舷《ふなべり》にそそがれていたなら、かれらはきっとその場にとびあがったかもしれない。ちょうどそのとき、舷のそとから、まるでクラゲに大きな二つの眼をつけたような前代未聞の怪物が、無慮四、五十ぴきも、そろりそろりと船の上にはいあがってきて、うしろ向きになっている三人の男の方へ、そっと近づいてきたのである。
+
+
+［＃３字下げ］怪生物［＃「怪生物」は中見出し］
+
+
+　クラゲに眼玉をつけたような、前代未聞の怪物四、五十ぴきは、そろりそろりと三人のうしろにせまってくる。
+　第一番に、それに気がついたのは事務長クーパーであった。
+「あっ、くさい。――」
+　たまらない臭気が、クーパーの鼻をついたのだった。遭難後、身辺《しんぺん》にしきりにただようその異様な臭気だった。それがひとしきりはげしく風にのってきたのだ。
+　クーパーは、はっとしてうしろをふりむいた。たちまちかれの眼にうつったのは、その異様な怪物群のすがただった。
+「あっ、怪物だ――」とかれはさけんでピストルをもちなおした。
+　その声に、一等運転士パイクソンと秘書のマルラもうしろをふりむいて、はじめてこの怪物を見た。
+「うわわわわ、――」
+　とマルラは、その場にこしをぬかしてしまった。
+「このばけものが！」
+　パイクソンは豪勇《ごうゆう》だ。銃をかまえると、怪物群めがけて、どどどーンと引き金をひいた。
+　先頭の怪物がみごとにひっくりかえった。そのうしろの怪物が、どうと横たおしになった。
+　キキキッ、キキッ。
+　みょうな、なき声をだして、怪物群はさわぎだした。さっき弾丸にうたれた二ひきが、弾丸のあたったところを、長い触手《しょくしゅ》でもってさすりながら起きあがった。弾丸にあたって死んだものと思っていたのに、あんがいへいきで起きあがってきたのである。
+　怪物群は、大きな目をむいて、なんだかこっちへ向けて物をいっているようだったが、なにをいっているのか、さっぱり意味が通じない。
+　キキキッ、キキッ、キキキッ。
+　怪物群は、またそろりそろりと三人の方に近よってくる。たしかに三人を襲撃しようという態度が見えた。
+「こいつ、なまいきな――」
+　とばかり、パイクソンは頭髪をふりみだし、銃を見がまえて、射つこと射つこと。
+　事務長クーパーも、こうなってはえんりょしていてもむだであるとしった。かれもピストルをとりなおして怪物群をぱんぱんとうった。
+　この猛射には、怪物群もだいぶんまいったらしい。べつに弾丸にあたって血を出すというのではないが、弾丸にはじかれて、そろりそろりと後退をはじめた。
+　三人はここぞと怪物群とたたかう。マルラも起きあがって、甲板のそこらに落ちている木片やデッキ・ゴルフのたまなどをとっては、どんどん投げつける。
+　三人対怪物群のたたかいは、まず三人の方に凱歌《がいか》があがった。
+　しかし、はたしてそれがほんとうの勝利であったかどうか。
+
+
+［＃３字下げ］大襲撃《だいしゅうげき》［＃「大襲撃」は中見出し］
+
+
+　怪物群が舷側《げんそく》をこえてむこうにおりて逃げ去ると、三人は、いいあわせたようにホッと深い息をついた。
+「な、なんという恐ろしいばけものだろう」
+　と、事務長クーパーが目をみはった。
+「事務長、あれは何ものです」
+　マルラはふるえがとまらない。
+「さあ、さっぱりわからない。しかしあいつらがちゃんと生きている生物だということは、たれにも断言できる。わがメリー号は、とんでもないところへ来たものだ」
+　一等運転士パイクソンは、勇敢にも舷側へでていって、怪物の逃げて行った方向をすかして見ていたが、そのうちにぱっと身をひるがえして、かけもどった。
+「事務長。逆襲だ」
+「えっ、逆襲？」
+「怪物が逆襲してきた。こんどは猛烈なかずだ。あの透明かべの下から、ぞろぞろはいこんでくるのだ。甲板に出ていちゃ危険だ。船室へたてこもった方がいい」
+「うむ、じゃ引っこもう。マルラ、早く船室にはいれ」
+　三人は船室にぱっととびこんで、かたくドアにじょうをおろした。
+　クーパーはマルラに命じて、船内に警報をださせた。
+　また、要所要所に電話をかけて、入口をかたくとじるように注意をあたえた。
+　船客のおどろきはたいへんなものであった。
+　眼が見えなくなって不安にとざされているところへ、怪物が舷側からはいこんでくるというのだから、たれもかれも、いよいよいのちの終るときがきたと思った。
+　船員は不自由な視力に屈せず、勇敢にも船客たちを落ち着かせることにつとめた。こういう一大事件が起こっては、いのちのことなんか心配してもしかたがない。それよりは気を落ちつけることだ。落ちついてさえいれば、なんとか切りぬける手も浮かんでくるだろう。
+　怪物群のまるい、ぶよぶよした頭は、いよいよ舷側からあらわれた。
+　あとからあとへ甲板にはいのぼってくる。
+　キキッ、キキキキッ、キキッ。
+　なにかしきりに話し合っている。触手と触手とが、頭の上のところでゆらゆらとゆれている。
+　そのうちに怪物群の目が、一度にさっとクーパーたちの立てこもっている船室の方にむいた。
+　たれかが号令をかけたのであろうか。怪物群は甲板の上に梯形陣《ていけいじん》をつくると、クーパーの船室めがけて、じわじわとおしよせてきた。
+　怪物の梯形陣は立体的だ。怪物の頭の上に、他の怪物がのっている。その上にもまた、他の怪物がのっている、まるで積樽《つみだる》がせめてくるようである。
+　三人は船室のドアに、内がわから机やベッドや本だなをたてかけて、万一ドアがやぶられても防戦ができるようにした。
+「ううッ、やるぞ！」
+　とパイクソンがさけんで、銃をもちなおした。
+
+
+［＃３字下げ］つづく死闘《しとう》［＃「つづく死闘」は中見出し］
+
+
+　はげしい銃声が、まどのそとにひびいた。
+　パイクソンが、船室のまるまどから、いよいよ射撃をはじめたのだった。
+「うん、ざまを見やがれ」
+　積樽の怪物がぐらぐらとゆらいだ。うたれた一ぴきの怪物が、どんと、うしろにはねとばされたのだ。
+　しかし怪物群は、まもなく形をたてなおした。怪物たちは、たがいに、となり同士としっかり手をとりあっているので、弾丸にはねとばされた怪物は、すぐ多勢の手で、もとのようにひきもどされたのだ。
+　おそろしい弾力のあるかべだ。
+　そうなると弾丸の偉力がなくなる。
+「ち、ちくしょう。負けるものか」
+　パイクソンは、銃をどんどんとうちつづける。
+　クーパーのまもっているまどの下にも、別動隊の怪物群がちかづいた。
+　船室は、すっかり包囲されてしまったのである。怪物群は、どうしてもクーパーたちをのしてしまうつもりと見えた。
+　クーパーは、今ははやこれまでとあきらめて、たまの残りすくないピストルをもって、まどからそとを射撃しはじめた。
+　しかしここでも同じことだ。怪物群の組みたてているかべは、びくともしない。
+「ああ、たまがきれた」
+　パイクソンがさけんだ。絶望の声だ。たまが切れては、もうどうすることもできない。
+「マルラ、たまがそのへんに落ちていないか。一発でもいいんだが」
+　マルラはゆかの上をはいまわった。
+　でも、さがすたまは一個も落ちていなかった。
+　クーパーがしぶい顔をして、ピストルをのぞきこんでいる。
+「――たまがいよいよなくなった」
+　クーパーのピストルも、もう役にたたなくなったのだ。もうどうすることも出来ない。
+　銃声が消えてしまうと、怪物群はにわかにいきおいをました。
+　まるまどのところから、怪物の頭がはいってきたのだ。パイクソンは、そこに落ちていた文鎮《ぶんちん》をにぎって、怪物の頭をいやというほどなぐった。
+　ぴしゃり。
+　変な音がした。
+　しかし、怪物はまるまどの向うへ頭をひっこめようとはしない。
+　ぴしゃり、ぴしゃり、ぴしゃり。
+　怪物の頭は、さんざんになぐりつけられた。が、一こうに手ごたえがない。
+　クーパーは、いすをふりかぶって、怪物の頭にたたきつけた。
+　しかしだめであった。怪物は平気のへいざであった。そしてついに、どしんとにぶい音がして、怪物の一ぴきが船室にとびおりた。
+　いよいよ怪物は、室内にはいってきたのだ。
+
+
+［＃３字下げ］絶体絶命［＃「絶体絶命」は中見出し］
+
+
+　まるまどをとおって、怪物群はぞくぞくと船室へおどりこんでくる。
+　クーパー、パイクソン、マルラは、いまや、から手でもって怪物にたちむかった。
+　あっちでもこっちでも組みうちだ。
+　クーパーのひっ組んだやつは、中でもがらの大きいやつだった。
+　両眼をぐるぐるまわしながら、何本かの、タコのような足がからみついてくる。
+　ふーっというあらあらしい息が顔にかかると、たとえようもない臭気《しゅうき》がクーパーの胸をむかむかさせた。
+　怪物の足は、さかんにクーパーの眼をねらっているようだ。はらえどもはらえども、つぎつぎに別の足が、ぴしりぴしりと顔面をうつ。
+　それにひどい臭気のあらしだ。
+　クーパーは、いまや死がちかづいたと思った。相手のこのいきおいでは、たとえとりこになっても、いのちのないのは覚悟しなければなるまい。
+　クーパーは、この急所のわからない怪物をまったくもてあましてしまった。どうすれば怪物がまいるのか、けんとうがつかないのだ。
+　ぴしりッ！
+　ついに目の上を、ひどく打たれた。
+　クーパーの網膜《もうまく》に、キラ、キラ、キラと星が散った。そして急にあたりがぼーっと見えなくなった。怪物の足が小またをすくいあげた。
+　それから、クーパーは、ひとりでも相手をたおして死をのがれようとあばれまわった。こぶしをかためて、相手のところきらわずぶんなぐった。顔のへんにぞろりとあたるものを、歯をもってがぶりとかみついた。両足をもって宙をけとばした。もうなんとでもなれである。
+　その格闘は、一年もながくつづいたように思った。それほど張りきった気持の数十分であった。クーパーは、ついに死んだようにぐったりとなった。もうすっかり気力も、体力も出きってしまったのだった。
+「マルラ、いないか。おい、パイクソン」
+　クーパーは、くるしい声をひきしぼって、ふたりの仲間の名をよんだ。
+　しかし、だれもそれに返事をしなかった。
+　そのうちにクーパーは、自分のからだがふわりと浮きあがったのを感じた。まるでスプリングの上にのっているような気持だった。
+　キキキッ、キキキキッ、キッ。
+「おやっ」
+　かれは首をもたげて、眼をしばたたいた。
+　このとき、ぼんやりとしたあたりの景色が目にうつった。――クーパーのまわりには、れいの怪物がうようようごめいていることを知った。クーパーは怪物群にかつぎあげられているのだ。それとわかってみても、かれにはもがくだけの体力もなかった。
+　怪物群はクーパーを肩にして、クイーン・メリー号の舷側をこえた。そして漠然《ばくぜん》たる空間を、ゆうゆうとむこうへ行く。
+　クーパーはどこへつれていかれるのだろう？　かれの運命はどうなる？
+　パイクソンやマルラは、どうしたのだろう。この奇異《きい》な怪物の正体は一体なんであろう。
+
+
+［＃３字下げ］捜査《そうさ》やりなおし［＃「捜査やりなおし」は中見出し］
+
+
+　空はぬぐったように晴れている。しかし波のうねりはそうとう大きい。
+　船体を黄色にぬったルゾン号は、いまそのうねりをぬって、西へ西へ船脚《せんきゃく》をはやめていく。ルゾン号はエバン船長の指揮によって、ルアーブル港を出、ふたたび大西洋上に乗りだしたのである。
+　船上には最高の珍客《ちんきゃく》が乗っていた。それは一体たれであったろうか。
+　長良川博士だ。
+　地球生物史の研究に、有数の権威者として知られる長良川博士だった。
+　パリ大学に滞在中だった博士は、ルゾン号の報告にもとづき、大たんな説をたてて広く世界の人類に警告するところがあったことは前にのべた。
+「――おそるべき生物が、大西洋の海底にすんでいるのだ。それをアトランタニアンまたは海底超人と呼ぼう。この海底超人こそは、わが人類よりもはるかに高等の生物だと推定される。豪華船クイーン・メリー号も、ついに、このアトランタニアンのため、海底ふかくひきずりこまれたのであろう。われわれは、はやくこの海底超人との意志交換をおこなわねばならぬ。さもなければ、わが人類対海底超人の無益《むえき》な争闘が起こって、ついには有史上《ゆうしじょう》最大の悲劇を生むであろうことを、あえて警告したい。――」
+　と、博士は放送している。
+　アトランタニアン、別名を海底超人という生物がすんでいるとの博士の推定は、すでに読者諸君がごぞんじのように、ちゃんとあたっているのである。しかも、これに反対する学者は少なくなかった。はなはだしい反対論者の中には、学問の領域をこえて感情的になり、長良川博士をののしる者さえ出てきた。
+　英国においては、その方の最大権威者、サー・ロビンソン教授が、長良川博士の説を大体支持した。しかし英国の海空軍や、れいのスミス警部の属している警視庁では長良川博士の説をみとめず、いま地中海にさえ海賊潜水艦があばれているではないか、しからば大西洋にも海賊がいないと、たれが保証できるかと、あくまで海賊説をとっている。そして近い将来において、実力をもってその海賊を捕獲《ほかく》してみせると力んでいた。
+　長良川博士は、そういう反対論には耳をかさず、フランス当局とふかい理解をとげたうえ、ついに海底超人国探検隊長となって、大西洋にのりだすことを承諾し、そして、ルゾン号の賓客《ひんきゃく》となったのである。
+　博士は探検隊を組織するとともに、海底にくだるためのあらゆる用意をととのえた。幸いパリ大学の若き助教授ドン博士が一行の副団長として加わることになり、その用意の方はたいへん便宜《べんぎ》を得た。
+　また失踪船《しっそうせん》メリー号のボーイだった三千夫少年も、この探検の一員として、いっしょにいくことをゆるされた。それで、少年はいま船上の大人気者となって、はりきっている。
+　大西洋のゆうゆうたるうねりは、いまルゾン号をしずかになぶっている。十数時間後の大暴風雨などは知らんよというふうに、まるでおとなしかった。
+
+
+［＃３字下げ］あッ潜望鏡！［＃「あッ潜望鏡！」は中見出し］
+
+
+「やあ、長良川博士。いよいよ現場にちかづきましたよ」
+　と、エバン船長がそばをかえりみた。
+「なるほど。いま、そのあたりへさしかかっているのですね」
+　博士は長いひげを指さきでつまみながら、海図をのぞきこんでいる。ここは船橋《せんきょう》だ。
+　三千夫少年は、じぶんの身のたけよりも長い望遠鏡にかじりついて、海面をしきりにさがしている。
+「おやっ、へんだぞ」
+　少年は叫んだ。
+「どうした、三千夫君」
+　とエバン船長は、まっかな童顔《どうがん》を少年の方によせてくる。
+「これをごらんなさい。潜望鏡が波間に浮いていますよ」
+「なに潜望鏡が――」
+　エバン船長がのぞいてみると、なるほど波間に、たしかに潜望鏡の頭が浮かんで、つつーっと小さい波をたてている。
+「ほう、これが見えれば、きみは一人前の海員だ。――しかしこれはたいへん。おい、戦闘準備！」
+　ルゾン号はいつの間にか、こんどは武装をしていた。そういえば、カバーでつつまれたみょうなものが甲板のあちこちにある。その形から推して、大砲のようなものもあり、対空砲《たいくうほう》のようなものもある。これではりっぱな仮装巡洋艦《かそうじゅんようかん》だ。
+　甲板上のあちこちで大きな号令の声がする。すべったのかと思うように敏速《びんそく》に走っていく水夫たち。カバーがとられて、二門の砲が現われた。そして砲口は一転して、右舷《うげん》はるかの海上にねらいをさだめた。
+　今にもいんいんたる砲声がとどろき、硝煙がしだいに波立つ海上にひろがっていきそうである。戦闘の前の、息づまるような緊張だった。
+　そのとき、潜望鏡は、だんだん海面にのび上がってきた。
+　大胆不敵なやつ！
+　そう思っているうちに、いよいよ船体をあらわして、ルゾン号の舷側《げんそく》まぢかにぽかりとうかびあがったのを見れば、これぞ英国海軍が海賊艇とよんでにくんでいる「鉄水母《てつくらげ》」潜水艇だった。
+　エバン船長は双眼鏡を目にあてたまま、船橋に棒立ちになっている。
+　砲手たちは、船長の号令とともに、大砲の引き金をひくつもりで、及び腰になっている。
+　そのとき、船長がさっと高く片手をあげた。
+　いよいよ、うち方はじめの号令か。
+「おうい。うっちゃならん。しばらくうっちゃならん。『鉄水母』がこっちへ信号しているぞ」
+　謎の潜水艇「鉄水母」が、ルゾン号を呼んでいるというのだ。怪光線を出して飛行機をなやましたりする海賊艇が、ルゾン号になんの用があるというのだ。
+「おい、うつな、うつな」
+　とエバン船長はしきりにとめている。
+　そばでは、長良川博士がおちつきはらって、しきりに双眼鏡のピントをあわせている。
+「ほう、たいへんなことをいってきやがった。――おい信号旗を出せ。〔返事をするからしばらく待ってくれ〕と、出してくれ」
+　さすがのエバン船長も、「鉄水母」の信号におどろいている顔つきだ。
+「船長、むこうは何をいってきたんですか」
+　と、長良川博士が声をかけた。
+「おお、長良川博士さん。えらいことになりました。むこうにいるあの潜水艇は、かねてお話しておいた『鉄水母』なんですよ」
+「ほう、『鉄水母』とはあれですか。これはめずらしい。そんなら、もっとよく見るんじゃった」
+　と博士は双眼鏡をとりなおす。
+「長良川さん。見るのは後でよろしい。それよりも、たいへんなことをいってきているんです」
+　と船長は、日ごろににあわず、あわてている。
+「ほほう、それは一たいなにごとですかい」
+「こういうのです。――むこうの艇に三人ばかり乗せる余裕があるから、わしをはじめ、長良川博士、ほかに、たれかもうひとりというところで、こっちへ乗りうつらないかというのです。そうすれば、メリー号の沈んでいる海底へ案内するというのです」
+　エバン船長はしゃべりながら、自分のいっていることにおどろいている。それもむりではない。謎の潜水艇「鉄水母」からの招待なのである。なにが気味わるいといって、これほど気味のわるいものがあろうか。ところは大西洋のまっただなか、そして豪華船クイーン・メリー号の遭難した現場附近だ。しかも、まねく相手が、なんと「鉄水母」である。
+「そりゃ願ってもない幸いだ。わしは乗せてもらいましょう」
+　と長良川博士はすぐこたえた。
+「ええっ、あなたはおいでになりますか」
+「あなたはどうじゃの」
+「わしはだめです。船長が船を下りることはゆるされていません」
+　と船長は首をふった。そしてあらためて博士の落ち着いた顔をしげしげと見つめ、
+「やはりあなたは学者ですなあ。学問のためには危険をかえりみられない」
+「では、あとのふたりはだれにするかなあ」
+　すると、そばに話をきいていた三千夫少年が、待っていましたとばかりに、
+「博士。ぼくをぜひ連れてってください。ぼくはメリー号にいる仲間にはやくあいたいのです」
+　と、熱心を面《おもて》に見せていった。
+「そうだねえ、三千夫君。きみならわしといっしょにゆく資格があるようだ」
+　ふたりはきまった。では、のこるひとりをだれにきめるか。
+　そこへ昇降口から、ドン助教授がいそぎ足でとびこんできた。
+「長良川博士。あなたが『鉄水母』に乗られるのでしたら、わたしもおともをしましょう。あなたと共に研究するように命じられてきたのですから、わたしがルゾン号にのこっていることは意味がありません」
+　ドン助教授の話は、ちゃんと筋道《すじみち》が立っている。
+「よろしい。いっしょに来てください。しかし生命《せいめい》のことは、わしは責任をおいかねますよ。そもそもあの『鉄水母』というのが、科学的にも奇怪きわまる存在なんでね」
+　三人はいよいよしたくをして、舷門からおりていった。赤皮のトランクが一つおともをしている。これには博士の手まわり品がはいっている。
+　三人をのせたモーター・ボートは、本船をはなれて「鉄水母」の方へすすんでいった。
+　エバン船長の目には、三人が「鉄水母」の甲板に乗りうつったのが見えた。すると、まるい鉄ぶたがぽかんとあいた。三人はその中にはいっていった。「鉄水母」の人はすがたをあらわさない。ふたがしまると、怪潜水艇はそのまま、ずぶずぶと海中にしずみはじめた。そして五分もたたないうちに、怪艇「鉄水母」のすがたはまったく見えなくなった。
+　長良川博士、ドン助教授、三千夫少年の三名は、これからどうなる？
+
+
+［＃３字下げ］へんな風景［＃「へんな風景」は中見出し］
+
+
+　こっちはメリー号だ。
+　メリー号の実際の指揮者であるクーパー事務長は、無惨《むざん》にも今や水母《くらげ》に目鼻をつけたような怪物に手どり足どりにされ、舷側《げんそく》をこえていずれにか連れられていく。
+「ち、ちくしょう！　そ、そしてどうもくさい」
+「ちくしょう」と「くさいぞ」とを連発しながら、くたくたのクーパーは、怪物のなすがままになっている。秘書マルラはどうなった。たのみに思う一等運転士パイクソンはどこにいるのだろう？
+　クーパーは、かすんでよく見えない両眼をみはって、いまどんなことが、じぶんの周囲に起こっているかを見定めようと、なみだぐましい努力をしている。
+「あっ、宙をとんでいる」
+　たしかに宙をふわふわと飛んでいるのだ。そして雲の中にいるようだ。
+　そのうちに、かれの呼吸が急にこんなんになった。どうしたのだろう。
+「あっ、くる、苦しい。――」
+　ぴしんぴしんと妙な音が聞こえた。キキキキッとれいの怪物が鳴いた。呼吸はますます苦しくなる。
+「ううう、死んでしまうのだ」
+　クーパーは両手で自分ののどをかきむしった。呼吸はますます苦しくなる。
+「ああっ、――」
+　クーパーは苦しそうな一声をのこして、ついに気絶《きぜつ》してしまった。
+　それからのち、どれほどの時間がすぎたか、クーパーにはぜんぜんおぼえがなかった。
+　かれがはっと気がついたときは、あたりはまるで白昼《はくちゅう》のように明かるくなっていた。さては、もとの世界へかえったかとよろこんだのは、ほんのつかのまだった。
+「やっ、――」
+　クーパーはじぶんの前に展開されている異風景に気がついて、思わず悲鳴をあげた。
+　あッ怪物だ。その怪物が十ぴきや百ぴきや千びきではない。何万何億といいたいほどたくさんでクーパーをとりまいているのだった。まるでシーズンの野球場へ行って、グラウンドのまんなかへすわりこんだとでもいいたいような風景だった。怪物たちは、大きな眼玉をぐるぐるさせて、クーパーの方をじろじろ見つめている。
+　さあ、これからいったいなにが始まるのだろう？
+
+
+［＃３字下げ］聞こえるひも［＃「聞こえるひも」は中見出し］
+
+
+　怪物の捕虜《ほりょ》になったクーパー事務長は、もう観念した。
+　かれはがんらい、たいへん頭がよく、落ちつきがあり、そして不撓不屈《ふとうふくつ》の紳士であった。アングロ・サクソン人種の、最もよい性質を持っているかれだった。
+　クイーン・メリー号が遭難してからこっちのかれのなみだぐましい奮闘《ふんとう》ぶりには、仇敵《きゅうてき》といえども拍手をおくらずにはいられないだろう。まったくのところ、メリー号の乗組員のなかで、かれほど、しっかりしている人物はほかに見つからなかったのだから。
+　そのクーパーも、かれの知識ではどうにも解くことのできない水母《くらげ》のばけものみたいな怪物団の前にひきすえられて、まったく観念の眼《まなこ》を閉《と》じた。この上、立ちあがって争ってみてもだめだと思った。
+　するとそのとき、一ぴきの怪物が、正面一段高いところにひかえている、やや体の大きい王さまらしい怪物――後にわかったところによれば、それがやっぱり王さまだった――となにか話をしていたが、そのうちにみょうなひもをもって、クーパーのところへやってきた。
+　そのひもはふしぎな形をしていた。
+　長いゴム管のようであって、ところどころに腸詰大《ちょうづめだい》のこぶがついていた。そしてその先には毛のようなふさふさしたものがついていた。
+　その怪物はクーパーのところにちかづき、そのひもの他のはしをとって、かれの耳のうしろにはりつけた。
+　するとふしぎなことがおこった。いままでがやがやといっているだけで、何をいっているやらわからなかった怪物たちの声が、急にはっきり聞きとれるようになった。声が聞こえるばかりでなく、怪物たちのいっている言葉の意味がわかるようになったのだ。
+　この長いひもは、海底超人国で出来た奇妙な受話器であったのだ。これさえあれば、超人語が他の生物にもわかるというたいへんふしぎな器械だった。
+「どうも見るからに、あいつはみにくいかっこうをしているじゃないか。おお、気持がわるい」
+「なんだか体の方々が、つっぱっていて、節《ふし》のところが動くんだ。われわれみたいに、どこでも自由に動かないとみえる。どう考えても下等動物だね」
+「あのふさふさしているのは、触覚《しょっかく》のある鞭毛《べんもう》かと思ってはじめはびっくりしたが、そうじゃない。あれは何の用もしないものさ。いやどうもばけものみたいだなあ」
+　そういう声が、しきりにクーパーの耳にはいる。たれのことをいっているのかと始めは聞き流していたが、よく考えてみると、なんのことだ、その嘲笑《ちょうしょう》されている当人というのが、ほかならぬクーパー自身のこととわかったから、さあ、あきれて物がいえない。
+（下等動物だの、みにくいばけものだのというが、あいつらの方がよほどばけものじゃないか）
+　と、クーパーはふんがいしてみたが、なにしろ多勢《たぜい》に無勢《ぶぜい》でどうにもならない。かれらは自分たちのばけものみたいなすがたに見なれていて、はじめてみる地上の人類のすがたがへんに思えてしかたがないのであろう。
+　どうも情《なさけ》ないことになったものだ。
+
+
+［＃３字下げ］王さまの尋問《じんもん》［＃「王さまの尋問」は中見出し］
+
+
+　そのうちに、一ぴき――というか、ひとりというか、とにかく海底超人がクーパーの前へやってきてちょこなんとすわった。
+「いかがですな。わたしが申している言葉が、あなたに通じるでしょうな。さあ、返事をしてみてください」
+　そういう言葉は、よくクーパーに聞きとれた。たいへんていちょうな言葉づかいであった。クーパーはすこし気をよくした。
+「さっきから、あなたがたの話がよくわかるようになりました。ずいぶん、ぼくの悪口をいっている人――がありますね。みな聞こえていますよ」
+　するとその超人はあわてて後をむいて、こっちをじろじろみながら悪《あく》たれ口《ぐち》をたたいている連中の方に手でなにか合図をした。それはしかっているらしかった。
+　そうしておいて、超人はふたたびクーパーの方にむきなおり、
+「いや、どうもしようがないのですよ、あの子供たちは」
+「はーん、あれは子供なんですか」
+「そうです、子供です。まだ体の発育期でしてな、礼儀《れいぎ》もなんにも教えてないんです」
+「ははあ、この国でもやはり礼儀なんてものを教えるのですか」
+「もちろんです。世の中はすべては礼儀から出発しなければ、うまくおさまりません。――ところで、王さまアトラ殿下が、ぜひあなたにお会いして、いろいろうかがいたいとおっしゃるのです。むこうへ行って、お話をきかせてくれませんか」
+　そういって超人は、むこうを指した。高い台の上では、王さまアトラ殿下が、大きな頭を重そうにぶらぶらふって、クーパーの方を見ていた。
+「よろしい、行きましょう。しかし、いっておきますがね、わたしを見世物《みせもの》あつかいはよして下さい。無礼《ぶれい》なことをなされたり、また危害を加えられるようなことがあれば、わたしは人類の名誉のために、いのちをかけてもたたかいをいどみますよ。いいですかね」
+　と、クーパーはちょっぴり、からいところを見せた。
+「そんなことはありません。失礼のないように十分に心がけます。わたし――外務大臣ランタの名誉にかけてちかいます」
+「そうですか。そんならいいのです」
+　外務大臣ランタは、そこでクーパーをつれて、王さまアトラ殿下の前へ出た。
+「殿下。人間の代表者をつれてまいりました。名前はクーパー。あのクイーン・メリー号の事務長をつとめている、なかなか礼儀正しい人物であります」
+　と紹介をすると、でか頭の王さまは、ますます頭を左右につよくふりながら、
+「ああそうか。こっちへ近よって大いにくつろげ、といってくれ」
+　ランタはクーパーの方をふりかえって、
+「お聞きのとおりです。さあ、ここへ来て十分くつろいでください」
+　といって、王さまの前にある、ぶよぶよした座《ざ》ぶとんみたいなものを指した。
+　さて、いよいよ海底超人の王さまとクーパーのみょうな初対面《しょたいめん》がはじまることとなった。
+
+
+［＃３字下げ］叫ぶクーパー［＃「叫ぶクーパー」は中見出し］
+
+
+「おお、クーパー君か。苦しゅうない。もそっとこれへ」
+　クーパーは笑いたいのを一生けんめいにがまんした。海底超人の王さまという生物は、まるで芝居みたいな言葉をつかう。
+「やあ、わたしがクーパーです。わたしをおまねきくだすって、たいへん光栄です。ですが、まずごあいさつよりも前に申しあげなければならんことは、あなたがたがクイーン・メリー号を暴力によっていつまでもこんなところへ監禁《かんきん》していることです。これは一体どうしたことですか。責任のある弁明《べんめい》をうかがいたい。さもないと、メリー号をあずかっているわたしとして、英国へ帰ってから申し開きができません」
+「はっはっはっ。うるさいことを申しよる。そんなに目をとんがらかさないで、ほがらかに面白く遊んでいったらどうか。きみたちは、どうも乱暴でいかんね」
+「乱暴？　乱暴とは、どっちのことです。大西洋をおだやかに航海しているわがクイーン・メリー号をこんなところへひっぱりこむなんて、怪しからんではありませんか。一体ここはどこなんです」
+　クーパーは、まだここが大西洋の海底大陸とは知らないから、こんなことをまず聞きたがった。
+「まるで、きみにあべこべに尋問されているようだね。ここがどこであるか、それはきみがいま見ているとおりだ。それよりもわしはきみたちの生活が知りたい。きみたちはあのような小さな動くもの（船のことらしい）に乗ってなにをしているのかね。なぜ、じっとして一つところにとまってはいないのかね」
+　クーパーは、からからと笑いだした。
+「あっはっはっ。やはりあなたがたは人類のえらいことを知らないんだ。人類はあなたがたよりはずっと賢明《けんめい》だ。海の上を走ることもできるし、空をとぶこともできる」
+「ああ、あの空をとぶというか。ときどき妙なものが空中を飛んでいるのが見えるが、あれもきみたちの仲間の仕業《しわざ》か」
+「そうですとも」
+　とクーパーはすこし鼻が高くなった。
+「まだおどろくことがたくさんありますぜ。陸の上には自動車が走る――」
+「陸というと、――」
+「え、陸を知らないんですか。つまり、あなたがたがこうして住んでいるような場所が、海の上に高くつきだしているのが陸です。それはたいへん広い」
+「うむ、どのくらい広いのかね」
+「どのくらい広いといっても、ちょっといえません」
+「この広場の何倍ぐらいあるかね」
+「この広場の何倍？　さあ何倍というか、百万倍の百万倍のそのまた百万倍の百万倍ぐらいはありますよ。人間のかずだって大したものです。ざっとかんじょうしても五百億人ぐらいはあるですぞ。それからまた――」
+　と、しきりにクーパーがしゃべっているとき、どうしたものか、にわかにあたりがそうぞうしくなった。
+
+
+［＃３字下げ］ロロー王子［＃「ロロー王子」は中見出し］
+
+
+　なにごとだろうと思って、クーパーが目をあげると、そこへかけこんできた十四、五名の超人が王さまの前にぴたりとすわって、
+「た、たいへんです。失踪《しっそう》されていたロロー王子さまがおかえりになりました。海底第一門のところへ、いまおかえりになりました」
+「なに、ロロー王子が帰ってきたというのか。それはおどろいた。早くこっちへ来いといえ。あいつはながい間、一体なにをしていたのだろうか。おい、早くしろ」
+　と、王さまはクーパーのことなどはわすれて、急にそわそわしはじめた。
+　失踪していた王子ロロー殿下のお帰りというが、この国にも失踪なんていうことがあるのかと、クーパーはあきれた。
+「それが王さま、そのなんでございます。お客さまを三人つれてこられたのでございまして――」
+「客をつれてきた。何者をつれてきたのか」
+「やっぱり人間らしく見えます。大きいのがふたりに、小さいのがひとりです」
+「なんだ、今ごろ人間を連れてきてもだめだ。こっちの方がすっかりおさきにやっているわい。ロローに、そういえ。おまえなんか、もう帰ってこなくともいいって」
+　と、王さまはにわかにふきげんになった。
+　すると、このとき外務大臣ランタが進みでて、
+「王さまに申しあげます。ロロー王子殿下は、人間採取《にんげんさいしゅ》にどの位苦労をなされたかわからないのでございます。ただわずかばかり、それがおくれたというだけで、ちゃんと三人も連れてお帰りになったのですから、さすがは王子さまであると、臣下一同は感歎《かんたん》申し上げているしだいでございます。ぜひともどうか、お迎えになりますようにねがいまする」
+　すると王さまは、また急にきげんがよくなって、
+「そうか、おまえをはじめ臣民《しんみん》一同、王子の勇敢な旅行をほめているというか。では、それにめんじて入国をゆるすとしよう。ロローにすぐこっちへ来いといえ。人間も連れてくるようにいいつけるんだぞ」
+「ははっ、ありがたいしあわせでございます」
+　そういって外務大臣ランタは、王さまのきげんがかわらぬうちに、門の方へかけだしていった。やがて奏楽《そうがく》の音が聞こえると、いよいよ王子ロロー殿下がこの広場へはいってきた。
+　クーパーは王子とはどんなやつかと思ってその方を見ていると、そこへはいってきたのは、妙なマスクをしてゴムの服を着た人間と、そのあとに東洋人の大きいのと小さいのがひとりずつ、そのまたあとに白人がひとり、はいってきたので、ありゃありゃとおどろいた。
+
+
+［＃３字下げ］三人の客人《きゃくじん》［＃「三人の客人」は中見出し］
+
+
+「おお、あの少年はボーイの三千夫じゃないか。おーい。三千夫、三千夫」
+　クーパーは、われをわすれてその場に立ちあがり、こっちへおりてくる少年の方に手をふった。
+　おどろいたのは三千夫だ。
+　みょうちきりんなタコのばけものみたいな動物が、うじゃうじゃかたまっているその中から、いきなり英語でもって自分の名が呼ばれたものだから、きもをつぶすのもどうりであった。だが、その声のする方を見れば、これぞ見おぼえのある人物――自分をよくかわいがってくれたクイーン・メリー号の事務長クーパーだったから、こんどはうれしさに胸がぐーっとつまった。
+「ああ、クーパー事務長！　ぼく、三千夫です。よく生きていましたね」
+　三千夫は階段をころがるようにおりて、クーパーの胸にぱっととびついた。
+「おお、やっぱり三千夫か。よく来てくれた。おまえにあえて、ぼく――ぼくはどんなにかうれしいぞ。お前は急に船上からすがたを消したが、一体どうしていたんだ」
+「ぼくですか。ぼくは気がついてみると、海上を漂流《ひょうりゅう》していたんです。そしてフランス汽船ルゾン号にたすけられたんです。そうです、クーパー事務長。そのルゾン号はいまもクイーン・メリー号を捜索のために、ちょうどこの真上《まうえ》の洋上をただよっているのですよ」
+「ええっ、この真上の洋上というのかい。一体ここはどこだろうねえ」
+　クーパーは三千夫をひしとだきしめて、はなそうともしない。そうであろう。かれは知りたいと思っていた遭難当時の模様がいま三千夫の口からもれてくるので、まるで飢《う》えた者が食《しょく》をもとめるようなさわぎであった。
+「クーパー事務長、あなたはまだ知らないのですか。ここは大西洋の海底ですよ」
+「大西洋の海底だって？　いや、そんなばかなことがあるものかね。海底だというが、海底なら海水につかっていなければならない。ところがここには空気があるばかりで、海水なんかどこにも見えないよ。海底ではない」
+「そうじゃないですよ、クーパーさん。海水はないけれど、大西洋の海底にはちがいないのです。海底のそのまた底に、こうしたアトランタという国があるのです。もっともこの国の生物は、海水にすんでいた動物から進化したので、軟体動物みたいな形をしていますが、いま、海底大陸の空気洞《くうきどう》の中にはいって、空気をすって生きているのです」
+「なんだかしらないが、おまえもなかなか学者みたいな口をきくようになったね」
+「え、クーパー事務長。それは海底大陸の研究大家である長良川博士に教わったのですよ。ぼくは長良川博士とごいっしょにここへやってきたのです。それからパリ大学のドン助教授もいっしょですよ。ほら、あれをごらんなさい」
+　といって、三千夫少年はクーパーに、かなたに立っている人物を指した。
+
+
+［＃３字下げ］やさしい博士の心［＃「やさしい博士の心」は中見出し］
+
+
+　クーパーがおどろいて、目をあげてそばを見ると、さっき、すがたを見かけた東洋人と白人とが謹厳《きんげん》な顔をこっちへ向けていた。
+「やあ、あなたがたは、メリー号を助けにきてくだすったのでしょう。ぼくはあなたがたに、お礼を百ぺんもいいますよ」
+　そういってクーパーは、ふたりの手をかわるがわる強くふってよろこんだ。
+「クーパー事務長。こっちが長良川博士、こっちがドン助教授です」
+「ああ、そうか、どうかよろしく、どうかよろしく」
+　と、クーパーは、ひたいを下にすりつけんばかりに大よろこびである。
+「クーパーさん。ほかの船員や乗客たちはどうしていますか」
+　と長良川博士は、まず人命《じんめい》を心配して、これをクーパーにたずねた。
+「人命ですか。――人命は大部分安全ですが、中にはこのばけものたちと格闘を始めて、殺《や》られた者もいくらかいるようです」
+「うむ、大部分助かっていたとは何よりです。あなたがたの本国では、たいへん心配しているようですから、あなたがたは、すぐに本国へ帰られた方がいい」
+「そ、そのとおりです。博士――あのう長良川博士とおっしゃいましたね。どうかわれわれクイーン・メリー号の一同をお助けください」
+　と、クーパーはいったが、急に頭を左右にふって、
+「いや、だめだ、だめだ、この恐《おそ》ろしいばけものどもが、わたしたちをそう簡単に手ばなすとは思われない。わたしたちもこのばけものどもを幾人か殺しているからなあ」
+　と、下にすわりこんでしまえば、長良川博士は同情にたえないといった面持で、クーパー事務長の肩をかるくたたき、
+「いや、そう心配をしないでもいいですよ。わたしたちがここへやってきた第一の使命として、クイーン・メリー号の船体と乗員とを安全にもとへもどすということを談じこむ決心です」
+「博士、それはほんとうですか。ほんとうにそうしてくださるのですか」
+「もちろんですとも。このような海底大陸への監禁《かんきん》がながくつづくと、メリー号の船客にも乗員にも病人がたくさんでてくるにちがいない。わたしはこれから行って、海底超人たちに、あなたがたの釈放《しゃくほう》を交渉してきましょう」
+「博士、どうかおねがいします。ぜひお力を貸していただきたい」
+　博士はあたりを見まわした。
+「ロロー殿下はどこにいられるかな」
+　博士は、たくさん集まっている海底超人の間をぬって、王子ロロー殿下の姿をさがしもとめた。
+
+
+［＃３字下げ］海底超人の秘密［＃「海底超人の秘密」は中見出し］
+
+
+　王子ロロー殿下――
+　ロロー殿下とは、読者のまえにめずらしい名ではあったけれど、殿下の姿は、じつはこの物語の最初から、もうすでにおなじみであるのだ。
+「鉄水母」という怪潜水艇が、大西洋上にしばしば姿を現わしたことがあったが、あの艇内には一人の怪人が艇をあやつっていて、ときに甲板から姿を現わしたこともあったが、あの怪人こそは、とりもなおさずこの海底大陸の王子ロロー殿下なのであった。
+　そう申せば、読者もきっと思いあたられることが、いろいろあるだろうと思う。
+　王子ロロー殿下が、なぜあんな潜水艇を手に入れたか、そしてなぜ大西洋の波間に出没したり、またルゾン号に通信したり、英国の捜査隊とたたかったか、それらのことについては、「ロロー殿下の日記」につまびらかであるが、それは今ここにことさら取りあげないことにする。しかし賢明なる読者は、もうすでに、ロロー殿下がなかなか勇敢であり、かつまた正義感に強いことを知ってられるはずだ。
+　一言にしていえば、ロロー殿下は海底大陸における随一《ずいいち》のインテリでもあり、また随一の冒険児でもあったのだ。そして海底大陸とわが人類との間をむすぶ月下氷人《げっかひょうじん》のような役割さええんじていたのだ。ちょうど、わが人類側からの連絡使節が、長良川博士やドン助教授であったのと同じ立場にある。
+　だからロロー殿下は、ルゾン号に近づいて長良川博士一行をまねき、「鉄水母」に乗せて海底大陸に連れてきたというわけである。
+「おお長良川博士、――」
+　と、博士の肩を後からたたいたものがある。
+　博士がふりかえってみると、れいのゴムの服を着、そして頭の上からすっぽりとマスクをかぶったロロー殿下がたっていた。
+「おお、ロロー殿下。あなたをさがしていたところです。かねて艇内でお話しましたように、クイーン・メリー号と乗員たちを、すぐに海上へおもどしねがいたいですな」
+「博士、そのことですよ。父アトラ王をはじめ、外務大臣のランタ以下、皆々、なかなかそれを承知しません。あのような大じかけなおとしあなをつくってせっかく捕えたクイーン・メリー号を、このままはなすのはいやだというのです」
+「それはこまる。メリー号を解放して下さらないときは、きわめて心配な未来が考えられますよ。艇内でも申したように、この海底大陸対地上大陸の大戦争をひきおこすところまでいくにちがいありません。それはおたがいさまに、得のいくことではないのです。大殺戮《だいさつりく》と大乱費《だいらんぴ》とのおこなわれる前に、われわれは理解しあわなければなりません。そのためには、メリー号を一時間もはやく海上へもどすことがいいのです」
+「博士、こまったことに、わがアトランタニアンは、地上人類の恐るべきことをまだはっきり知らないのです」
+「相手が恐ろしいということよりも、正義感からいって、さっそく、もとへもどしてやらねばなりませぬ。そうではありませんか」
+　長良川博士の正論《せいろん》の前に、ロロー殿下は、沈黙してしまった。まったくそれにちがいない。博士のいうとおりだ。しかし海底超人たちには、博士のまだ気がつかないところの、戦慄《せんりつ》すべき、異種生物の心の中を流れる大秘密がある。そいつが今後どんなふうに爆発するか、博士は知らないのだ。ロロー殿下自身も、今そこまでは説明したくないと思っている。
+
+
+［＃３字下げ］運命のわかれみち［＃「運命のわかれみち」は中見出し］
+
+
+　ロロー殿下は、長良川博士にしばらく待っていてくれるようにたのんで、また宮殿《きゅうでん》の奥をさして姿を消した。
+　しばらくすると、ロロー殿下は、ふたたび姿を現わして、長良川博士のところへ急ぎ足でやってきた。
+　ここでもうしておくが、ロロー殿下の姿は、海底超人のようなかっこうをしていない。それはちょうど、潜水服と潜水かぶとをかぶった人間のような形をしているのであった。ただふつうの人間にくらべて、体は一メートルばかりも高く、そして体の割合に頭部が大きかった。マスクの中からは黒い二つの眼がのぞいていたが、これは一種の仮面《かめん》であって、人間に会っても相手をおどろかせないための深い注意から設計されたものであった。つまり早くいえば、ロロー殿下は人類と接近するとき相手をおどろかすまいと思って、細心《さいしん》の注意をはらった外装《がいそう》をととのえているのであった。
+「長良川博士、話はうまくつきました」
+　と、ロロー殿下はうれしそうにいった。
+「どう話はつきましたか」
+「これからすぐ、クイーン・メリー号を海上にもどします。船室も乗員も皆、もとのようにもどします」
+「それはいいことです。わたしも安心しました」
+「だが博士、それには一つの条件があるのですが……」
+　と、ロロー殿下はいいにくそうにつけ加えた。
+「なに、一つの条件があるというのですか、その条件というのは何です」
+「これはつまり――つまり、わたしが『鉄水母』でもってお連れしたあなたがた三人には、むこう一年間この国に滞在していただきたいということです」
+「むこう一年間の滞在をせよというのですか」
+　長良川博士は、きっと、くちびるをむすんでロロー殿下を見つめたが、
+「いや、わたしはそれくらいのことは覚悟していました。しかしドン君と三千夫君にも聞いてみなければならない」
+　博士は両人をそばによんで、海底超人国のもうし出を伝えた。するとドン助教授は、ただちに決意して、長良川博士と進退をともにしたいといった。三千夫少年もまた、がんばるといいだした。
+　事務長クーパーは、クイーン・メリー号が釈放されると知って、酔払いのようにおどっていたが、その代価に長良川博士以下三人がこの国にとどまると聞いて、それはいけないと主張した。
+「こんなところにのこっていると、海底超人のためにどんな目にあうかわかりませんよ。なんでもかまいませんから、メリー号が海上へもどるところまでついてきて下さい。そしていよいよというところで、ぼくらといっしょに逃げるんですね。海上には、きっとわが英国艦隊や空軍が待っているだろうと思いますからね、それに助けをもとめれば大丈夫ですよ。それがいいではありませんか」
+　とクーパーは、博士たちに、超人をだまして海上へ出たら、その足でメリー号の乗員といっしょに逃げだすことをしきりにすすめるのであった。
+
+
+［＃３字下げ］借りた恩［＃「借りた恩」は中見出し］
+
+
+　クーパー事務長は、しきりに長良川博士を説いて、海底大陸からの脱走をすすめるのであった。それも、むりならぬことだった。クイーン・メリー号がもしふたたび海上に浮かべば、その恩人は長良川博士であった。だからその恩人を、今後一年も、この海底大陸におきばなしにしておくには忍びないから、英空海軍の手をかりて、恩人長良川博士を助けださねば相すまぬと思っているのだった。
+「いや、クーパーさん。わたしのことなら心配は無用です」
+　と長良川博士は、言下《げんか》にこたえた。
+「わたしはやはりこの海底大陸にこの一年間を暮らします。約束はやっぱり約束ですからなあ」
+「約束といっても、人間同士の約束ではなく、相手はばけものじゃありませんか。博士、ぼくたちといっしょに逃げることにしてください」
+「いや、なりません。相手が人間でないばけものであればこそ、わたしたちは細心の注意をし、そして、約束をまもらねばならない。さもないときは、――」
+　といって、博士はぐっと口をつぐんだ。
+「さもないときは――どうしたというのですか」
+「クーパーさん。どうしてもここは平和的解決が必要ですぞ。わたしは人類の幸福のためにそういうのです」
+「わかりました。博士、あなたは、あまりにこのばけものを恐《おそ》れすぎているのです。しかしわが英国の空海軍はすばらしく強い」
+　クーパーはいった。
+「なんとあなたがいおうとも、わたしはここにのこる決心です。わたしは信義《しんぎ》を第一に重《おも》んじるよう教育されてきたのです」
+　と、博士はきっぱりこたえた。
+「そうですか。しかしそれはあまりにもおろかな義理《ぎり》だてというものです。ぼくはどうしても恩人たる博士をすくいださずにはいられない」
+　責任の大きいクーパーは、またかれの信ずるところを、どこまでもかえようとはしなかった。
+　そのとき、ロロー殿下の大きなマスクがこっちへゆらいでくるのが見えたので、ふたりは共にだまってしまった。
+「長良川博士。父は、あなたがたが同意してくだすったので、すこぶるまんぞくの意を表しました。それでは、わたしどもはすぐ用意にかかって、今から四時間後には、メリー号を大西洋上におもどしするようにはからいます」
+「ロロー殿下、承知しました。今から四時間のちというと――」
+　と博士は時計を見て、
+「おお、大西洋上は夜にはいったばかりの時刻になりますね」
+
+
+［＃３字下げ］決心［＃「決心」は中見出し］
+
+
+　長良川博士、ドン助教授、それに三千夫少年の三名は、宿舎にあてられた馬小屋のような乾海藻《ほしかいそう》のとこに横たわり、昼からの疲労をやすめているうちに、いつのまにか四時間は過ぎ去って、いよいよクイーン・メリー号を海上へ返還《へんかん》する時刻とはなった。
+「長良川博士、さあ出発ですよ」
+　と、入口からクーパーがはいってきた。
+　博士は迷惑《めいわく》そうな顔をした。
+「わたしたちがついていかないでも、あなたたちは海上へかえれるでしょうがな」
+「そういわないで、ぜひいっしょについてきてください。ロロー君にも、よろしくそれをたのんでおきましたから。ああ、ちょうどいい。ロロー君もあなたをむかえにきたようですよ」
+　そういっているところへ、はたしてロロー殿下の大きな頭が入口からはいってきた。
+「長良川博士。それから、ドンさんも三千夫君も、メリー号を海上にもどすところを見にいきましょうよ」
+「わたしはここにいたいのですが」
+「なぜです」
+　とロロー殿下は問いかえした。
+「わたしたちは一刻もはやく海底大陸の研究をしたいのです」
+「いや博士。わたしは鉄水母にのり、メリー号について海上までいかなければなりません。するとあなたがたを後にのこしておくことは心配ですから――はっはっはっ、心配するほどのこともありませんが、万一、物なれないわが住民たちが無礼を働くと申しわけないので、ぜひ海上までわたしといっしょにいってください。わたしといっしょにいれば、ぜったいに安全ですから」
+　と、ロロー殿下は、博士たちを後にのこしておきたくない気持を、はっきりと説明した。
+　博士もそれほどまでにいわれては、とまっているわけにも［＃「とまっているわけにも」は底本では「とまっているわけもに」］いかないので、ようやくにロロー殿下について「鉄水母」にのりこむことを承知したのであった。
+　午後八時――それは、大西洋上の時刻であった。ながらく海底大陸に分捕《ぶんど》られていた巨船クイーン・メリー号はいまや奇妙なる帰還の途にのぼることとはなった。はたしていかなる方法によって、洋上に浮かびあがるのであろうか。博士も内心その浮揚作業《ふようさぎょう》について大きな興味をもたないでもなかったけれど、しかしその興味よりは、メリー号が多数の乗客や乗組員とともに安全に本国に帰りつくことをいのる気持のほうが大きかった。実際、この海底超人のおそるべき科学力と、そして人間の頭脳ではとうていはかることのできない超人的思想とを知っているのは、長良川博士ただひとりであったのだ。
+（恐るべき海底超人族よ。そして地上の人類は、なんというのんきな生物だろう）
+　そういった嘆声《たんせい》が、今もいくたびとなく博士の胸のうちにくりかえされているのを、おそらくドン助教授も、また、その他のたれもが知らないであろう。
+　クイーン・メリー号は、今や洋上に出発というので、乗組員といわず、船客といわず、全部が船室の奥ふかくへおしこめられた。
+　クーパー事務長と、そして腰骨《こしぼね》をしたたか打って、ながいあいだ呻吟《しんぎん》していたメリー号の老船長のただふたりが、船橋に近い一室に連絡のためとめおかれたままで、他は全部、船底にぎゅうぎゅうづめであった。かれらのなかばは、ふたたび人間世界にかえれることをよろこび、また他の半分は、はたして無事にこの巨船が洋上に浮かびあがるだろうかと、しきりに胸をいためていた。
+「さあ、いよいよ出発だ」
+　浮揚係の海底超人が、どんどんどんと、クーパーのいる部屋をそとからたたいて、出発の合図をした。
+
+
+［＃３字下げ］海底出発［＃「海底出発」は中見出し］
+
+
+　れいの海底超人国の受話器を胸につけているクーパーは、出発だとよぶ浮揚係の言葉をりょうかいした。
+「船長、いよいよメリー号が浮きあがりますよ」
+　老船長は、安楽いすの上に寝そべって、ずきんずきんといたむ腰をさすっていたが、クーパーのこの言葉に、子供のように目をかがやかすと、
+「わしは夢をみているのじゃないかな。まったく信じられんことだ」
+　と、首を、左右にふった。
+「いや、船のことは、わたしにまかせておいてください。あなたは、ロンドンに入港してのちの歓迎にこたえる辞《ことば》など今から考えて置かれるがいいでしょう」
+　クーパーは思いやりぶかい言葉を、老船長になげた。
+「だが、わしは心配じゃよ。なるほど今、船はなんだか、ごとんと音をたてて持ちあがったようじゃが、ほんとうに、もとの大西洋にもどれるのかのう。きみ、ちょっとそとを見てくれぬか」
+「そとは見てはならない約束なんです。が、待っていらっしゃい」
+　とクーパーはそっとまるまどに近づいてそとをうかがった。そのとき、なんだか白いしまをもったもや［＃「もや」に傍点］のようなものが、ぐるぐる動いているように見えた。はて、あれは何だろうと思って、まるまどに顔をあてようとしたとき、まどはそとからぴたりと遮光《しゃこう》された。
+　遮光したのは、まるまど一ぱいの、海底超人のおこった顔であった。なんという気味のわるい顔であろう。
+　そのとき、ドアがどんどんとそとからたたかれ、
+「こら、クーパー。見ちゃならぬという約束をなぜやぶった。メリー号の浮揚作業を中止してもいいのかね。もう一度それをやってみろ。そのときは容赦《ようしゃ》はしないぞ」
+　超人は、烈火《れっか》のように怒って、ドアをいつまでもどんどんたたきつづけた。さすがのクーパーも、顔青ざめ一語もはっせず、別人のようにしょげてしまった。海底超人がおこったら、どんなにこわいことか、それは知らぬわけではなかっただけに恐ろしかった。
+「これ、クーパー。相手をおこらせるな」
+　と、聞きつけた老船長も、いまはふるえあがった。せっかくの帰還《きかん》が水のあわときえてしまっては、まさに一大事であるから、こうなっては、相手のきげんをうんと手あつくとっておかねば危険であった。
+　船底におしこめられているれいの乗客のうちには、秘書のマルラや一等運転士のパイクソンもまじっていた。かれらも、メリー号の船員として、こんな事件にあった関係上、どうかしてそとを見たいと思った。だが、つごうのわるいことに、室内には海底超人の見はり番が、ゆだんなくきょろきょろと目を光らせて、ここにおしこめてある船員たちの顔をにらんでいるので、どうにもならない。
+
+
+［＃３字下げ］浮きあがり作業［＃「浮きあがり作業」は中見出し］
+
+
+　われわれにはまったく想像のつかない大作業が、今、海底においておこなわれている。クイーン・メリー号の浮揚作業である。
+　鉄水母《てつくらげ》に乗っているロロー殿下は、長良川博士をはじめ三人の人間たちに、とくにこのすばらしい作業を見ることをゆるした。
+　三人は、かわるがわる鉄水母のそとが見える水中望遠鏡にとりついて、おどろくべき海底超人の智能力に舌をまいた。
+　水中望遠鏡は潜水艦の潜望鏡のように、天井からぶらりとさがっている円筒状《えんとうじょう》のもので、下にはハンドルをまわすと、上下左右、どちらでも水中を自由に見物できるものであった。
+「おお、見える見える。あれがメリー号だ」
+　と博士がおどろきの声をあげた。
+　まっくらな大深海の底に、メリー号の巨体がしずかにおかれてある。どこから来るのか、数条のまっ白い光線が船腹にあたっている。船体はかなりひどくさびついて、あの美しいクイーン・メリー号の姿はどこにも見られなかった。
+　よく見ていると、巨体はしずかに浮きあがっていく。それにしても、メリー号は水びたしになっているのかと思って見なおすと、そうではないらしい。マストにつけた旗などの形からして、別に水にぬれているとは思われない。
+「うむ、一体どういうことになっているのかしら」
+　と、なおも博士はひとみをさだめて見ているうちに、みょうなものを発見した。それは、巨体の周囲に楕円形《だえんけい》の輪廓《りんかく》が見えることであった。これが巨体といっしょに、しずしずともちあがっていく。まるでメリー号を楕円の額《がく》ぶちに入れたように見えたといったらわかるであろう。
+　そのうちに、ほんとうは額ぶちではなく、巨船が透明体の中にはいっていることがわかった。つまり、卵のからをセルロイドでつくって、その中にあるきみ［＃「きみ」に傍点］をクイーン・メリー号と思えばよいのであった。
+　この外殻《がいかく》が、じつに問題であった。
+　それは、人間世界にはまだ発見されていない粘着材料《ねんちゃくざいりょう》で出来ているものらしい。
+　そのうちにも、巨船はだんだんと浮きあがって、やがてぽっかりと海面へ出た。
+　卵が水上にうかんでいるようなかっこうだ。
+　しかし、巨船はまだ死んだようになっている。
+　そのうちに、楕円形の下から、しずかに海水がはいってきた。
+　さびついた巨船の底の方から、海水はしだいに上へのぼっていく。
+　そのうちにメリー号の船腹には、普通海上に浮かんでいるとおりのところまで海水がのぼった。
+　そとはまっくらな夜だ。
+　海上は波立っている。
+　そのとき楕円形がぱっと宙にとびちった。メリー号をつつんでいた外殻がとれたのだ。巨船は三カ月ぶりで、やっと大気の中につかったのであった。
+
+
+［＃３字下げ］再生《さいせい》の夜［＃「再生の夜」は中見出し］
+
+
+　そよ風吹くしずかな海上であった。
+　いま、巨船クイーン・メリー号はひさかたぶりに、なつかしい海上にぽっかり浮かんでいる。
+　船体のペンキは、もう見るかげもないほどきたなくはげているのであるが、幸《さいわ》いに夜のこととて、やみの中にうまく目だたなかった。
+　多数の船員や乗客たちは、海底超人のため船室や船底におしこめられているが、本船が海上にうかんだことを、それと察した。なぜなら、かれらは、波のうねりに船体がぐーっとゆれるのに気がついたからである。
+　海底超人は、いまや用がおわったので、群《ぐん》をなして、ぞろぞろと甲板の上にはいのぼってきた。うすきみわるい大きなまるい頭が、まるでゴム風船をよせあつめたように見え、そしてかれらは、まるで風が障子《しょうじ》の破れ目にあたるときに発するような奇異な声をあげて、しきりになにごとかささやきあった。それはたぶん、浮揚作業も終ってまあよかったねえ、といったような話らしかった。
+　やがて海底超人たちは、名残《なご》りおしそうに甲板を見まわしたり、これから飛びこもうとする暗い海面をながめたりしていた。
+　事務長クーパーは、そうなる機会をねらっていたのである。
+　かれは、すばやく一等運転士パイクソンのもとに、ある密令《みつれい》をつたえた。おりからパイクソンは、船底にちかいところにとじこめられていたが、クーパーからの電話に、海底超人のすきをうかがって船底無電室にしのびよった。
+　幸いに、そこに見はりをしていた海底超人の姿は見えなかったので、えたりかしこしと、すぐさま無電室にとびこんだ。
+　無電室の中には、誰もいなかった。無電技師はどこへ行ったか、消息《しょうそく》はまったく不明であった。第一この船底無線電信室というのは、遭難の場合に最後に使う無電室なのであるから、器械もかんたんでそまつであった。
+　パイクソンは、かたい決心を眉《まゆ》の間にみせて、無電器械のまえに近づいた。そして、まず、電源スイッチをぐっと入れてみると、うまく電気がくるではないか。かれは思わず、
+「しめた……」
+　とさけんだ。
+
+
+［＃３字下げ］密令［＃「密令」は中見出し］
+
+
+　パイクソンは、無電器械について、すこしは知っていた。
+　かれはそこに自動救護信号送信機があるのに目をつけ、すばやくその赤いぼたんをおした。
+　器械は、待っていましたとばかり、ごとごととまわりだした。真空管がつく、送風機がまわり出す、こまかいセグメントをもった救難信号筒《きゅうなんしんごうとう》がまわりだし、こちこちとしきりに自動電鍵《じどうでんけん》がはいる。
+「うむ、うまくいったぞ。こっちの救難信号をたれかが受信してくれたら、わがメリー号は助かるにちがいない」
+　クーパー事務長のもとへは、さっそくこのことを報告しておいた。
+　クーパーはよろこんで、
+「うむ、うまくいった。海底超人は気がつかないでいるようだ」
+　といってから、急に声をおとし、
+「いま左舷の後方に『鉄の水母』がうかんでいるのだ。見てごらん、黄色い灯をつけているから。あの鉄の水母を、どうにかしてつかまえてやらにゃ気がすまない」
+　そういっているうちに、まっくらな空の一ぐうから、ごうごうたる爆音がきこえてきた。
+　飛行機の音らしい。
+　そのごうごうたる爆音は、みるみる近くにせまってきた。そしてその爆音はいよいよ大きくきこえてくるところを見ると、かなりおびただしい数らしい。
+　これを聞きつけたのはクーパー事務長だった。かれはよろこびの声をあげて、同じ室に長くのびている老船長をゆりうごかした。
+「船長、あの爆音がきこえませぬか。たくさんの飛行機がやってくるようですよ。きっと、さっきうった救難信号を聞きつけたのにちがいない」
+　といえば、老船長も長いすの上からむっくり起きあがり、
+「なんじゃ、飛行機じゃというのか。一体どこの飛行機だろうか」
+　といっているうちに、爆音はもう頭上に来た。
+　と、ぱーっと目もくらむ光弾《こうだん》が空中にうちだされた。
+　一弾、また一弾。
+　あとからあとへと空中へうちだされる光弾は、だんだんとかずとまぶしさとを増し、あたりの海面はまるで、ひるまのように明かるくなった。
+　そのとき、室内の電話器が、じりじりと鳴った。クーパーがとびつくようにして受話器をとりあげてみると、パイクソンの声で、
+「やあ、ばんざいです。わが英国空軍から入電がありました。徹底的に救援するから安心しろというのです」
+　それをきいて、クーパーはおどりあがり、
+「そうか。それでは空軍へすぐさま、こう伝えろ。海底超人の王子ロローなるものが、いま本船の左舷後方にいるから俘虜《ふりょ》にするように、と打電《だでん》するんだ。すぐやるんだぞ」
+「心得ました」
+　パイクソンはかんたんな返事をして、すぐさま送信機に向かい、クーパーからいいつけられたとおりを打電した。
+　海底超人たちは、それを知るや知らずや。
+
+
+［＃３字下げ］やあ！　ラスキン大尉［＃「やあ！　ラスキン大尉」は中見出し］
+
+
+　おびただしい光弾に照らしだされた、はげっちょろのクイーン・メリー号！
+　その甲板の上には、ぶよぶよした大きなまるい頭が二、三百、嘔吐《おうと》をもよおすほどの不気味《ぶきみ》な光景をていしながら、ごったがえしてもみあっている。
+「おい、へんなことになってきたぞ。どうしようか」
+「フネをかえしてやったのに、なんだかおだやかでないことをやるじゃないか」
+「ロロー殿下に相談してみよう。その上でわれわれの態度をはっきりきめようではないか」
+　などといった意味のことを、海底超人たちはくちぐちにさけびあっているのであった。
+　こっちは事務長クーパーである。
+　かれは船底無電室にいるパイクソンをはげまして、外部との無線電話を、事務長の部屋から送受できるように、電気回路の接続をかえさせた。
+　それがうまく開通すると、かれはさっそく救援にきてくれた空軍と連絡をとった。
+「え、あなたはラスキン大尉！」クーパーはびっくりして声を大きくした。「ああ、おなつかしいことです。わたしは事務長クーパーですよ。あなたの家とわたしの家とは、同じグラスゴー市のスター街に向きあっていましたね。よくきてくださった……」
+　ラスキン大尉は、機上からクーパーたちに元気をつけ、
+「こんどこそは『鉄の水母』も、それから、その眷属《けんぞく》だという怪しい生物も、いっしょにやっつけてしまいます」
+　と、勇《いさ》ましい口調でいって、
+「しかし、よわったことに機上から見ると、その怪物どもは甲板にうようよしているばかりで、逃げださないのですよ。このままではまさか爆撃するわけにもいきませんね」
+「しかし、ラスキン大尉。なんとかして、この怪物どもを甲板から追っぱらってください」
+「じゃ、やむをえません。非常手段を用いましょう」
+「えっ、非常手段。空中から本船を爆撃するのじゃありますまいね。そんなことをすると――」
+「もちろんせっかくもどってきたメリー号を破壊するようなことはしませんよ。催涙液《さいるいえき》を空中からまきます」
+「催涙液？　ああ、あの液のことですね」
+「そうです。ですから船員や乗客たちは、すこしもはやく船内に避難《ひなん》するようにいってください。そして戸などをかたくとじて、液やその怪物が船内にはいりこまないようにするんですね。よろしいか」
+「ああ、よくわかりました。ではあと十分間に、総員を船内に避難させます」
+　空中から甲板にむかって液をまくとはたいへんいい考えだ。これで安全性がふえると、クーパーは、うちょうてんになってよろこんだ。
+　ただちに、船内くまなく警報は発せられた。
+
+
+［＃３字下げ］催涙液《さいるいえき》［＃「催涙液」は中見出し］
+
+
+　準備時間の十分間は、はやくもたった。クイーン・メリー号が海上に出たというので、うれしまぎれに、恐ろしいのもわすれて甲板に出ていた人たちの間をぬって、避難の密令は伝えられ、一同は急いで船内にかえってきた。そしてドアをかたくおろし、こんどは甲板上の怪物がどうしてもはいりこめないようにした。
+　マルラ秘書は数名の屈強《くっきょう》な船員をひきつれ、いつのまにかクーパーのところへかえってきた。そして、籠城作業《ろうじょうさぎょう》をきびきびとやってのけた。
+「クーパー事務長、これだけしておけば、もう大丈夫です」
+　と、ドアのところへたてかけたベッドや重い長いす［＃「いす」に傍点］などをしめして、自信ありげに目をかがやかした。
+　クーパーは、そとにしめだされた海底超人がこれからどんなさわぎをえんずるだろうかと、気が気でない。
+　まどはすべて内がわから、棒と書籍とフトンとで補強しておいたが、そのうちの一つがわずかにすきをもっていて、ガラス越しに光弾下に青白く光る甲板がそこから見えた。クーパーは、生《なま》つばをのんで、なりゆきいかにと見つめていた。
+　催涙液が空中から降ってきたのは、それから、ものの五分とたたない後だった。
+　十数台もの飛行機がごうごうたる爆音をあげ、マストにぶつかりそうな低空飛行でとおりすぎたかと思うと、しばらくしてから、待ちにまったさわぎが起こったのである。
+　砂糖のまわりによりあつまっていたアリの大群の上へ、つめたい雨だれが、ぽつんとおちてきたときのさわぎのように、甲板の上にかたまっていた海底超人たちが、にわかに上を下への大乱闘《だいらんとう》をはじめた。
+　上へとびあがる者、走ってえんとつにぶつかる者、組みあったままころげまわる者、まるい頭をまるでふりこのようにゆりうごかす者、――いやたいへんなさわぎである。
+　さだめし、きいきい声をたてていることと思うが、まどがみな厳重《げんじゅう》にふさがっているので、クーパーの耳には、なにも聞こえない。
+　ぶよぶよした坊主あたまの上には、しだいに濃《こ》い褐色《かっしょく》のきりがおりてきた。
+　飛行機から放出した催涙液が、どんどんおちてくるのだ。
+　坊主頭《ぼうずあたま》の上には、見る見るくろずんだきたないしみが目立ってきた。醜怪《しゅうかい》な触手《しょくしゅ》のようなものが幾本となく坊主あたまをさすっている。
+　ラスキン大尉の作戦は、すっかり図にあたったのだ。
+　さすがの海底超人も、催涙液のため、眼を刺戟《しげき》されて、涙が、とめどもなく出て、すっかりまいってしまった。
+　さきを争って、舷側《げんそく》から海面へどぼんどぼんところげおちる。中には、もう舷側をこえる元気さえなくなって、甲板上にへたばるものさえ出てきた。
+　海底超人側に敗戦の色はしだいに濃い。
+　ラスキン大尉の指揮する空軍部隊は、くりかえしくりかえし、この液をまいた。
+　クーパー事務長は、このありさまをくい入るようにながめている。
+　本船の左舷後方の海面にうかんでいるはずの「鉄の水母」は、今なにをしているのであろうか。
+
+
+［＃３字下げ］ロンドンわきあがる［＃「ロンドンわきあがる」は中見出し］
+
+
+「クイーン・メリー号発見さる！」
+　この一大快報は、はるかロンドンに達した。それはもう真夜中であったけれど、ＢＢＣ管下の各放送局はあわただしく送信機を起動して、この夢のようなメリー号の再出現を、全国にむけ臨時ニュースとして放送した。
+　サイレンが鳴りだした。
+　花火が、まっくらな夜空に、ぽんぽんと裂《さ》け鳴《な》った。
+　号外売りの少年が、大声で街路をどなっていく。
+「たいへんだッ。ええ、クイーン・メリー号の消息《しょうそく》［＃ルビの「しょうそく」は底本では「しょそく」］がわかったという大号外！　いま出ました大号外！」
+　日ごろ冷静なロンドン市民も、この大ニュースを聞いて、たれも彼もみな昂奮《こうふん》してしまった。どの家のまどもぽんぽんとひらく。往来へかけだす者がある。なんのためか、自動車を引っぱりだして出かける者がある。まるで夜中の大地震のようなさわぎだ。
+「クイーン・メリー号が見つかったって？」
+　市民たちは、メリー号の発見について、もっとくわしいニュースを知りたがった。また、その後のようすを一刻も早く知りたがって、放送局や新聞社には、電話や群衆がおしかけて、どうにも整理しきれなかった。
+　やがて、待ちにまたれた第二報が発表された。
+「クイーン・メリー号は、ラスキン大尉の指揮下にある空軍の手によってすくいだされ、目下海上をロンドンにむけ帰航中である。船客と乗組員はすこぶる元気である。ただし今回の遭難事件によって死傷したる者もあるようであるが、まだ詳報《しょうほう》は発表されない」
+　市民たちは、この第二報を耳にして、さしあたり満足の歓声をあげた。
+　しかし、しばらくすると、またもっとはげしく次の詳報を早く知りたがった。
+「クイーン・メリー号が無事にかえってくるなんて、まるで死人が棺《かん》の中に生きかえったようなものだね」
+「そうだ、それよりも、もっともっと神秘《しんぴ》な奇蹟だ。メリー号がロンドンにかえってくると、これはまた見物人で、たいへんなさわぎがはじまるよ」
+「うん、わしのような老人は、ニュース映画と放送とでがまんしなければならないだろうが、これで、もう五年も若ければ、人をおしのけても埠頭《ふとう》へいって見るんだがなあ」
+　ロンドン市民は、寝もやらず、ついに暁《あかつき》を舗道《ほどう》の上でむかえた者もすくなくなかった。
+　むりもない。世界にほこる大西洋の女王クイーン・メリー号が、奇蹟的に生還したというのであるから、これくらいのさわぎはあたり前であろう。
+　クイーン・メリー号は、いま、どのへんの海上を航行しているであろうか。
+　そのようにあっけなく、海底超人族の手からはなれられたのであろうか。
+　催涙液が、ついに海底超人族を完全に圧倒してしまったのであろうか。
+　海上は広くて暗い。安心するには、まだ早いようだ。
+
+
+［＃３字下げ］あとしまつ［＃「あとしまつ」は中見出し］
+
+
+　事実、クイーン・メリー号を中にはさみ、ラスキン大尉指揮の英空軍と海底超人の群れとのにらみあいは、もう終幕になったわけではなかったのである。
+　奇襲的に催涙液をはだかの上からまかれた海底超人たちは、奇妙な悲鳴をあげて、どぼんどぼんとまっくらな海におちていく。あとからあとへと、このあわれな敗走者《はいそうしゃ》の姿が、メリー号のてすりをのりこえて、むこうに墜落《ついらく》していくのが、光弾の照明下に見られた。
+「痛い。どうかしてくれ」
+「殺してくれ。その方がましだ」
+　などと、苦しみにあえぐ海底超人たちは、催涙液をのろいつづけていた。
+　いまはクイーン・メリー号の実際の指揮者である事務長クーパーは、まどのすきまから、甲板上に展開してゆくこの悽愴《せいそう》な光景に魅せられたように、じっと見つめていた。いまやメリー号上の全員は、まくらを高くしてねむられるのだ。
+　このときマルラ秘書が、クーパーの肩をたたいた。
+「事務長、ラスキン大尉からの無線電話です」
+「なに、ラスキン大尉から」
+　クーパーは夢からさめた人のように、ふかいためいきをついて、まどからはなれた。
+　電話に出てみると、たしかにラスキン大尉の声だ。
+「やあ、クーパーさん。怪潜水艇――『鉄水母《てつくらげ》』とかいいましたね。あれをとうとう捕獲《ほかく》しましたよ」
+「えっ、鉄水母をつかまえましたか。こいつはたいへんなおてがらです。しかし、よくつかまりましたね」
+「わたしは、わが派遣潜水艦に連絡して、捕獲してもらったのです。ところがこの『鉄水母』ですが、捕獲したものの、このような場所でもあり、場合でもあり、このまま、番をしていることができないから、わが艦隊の手で『鉄水母』を爆沈したいというのです。これについて、なにか意見がありますか」
+　ラスキン大尉は、鉄水母爆沈をいちおうクーパー事務長に問いあわせをしたのだ。クーパーはそれを聞くと、まずなによりも第一に、鉄水母にのっているはずの恩人長良川博士一行のことをおもい、次に、生けどって手がらにしたいとおもっているロロー殿下のことを考えた。
+「大尉、そりゃいけませんよ。あの鉄水母には、わたしたちがこうして海上に出られるように努力してくれた長良川博士が乗っているんです。博士をまず助けてください。それから海底超人国の王子ロロー殿下というのも乗っていますから、あれを生けどっておけば、これからのち海底大陸からおびやかされずにすむとおもいますよ。とにかく乗員を助けた上でないと、撃沈してもらってはこまります」
+「ほう、――」
+　と、ラスキン大尉は機上で目をまるくしているようであった。
+
+
+［＃３字下げ］協調者《きょうちょうしゃ》［＃「協調者」は中見出し］
+
+
+「ぜひ、鉄水母の乗員は助けだしてください。ことに長良川博士には、けがのないように」
+「うむ、ちょっとめんどうなことになったが、艦隊と相談してみましょう。なにしろ、艦隊はこれから海底大陸を爆撃しようとしているので、たいへん張りきっているのです」
+　ラスキン大尉は、そこで一たん電話を切った。クーパーは博士のことが心配で、なんだか胸のところにつかえ物ができたようで、くるしかった。
+（――だから長良川博士にいったんだ。いっしょに逃げてくださいとね。あのとき逃げていれば、こんなあぶない目にあわないですんだのになあ。しかし、さあ心配だぞ）
+　クーパーはパイクソンとマルラにこの話をして、またそのことで電話がかかってきたらすぐ取り次ぐようにといった。
+　鉄水母が、そうかんたんに英国の潜水艦隊に生けどりにされてしまったとは、意外なことであった。鉄水母は、たしか怪力線《かいりきせん》とでもいってよい強烈な放射線を出す装置をもっていた。それを飛行機にあてると、飛行機は行動の自由をうばわれ、またそれを人間にあてると、その人間は視力を失うという、恐ろしい武器をもっていたはずだ。ところがそういう武器をもっていながら、あっさり潜水艦隊の生けどりになってしまったとは、まことに、わけのわからない出来事だった。なぜ鉄水母は、おのれをとらえようとする潜水艦隊にたいし、怪力線をあびせかけて、抵抗しなかったのか。
+　じつはそれには、長良川博士のたいへんな努力があったのだ。
+　いつでも博士は、人類と海底超人との間に衝突の起こることを極力《きょくりょく》きらった。なぜそれをきらったかというと、この前代未聞の衝突事件は、かならず目をおおうばかりの大惨劇《だいさんげき》を生ずるにちがいなかったので、それを博士はたいへんに心配したのだ。しかも博士の考えによれば、わが人類は、そうとう苦戦をするであろうという見とおしだった。今までの研究によれば、海底超人族は、人類よりもはるかに恐るべき科学力をもっていたし、また、その残忍性《ざんにんせい》においても警戒する必要のある生物だと考えていたのである。
+　博士は、ロロー殿下をなだめるのに、どんなにか骨をおった。はじめロロー殿下は、一時にもせよ潜水艦隊にくだることをどうしても承知されなかった。しかし博士は、この上、海底超人が催涙液攻撃をうけることが損であることをといた。そして、また同時に、双方の誤解から発している、今日のクイーン・メリー号事件をさらに悪くもっていって、人類対海底超人間の大衝突でもおこすようなことになっては、双方の大不幸だから、ここは事をあらげないためしばらく忍耐して、一時ロロー殿下の方が手をひいた形にしなければいけないと、誠意をもってといたのである。
+　さすがに海底超人の新人たるロロー殿下は、博士の言葉をよくかみわけ、そして博士に万事《ばんじ》をまかせたのである。
+　しかしながら、この博士とロロー殿下とがいだいている正義の信念を、はたしてクイーン・メリー号捜索隊の人々は知っているのであろうか。
+
+
+［＃３字下げ］ローン号へ［＃「ローン号へ」は中見出し］
+
+
+　ロロー殿下一行にたいして、英国潜水艦ローン号へ乗りうつるように、信号は発せられた。
+　博士はこの信号を了解した。
+　ロロー殿下も、いまはしょうちされた。
+　ドン助教授は、もくもくとして、長良川博士のさししめすところにしたがっている。
+　三千夫少年は、たいへん心配している。子供のように天真爛漫《てんしんらんまん》な性格の持主であるロロー殿下を、捜索隊の人々がふみにじりはしないだろうかということであった。ロロー殿下には、三千夫にこの上もなく同情されたのであった。
+　潜水艦ローン号は、波浪《はろう》とたたかいつつ鉄水母に近づいていった。艦橋には、若いぴちぴちした艦長ザベリン中尉が、すらりと高い長身を、雨がっぱにつつんで立っていた。
+　探照灯がマストの上から、鉄水母をあかあかと照らしつける。ローン号の船艙《せんそう》がひらかれ、一せきの軽火艇《けいかてい》が乗組員をのせたまま、ぼちゃんと海上におろされた。
+「おおあぶねえ。ひどいあれ模様だ」
+　軽火艇は、もうさっそく木《こ》の葉《は》のようにゆれだした。ややもすれば本艦の胴中《どうなか》にぶっつかりそうである。
+　鉄水母の方はと見れば、これも海面に浮きあがって、展望塔のふたがあいている。その中からロロー殿下はじめ四人の乗員がこっちを見ている。
+「さあ、早いところ、こっちへ乗りうつれ。波をかぶると、沈んじまうからね」
+　と、水兵はふなべりに立って手をさしのべた。
+　三千夫少年がまず軽火艇へとびうつった。
+「おお、おまえは東洋人の子供だな。子供のくせに、ばけタコの味方をしていやがったんだな」
+　口の悪いので有名な水兵ジムが、いつものくせを出していった。
+「水兵さん、なにをいうんだ。あとからくわしく話をしてあげる」
+　と、三千夫は流暢《りゅうちょう》な英語でこたえた。
+「やっ、おまえ、英語がしゃべれるのか。ほっほっ」
+　ドン助教授が、第二番目に鉄水母からとびだした。
+　第三番目はだれかと思っていると、そこに現われたのはロロー殿下であった。れいのとおり、殿下は潜水夫のかぶるような大きなまるい鉄のかぶとをかぶっている。そして全身もまた潜水夫のようにゴムの服を着ている。首のところには、人語《じんご》のわかる通話器をくくりつけてあった。
+　そのうしろから、長良川博士の顔が見えた。
+　ふたりは前後して、軽火艇にとびのった。
+「うわーっ、こいつがあのばけタコの王子さまか。潜水夫を内職にしていなさると見える。ずいぶん見事な殿下だ」
+　と、口のわるい水兵がいった。
+「――おお、そして最後のひとりは、南京路《ナンキンろ》の魔術師《まじゅつし》とおいでなすったな。いや、中国人じゃなかった。ええと、フジヤマの国の占師《うらないし》か」
+　長良川博士はロロー殿下のそばをはなれない。
+「おう、船内にはもうだれもいないのだね」
+　と、ザベリン中尉はたずねた。
+「そう。だれもいません」
+　と、ロロー殿下が通話器をとおして、みょうにゆがんだ英語でこたえた。
+「おおっ、この巨人先生も英語がつかえるんだぜ」
+　と、ジム水兵が、びっくりした。
+「ジム。むこうの艇内をちょっとみてこい」
+　と、ザベリン中尉は、水兵にいいつけた。
+「向うの艇内をのぞいてくるんですか。しょうちしました。なにか宝物が、おちているといいなあ」
+　そういってジム水兵は、鉄水母の上にさっととびのって入口をまたごうとしたが、どうしたことか足がつかえてはいらない。
+「おやおや、ガラス張り――でもないのに、これはどうしたことかな。ちくしょう、ふざけるない」
+　と、海底大陸特産の透明硬膜《とうめいこうまく》がすでに入口をふさいでいるともしらず、ジム水兵はなおもしきりに、そこに見える入口へ足を入れようとあせっていた。このとき鉄水母はだんだん水中に沈みはじめた。ジム水兵があっと気がついたときには、かれの下半身はもう水びたしになっていた。
+「うわーっ、た、たすけてくれえ」
+
+
+［＃３字下げ］鉄水母待て［＃「鉄水母待て」は中見出し］
+
+
+　怪潜水艇鉄水母が、ジム水兵をのせたまま、ずんずん海中にしずみかかったのだ。あわてたのはザベリン中尉だった。
+　鉄水母の撃沈命令がおりているのに、このまま鉄水母が沈んでしまっては、ザベリン中尉の職責《しょくせき》がはたせない。
+「おい、ジム。鉄水母を沈ませちゃならんぞ。なぜ艇内へはいってしらべないのか」
+　腰から下を水づかりのジム水兵は、あきれ顔をあげた。
+「鉄水母をしずませるなとおっしゃっても、わしになにができますものか。第一、鉄水母の内部へはいれと命令されても、どういうものか、内部がみえているくせに、体が入口につかえてはいれないんですぜ」
+「ばかをいうな。入口から内部がみえていて、それではいれないとは、どういうわけだ。さっぱりわけがわからないが」
+「さようです。まったくわけがわからないので――」
+　と、いっているうちにも、鉄水母はずんずん沈んだ。海水は、ジムのへそをぬらして、胸にせまっている。かれは一生けんめい、艦橋《かんきょう》のほばしらにつかまっている。
+「おーい、鉄水母が沈んでしまうぞォ」
+　ジムは悲鳴をあげた。
+　ザベリン中尉は、ジム水兵よりも、もっともっとあわてた。
+　彼はとつぜん主砲を鉄水母の方にむけさせた。
+　これを見て、腰をぬかすほどおどろいたのはジム水兵だ。
+「あっ、うつんですか。こっちをうっちゃいやですよ。重任《じゅうにん》をおびて、ここにきているジム水兵がいるんですからね。見落としちゃいけませんよ」
+　砲手の方も、ジム水兵のことには気がついていた。
+「ザベリン中尉。鉄水母の上にはジム水兵がのっています。このまま砲撃すれば、ジムの体は、こっぱみじんになってしまいます」
+　そういって、中尉に警告をした。
+　すると中尉は、
+「ジムの危険よりも、本官にあたえられた任務のほうが重大だ。いまここで鉄水母を撃沈しとかなきゃ、おれは艦隊司令官へ報告ができない。かまわないから、ねらいをつけて、どーんと一発ぶっぱなせ。ジムには、はやく海中へとびこんで鉄水母からはなれろと信号しろ」
+
+
+［＃３字下げ］砲撃［＃「砲撃」は中見出し］
+
+
+　しかしジム水兵は、鉄水母にしがみついたままだった。
+　ザベリン中尉の砲撃命令に、砲手はやむをえず、主砲《しゅほう》の照準《しょうじゅん》をいそぎ鉄水母の方につけた。
+「おい、早くうて。鉄水母が逃げてしまっては、なんにもならないじゃないか」
+　中尉は、ここで鉄水母を逃がしてしまっては、また今後、鉄水母にあばれられると心配なのだ。
+　砲手は、一生けんめいに、きりきりと照準器を手でまわした。あまりの近距離射撃である。砲口はひくくさがっていく。
+「おい、まだうてないのか」
+「はい、砲撃用意よろしい」
+「じゃあ、うて！」
+　ばうーん――と、砲口はまっくろな煙をはいて、砲弾をうちだした。
+　その砲弾は、鉄水母にあたらないで、その上をとびこし、はるかむこうの海面に背の高い水柱をつくった。
+「なんだ。照準がなっとらん」
+「はあ、海面があれておりますもので……」
+「なんだと。きさまは陸兵ではなくて海兵なんだろう。船のゆれるのに、今さらおどろくやつがあるか。――しっかり照準をつけて、つづいて砲撃しろ」
+「はあ」
+　砲手は、また照準をつけなおした。
+　しかしかれにしてみれば、仲間のジムが鉄水母にしがみついているのに、これを砲撃したくなかったのだ。
+　つづいて第二回目の砲撃が決行された。
+　大音響をあげて、砲弾は炸裂《さくれつ》したが、これもまた鉄水母の上をとびこえた。
+「ちえっ、なんというまずい砲撃だ。おい、照準手、かわれ」
+「ザベリン中尉。砲がこれ以上、下をむかないのです」
+「なに、砲が下をむかない。それで砲弾が鉄水母の上をとびこすというのか。ははあ、そんなことで、おれをだませるとおもっているのか。じゃあ照準は、おれがつける」
+　ザベリン中尉は、砲のそばへかけつけた。
+　そして照準望遠鏡のクロスヘアをのぞきながら、連動ハンドルを、ぐるぐるまわすのであった。そのうちに、かれはまゆをひそめた。
+「あ、なるほど、これはどうもだめだ。本艦を、もっと鉄水母からひきはなせ。おい、急いで全速後進だ」
+　ザベリン中尉が、顔をまっかにしてどなっている間に、潜水艦はようやくすこし動いた。
+「よし、そのへんでストップ」
+　ザベリン中尉は手をあげた。
+　そこで彼は、鉄水母にむかって、あらためて照準を定めようとした。しかしそのとき鉄水母はどこにいったのか、海面から姿を消し去っていた。
+「あっ、とうとう沈んでしまったか」
+　ザベリン中尉のくやしがること。
+　しかし甲板の上で、これをじっとみていたロロー殿下は、大きなかぶとの中で、にやりと笑った。
+　鉄水母は、もともと沈むように、ロロー殿下が仕掛けておいたものである。
+　ジムはその間《かん》に無事に救いあげられた。
+
+
+［＃３字下げ］ロンドン帰港［＃「ロンドン帰港」は中見出し］
+
+
+　帰還《きかん》だ。
+　もう、ふたたび見ることができないと思ったロンドン港が見える。クイーン・メリー号の生存者は大よろこびだ。
+　凱旋《がいせん》だ。
+　クイーン・メリー号救助の命令をうけ、遠く大西洋上に派遣された英空海軍の部隊は、いまや大任をはたして、どうどう英京《えいきょう》ロンドンさして凱旋してきたのである。
+　ロンドンは、その日お祭りのようなさわぎだった。ロンドンの市民は老《お》いも若きも、メリー号の見える埠頭《ふとう》や高層建築のまどにあつまってきた。そしてメリー号がまだ入港しない先から、旗をふったり、五彩《ごさい》の紙片《しへん》をばらまいたりして、ものすごい熱狂ぶりであった。
+　そこに集まったのはロンドン市民だけではない。近郊《きんこう》からも、ぞくぞくと、この大奇蹟の汽船を見ようと見物人が集まってきた。
+　テームズ河を、クイーン・メリー号がのぼりはじめたというラジオのアナウンスがあると、待ちに待った人々は、わっとよろこびの声をあげた。そして一せいに眼をかがやかせて、広い川面《かわも》の方へつまさきをのびあがらせるのだった。
+　ぽー　ぽぽー。
+　汽笛が鳴った。
+「あっ、メリー号がかえってきた」
+「あっ、あそこだ。見える見える。メリー号のマストがおれていらあ」
+　メリー号の前後には、救助にいった潜水艦や駆逐艦が護衛し、また空には空で、ラスキン大尉のひきいる派遣空軍《はけんくうぐん》が、うつくしい編隊をつくって舞っていた。
+「クイーン・メリー号、ばんざーい」
+「ばんざーい」
+　待ちくたびれて不平をいっていた群衆も、いまはすいこまれたように、メリー号の方にのびあがり、さかんに黄色い声をおくった。
+　だが、クイーン・メリー号の、なんと変りはてた姿よ。
+　ほばしらは折れ、船側はくぼみ、通風筒はみにくくまがり、見るもむざんな姿であった。
+　船体を三色にそめていた美しいペンキは、すっかり赤はげにはげて、まるで鉄屑置場《てつくずおきば》からひっぱりだしたように見える。
+　しかし、船内からありったけの万国旗をひっぱりだし、ほばしらから、ほばしらへはりめぐらして、せめて海の女王の身だしなみを見せようというのであったが、その万国旗も、多くははげたりよごれたり破れたりしていて、見ている者をして思わず涙ぐませた。
+　クイーン・メリー号が、そのつかれきった船体を埠頭につけたとき、ロンドン市長は行列の先頭にたって、この奇蹟的な生還船を訪問した。
+　マイクロフォンがかつがれて、船内へはこばれる。
+　写真班が、フラッシュ・ライトをぱっぱっとたく。ロンドンはその日も、どんよりと霧にたちこめられていたから。
+　群衆は、メリー号におしかけた。
+　が、まず何よりも無事なメリー号の姿に安心を感じると、かれらはラジオや新聞の上でかねて好奇心をわかせていたものの方へ、注意力をうつしはじめた。
+「おお、海底大陸のロロー殿下を見せてもらいたい」
+「そうだ、そうだ。早く見せろい」
+
+
+［＃３字下げ］おしかけた群衆［＃「おしかけた群衆」は中見出し］
+
+
+　どこの国でも、群衆は、はしたないものであった。
+　人間がまだその存在をしらなかった海底超人を、クイーン・メリー号がおみやげにつれてきたというので、さあひと眼でも見たいと、ひしめきあう群衆だった。
+「海底超人を見せろ」
+「メリー号の船客と乗員の生命をうばった海底超人を見せろ」
+　群衆をつつむ空気は、すこしずつ険悪化《けんあくか》してきた。
+　クーパー事務長は、いままで船橋に立ち、クイーン・メリー号歓迎の群衆にたいし、目に涙をうかべて感激の帽子をふっていたが、ひしめいている群衆の中から、海底超人にたいするのろいの声をききつけると、顔色がさっと青くなった。
+　そうでもあろう。
+　メリー号の当事者として、ロロー殿下を軟禁程度《なんきんていど》にして、おみやげに祖国《そこく》へひっぱってきたつもりであったが、群衆は、メリー号で死んだ人たちのうらみを、ロロー殿下にむかって加えまじき気勢であった。
+「これは、ちと、めんどうなことになったわい」
+　と、さすがのクーパー事務長もまいったようすだ。
+　そこへ一等運転士のパイクソンが、あがってきた。
+「事務長。こまったことができたよ」
+「とは、どうしたのかね」
+「出むかえの群衆が船内にあばれこんできた。ロロー殿下を出せとわめきながら、船室という船室をさがしまわっているのだ」
+「ふむ。だれも入れてはならない」
+「このままじゃ、やがて見つけて、ロロー殿下をなぐりころしてしまうよ。まったく弱ってしまった」
+「ロロー殿下を生けどりにした報告が、そんなにロンドン市民を、刺戟《しげき》するとはおもわなかった。いや、ぼくの失敗だ。では、ロロー殿下を船艙《せんそう》の奥にうつして、安全をはかるというのはどうだろう」
+「どこへロロー殿下をうつしても、船内いたるところに敵ありだ。熱狂している群衆が近よると、船員までが一しょに熱狂してしまうんだからね。むりもない、かれの仲間もかなりたくさん海底超人に殺されたんだから」
+「どうも弱ったなあ」
+　と、クーパー事務長はすっかり考えこんでしまった。
+　しばらくすると、かれは急に顔をあげ、
+「そうだ、いいことがある」
+「いいこととは、クーパー君、どうするのか」
+「だれかがロロー殿下に仮装するのだ。そして、ちょっと群衆ののぼれないマストの頂上にのぼらせる。群衆がその方に気をとられて、あれよあれよといっているうちに、長良川博士にたのんでロロー殿下をつれて水上機で逃げてもらう」
+「ロロー殿下のにせ者はいいが、ロロー殿下をほんとうに逃がしてしまうのかね」
+「そうではない。群衆をまいたら、そのあとでまたテームズ河口《かこう》に目立たないように着水させてふたたび引きとるのだ。ケンブリッジ大学の生物学会から、ロロー殿下への面会が申しこまれてあるんだよ。その方へ渡せば、まず生命は安心していられるだろうから。すくなくとも、われわれの責任だけは、たしかになくなるから、その方がいいと思う」
+　クーパー事務長は、真剣な顔色で、かれがいま考えているロロー殿下の始末について物語った。はたしてロロー殿下や長良川博士は、これからどんな憂目《うきめ》にあうのだろうか。
+　王子をうばわれた海底超人は、だまって指をくわえて引っこんでいるだろうか。
+
+
+［＃３字下げ］宿泊所《しゅくはくじょ》［＃「宿泊所」は中見出し］
+
+
+　クイーン・メリー号の事務長クーパーがたてたロロー殿下の安全上陸計画は、思いのほかうまくいった。
+　ロロー殿下に仮装したマルラ秘書が、群衆の注意をうばっている間に、本物のロロー殿下は長良川博士とふたりでメリー号の上につんでいた水上機に乗り、カタパルトでとびだした。そして筋書きどおりテームズ河口に着水したのち、そこに待ちうけていたケンブリッジ大学の生物学会会長シムトン博士をはじめ、学界の人々にむかえられ、無事に大学の奥深く連れ去られたのであった。
+「やあ、珍客ロロー殿下とやら。この地下室を殿下の居間ときめましょう。ここなら、もう暴民《ぼうみん》におそわれることもありませんから、どうか安心なさい」
+　と、シムトン博士は、まがった鼻と白いひげとをいっしょにつるりとなでながら、ロロー殿下にいった。そういいながらも、博士は肥満した腰のあたりを、みょうにふりながら、ロロー殿下の一挙一動を、じろりじろりと興《きょう》ふかげににらむのであった。
+「御親切、どうもありがとう」
+　ロロー殿下は、かんたんにこたえた。ともすれば、むらむらと反抗心がおこる。それをみずからおさえるのに、どんなにか苦労しなければならなかった。
+「おお、長良川博士」
+　と、シムトン博士は、ロロー殿下のそばに衛兵《えいへい》のように立っている長良川博士をよんで、
+「あなたや、あとからこの地へ到着することになっているドン助教授や、三千夫少年には、大学の附近にいいホテルがありましたので、そこをあけておきましたから、おとまりください」
+　といった。
+　長良川博士は、それを聞くと、
+「いや、わしはロロー殿下といっしょに起きふしします。殿下が大学の地下室にとまられるのなれば、わしもいっしょにそこにとまります。ホテルの方は辞退します」
+「そういわないでもいいでしょう。あなた方は人間なのだから、あんな、えたいのしれない動物といっしょに起きふしすることはないではありませんか」
+　シムトン会長の親切ではあったが、思うところがあって長良川博士は辞退した。
+
+
+［＃３字下げ］殿下を守る人々［＃「殿下を守る人々」は中見出し］
+
+
+　ロロー殿下の旅宿《りょしゅく》の問題で、長良川博士は、ドン助教授や三千夫少年に、一体どうするかと相談をした。
+「わたしは、やはりロロー殿下のそばにいたいとおもいます」
+　と、ドン助教授がきっぱりいえば、
+「ぼくも、いっしょにいたいですよ。ロロー殿下に万一のことがあっては心配ですからねえ」
+「ああ、それできみたちの気持はよくわかった。ロロー殿下も、それをきいてどんなによろこばれるであろう。ではシムトン会長へ、わたしたちの決意を伝達することにしよう」
+　長良川博士は、あとのことをふたりにたのんでおいて、宿泊所の交渉のために、シムトン会長のいる建物へと出かけた。
+　生物学会は、同じ大学構内の、青いツタのおいしげった古めかしい煉瓦《れんが》づくりの建物の中にあった。
+　シムトン会長をおとずれると、いかめしい使丁《してい》がでてきて、うすぐらい廊下づたいに案内をした。それは大きな広間であって、シムトン会長のほかに、一見、学者だとわかる中年、老年の紳士が集まっていた。かれらは大声でさかんになにごとか論じていたようであったが、長良川博士が室内に姿をあらわすと、ぴたりと話をやめてしまった。
+「やあ、長良川博士。なにご用ですな」
+　シムトン会長は、上機嫌で近づいた。
+「ちょうどいいところだ。わが生物界の権威者が一堂に会しているところなんです。ぜひあなたも傍聴《ぼうちょう》していらっしゃい。あなたが東洋へ帰って論文を書かれるにしても、きっと参考になりますぞ」
+　長良川博士は、かるくその厚意《こうい》を謝《しゃ》したうえで、れいの宿泊所問題につき、じぶんたちはロロー殿下とともに起きふしするのがいいと思うから、いっしょに地下室に入れてもらいたいと、その用件をのべた。
+「それはよした方がいいのじゃないかなあ。わしはあなたがたに敬意を表し、かつまた、あなたを思っておすすめしているのだが……」
+「では、われわれ一行四名はいっしょに地下室に滞在します」
+「ああよろしい、それがお望みとあれば。だが、気をつけられたがいいですぞ。――では、あとで三人分のベッドを入れさせましょう」
+
+
+［＃３字下げ］遊星植民説と海底進化説［＃「遊星植民説と海底進化説」は中見出し］
+
+
+「ああ、この方が長良川博士ですか。わたしはドリー助教授です」
+　と、ひとりの、ひとのよさそうなはげ頭の老人が、長良川博士のところへやってきて、握手をもとめた。
+「ああ、ドリー教授ですか」
+「いや、皮肉をおっしゃってはいけませんなあ。わたしは、これでまだ助教授です。名物の万年助教授ですよ。まあそんなことはどうでもよろしい。わたしはかねがねあなたの研究論文にたいし、深甚《しんじん》なる敬意をはらっている者でしてな、海底超人の存在などは、けっきょく、あなたがいいあてたのですからね。よくおやりになりました。握手をしていただきましょう」
+　ドリー老助教授のさしだす大きな手を、長良川博士はうれしくにぎって振った。
+　むこうでは、シムトン会長が一同にむかい、さらに討論をつづけられたいと、あいさつをした。
+「じゃあ、さっきの議論にかえり、海底超人の発生起源について、わしの論をすすめましょう」
+　と、安楽椅子から腰をあげたのは、生物学者として世界一と折紙をつけられているストックホルム大学のベント博士だ。
+「――わしの考えるところでは、海底超人は、他の遊星から植民してきたところの生物であると思う。つまり海底超人は、ロケットのようなものに乗り、はるばる地球に近づいた。そしてロケットを大西洋の海底につけたのである。それは海底超人の生活力からいって、海底であることを必要条件としたからだ。そして海底超人はクイーン・メリー号をねらって、ここに人類との初交渉をおこなうことになったのである。だから海底超人の母国は、この宇宙に一つの遊星となって、いまも虎視眈々《こしたんたん》として、第二の植民をおこなおうとしているかもしれない」
+「それはどうも不合理だ」
+　と白いひげの、やせたからだの老人が自席に立った。アイルランド大学のクイ教授だ。
+「事務長クーパーの報告によると、海底超人の人口は、ちょっと見たところでも百万人ちかいものであったという。そういう大量の移民が、人類に知れずにそう簡単に出来るわけのものではない。そういうものが天涯《てんがい》からくれば、気象観測の上にも異常数値が報告されるはずである。すくなくとも、つなみは起こるであろう。しかるに、そんなことのあった話もきかぬところを見れば、ベント博士の論拠は成り立たぬ」
+　クイ老教授はベント博士の弱点をついた。
+「では、クイ教授。あなたの論旨は、どういうのですかな」
+　とシムトン会長が逆に質問した。
+「わしの説は、かようである」と、クイ教授は長くたれた白いひげをぐいとひっぱって、おもむろに口を開いた。
+「海底超人は、決して他の遊星からきたものではない。あれはもともと海底にすんでいた軟体動物の進化したものである。人類はむかしサルと同じような祖先をもっていたが、それが今はわかれて人類とサルとははっきり区別がつくようになった。深海の軟体動物にしても、一方にはタコや水母《くらげ》のような相変らず下等なものもいるし、また一方では、人類と同様あるいはそれ以上のスピードで進化した海底超人もいるということになるのである。これがわしの論旨だ」
+　そういって、クイ教授は、反対説をあきらかにして、一座を見まわした。
+
+
+［＃３字下げ］アトランティス生物の怪《かい》［＃「アトランティス生物の怪」は中見出し］
+
+
+「クイ教授の説も、かなりへんに聞こえる」
+　と、こんどは、れいの偉大なるはげ頭の主であるドリー助教授が、自席からとびだした。
+　シムトン会長は、顔をしかめた。
+　この老いてますます元気なドリー助教授は、きっとまた皆をばかにしたような学説をはくにちがいないのだ。
+「おい、ドリー君。かんたんにきみの説をのべたまえ」
+「はい、そうしましょう。――いま会長から、かんたんにのべよということでありますので、ほんとうなら、ここに臨席《りんせき》していられる長良川博士の前に、くわしく自説を講演し、その教えをこいたかったのでありますが、会長は結論をいそいでいられるようですから、やむを得ずかんたんにやります。えへん」
+　ドリー老人は、はげ頭をつるりとなでて、言葉をついだ。
+「ええ、拙者はまずクイ先生の説を反駁《はんばく》します。先生の御説は、たいへん面白いのでありますが、ざんねんなことに、史実《しじつ》を無視していられる」
+「なに、史実？　歴史のことかね」
+　とクイ教授は、耳に手をあてて、からだをのりだす。
+「そうです。地球上に伝えられている歴史のことです。つまり教授の説は、机上《きじょう》の空論《くうろん》である。教授ともあろうものが、生きた史実をないがしろにして、机上の空論に終始しているというのは遺憾千万《いかんせんばん》であって、そういう机上空論家なんてものは、助教授団のなかには一人もいないのである」
+「これこれ、ドリー君。言葉をつつしみたまえ」
+　と、シムトン会長は、テーブルをたたいた。
+「――つつしむつつしまないというほどの大した言葉でもないが、それじゃ、かりにクイ先生のいわれるごとく、海底において、人類とは別途に海底超人が発達したものとするも、それが今日まで一度も人類と交渉をもたなかったというのは、あまりにもとっぴではないか。もっと別の言葉でいえば、海底と海面とは海水でつづいているのである。海の上には、しょっちゅう汽船がとおっている。しかるに、かれらは未だかつて海底超人にぶつかったことがない。今度はじめてクイーン・メリー号がかれらと行きあったのである。おなじ地球において、人類とおなじ年代において、海底超人が発達したものなら、クイ先生の説は常識的にも落第ものである」
+「なに、落第だと？」
+　クイ老教授の顔は、みるみるトマトのように赤くなった。
+「そんなことよりも、はやく自説をいえ！」
+　と叫ぶものがある。
+「うん、自説はこうじゃ」
+　と、ドリー助教授は、またはげ頭をつるりとなで、
+「海底超人なるものは何ものぞや。諸君はまず、有史以前において大西洋の海面に存在したと、かのプラトーがとなえたアトランティス大陸が、あまたの生物とともに海底に沈んだという史実をおもい起こさねばならぬ」
+「なんじゃ、アトランティス大陸だと？」
+　一座は急にざわついた。
+「しかり。アトランティス大陸じゃ。今になっておどろいたか諸君。そんなことで生物学者といばっていられるか。アトランティス生物の怪を知らずして、どうして海底超人が論じられようぞ」
+　ドリー助教授は、この上ないよい気持で、じぶんの胸をぽんぽんたたいて一座を見まわしたのであった。
+　アトランティス生物の怪とは、そも何ごとであろうか。
+
+
+［＃３字下げ］ドリー助教授［＃「ドリー助教授」は中見出し］
+
+
+「アトランティス生物の怪！　これを知らずして、生物学者でござると、大きな顔をしているやつがあったら、わしはその先生のまえで、腹をかかえて笑いたいのだ」
+　ドリー老は、おなじことを二度もくりかえして、一同を見まわす。
+「これ、ドリー君。本論以外のことについてはしゃべらないように」
+　シムトン会長は、またこの世話を焼かせる老助教授に、注意の言葉を発した。
+「いや、会長閣下。これがそもそも本論なのでしてね」
+　と、人をばかにしたようにはげ頭をつるりとなで、
+「ええ――先をいいましょう。もっとも諸君がこれを理解しうるやいなや、それについてはわしは責任をもたん。とにかくいいます。今もいうように、アトランティス大陸は海底に沈んだ。この大陸にすんでいた生物は、さてどうなったか。馬も牛もニワトリも人間も、みな海水にのまれて、おぼれ死んでしまったろうと思うじゃろう」
+　ドリー老助教授は、ふてぶてしい面がまえで、またもや一座をずーっと見まわした。そしてまた言葉をつづける。
+「あッはッはッは。そう思うのは素人考《しろうとかんが》えじゃ。生物なんてものは、なかなか生存力のさかんなもので、そんなことで一時に死にたえるようなことはない。もちろん、アトランティス大陸の生物の多くは、その地変のとき死んだが、その中《うち》に執念《しゅうねん》ぶかく生きのこったのが、今日の海底超人という一族だ。どうだ、これで問題はとけたではないか」
+　一座は、にわかにそうぞうしくなった。
+「とんでもない話だ」
+「いや、ドリー君はなかなかいいところをついている」
+　などと、はんたいする者もあれば、また賛成する者もあった。
+「ドリー助教授にちょっとうかがうが、今の話のようなことで海底超人が生まれたとすると、その海底超人の前身は、いったい何であったのか。やはり人類であったか、それともタコであったか」
+　と、これはシムトン会長の質問であった。
+「いや、そこが研究問題である。わしはこれからその点について研究をすすめるつもりじゃった。しかし長良川博士は、もうわしより先にその結論をつけておいでのことじゃろう。後の話は博士にお願いした方がよいとおもうから、わしはこのへんで、着席させてもらうとしよう」
+　ドリー助教授は長良川博士のほうに、合図《あいず》のような敬礼をおくって、席についた。
+「おお、では長良川博士に、後をつづけていただこう。さあどうぞ、こっちへ出てきて話していただきたい」
+　長良川博士は、ついに、しゃべらないではすまないことになった。
+
+
+［＃３字下げ］長良川博士立つ［＃「長良川博士立つ」は中見出し］
+
+
+　長良川博士は、ついに演壇に立った。
+　世界的に有名な生物学者たちは、この東洋の学者からどんな話が聞けるかと、好奇の眼を光らせる。そのなかにドリー老助教授は、まるで自分のせがれが大演説するのを皆に見せびらかしでもするときのように、鼻高々と、席から立ったり、すわったり、たいへんなはしゃぎようであった。
+「おお、諸君」
+　と、長良川博士は、至極《しごく》落ちついた口調でもって、一座にあいさつをのべたのち、
+「海底超人の起源《オリジン》について、ただいま、いくたの興味ある御説をうかがいましたが、わたしといたしましては、さきにパリ大学においてのべましたとおり、アトランティス大陸の生物が約四千年近くの間、海面下において棲息《せいそく》をつづけ、そして、今日わが人類と交渉を持つようになったのであると考えています」
+　ヒヤヒヤと、大きな声でさけぶものがあった。それはもちろんドリー老にほかならなかった。
+「わしの説とまったく同一じゃ。聞いたか、君たち」
+　と、いやそのうるさいこと。しかたなく、ドリー老のそばから席を他へうつす者さえできた。
+　長良川博士は言葉をつぎ、
+「――さて、むかしアトランティス大陸に棲息していた如何《いか》なる生物が、今日の海底超人に化成《かせい》したのかということにつきましては、ドリー助教授も言及をごえんりょになったようでありますが……」
+　と、論じ来《きた》れば、ドリー助教授は自席で目を白黒してあわてていた。じつは老学者にも、この研究問題は、まだ解けていなかったのである。
+「――わたしの見ますところでは、海底超人の起源《オリジン》は……」
+　といって、長良川博士はあらためて、一座を見まわした。一堂に集まる世界の生物学者たちは、息をのんで博士の口をじっとみつめている。
+「……これは、やはり、われわれ人間と同種の生物であると考えます」
+　そういいおわると、一座はたちまちさわがしくなった。その中に、ドリー助教授の拍手ばかりが、人をばかにしたような響きをたてて聞こえた。
+　長良川博士は、次の言葉をつないだ。
+「――結論だけ申すと、いかにも突飛《とっぴ》に聞こえましょうが、これは海面下に沈下《ちんか》する以前のアトランティス大陸の状態を知り、かつは今日の海底大陸についてくわしい視察をした後でなければ容易になっとくができませぬが、要点を申すと次のようになります。すなわち、アトランティス大陸には、当時｜穴居《けっきょ》民族があったことを指摘したい。これは一種の宗教的な、そしてまた知識的な、民族でありまして、オールソ族という名がありますが、この民族は、はやくもアトランティス大陸の異変近きを予知していたものかどうかわかりませぬが、ともかくも、あの大事件以前に地下において、穴居をはじめていたのである」
+　長良川博士の驚くべき論理に、一座はしーんとしずまった。
+
+
+［＃３字下げ］海底超人の正体［＃「海底超人の正体」は中見出し］
+
+
+　博士は、そこで一段と声を高くし、
+「そこへ大陸沈下が起こったのである。なにゆえにこの恐るべき沈下事件が起こったか、それについては、また興味ある事実がわかっていますが、ここには関係ないので、省略しておきましょう。とにかく大陸沈下によって、アトランティス大陸の地上にいた生物は、ほとんど全部が海水にのまれて死んでしまった。しかしオールソ族だけは、地底にあったがゆえに、この大殺戮《だいさつりく》からのがれたのである。そして、かれらの地底生活が始まった。かれらは文明的に、われらの世界から完全に絶縁《ぜつえん》されるにいたった。いかがです諸君。ご理解いただけましょうか」
+　一座の学者の顔には、前とちがって、たいへん深刻なしわがうかびあがってきた。肯定も否定もない。ただ、感にたえない面持《おももち》であった。
+「こう申せば、諸君、とうぜん、ここに一つの疑問を持たれるであろう。われわれ人間と同種の海底超人たちが、なぜ、あのようにわれわれとはちがった形体をもっているのであろうか。われわれとちがって、むしろ軟体動物にちかい肢体《したい》をもっているのはなぜか」
+　海底超人の軟体については、かれら生物学者は、一刻もはやくロロー殿下をはだかにしてみたいと願っていたのである。しかしそれには、ロロー殿下の身辺《しんぺん》をまもっている長良川博士やドン助教授などがじゃまになって、かれらの慾望は早急にはとげられない事情にあった。とにかく長良川博士のこの言葉は、学者たちをして、ロロー殿下の裸身《らしん》について、異常の好奇心を起こさせないではいなかった。
+「その説明は、次のようにつけるのがよろしいと思う」
+　と、長良川博士はテーブルのまえに上半身をのりだし、きわめて荘重《そうちょう》な口調をもって、
+「海底超人は、それ以来四千年というものを、日光をもあびず、地底でくらした。そのために、かれらの肢体は、われわれ人間とはたいへんちがったものになってきたのである。いや日光ばかりではない。かれらの形体をもっといちじるしく変化せしめたものは、実に宇宙線を遮蔽《しゃへい》して生活したことによる影響である」
+「なに、宇宙線の遮蔽！」
+　聴き手の学者たちは、思いがけなくも、長良川博士が宇宙線の影響を持ちだしたので、はっと胸をつかれたように思った。
+　宇宙線！　宇宙線！
+　宇宙線は、天涯《てんがい》から地球へも飛んでくるふかしぎの放射線である。それはＸ線の三千倍も強い放射線であって、われわれ人間は、その好むと好まざるとにかかわらず、一分間に一万五千個の宇宙線粒子にさしつらぬかれているのだ。
+　この宇宙線の粒子一個を水中にはなつと、じぶんでもって水にさからって約七百メートルをさしつらぬく力がある。
+　海底大陸では、どうか。海底大陸は、実数はまだわからぬが、天涯から飛来《ひらい》する宇宙線も、ついにとどかない区域なのである。だから海底超人は、字宙線のあじを知らないで四千年近くのながい年月を経たのである。だから地上の人類とおなじような発育をするとは考えられない。
+　長良川博士が、海底超人が異様な肢体を持つようになった原因の一つを、かれらが宇宙線を遮蔽しての四千年近くの生活に帰《き》したのは、けだし、まことに卓抜な意見だというべきである。
+「ああ、なるほど、宇宙線の遮蔽下の成長か――うむ、これは気がつかんじゃった」
+「うむ、長良川博士にたいし、われわれは心から敬意をささげずばなるまい」
+　一座の学者たちは、それまでの態度をすてて、われ勝《が》ちに席をたって、長良川博士に握手をもとめるのであった。それを見て、ドリー老助教授の喜ぶ顔ったらなかった。
+
+
+［＃３字下げ］ロロー殿下の不安［＃「ロロー殿下の不安」は中見出し］
+
+
+　長良川博士が宿舎に帰るといいだしたとき、すっかり昂奮《こうふん》したシムトン会長はじめ一座の生物学者たちは、ぜひとも博士についていって、ロロー殿下にあらためて敬意を表したいといいだした。
+　博士はロロー殿下がそういう儀礼《ぎれい》をこのまれないといって、極力《きょくりょく》これをことわったけれど、学者たちはなかなかいうことを聞かなかった。それほど彼らは、長良川博士の新学説にあおられ、大昂奮の状態にあったのである。
+　博士は、れいの大学構内の地下室にもうけられた宿舎へ帰ってきた。そして、まっさきにひとりでロロー殿下のまえに立ったのである。
+「おお、長良川博士。あなたの帰りを待っていましたよ。じつは、ぼくは急いで故国へ帰りたいのです」
+　ドン助教授の心配そうな顔が、殿下の肩ごしにあらわれた。かれはどうやら、殿下の帰国申出にたいし、博士にかわって一生けんめいになだめたが、ついに力がおよばなかったと、顔色でもって知らせているようであった。
+　長良川博士は、大きくうなずきつつ、
+「ごもっともです。わしとて、殿下の希望に早くそいたいとおもっています。しかし殿下、今はちょっと時期が早すぎると思います。もし、しいて、ご帰還になれば、きっと、英国人たちは殿下に失礼をするだろうと思って、心配でたまりません。それに第一、お乗物を用意するにしても、この土地では、すぐといってもどうにもなりません」
+　すると、ロロー殿下は、
+「乗物のことなら、心配はないのです」
+「え、なぜです。なにか乗物についてお考えがあるのですか」
+「ええ、それは心配なしです。わたしの鉄水母《てつくらげ》はいつでも身ぢかに用意されてあります」
+「えっ、鉄水母ですって」
+　鉄水母ときて、三千夫少年たちもそばへよってきた。
+「そうです。では、ごらんにいれましょうか」
+　ロロー殿下は、しずかにそういって、なにか呪文《じゅもん》のようなものをとなえはじめた。すると長良川博士たちは、なにか電気にかかりでもしたような、へんな気持におそわれた。
+（これはおかしい！）
+　と思っているうちに、部屋のゆかにしきつめられてあった煉瓦《れんが》が一メートル平方ほど、ぐらぐらとゆらぎはじめたかと思うと、やがてその煉瓦敷のところがむくむくと上にもちあがって、中から思いがけない頑丈《がんじょう》な鉄ぶたがむっくりと現われた。
+「あっ、これは」
+「おお、これは見おぼえがある。あの鉄水母の司令塔のふただが、どうしてこれが地底から……」
+　と博士たちがおどろけば、ロロー殿下は別におどろいた気色《きしょく》もなく、
+「なあに、鉄水母は、僕が呼べば、どこへでもやって来ますよ」
+　と、いった。
+　そのとき地下室の入口に待ちかねていた生物学者団が、もう待ちかねてドアをやぶり、どっと階段をかけおりてきた。
+
+
+［＃３字下げ］昂奮《こうふん》の嵐［＃「昂奮の嵐」は中見出し］
+
+
+「なにごとです。そのそうぞうしさは――」
+　長良川博士は、地下室の階段からとびこんできた生物学会の会員たちをふりかえって、しかりつけた。
+「いや、長良川博士」とひとりの会員が一同を代表してこたえた。
+「わたしたちは今、決議したところだ。海底超人の研究ぐらい、今日必要にせまられているものはない。そこで一同のさんせいにより、そこにいる海底超人のロロー殿下とやらをもらいにきたのだ。すぐわれわれに渡してくれたまえ。そのかわり、われわれは貴下《あなた》に最大の名誉を与える。その名誉というのは……」
+「いや。待ってください。ロロー殿下を渡せなどとは、とんでもない話です。考えてもわかるではありませんか。ロロー殿下は、実験用の動物ではありません。人格と自由とをもった、りっぱな人類なのですぞ」
+　長良川博士は、最大の名誉などの好餌《こうじ》につられることなく、おしよせた会員たちの暴挙《ぼうきょ》をいましめるところがあった。
+「だがねえ長良川博士。クイーン・メリー号の事件内容といい、そして博士のさっきのお話といい、われわれは一刻もはやく海底超人を研究しておかないと、今にあべこべにわれわれがせめたてられるにちがいない。われわれ人類を救うためには、ひとりのロロー殿下を解剖することぐらいは何のつみでもない。いやぎゃくに全人類より感謝されるにちがいない」
+「いやいや、なんといってもだめです。第一、このわたしが、それを承知しません」
+「きみはさかんにわれら学究《がくきゅう》の行動を阻止《そし》しようとしている。われわれは、きみにさしずされるおぼえはないのだ。そこをのきたまえ」
+　先頭に立つ代表会員の言葉に、会員たちはいっそう昂奮し、今や、ロロー殿下の前方に立ちふさがる長良川博士をおしのけても、ロロー殿下を捕らえたいという気持で一ぱいだった。
+　ロロー殿下は、まるで石像《せきぞう》のようにじっと博士のうしろに立っていた。そしてこの場のありさまに、殿下はいよいよこの地をはなれたいと思うにいたった。
+　そのとき生物学者たちは、ついに長良川博士をおしのけてどっと階段をおり、殿下をぐるっと巻いてしまった。
+　一大事と、ドン助教授や三千夫少年もとびだしたが、これまた、昂奮しきっている人々のためにはねのけられてしまった。
+
+
+［＃３字下げ］爆発点［＃「爆発点」は中見出し］
+
+
+「皆さんは、余をどうしようというのですか」
+　ロロー殿下は、やさしく一同にたいして抗議された。
+「もちろんわかっているではないか。貴下はわれわれのために貴重な研究材料である。さあ、われわれといっしょに行こう」
+「いやだ」
+　殿下はその手をふりはなした。
+「いやとは何だ。きみは、あまり強がっては損だよ。われわれの眼から見れば、きみは動物園のおりに飼ってある類人猿と大差がないのだ」
+「ぐずぐずしていると、市民がおしよせてくるぞ。かれらはクイーン・メリー号の船員や船客のうらみをはらしたいと、いきりたっているのだ。そういうらんぼうな市民たちにふみにじられたくなかったら、ここでわれわれのいうことをきいた方が賢明ですぞ」
+　学者たちは、口々にはげしい言葉をロロー殿下になげかけた。かれらは、二度と手にはいらないこのすばらしい研究材料を目の前にして、是が非でも、これを手に入れねばおかぬという決心であった。
+　ロロー殿下は、じっと直立していた。しかしその大きな球形《きゅうけい》の頭は、かすかにふるえていた。殿下の心頭に、しだいにいきどおりがのぼってきたのである。
+「地上人類たちよ。卿《きょう》らは、そんなにまでして、余を侮辱《ぶじょく》したいのか」
+「ああ。待ってください、ロロー殿下」
+　と、長良川博士の声が、学者たちの後から聞こえた。
+「おお、長良川博士。余の忍耐力は、もうすでに、役に立たなくなりました。もう、おしまいです。いや、たとえ余がこの上がまんするとしても、わが海底超人一族は、もはやがまんをしないでしょう。それもまたやむを得ぬことです」
+「いや、ロロー殿下。もうすこし、しんぼうしてください、わたしはきっと――」
+「ああ、長良川博士。せっかくですが、もうおそいです。いま余の耳には、はっきりと海底超人の怒りの声が聞こえてきました。博士には、あのさわぎが聞こえませんか。あの地響《じひび》きがきこえませぬか」
+　そういううちにロロー殿下をとりまいた学者たちの耳にも、ごーッという気味のわるい地響きと、そして怪しげなとき［＃「とき」に傍点］の声とが、入りまじって聞こえてきた。
+「ああ、なんだろう、あれは――」
+　と思っているうちに、古い煉瓦建《れんがだて》のかべが、みしみしと鳴りだした。
+「ああ、地震だ」
+　ついで、学者たちの立っている足の下が、船のようにゆれだした。さあ、たいへんである。学者たちは、さきほどの気色《きしょく》もどこへやら、その場にはいまわる者もあり、あるいは階段をかけあがる者もあった。
+　一体なにごとが起こったのであろうか？
+
+
+［＃３字下げ］土煙《つちけむり》のかなた［＃「土煙のかなた」は中見出し］
+
+
+「長良川博士。こっちへいらっしゃい。ドン助教授、三千夫君。さあ三人ともこっちへいらっしゃい」
+　ロロー殿下がさけんだ。
+　あまりの異変に、博士たちはともに気を失いかけていたところだったが、殿下の声がやっと耳にはいった。しかし大地は盛んにゆれていて、かれらはもう歩けない。
+（どうしたものか？）
+　と思っていると三人はつぎつぎに身がかるくなって、やがてふわりと下におろされた。それはロロー殿下が、博士たちをひとりひとりだきあげて、いつのまにか、その地下室のゆか上にすっかり姿をあらわしていた鉄水母の中にはこんだのであった。
+　最後に、ロロー殿下が鉄水母の司令塔の中にとびこんだ。そして重い鉄のふたが、どしんとしまった。
+　それがきっかけのように、今まで震動にたえていた古い煉瓦造りの建物は、がらがらがらと一大音響を発して崩壊した。鉄水母の上に、幾千幾万という煉瓦が、一度に滝のように落ちかかった。あわれ鉄水母も、その煉瓦の下じきになって、ぺちゃんこにひしげてしまったかと思われた。
+　すっかりくずれ落ちて、今はみにくい煉瓦の山と化したこの古い教室のあとから、ぎいぎいと怪音が聞こえると思っているうちに、その煉瓦の山が、また土煙をあげて、どっとくずれなおした。
+　すると、その中から、のそのそとはいだしてきた大きな戦車があった。いや、それは戦車ではなかった。それは、れいの怪潜水艇鉄水母であった。
+　鉄水母は、颯爽《さっそう》と大学の庭を走りだした。艇は一ヵ所としてくぼんでいるところもなかった。ひじょうにかたい外壁をもっていると見える。鉄水母は立木《たちき》をはねとばし、垣をおしたおし、スピードをあげて走りだした。
+　鉄水母は、潜水艇であると同時に、陸上をはしらせても自動車そこのけの働きをしめすのであった。
+　怪艇鉄水母は、ロロー殿下と、長良川博士、ドン助教授、三千夫少年の四名をのせて、どこへ走り去ろうというのであろうか。
+　そのころ、街上は逃げまどう群衆でたいへんなさわぎであった。
+　一体、なにごとが起こったというのであろうか。
+「あっ。来たきた。こっちにもきた」
+「それ、そっちへ逃げろ」
+「あっ、ばけものだ。わたしの子供をとっていったよ。だ、だれか助けて――」
+「ぐずぐずしちゃだめだ。早くにげないと、おまえさんもいっしょにころされてしまうよ」
+「いや、わたしは子供をうばいかえすのだ」
+　そういうさわぎのうちにも、群衆の頭の上から、煉瓦やコンクリートのかたまりが、がらがらと落ちてきた。両がわにならぶ建物は、つぎつぎとくずれおちた。もうもうたる土煙は、すっかり後方の視界をさえぎってしまった。その土煙のむこうには、何があるのかわからないが、そこからは、たえず、人々の苦悶《くもん》のうめき声と、わめきさけぶ声が聞こえた。
+　何が、その土煙のむこうにあるのだろう？　いわく、ロロー殿下をうばわれて、それを取りかえしにきた海底超人の大群！
+
+
+［＃３字下げ］大団円［＃「大団円」は中見出し］
+
+
+　突如ロンドンを襲撃した海底超人の大群は、人類にはとても想像できないくらいなはげしい破壊のあとをのこして、一時間ののちには、どこともなく姿をかきけしてしまった。
+　市民の損傷は、まだはっきりしたしらべはつかないが、たいへんなものだろうといわれる。建物や交通機関の破壊されたもの、かずをしらない。
+　しかし何よりも、ロンドン市民にあたえた大きなものは海底超人がまた襲来しはしないかという大きな恐怖心であった。
+　まったくのところ、海底超人の通過をおしとどめる如何なる武器も方法もなかった。重砲《じゅうほう》をもっていっても、爆弾をもっていっても、海底超人群はびくともしないのであった。催涙液でさえ、今回襲来の海底超人にはさっぱり役に立たなかった。さっするところ、海底超人は英国の討伐飛行隊《とうばつひこうたい》よりうけたまえの損害にこりて、こんどは防毒衣《ぼうどくい》をつくって着用していたものらしい。
+　今やロンドン市民は、すっかり後悔《こうかい》のなみだにくれている。
+「海底超人を怒らせたのが悪い。いったいだれが、海底超人をあのように怒らせたのか」
+「さあ、それはだれだろうね」
+　市民は、もうなにを考える力もなくなったというふうに見える。そしてふたりよれば、かれらはかならずこんな会話をはじめるのであった。
+「この次、海底超人はいつくるだろうか」
+「うん、今夜かも知れないということだ。シムトン博士が側近者《そっきんしゃ》にそっともらしたそうだ」
+「その話なら、ほかから聞いた。しかしシムトン博士は、あのとき煉瓦の下になって、大けがをしたのではなかったかね」
+「そういう話もある。じつは、ぼくは何も知らないんだよ。ただ、今夜、海底超人がまたくるような気がするんだ」
+　今のところその海底超人はそれっきりロンドンを訪問しない。このごろになって、市民たちはやっと恐怖から少し救われた。
+　鉄水母のゆくえは、いまだにわからない。したがって長良川博士一行の消息もまた不明である。しかしこういうことは想像ができはしないであろうか。つまり、長良川博士はふたたび、海底大陸へ行っているのである。そして怒り立つ海底超人たちを、誠意をもってなだめているのであると。
+　博士は、いつだか、こんなことをノートのはしに書き記している。
+「海底超人の恐るべき実力にたいしては、とうてい人類はその敵でない。しかし賢明なるロロー殿下の在世《ざいせい》されるかぎり、両者の衝突は未然に防止できるだろう。それは両者にとって、幸運なことといわなければならない」
+　これを読みかえしても、長良川博士がいまいかなる目標にむかって努力をしているか、大体推察できるではないか。
+　わが人類と海底超人とが、おなじ正義観念の上に立ち、たがいに愛し合って手をにぎれるのは、いつの日のことであろうか。あまり遠い日のことではないであろう。
+　ああ世紀の驚異！　ああ海底大陸！
+
+
+
+底本：「海野十三全集　第4巻　十八時の音楽浴」三一書房
+　　　1989（平成元）年7月15日第1版第1刷発行
+初出：「子供の科学」
+　　　1937（昭和12）年4月～1938（昭和13）年12月
+入力：門田裕志
+校正：成宮佐知子
+2013年1月20日作成
+2013年5月19日作成
+青空文庫作成ファイル：
+このファイルは、インターネットの図書館、青空文庫（http://www.aozora.gr.jp/）で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです。

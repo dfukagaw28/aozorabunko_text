@@ -1,33 +1,33 @@
 AU RIMBAUD
-�x�i���Y
+富永太郎
 
 -------------------------------------------------------
-�y�e�L�X�g���Ɍ����L���ɂ��āz
+【テキスト中に現れる記号について】
 
-�m���n�F���͎Ғ��@��ɊO���̐�����A�T�_�̈ʒu�̎w��
-�i��j�P�m���u�P�v�͒����o���n
+［＃］：入力者注　主に外字の説明や、傍点の位置の指定
+（例）１［＃「１」は中見出し］
 
-�k�l�F�A�N�Z���g�������ꂽ������������
-�i��j�ka`�l
-�A�N�Z���g�����ɂ��Ă̏ڍׂ͉��LURL���Q�Ƃ��Ă�������
+〔〕：アクセント分解された欧文をかこむ
+（例）〔a`〕
+アクセント分解についての詳細は下記URLを参照してください
 http://www.aozora.gr.jp/accent_separation.html
 -------------------------------------------------------
 
-�P�m���u�P�v�͒����o���n
+１［＃「１」は中見出し］
 
 Kiosque au Rimbaud
-�m�����g�݁n�gMarila�h�m�����g�ݏI���n �ka`�l la main,
+［＃横組み］“Marila”［＃横組み終わり］ 〔a`〕 la main,
 Le ciel est beau,
 Eh ! tout le sang est Pain.
 
-�Q�m���u�Q�v�͒����o���n
+２［＃「２」は中見出し］
 
-Ne voici le �kpoe`te�l,
-Mille familles dans le �kme^me�l toit
-Revoici le �kpoe`te�l :
+Ne voici le 〔poe`te〕,
+Mille familles dans le 〔me^me〕 toit
+Revoici le 〔poe`te〕 :
 On ne fait que le droit.
 
-�R�m���u�R�v�͒����o���n
+３［＃「３」は中見出し］
 
 Que Dieu le luise et le pose !
 Qu'il ne voie pas ouvrir
@@ -36,13 +36,13 @@ Parmi les flots : les martyrs !
 
 
 
-��{�F�u�x�i���Y���W�v���㎍���ɁA�v����
-�@�@�@1975�i���a50�j�N7��10�����ő�1��
-�@�@�@1984�i���a59�j�N10��1����6��
-��{�̐e�{�F�u��{�x�i���Y���W�v�������_��
-�@�@�@1971�i���a46�j�N1��
-���́F�����m��
-�Z���F��R��
-2014�N3��7���쐬
-�󕶌ɍ쐬�t�@�C���F
-���̃t�@�C���́A�C���^�[�l�b�g�̐}���فA�󕶌Ɂihttp://www.aozora.gr.jp/�j�ō���܂����B���́A�Z���A����ɂ��������̂́A�{�����e�B�A�̊F����ł��B
+底本：「富永太郎詩集」現代詩文庫、思潮社
+　　　1975（昭和50）年7月10日初版第1刷
+　　　1984（昭和59）年10月1日第6刷
+底本の親本：「定本富永太郎詩集」中央公論社
+　　　1971（昭和46）年1月
+入力：村松洋一
+校正：川山隆
+2014年3月7日作成
+青空文庫作成ファイル：
+このファイルは、インターネットの図書館、青空文庫（http://www.aozora.gr.jp/）で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです。

@@ -1,1839 +1,1839 @@
-���|��
-�����؏r�Y
+恐怖城
+佐左木俊郎
 
 -------------------------------------------------------
-�y�e�L�X�g���Ɍ����L���ɂ��āz
+【テキスト中に現れる記号について】
 
-�s�t�F���r
-�i��j�X�J�q��s�����ڂ����傤�t
+《》：ルビ
+（例）森谷牧場《もりやぼくじょう》
 
-�b�F���r�̕t��������̎n�܂����肷��L��
-�i��j�ق�̓�A�O�b���s�ԁt���炢��������
+｜：ルビの付く文字列の始まりを特定する記号
+（例）ほんの二、三｜分《ぶ》くらいだったわ
 
-�m���n�F���͎Ғ��@��ɊO���̐�����A�T�_�̈ʒu�̎w��
-�@�@�@�i�����́AJIS X 0213�̖ʋ�_�ԍ��A�܂��͒�{�̃y�[�W�ƍs���j
-�i��j���m���u�؁{���v�A4-1�n�؁s����̂��t
+［＃］：入力者注　主に外字の説明や、傍点の位置の指定
+　　　（数字は、JIS X 0213の面区点番号、または底本のページと行数）
+（例）※［＃「木＋忽」、4-1］木《たらのき》
 -------------------------------------------------------
 
-�@�@�@����
-
-�@�@�@�@�@�@�@�P
-
-�@�X�J�q��s�����ڂ����傤�t�̖��W�s�ނ����t��ւ̔��n�Ԃ͕��q��̃R���N���[�g�̖���o��ƁA�����n�т̐V���H���꒼���ɑ����Ă������B�n�Ԃɂ͐X�J�Ƃ̗ߏ�̋I�v�q�s�������t�ƁA���̍���҂̏��c�h��Y�s�܂��������낤�t�Ƃ�����Ă����B���c�h��Y���q��̗p���Ő^����s�܂��܂Ȃ��t�̎�{��֏o������̂��A�ߏ�̋I�v�q���s�X�n�܂ő����Ă����̂������B
-�@��͍E���s�����Ⴍ�����t�̐F���L���Ă����B�z�s�Ёt�͌��������炬��ƏƂ���Ă����B�H�T��䊁s�������t����̂悤�Ɍ����Ă����B
-�u῁s�܂ԁt������v
-�@�I�v�q�͔n�Ԃ̏�ɔ����F�̃p���\�����J�����B
-�u�~�����Ꮛ������������H�v
-�u��ɂȂ�Ɗ�����ł����́v
-�u�����̂͂������������ł��ˁv
-�@�����āA��l�̓p���\���̉��Őg�߂����Y�����B
-�u�ق�����A�����I�v
-�@�f�ҁs���債��t�͒����ځs�ނ��t��U��グ�Ĕn��ǂ����B�n�Ԃ͂��Ƃ��Ɨh��Ȃ��瑖�����B�h��Y�ƋI�v�q�Ƃ͂��[���Ǝ�����荇�����B
-�u�ق�����I�v
-�@�f�҂͕ڂ�U��グ�U��グ�ẮA���̎���f�ґ�̉��֎����Ă������B�����ɂ͈ꞌ�s�������傤�t�̗e�����̏e�����p���\���̉��̓�l�̂ق��֌����āA���������Ă������B�e�͔n�Ԃ̓��h�ɂ�ĂЂǂ�����Ă����B
-�u����I�@���ɍg�t���Ă����B���s�����Łt������I�v
-�@�I�v�q�̓p���\������s�ځt�߂Ȃ��猾�����B
-�u����͎R�џO�s�Ԃȁt����Ȃ����ȁH�@�R�џO�����s�ɂ�t�ł��傤�B���Ȃ�����ƍg�s�����t���Ȃ邩��v
-�@�n�Ԃ͂����āA�����ёт̒��֓����Ă������B���͂����ň�ʂ̗����t�ɂ����߂��A���͂�ꕪ�̒n�����������Ă͂��Ȃ������B�����t�̊C�I�@�΂̊C�I�@��ʂ̗����t�͗z�ɉf���ĉ΂̂悤�ɋP���Ă����B�����āA�����ۂ��ѓ��̗����ɂ͌F���s���܂����t���M�s��ԁt�������Ȃ�A�F���̊Ԃ����舗t���s���悤����t���Q�����Č������ёт͂������ɉ��Â��Ȃ��Ă������B�ÊD���F�̎��炪�؏�s���낱���傤�t�ɔ��s�ށt���o�������Ă���t���̊��A����s�݂��Ȃ�t�A�j�s����t�̊D�F�̔��A�L�������s�����͂�����΁t�A��ʂɎh�s�Ƃ��t�̂��遦�m���u�؁{���v�A4-1�n�؁s����̂��t�A��؁s����̂��t�A�����s���炩�΁t�̐ᔒ�̔��A�n�Ԃ͌���舗t���̊Ԃ��ߌ�̗z�ɋP���Ȃ���A�΂�΂�ƎU��g�≩�̗����t�𗁂тāA�����t�̓��̏���ڂ��ڂ��Ɠ]�����Ă������B
-�u�ق�����A�����I�v
-�@���͂��̉E��ɐ[���k�J�������o���āA�J��̓̏��s�Ƃǂ܂t�ёт̓A�X�t�@���g�̂悤�ɍ����A���̏��s�������t�͎̌}�������̂悤�ɉJ����Ă����B�J�̏�ɐL�т����؂̏a�F�̊��ɂ͐^���ԂȒӁs���t������ł����肵���B�n�Ԃ͂��������Ɩ��a�s�����t�݂Ȃ���A�����t�̔g�̏���ڂ��ڂ��ƒ���ł͓]����A������ł͓]�����Ă������B
-�u�������I�@�����s�܂����t����I�@�S�C�������Ă��Ă���񂾂ˁB��Ȃ�����Ȃ����B�e�ہs���܁t�͓����Ă��Ȃ��̂��H�v
-�@�f�ґ�̗e�ɋC�����āA�h��Y�͂��������Ȃ���e�Ɏ���o�����B
-�@�u�ԁI�@�e�͍��R�s��������t�Ɩ苿�����B
-�u�����I�v
-�@�h��Y�͉��ɐg���]�s����t�����B�I�v�q�����̉����ɕ��������B�n�������Ē��яオ�����B�����͉��b�s������t�����Ȋ�����āA�f�ґ䂩��U��Ԃ����B
-�u�ǂǂǁA�ǁA�ǂ������񂾁H�v
-�@�h��Y�͎v���悤�Ɍ��������Ȃ������B�ނ͎��̍�������Ȃ������B�^���Ȋ�����Ė؂̗t�̂悤�����s�ӂ�t���Ă����B
-�u������������ł����H�v
-�@�f�҂̐����͏��̂悤�ȗ��������������Đu�s���t�����B
-�u�����������������Ȃ����A�e�ۂ����߂��S�C���c�c�v
-�u�{���Ɋ�Ȃ�������B�ق�̓�A�O�b���s�ԁt���炢��������B�킽���̊z�̂Ƃ�����A�e�ۂ������ƒʂ��Ă������́A�͂�����ƕ������Ă�v
-�@�I�v�q�͗����s���߂����t�����悤�ɂ��āA�h��Y�̘e�s�킫�t�������o�����B
-�u�{���Ɋ�Ȃ�������B�ق�̂�����Ƃ̂Ƃ���ŁA���܂���͓�l�Ƃ�����ł�Ƃ��낾�����v
-�@�h��Y�̂����ɂ́A�܂������s���傤�����t�����������������Ă����B
-�u�F���o��G�߂Ȃ��񂾂���A�S�C�������ĂȂ��Ƃ��ǂ�Ȃ��Ƃ��c�c�v
-�u�F���o�邩����āA�e�ۂ̋l�܂��Ă���S�C������ȂƂ���֔�����āA��������Δ��C����悤�ɂ��Ă������Ă��Ƃ͂Ȃ���v
-�u����Ȃ킯����Ȃ������̂ł����ˁB�e�ۂ����߂Ă��炱���֒u�����̂������������񂾂���A�Ȃɂ��Ȃ���������Ă��܂��āv
-�u�����֓��������Ȃ�āc�c�v
-�u�����I�@���܂����ꂩ�疳�Łs�ނ�݁t�ƓS�C�Ȃǎ����o������ʖڂ�v
-�@�I�v�q�͖��ߓI�Ɍ������B
-�u���łƎ����o�����킯����Ȃ���ł����ˁB���ꂩ�炵�΂炭�̊Ԃ͓S�C���������ɁA�n��A��ĕ������Ă킯�ɂ͂����܂����B�Ȃɂ��낱�ꂩ��͌F�̏o��G�߂ł�����ˁv
-�@�f�҂͔��R�I�Ɍ������B
-�u�Ƃɂ����A�����֒u�����Ƃ͐�΂ɂ�����ˁB�������Ɋ�z�����܂��v
-�@�h��Y�͎��s�����t�����悤�ɉs���������B
-�u�e�ۂ͂����l�܂��ĂȂ��̂�����A�ǂ��֒u�������Ă�����Ȃ��͂Ȃ������c�c�v
-�@���R�I�Ȍ꒲�ŌJ��Ԃ��Ȃ�����A�����͗e�������Ȃ��킯�ɂ͂����Ȃ������B
-�u���ꂶ��A������ꏏ�ɂ������֒u���Ă��������v
-�@�f�҂͂������āA�e�ƈꏏ�ɒe�X�сs����̂������t�����h��Y�ɓn�����B
-�u�{���Ɋ�Ȃ�������B�����I�@���ꂩ��͋C�����Ȃ��Ƒʖڂ�v
-�@�I�v�q�͏����̗⌵���������Č������B
-�u�ق�����A�����I�v
-�@�����͕ڂ�U��グ�Ĕn��ǂ����B
-�@�����āA�n�Ԃ͂܂��A�ߌ�̗z�ɋP���Ȃ���U��g�≩�̗����t�𗁂тāA�����t�̓����ڂ��ڂ��ƒ���ł͓]����A������ł͑������B
-
-�@�@�@�@�@�@�@�Q
-
-�@�f�҂̐����͌ł��O�����s���t�ݒ��߂Ȃ���n��ǂ����B�ނ̏��̂悤�ȗ��������̂����ɂ́A�������G���S�s�Ă���������t�����s���炵�t�̂悤�ɗ���Ă���̂������B�ނ͂���������Ɨ}�����Ă����B
-�i���̋@���҂Ƃ��I�j
-�@�ނ͐S�̒��ə�s�Ԃ�t���āA�킸���ɈԂ߂��B
-�i���܂̒e�ۂ�����s���t��Ȃ�������c�c�j
-�@�Ԃ߂̌��t�̂��Ƃ��炷���ʂ̑z�O���N�s��t���Ă��āA�����͗e�Ղɒ��s������t�ߐ؂�Ȃ������B
-�i���̒e�ۂŒj�̂ق������ł��|��Ă��܂��΁A���̂ق��Ȃ񂩂ǂ��ɂ����ĂȂ����̂�����c�c�j
-�@�ނ̂����̕��Q�s�ӂ����イ�t�̉��́A���s�̌��Ɂs����t�����������āA�������Č������R���������B
-�i�悵�I�@�A�蓹���I�@�A�蓹�ŏ������ł���ɎE�s��t���Ă��܂����I�j
-�@�ނ͐S�̂����ɋ��񂾁B
-�i���̂ق����E���Ă����āA�j�̋ꂵ�ނ̂������ق����������Ėʔ����B�����������D���Ă���ɗ^�����ꂵ�݂��A����͂�����E�����Ă���̔w���킳�ꂽ���s������t�̉��{���̋����A���{���̐[�����ł����ɓ˂��Ԃ��Ă��񂾁j
-�@�����̎v���͂������Ɉ����I�ɂȂ��Ă����B�ނ̌h��Y�ƋI�v�q�Ƃɑ΂��錭�s��t�鐣�s���t�Ȃ��悤�ȕ��Q�S�́A���Q�̂��Ƃ��l���邾���ł������͈Ԃ߂���̂������B�ނ͔n�̕��ނɈρs�܂��t���āA���̍l���̂����ɖv�������B
-�i�������A�I�v�q�����Ă����ȒP�ɓS�C�Ō����E�����̂ł͖ʔ����Ȃ��B�h��Y�������������A���̏����ꂵ�߂Ă��Ȃ���΂Ȃ�Ȃ��̂��B���������A���̏�����o�����Ă��邱�ƂȂ̂�����c�c�j
-�@�ނ͂����l���āA���̔]���̋��ɐV���ȐϋɓI�ȕ��Q�̎�i��T�����B
-�i�������I�@�J���ڂ����Ĕn�Ԃ��Ђ�����Ԃ����Ƃ��B�������I�@������f�ґ䂩���э~��Ă����āA�n�Ԃ�J��֒ǂ�����ł�邱�Ƃ��B�n���J��ڂ����ċ삯����Ȃ�������A�n���������Ƃ��Ăł������炲�Ɣn�Ԃ��Ђ�����Ԃ��Ă��񂾁B���ꂾ���ł͖���Ɏ��ȂȂ������ɂ��Ă��A�J���甇�s�́t���オ���Ă���܂łɂ͌F�̂��߂ɐH���E�����ɑ���Ȃ�����c�c�j
-�@�������A�n�Ԃ͂����J�̏���߂��āA���̗����ɂ͂ӂ����ь������т������Ă����B
-�i�Ȃ����̎�i�������Ƒ����v�����Ȃ������̂��낤�H�j
-�@�ނ͂����S�̂����əꂢ�āA�n�Ԃ����łɒJ�̏���߂��Ă��邱�Ƃ��c�O�������B
-�i�A�蓹���I�@�A�蓹�ŏ��̂ق������ł��c�c�j
-�@�ނ͂����l���āA���̂悤�ȗ��������𑕂��Ȃ���n�Ԃ�ǂ��i�߂��B
-
-�@�@�@�@�@�@�@�R
-
-�@����舗t���ёт𔲂���ƁA�n�Ԃ͐A�сb���t���s����܂t�т̒���ʂ�A�J���n�тɏo�Ă������B���͂悤�₭���R�s�ւ�����t�ɂȂ��Ă����B�n�Ԃ͌y�₩�ɑ������B
-�@�ߌ�̗z�͔��n��ʂ��ޗ��F�s�͂肢��t�̌����T�s�܁t���Ă����B�ǂ��܂ł��ǂ��܂ł������F�̑哤���������A���̌s��䰁s����t�ɂ��Ă�����сs�̂��t���A�e�ɂ�Ă��炫��Ɣ���ʂɒw偁s�����t�̑��������Ă���悤�Ɍ����Ă����B�����āA�Ƃ���ǂ���ɂ͋�冋o�s�Ƃ����낱���t�����̌͗t�����������Ɛ��s���t�荇�킹�Ă����肵���B
-�@���΂炭���āA�n�Ԃ̑O���Ɉ�l�̐l�e�������������B�n�Ԃ̐i�ނɂꂵ�����ɑ傫���A�������Ɍ`�𐮂��āA���̌�p���ڋ߂��Ă����B�Ԃ��сA���̂Ă��؂�ɍڂ��Ă��铍����B�K���s���т���t�̓h���ʁs�ʂ肰���t�B�\�Z�A���̏����������B�����͂��̏��e�ɕ��C�~��s�ӂ낵���Ât�݂�����Ă����B�����āA�����͉����ɒǂ����Ă��Ă���悤�ɁA�}���ł����B
-�u����I�@�Ӂs���t�₶��Ȃ�������H�v
-�@�I�v�q�͗����オ��悤�ɂ��Č������B�h��Y������グ���B�������A�����͂Ȃ��̊��������󂯂Ă͂��Ȃ����̂̂悤�ɂ��āA�n��ǂ��i�߂��B
-�u�ق�����I�v
-�@�ڂ��ޗ��F�̋�C�̒��ɂ҂���Ɩ����B
-�u�����I�@�ӂ₶��Ȃ��H�v
-�u�����H�v
-�@�����͊ȒP�ɕЂÂ����B�ނ͎����̖��ɂ��āA�قƂ�ǖ��֐S�̂悤�ȑԓx���������B
-�u�����I�@���܂��͓ۋC�s�̂񂫁t�ˁB�����̖�����Ȃ��́H�@�����I�v
-�u��������܂��񂪁A����������̒m�������Ƃ���Ȃ��ł��v
-�u�����I�@���܂��͂��̂��돭���ςˁH�v
-�@���̂Ƃ���ɁA�����͂����Ɣw���U��Ԃ����B
-�@�h��Y���������B
-�u�ӑ�s����t���v
-�u�ӂ₾��B�ǂ��֍s���C�Ȃ̂�����H�@���̎q�́c�c�v
-�@�n�Ԃ͂��̂����ɂ��������ɋ߂��A�ӑ�̔w��ɐڋ߂��Ă������B�ӑ�͘T���s�낤�΂��t�̕����������āA����U��Ԃ�U��Ԃ葁���ɋ}�����B
-�@�������A�n�Ԃ����悢��ޏ��̌��ɐڋ߂��Ă��̉���ʂ�߂��悤�Ƃ��Ă��A�����͔n�Ԃ��s�Ɓt�߂悤�Ƃ͂��Ȃ������B
-�u�����I�@�n�Ԃ�����߂�I�@���܂��͂����Ԃ�Ɣ���Ȃ̂ˁA�����̖�����l�ŕ����Ă���̂Ɂc�c�v
-�@�I�v�q�͗⌵�ȑԓx�Ō������B�����͖����������B�ނ͖فX�Ƃ��Ĕn�Ԃ��߂������������B
-�u�ӂ�I�@���܂��͂ǂ��֍s���́H�v
-�@�I�v�q�͔n�Ԃ̏ォ�琺���������B
-�@�������A�ӑ�͘H�T�ɔn�Ԃ�����A��𕚂����܂ܓ����悤�Ƃ͂��Ȃ������B
-�u�ӂ�I�@�ǂ��֍s���C�Ȃ̂�H�@���H�v
-�@�I�v�q�͌J��Ԃ����B�������A�ӑ�͈ˑR�Ƃ��Ċ�𕚂����܂܂������B
-�u����Ȃ���Ȃ猾��Ȃ��Ă�������B���܂��A�ǂ����֓����Ă�������Ȃ̂ˁA�ӂ�I�v
-�u�Ƃɂ����A�ǂ��֍s���ɂ��Ă��n�Ԃ֏悹����ǂ��ł��v
-�@�h��Y���T�s���΁t���猾�����B
-�u�ӂ�H�@���܂��A�ǂ����֍s���C�Ȃ�s���Ă�������B�Ƃɂ����A�킽��������ԏ�܂ōs���񂾂���A�ꏏ�ɔn�Ԃւ����B���܂���ԏ�֍s���񂾂낤�H�@�ӂ�I�v
-�@�������A�ӑ�͉��ʂŘH�ʂɗ������Ȃǂ����Ă��āA����グ�悤�Ƃ͂��Ȃ������B
-�u�ӂ�I�@�}���ł���񂾂��瑁�������I�@�����I�v
-�@�I�v�q�ɂ���������āA�ӑ�͎d���Ȃ��n�Ԃ֊���Ă����B�����āA�ޏ��͊�𕚂����܂܂ŋ��̂ق��ɂ��[���ƍ������낵���B���̔ޏ��̖ڂɂ́A�܂������ς��ɗN���Ă����B
-�@���ق��������B��������𗘂����Ƃ͂��Ȃ������B�n�Ԃ���܂����܂܂������B�n�������Ƃ��ǂ��҂����҂����Ɣ���U���āA�����ɔ�т����Ƃ���墁s�͂��t��@�s�����t�����Ƃ��Ă����B
-�u�����I�@�����ڂ��肵�Ă���́H�@�}���ł���̂Ɂv
-�@���΂炭���Ă���A�I�v�q���������B
-�u�ق�����A�����I�v
-�@�ڂ��҂���Ɩ����B�n�͏K���I�ɂǂǂ��Ƃӂ����A�O�����삯�o�����B�n�Ԃ͂����āA���Ƃ��Ƃƕ��R�ȓ��𑖂��Ă������B
-�u�ӂ�I�@���܂��A�{���ɂǂ��֍s������Ȃ́H�@���H�@�ӂ�I�v
-�@�I�v�q�͂��΂炭���Ă���u�����B�������A�ӑ�͈ˑR�Ƃ��ē����Ȃ������B�I�v�q�͌J��Ԃ����B
-�u�ǂ��֍s������Ȃ́H�@�ӂ�I�@���܂��͂�����킽���ɂ������Ȃ��́H�@�ӂ�I�@���܂��́A�킽�������܂����ǂ�ȂɎv���Ă��邩���Ă��ƁA���܂��ɂ͕�����Ȃ��񂾂ˁB�˂��H�@�ӂ�I�v
-�u�������I�@����́c�c����́c�c�v
-�u�������I�@�ӂ�ɂ́A�킽�������܂����ǂ�ȂɎv���Ă��邩���Ă��Ƃ��������������Ă��Ȃ��񂾂�B�킽���͂��܂����A�����̏������Ȃ�Ďv���Ă₵�Ȃ��̂�B�����̖��������̂悤�ɂ��āA�Ȃ�ł����܂��ɂ́A���ʂɂ��Ă���̂ɁA���ꂪ���܂��ɂ͕�����Ȃ��񂾂�v
-�u�������I�@���삳�܁I�v
-�@�ӑ�͐O�������c�s�䂪�t�߂Ȃ���A�܂ɔG�s�ʁt�ꂬ�炬��ƌ����Ă���ڂ��グ���B
-�u����āH�@�����킽���̋C�����������ł��������Ă�����A�킽���ɉ��̂Ђƌ������킸�ɖق��ē����Ă������Ă��Ƃ͂Ȃ��͂�����Ȃ��́H�v
-�u���삳�܁I�@���삳�܁I�v
-�@�ӑ�͂��������Ėڂ��グ�����A�����������Ƃ����t�ɂȂ��Ă��Ȃ��炵���A�n���J�`�Ŗڂ��������ĚT�s�����t�苃�����n�߂Ă��܂����B
-�u������I�@�u���Ȃ���B�ӂ�I�@���܂���������Ȃ񂩂��āA�Ȃ�Ȃ́H�@���܂������������Ȃ������疳���ɐu�����Ƃ����񂶂�Ȃ�����A����Ȃ��Ă�������B�����A���܂��̂��Ƃ�S�z���Ă킽�������Ă�̂�B���܂�������Ȃ��Ă��A�킽���͂��������������Ă���񂾂���ǁc�c�v
-�u�ӑ�I�@���܂�����Ȗق��ĂȂ񂩏o�Ă����Ȃ��ŁA���������ł������đ��k���ďo�Ă������ق����������B�ӑ�I�v
-�@�h��Y�������猾�����B�������A�ӑ�͂�����񂻂�ɓ����͂��Ȃ������B�ޏ��͂����ڂ𕚂��āA�T�苃���Ă����B
-�u���������A�ǂ��֍s���C�Ȃ񂾂��H�@���H�@�ӑ�I�v
-�@����ɂ��A�ӑ�͂�����񓚂��͂��Ȃ������B
-�@���ق��ӂ����єn�Ԃ̏���P�����B�n�Ԃ͂��Ƃ��ƂƑ������B�ڂ��Ƃ��ǂ��҂���Ɩ����B
-
-�@�@�@�@�@�@�@�S
-
-�@�f�ґ�̐����͕ڂ�U��グ�Ă͔n��ǂ������ŁA�����̂Ђƌ������𗘂����Ƃ͂��Ȃ������B�ނ͒P�Ȃ��f�҂Ƃ��Ă̖�ڂ��ʂ����Ă��邾���������B�����ɖ��̒ӑオ���āA���̐g�̏�ɂ��Ă̑F�c�s���񂬁t���i�߂��Ă���̂ɁA�ނ͂���ɑ΂��Ă��������X���Ă͂��Ȃ��悤�ȗl�q�������B���Ȃ��Ƃ��A�����͔n�Ԃ̏�̎O�l�̐Ȃ��f�ґ�Ƃ��A�S�R�ʂ̐��E�ɂ��Ă���悤�������B
-�@�������A�����͔n�Ԃ̏�̋l��ɑ΂��āA�Ȃ��̊֐S���������Ă��Ȃ��̂ł͂Ȃ������B���̒ӑ�̚T�苃���ɐ����̐S�͗܂𗬂��Ă����B�I�v�q�̐e�؂߂����t���y�́s�����ׂt�����݂ɂ����Ă����B�J��Ԃ��Ă̋l��ɑ΂��Ă͍R�c��@�����Ă����B
-�i�ӑオ�ǂ��֍s�����Ə��肶��Ȃ����H�j
-�@�����͐S�̂����ɋ��񂾁B
-�i���l�̈ӎu�܂ł����R�ɂ��邱�Ƃ��ł�����񂩁B�ӑ�ɂ͒ӑ�̈ӎu������A����ɂ͂���̐����s���̂��t�������Ă̈ӎu������̂��B������̂킪�܂܂��A���ꂽ���̐����������Ă̈ӎu�܂ł������Ȃ��邱�Ƃ��ł�����̂��j
-�@�������������ɂƂ��āA�A�蓹�ł̌v����ʂ����̂ɂ��Ƃ����ɂ�����A���l�ɂ����Ă͋�����������B
-�i�ӑオ�X�J�̉Ƃ��o�Ă������Ƃ����̂Ȃ�A����̗͂Œӑ�𓦂����Ă�낤�B�Ȃɂ��A������̎v���ǂ���ɂȂ��Ă��Ȃ���΂Ȃ�Ȃ��Ƃ������Ƃ͂Ȃ��̂�����j
-�@�����͖فX�Ƃ��āA���̒ӑ�������ɂ��ē������Ă�邩�ɂ��čl���Â����B
-
-�@�@�@�@�@�@�@�T
-
-�@�n�Ԃ͊Ԃ��Ȃ��s�X�n�ɓ������B���������s�܂��Ԃ���ˁt�̉Ƃ����H�����̂悤�ɋ�n��u���āA�Z�ԁi���Z�E�����[�g���j���H�̗����ɏ\��A�O���قǑ����ƁA�����ɂ�����ԏꂾ�����B�n�Ԃ͉w�O�̓̏��̂Ƃ���Œ�܂����B
-�@�D�Ԃ͂������Ԃ������Ă����B
-�u�����I�@�ӂ�ɓ�����ꂿ��ʖڂ�B�킽�����߂��Ă���܂ł����ƊŎ����Ă��ĂˁB����������v
-�@�I�v�q�͂��������Ȃ���A�Ђ��Ɣn�Ԃ��~�肽�B�����āA�ޏ��͌h��Y�𑣂����Ă�悤�ɂ��Ē�ԏ�̒��֓����Ă������B
-�u�������I�v
-�@�����͂����ۂ��������B�I�v�q�ƌh��Y�Ƃ̌�p�������ƌ��l�߂Ă����ڂ���炵�āB
-�@�ӑ�͌Z�̓f���o���悤�Ȃ��̐��ɋ����āA����グ���B���̖j�s�ق��t�ɂ��|埁s�Ȃ߂����t�̔��s�́t���Ղ̂悤�ɁA�܂̐Ղ��݂������Ă����B
-�u�ӁI�@���܂��͔n���s�΂��t���Ȃ��B�n�ԂւȂ񂩏��Ȃ����悩��������˂����v
-�u�����āc�c�v
-�u���̒��ւł��A�\�킸�ǂ�ǂ�Ɠ����Ă����Ă��߂��΂悩��������˂����v
-�u��������A���삳�܂͌Z����ɁA�߂܂��Ă����ŁI�@���Ă���������v
-�u�n���I�@���܂��͂���̂��Ƃ�S�z���Ă���̂��H�@����̂悤�Ȕn���ȌZ�M�̂��ƂȂ񂩐S�z�������Ďn�܂�˂����B����̂��ƂȂ񂩐S�z���˂��ŁA���܂��̎v�����Ƃ���Ȃ�ł��ǂ�ǂ���Ⴀ�����񂾁B�����֍s�������̂Ȃ�A�����ւł��ǂ��ւł����܂��̍s�������Ƃ���֍s�����B�����A�����A���܂̂����ɓ����Ă��܂��v
-�@�����͂��������悤�Ɍ����āA�f�ґ�̏ォ����͂����񂵂��B
-�u�ł��A���삳�܂��킽���̂��Ƃ�����ȂɎv���Ă��Ă�������̂�����A�킽�������ǂ��ւ��s���Ȃ���v
-�u���܂��͔n�����Ȃ��B���܂��͂��̏��̌������Ƃ�M���Ă���̂��H�@�n�����Ȃ��B�����������̏����A�����܂��𖅂̂悤�ɂ��Ă��ꂽ���Ƃ�����񂾁H�@�l���Ă݂Ȃ��B���܂������Ă����\������Ȃ����H�@���܂������܂ł��q���ɂ��Ă������Ǝv���āA����Ȏq���̂悤�Ȑg���s�݂Ȃ�t�������Ă���񂾂낤���B�z�ꂶ�Ⴀ��܂����A�\���ɂ��Ȃ��Ă����炪����Ȑ^���s�܂ˁt������̂����̑O�ɗ����āc�c�n���Ȃ��I�@����Ȕn���Ȃ��Ƃ��Ă�����񂩁B���܂��̍D���Ȑl�������ɂ����Ȃ�A�\��˂����瓌���֍s���Ă��܂��B��������Ƃ���s�����A�����A�����A���܂̂����ɓ����Ă��܂��v
-�u�����āA���ܓ�������A�܂��Z���񂪓{�����B������ɂ��Ă���x�A���āA���ꂩ��ɂ����v
-�u����̂��ƂȂ񂩐S�z����Ȃ�����I�v
-�u�����āc�c�v
-�u���ꂶ��A�A�蓹�ɂ��̌��n�тɂ���������A���s�����t�����Ĕn�Ԃ����э~���Ƃ�����B�����Ĉ����Ԃ��΁A���傤�ǂ��̎��̋D�ԂɊԂɍ�������v
-�u����������H�v
-�u�\�����񂩁B���܂����n�Ԃ����э~��Ă��܂�����A����͔n�Ԃ��ǂ�ǂ�}�����邩��v
-�u�ł��A���삳�܂��Z����ɁA�߂܂��Ă����ŁI�@���Ă��������Ȃ�������H�v
-�u���������āA���ꂪ���܂���߂܂��Ă��ċꂵ�߂�悤�Ȃ��Ƃ�������񂩁B���܂��͂���̂Ȃ񂾁H�@�����Ă����������̏��͂���̂Ȃ񂾁H�@�S�z���Ȃ������Ă����A�\��˂�����ǂ�ǂ񓦂��Ă��܂��v
-�u�ł́A�킽�����������v
-�@�ӑ�͌��S�̕\��������āA���̏����ȐO���ł��������񂾁B�����͖��̂��̊�Ɍ�����Ȃ���A�����ڂ����Ȃ��ȂƝ��s����t�߂��B
-�@�I�v�q�������֖߂��Ă����B
-�u����I�@�悭�������Ȃ�������ˁv
-�@�I�v�q�͔��΂������Č����Ȃ���n�Ԃɏ�����B�ӑ���������ق肱�����Ă����B�����āA�ӑ�͂܂��ڂ𕚂����B�������f�ґ�ɒ������B
-�u�����I�@�ł́A�}���ŋA��܂��傤�ˁv
-�u�ق�����A�����I�v
-�@�ڂ��z���̒��ɂ҂���Ɩ����B�n�Ԃ͉��̂悤�ȓy���s���ڂ���t���グ�ē����������B�����āA�s�X�n���獂���n�т̓��ւƁA�n�Ԃ͑����Ă������B
-
-�@�@�@�@�@�@�@�U
-
-�@�n�Ԃ����n�ётɋ߂Â��ɂ�āA�����͌v������̎�i�ɂ��čl���Ȃ���΂Ȃ�Ȃ������B
-�i�n�Ԃ�J��ւЂ�����Ԃ��ċI�v�q�Ɣn�Ƃ��E���A���ꂾ���������ċA�����Ƃ�����A�����^�s�������t����ɑ���Ȃ��̂����j
-�@������l����ƁA�����͂ǂ����Ă�����������Ȃ��Ȃ��Ă���̂������B
-�@�����͍ŏ��̂����́A�����̐����������Ă��̌v����ʂ������Ǝv���Ă����̂������B�����������ĂȂ�A��l���E���Ă����Ď���������ł��܂��΂����̂�����A�@��͂�����ł��������B�������A����͍l���Ă݂�Ɣn���炵�����Ƃ������B�ނ͂������ɁA�h��Y�ƋI�v�q�Ƃ��E���Ă��܂������Ƃ��A���������͈��y�̂����ɐ����Ă����������B�ނ͂��ꂩ��Ƃ������́A�₦�����̎�i�ɂ��čl���A�܂����낢��̋@���_�s�˂�t�����B�������A�����͗e�Ղɂ��̓K���Ȏ�i���v�������Ƃ��ł��Ȃ������B�����āA�Ō�Ɏv�������̂��A�f�ґ�ɌF�̏o��G�߂�����Ƃ��������ŗe���������Ă����A�h��Y������ɑ΂���D��S���炻�̏e����낤�Ƃ���ƁA�����ɕR�s�Ђ��t���������Ă��邽�ߌh��Y�����s�킫�t�̉����т��A�I�v�q�̋����т����ƂɂȂ�v�悾�����̂�����ǁA������������s�ɏI����Ă��܂����B�����Ă���ɁA�J��֔n�Ԃ��Ђ�����Ԃ����Ƃ��v�������̂����A����ɂ��Ă��A�ނ̌v��͑����ׂ����l�����ɂ�������炸�A�܂����x��𗈂������ɂȂ��Ă����̂��B
-�i�Ȃ�Ƃ��Ȃ�Ȃ����̂��ȁH�@�I�v�q�Ɣn������J��֗��Ƃ��āA����͐����Ă��āA�����ċ^��ꂸ�Ɍh��Y�̋�シ��̂�T���猩�Ă���B���ɁA�h��Y���������@������S�Ɏ����Ƃ̂ł���悤�ȕ��@�́c�c�j
-�@�����͍l����̂������B
-�i�������I�@��������΂����񂾁I�j
-�@�����̑z�O���A�ނ̓��𗩁s�����t�ߋ����Ă������B
-�i����͖؂̎}�ֈ��������������Ƃɂ���΂����񂾁B�I�v�q���悹���܂ܔn�Ԃ͒J��ւЂ�����Ԃ��Ă����āA����͂��Ƃ���n�Ԃ��ė����Ă������Ղ̖؂̎}�ֈ����������Ă��āA���ꂩ�̒ʂ肩����̂�҂��Ă���΂����̂��j
-�@�ނ͂����l���āA�}�ɗE�C�Â��Ă����B�����ɐS���̌ۓ����������Ȃ��Ă����B�S�g�̊����͂����̍l���Ɍ������ďW�����Ă����B
-
-�@�@�@�@�@�@�@�V
-
-�@�n�Ԃ͂ӂ����ь������т̒��ɑ��荞�񂾁B
-�@�ˑR�ɎR���J�s��܂�����t���P���Ă����B�I�v�q�͘T�����Ȃ���p���\�����L���āA���̒��ɒӑ�����������ꂽ�B�������т̒�͋}�ɔ��Â��Ȃ��Ă����B���J��舗t���т̏�ɗH��ȉ��y��~�s���t�����ĂȂ���n��߂��Ă������B�n�Ԃ͉J�ɔG��A�J�ɒ@�����Ƃ����g�≩�̔G��t�𗁂тȂ���A�������т̒�𑖂����B
-�@�₪�āA�H��ȎR���J�̉������ށs�Ƃ��́t���ɂ�āA�������т̒�͂ӂ����і��邭�Ȃ��Ă����B�E���̍����󂩂�z���΂߂Ɏˁs���t�����񂾁B�ޗ��F�̗z�ȁs�Ђ��܁t�̒��ɂ������Ɛ����C��ぁs���t�ꂽ�B���؂̗t�ԁs�͂����t�ɂ΂��΂��ƎR������щ�����B�����t�̊C���^���ԂɁA���炬��Ɖ΂̂悤�ɋP���������B�����̐S���͂ǂ��ǂ��ƌ����������s�ǂ����t��ł��Ă����B
-�u����I�@�����Ԃ�ǂ����肢��̂ˁv
-�@�I�v�q�͎��؂̎}�����グ�Ȃ��猾�����B�ӑ�����̌��t�ɒނ荞�܂�Ėڂ��グ���B�G��t��@���Ȃ���A�R���͊�H���}����}�Ɉڂ���ł����B�g�≩�̔G��t�����炬��ƌߌ�̗z�ɋP���Ȃ���U�����B
-�u�����I�@����R���Ȃ́H�v
-�u�����H�v
-�@�����͋C�̂Ȃ��Ԏ��������B
-�u�����Ƃ���͎R����B�킽���ł����Ă����ˁB�����Ă݂悤������H�v
-�@�I�v�q�͂��������ĉ�����e��������B�����āA�e�X�т���e�ۂ��e�ɍ��߂��B
-�u�����I�@�n�Ԃ�������ƒ�߂Ă�B�킽�������Č��Ă�Ǝv����v
-�@�n�Ԃ���܂�ƁA�I�v�q�͔��΁s�قق��t�݂Ȃ��痧���オ���Ď���ɑ_���������B�I�v�q�̋Y�ꂾ�����B�_���͑������B
-�@�����ƋI�v�q�̗l�q���M�s�������t���Ă����ӑ�́A���̌��ɏ悶�ĕ�݂�����Ĕn�Ԃ����э~��Ă������Ƃ����B
-�u�ӑ�I�@�ʖځI�@��������I�v
-�@�I�v�q�͂��̏e�g�������Ēӑ�������������B
-�@�u�ԁI�@�e�͉��𗧂ĂĔ��C�����B�ӑ�͂�����Ɠ|�ꂽ�B
-�u������I�v
-�@�I�v�q�͂�����Əe����藎�Ƃ����B
-�u������I�v
-�@�I�v�q�̊�͎���蔒���Ȃ����B�I�v�q�͂����ǂ����Ă����̂�������Ȃ������B�ޏ��͑吺���グ�ċ������������B�������A�����Ȃ������B�ޏ��͒v�����̒ӑ�̐g�́s���炾�t�̏�ɐg�𓊂������Ďӂ肽���C�������B�������A�ޏ��ɂ͂�����ł��Ȃ������B�ޏ��͂�����Ȃ�ȂƐg�����킵���B
-�@�����̎v�������ʍ߂ɑ΂��鋰�|�Ɋ��݉Ձs�����ȁt�܂�Ȃ���A�ޏ��͖S����Ԃ̒��Ŕ��s�����t���ɂЂ��Ђ���忁s�����߁t���Ă���ӑ�̒v�����̓��̂����l�߂Ă����B
-�@���C�Ɠ����ɁA�f�ґ䂩��g�����������Ēӑ�̏�ɖڂ𗎂Ƃ��Ă��������́A���̖ڂ��グ�ċI�v�q�������B���̖ڂ�ࣁX�s�����t�Ɖ΂̂悤�ɋP���Ă����B�O����Ȃ�Ȃ������Ă����B
-�u�����s�܂����t�����I�@�ǂ����܂��傤�H�@�ǂ����܂��傤�H�v
-�@�I�v�q�͐������A�ނ̗c�����̂܂����m���u�܂����v�ɖT�_�n�����Ƃ����Ăі��ŌĂ�ŁA�悤�₭���ꂾ�����������B
-�u���������v
-�@�������A�������ǂ����Ă����̂�������Ȃ������B�ނ͂������̖ڂ�ࣁX�ƋP�����Ă����B���̖ڂɂ͂Ȃɂ�����A�����܂������̂��������B
-�u���������I�@�킽�����E���Ă��傤�����I�@���̓S�C�ł킽���������Ă��傤�����I�v
-�@�I�v�q�͂ӂ�ӂ�Ɠ|���悤�ɂ��ċ��s�����t�݁A�e������Đ����̎�ɓn�����Ƃ����B
-�u���������I�@�킽�����E���Ă�B�˂��I�@���������I�v
-�u�I�v�����I�v
-�@�����͌������B�ޏ��̗c���̂Ƃ��ɔނ��Ă�ł����Ɠ����Ăѕ��ŁA�����͋I�v�q���Ă񂾁B�������A���ꂾ���Ő����͂Ȃɂ�����Ђǂ��d���s����΁t���āA���Ƃ𑱂��邱�Ƃ��ł��Ȃ������B
-�u���������I�@�킽���������āB�˂��I�@�킽���������āB�ɂ��Ȃ��悤�ɁA�ЂƎv���Ɏ��˂�悤�ɂ킽���̐S���������Ă�v
-�@�I�v�q�͏����̂悤�ȑԓx�Ō����̂������B
-�u�I�v�����I�@�S�z���邱�Ƃ͂˂��v
-�@�����͗͋����������B
-�u�I�v�����͐̂̋I�v�����ł͂Ȃ��Ȃ��āA����Ȃ񂩂̂��Ƃ͂����n�����̂悤�Ɏv���Ă���悤�������ǂ��A����͂��܂����āc�c�v
-�u����Ȃ��ƂȂ��̂�B�킽�������āA���������̂��ƌZ���񂩉����̂悤�Ɏv���Ă���̂�v
-�u����Ȃ��Ƃ͐M���Ȃ����ǂ��A���ꂾ���́A���ꂾ���͋I�v�����̂��ƁA�̂Ɠ����悤�Ɏv���Ă���񂾁B�F�B�ňꏏ�ɗV��ł��������̂��ƂȂ񂩍l����ƁA����͋I�v���������Ȃ������Ȃ񂩂Ȃ��񂾁B�ł��Ȃ�������A���ꂾ���Ă����ǂ����֍s���Ă��܂��Ă�����������Ȃ��񂾁B�����A�I�v�����̂���߂��ɂ��āA���܂ł����܂ł��I�v���������Ă��������炱���A����͂������Ă���񂾁B���Ƃ��I�v����񂪌��������Ă��܂��Ă��A����͂�͂�I�v�����̖T�𗣂���˂��悤�ȋC������񂾁B�z��̂悤�ɂ���Ă��A���n�̂悤�Ɏv���Ă��A��͂肨��͋I�v�����̖T�ɂ������񂾁B����͂���ς�A���܂ł����܂ł��I�v�����𐶂����Ă��������񂾁B�I�v����񂪎��񂾂�����āA�ӂ������Ԃ�킯�ł�����܂����c�c�v
-�u�ł��A�킽���A�l���E�����񂾂���A�킽�����E�����̂��{�����Ǝv����B�E����Ȃ��܂ł��A�킽���A���N�����N���č��Ɍq�s�ȁt����邱�ƂȂ񂩍l����ƁA�������ĎE���ꂽ�ق���������B���������I�@�킽�����E���Ă�I�@�˂��I�v
-�@�I�v�q�͋������������ɂ��Č����̂������B
-�u���v���I�@�S�z���邱�ƂȂ񂩂˂���B�ӂ����܂��Ȃ��Ȃ������āA������ӂ̂��ƂȂ񂩋C�ɂ����₵�˂��B�ӂȂ񂩁A�L�̎q����C���Ȃ��Ȃ������������ƁA�Ȃ�ł��Ȃ��l�ԂȂ񂾂���v
-�u����Ȃ��ƂȂ���B�����m����B�����āA�^����ɒ��ׂ���̂͂킽���Ɛ�������񂾂�B��������킽���A������F���ς���Ă��܂���B��F�ł����������Ă��܂���v
-�u���v���B�s���̂������Ƃɒӂ̓z�s��t������ɏ��u�������Ă������񂾂�B���ꂩ�A�ӂ̂��Ȃ��Ȃ����̂�s�v�c����z����������A�ӂ̏��u����������Ⴀ����ł����񂾁v
-�@�����͂��������āA��{�̎莆����������o�����B
-�u����ȕ��ɏ����Ă���񂾂���c�c�v
-�@�I�v�q�Ɏ����Ȃ���A�����͂�����x�����`�s�̂��t�����񂾁B
-
-�@�Z�コ�܁B�킽���̂�������l�̌Z����B�킽���͔߂����ĂȂ�܂���B����������A���΂炭�͂��ڂɂ�����Ȃ��̂��Ǝv���܂��ƁA�킽���͔߂����ĂȂ�܂���B����ł��A�킽���͔߂����̂����炦�āA�����֏o�Ă������S���������܂����B�킽���̂�������l�̌Z������c���āA�������������֍s���̂��Ǝv���ƁA�킽���͔߂����ĂȂ�܂���B����ł��A���܂̂����ɔ߂����̂����܂񂵂āA�����֏o�Ă������ق��������Ǝv���܂�����A�킽���͌��S���Ă��܂��܂����B�Z����ɂ����͑��k���Ă���Ǝv�����̂ł����ǁA�Z����͂����Ǝ~�߂�Ǝv���܂����A�~�߂��ẮA�킽�����Z��������̂܂܈ꐶ�s�K�ɏI����Ă��܂��̂ł�����A�Z����ɂ����k���Ȃ��ŁA�킽���͈�l�Ō��S���܂����B�킽���̂��Ƃ͎��񂾂��̂Ǝv���āA�ǂ����{���Ȃ��ł��������B���̂����킽�����Z������K���ɕ�炵�Ă�����悤�ɂȂ�����A�킽���͂����Ǝ莆���o���܂��B�����āA�Z����𓌋��֌Ăт܂��B�����āA�Z����������ƍK���ɕ�炳���Ă����܂��B�킽�����Z������A���̂܂܂ł����̂ł́A�ꐶ���������čK���ɂ͂Ȃ�܂���B�Z����͈ꐶ���������ĉ��j�ł��Ȃ���΂Ȃ�܂��񂵁A�킽���͏�����������Ă��Ȃ���΂Ȃ�Ȃ��̂ł����́B�킽���͂�����l����Ɣ߂����̂ł��B�Z����ƕʂ�Ă����̂��߂����̂ł��B����ǁA����͂ق�̂�����Ƃ̊Ԃ̂��Ƃł��B��N���O�N�̂����ɂ́A�킽���͂����ƁA�Z����Ɏ莆���o���ē����ɌĂт܂��B����܂ł͑{���Ȃ��ł��������B�킽���͂ǂ��ɂ��Ă��A���������Z����̍K�����F���Ă��܂��B�킽���̂��Ƃ͎��񂾂��̂Ǝv���āA�ǂ����{���Ȃ��ł��������B�����āA�킽���������֍s�������Ƃ́A�U�߁s����ȁt���܂₨�삳�܂ɐu����Ă��A�m�炳�Ȃ��ł��������B�Z���񂾂��S�̂����Ɏv���Ă��Ă��������B�������܂₨�ꂳ�܂̐����Ă����Ƃ��̂��Ƃ��v���o������A���ꂩ��͌Z���񂪐���Ȃǂ܂Ŏ����ł��Ȃ���΂Ȃ�Ȃ����Ƃ��l����ƁA�܂��o�ĂȂ�܂���B�������܂₨�ꂳ�܂̂���ɂ��A����������΂𗧂Ă����Ǝv���܂��B����ɂ́A���̂܂܂ł����̂ł͑ʖڂ��Ǝv���܂�����A�킽���͎v���؂��ē����֍s���̂ł��B�킽���̂��Ƃ͎��񂾂��̂Ǝv���āA�ǂ������߂Ă��������B�܂��o�ď����܂��񂩂炱��ł�߂܂��B�ǂ������g�̂��؂ɂ��Ă��������B�Z����ɖ���̂��Ƃ�����ƁA�킽���͓V�ɂ��n�ɂ��A�ق�Ƃ��Ɉ�l����ɂȂ��Ă��܂��̂ł�����B�ł͂���Ȃ�B�����������̒ӑォ��B
-
-�@�����̖ڂɂ́A�܂����M���܂��N�����B�������A�ނ͂��̔߂��݂̂��߂ɂ��A�S�O�s���イ����t���Ă���ׂ��Ƃ��ł͂Ȃ������B
-�u������؋��Ƃ��Č�����Ⴀ�A������^���������₵�܂����v
-�u�ł��c�c�ł��c�c���̎��[�s�������t���c�c�v
-�u���[�Ȃ񂩁A���̒J��֓�������ł��܂��΂��������F�ɐH���Ă��܂����낤���A�F�ɐH���Ȃ������Ă��������Ⴊ�ς��邩��A���N�̎l�A�܌�����ɂȂ��ĐႪ�����Ă��甭������Ă��A�����ŒJ�֗����Ď��񂾂̂��S�C�ŎE���ꂽ�̂��A���̂���ɂ͑S�R������Ȃ��Ȃ��Ă��܂���v
-�u���������I�@�ł́A�킽���̍߂�݁s���΁t���Ă����́H�v
-�u�I�v�����ɂ͂���̋C�������A���ꂪ�I�v�������ǂ�Ȃɑz�s�����t���Ă��������Ă��ƁA������Ȃ��̂����H�v
-�u�������Ă�B���ƂȂ����ˁA���܂܂ł̂��Ƌ����Ăˁv
-�@�����͂����Ȃɂ�����Ȃ������B�ނ͖ق��Ĕn�Ԃ����э~�肽�B�����āA�������̎��̂�����グ�����Ǝv���ƁA������R�ہs��������t�֎����Ă����āA�J���ڂ����ē������񂾁B�����āA�ӑ�̎��̂͊�p�ɓ˂�������˂�������A�[���J��ւƎG���̊Ԃ�]���藎���Ă������B�ǂ����łӂ����O���A������s�����t�������B
-�m�����y�[�W�n
-
-�@�@�@����
-
-�@�@�@�@�@�@�@�P
-
-�@�X�J�q���̓@��́A�������q��̂قƂ�ǒ����̒n�_�ɂ������B�ɂ₩�ȋN�����ЂƓn��g��ł��ĉ߂��������n�т̔g�`�̒Ⴂ�u��w�ɂ��āA�Ȃ����̉��̕��q����ЂƖڂɌ����낹�钆�K�i�̈ʒu�ɁA�y��Ŏ��͂񂾉��~���\���Ă���̂������B���̎��͂ɂ͏t���s�͂�ɂ�t��R�џO�s�Ԃȁt�Ȃǂ̋���Ȏ��؂����R�̂܂܂ɔ��s���t��c����Ă��āA�ЂƓ��̔��ǂ̌��������؂̊ԂɌ����B��Ă����B�����āA���̉��~�̑O�����ԕ��i��O�E�Z���[�g���j�̐V���H���O�A�l���i��O�O���`�l�O�Z���[�g���j�̊Ԃ��A���q�n�̑������꒼���Ɋ����đ����Ă����B
-�@���ǂ̌����͓��{���z�Ȃ���m���߂��Ă��āA������̍L���I��������Ă����B�؍ނ̑����n���ł͂��邪��ɖ��������Ԃ������̂ŁA�I��̓R���N���[�g�łł��Ă����B�R���N���[�g�̊K�i�Ǝ萠�s�Ă��t��Ƃ�����A�K�i�̏オ����ɂ͑h�S�s���Ăt�⊦�e��t���s�͂��t�Ȃǂ̔����l�܂u���Ă������B
-�@�I��̒����ɂ��فs�Ƃ��t�̊ۃe�[�u�����و֎q�s�Ƃ������t�Ƃ��u����āA��l�̐X�J�b�약�s���ւ��t�͓�Ɍ����Ē��̗z�������炬��Ɗ�ɗ��сA�ߏ�̋I�v�q�͖k�������ėz����w�Ɏ󂯁A���������č������낵�Ă����B�ۃe�[�u���̏�ɂ͓�̍g���b���q�s������t���������C�𗧂ĂĂ����B�����āA�약�͍g���ɂ͎���o�����ɁA�ь�s��񂲁t�̔�𔍁s�ށt���Ă����B
-�u�r�s���Ⴍ�t���悭���܂�Ȃ��̂́A����Ⴀ�����������炾�낤�H�v
-�@�약�͗ь�̔�𔍂��Ȃ���A���΂������Ă����̂悤�ɏ�n�̘b�����Ă����B
-�u�Ȃ񂩒m��Ȃ����ǁA�킽���ʖڂ���v
-�@�I�v�q�͕��e�̊�����Ȃ��悤�ɂ��Ȃ���A���C�Ȃ��������B�ޏ��͂��ɂȂ����C���Ȃ������B�ޏ��͊ۃe�[�u���̏�̍g���ɂ�������o�����Ƃ͂��Ȃ������B�ޏ��̏����́A�V�A�O�s�r���[�h�t�̏�n���̌��������A�Ȃ�ƂȂ��₵�������B
-�u�ʖڂȂ��Ƃ�������񂩁B�n��ւ��Ă݂���ǂ����ȁH�@�Ԗ[�s�͂ȂԂ��t�Ȃ炢�����낤�H�v
-�u�킽��������n����߂��v
-�u�Ȃɂ���߂邱�ƂȂ񂩂�����̂��B���߂͂��ꂾ���Ă����v�����񂾁B�������A�����������ʂ��Ȃ����ች������B�͂�����񂶂Ⴉ��Ȃ��v
-�u�ł��A�킽���Ȃ񂩑ʖڂ���v
-�u�Ƃɂ����A�Ԗ[�œ������K���Ă݂�Ƃ����B�Ԗ[�Ȃ瓷���ׂ�����r�����܂邵���m���u���ւ�{��̂���v�A��3����1-92-34�n�s�����t���悭��邵�A�����Ƃ��܂��̋C�ɓ���Ǝv������v
-�u�킽��������n�Ȃ񂩂��������߂Ă��܂���v
-�u��߂Ă��܂��ł���������Ȃ����H�@��ԏ�֌h��Y�𑗂�Ƃ������āA���ꂩ��͔n�ԂȂǂő���Ȃ��Ŕn�ő����Ă����悤�ɂȂ�Ȃ��Ƃ������v
-�@�약�͂��������āA����ɗь��j���s�ق��΁t�����B�I�v�q�͕��e�̌��t�ɏՁs�t���ꂽ�炵���A�����Ă����ڂ��グ�ĕ��e�̊�������B�I�v�q�̂��̊�͗ӌ��s��񂱂��t�𗁂тĂł�����悤�ɕa�I�Ȃقǐ��A s��t��Ă��������B
-�u�n�ő����Ă����āA�����ċA��ɂ͌h��Y�̔n���ꏏ�ɉg�s�Ёt���ċA���悤�ɂȂ��ƂȂ��v
-�@���e�͔��΂��Ȃ���A�Y�s���t��߂������Ō����̂������B
-�@�����ցA�������̂�����ƕ��݊���Ă����B�약�͂�������ɋC�����Ėڂ�������B�I�v�q�������ɖڂ��������B���̏u�ԂɁA�I�v�q�͋}�Ɋ�F��ς��ċ��|�̕\���X�s�����t�����B
-�u�Ȃ񂩗p���H�v
-�@�약�͓˜��Ás������ǂ�t�Ɍ����āA��߂������g�����������Ɉ��݊������B
-�u�������肢���������Ƃ����������̂ł�����c�c�v
-�u�ǂ�Șb���H�v
-�@�{��悤�Ɍ����āA�약�͂����ۂ��������B�����āA��n���̏㒅�̃|�P�b�g����t���𔲂�����āA����ɉ΂�_�s�t�����B
-�u�����������؂�Ă��̂ł����ǁc�c�v
-�u���I�@�������ɂ���񂾁H�v
-�u�ӂ̓z�s��t���}�ɂǂ����֍s���₪��������ł�����A�{���ɂ����Ă��悤���Ǝv����ł����ǁc�c�v
-�u�{���Ɏd�l�̂˂��z���Ȃ��A�ق��ē����o���Ȃ�āB�ق��ē����Ă������z�Ȃ񂩑{���ɍs�����Ƃ���Ŏd��������߂��B�\���ł����Ⴀ��������˂����H�v
-�u����͂����ł����A�ł��A�����̖��ƂȂ��Ă݂�Ɓc�c�v
-�u�����I�@���܂��͂Ȃ񂾂��Ă킵�ɂЂƌ������A�s�������t�����˂��񂾁I�@�����̖�����˂����H�@�����̖��𑼐l�̉Ƃɗa���Ă����āA���������炩�ł����b�ɂȂ��Ă���Ǝv������A�ق��ē����Ă������Ƃ����̂ɌZ���邨�܂����ꌾ�̈��A�����Ȃ��Ƃ������Ƃ͂Ȃ�����Ȃ����H�v
-�u�c�c�c�c�v
-�u�ς܂Ȃ��Ƃ��\����Ȃ��Ƃ��A�Ȃ�Ƃ��Ђƌ����炢�͈��A���������Ȃ񂾂��B������ꌾ�̈��A�����˂��ŁA�����Ȃ��Ȃ�������{���ɍs�������݂��Ȃ�āA����Ȍ��������Ă�����񂩁H�@���܂��͂悭�悭���܂ꂽ�܂܂̐l�Ԃ��Ȃ��v
-�u�c�c�c�c�v
-�u���������ǂ��֍s�����̂��A���������̂��H�v
-�u�����炵����Łc�c�v
-�u�����炵���H�@���킯�߁I�@�����Ă������҂𓌋����񂾂�܂ő{���ɂ����āA�Ȃ�ɂȂ�񂾁H�@���킯�߁I�v
-�u���܂����Ȃ�A�D�y�s�����ۂ�t�̔���̂Ƃ���Ɋ���Ă���Ǝv������ł�����v
-�u�n���s�΂��t�Ȃ��I�@�����Ă���������Ȃ񂩑{���ɍs�����Ƃ˂��I�@������A���߁s�Ђ�t�O�ɃT���u���b�h�n�̔n��S���߂܂��Ă����A�����肪����̂�����v
-�u�c�c�c�c�v
-�@�����͂Ȃɂ����킸�ɏ�ڌ����Ɋ약�����āA���ꂩ�炻�̖ڂ��I�v�q�̂ق��Ɉڂ����B�I�v�q�͂͂��Ƌ����Ղ��ꂽ�B�����I�@�����s���񂱂�t�I�@���̖ڂ�ࣁX�s�����t�Ƃ��đ����Ɖ����ƂɔR���Ă����B
-�u�Ȃ�Ėڂ����₪��񂾁H�@���킯�߁I�v
-�@�약�͓{������B
-�u����Ȗڂ����Ă��˂��ŁA�����������֍s���I�@�������āA�����T���u���b�h�n�̔n���O���Ƃ��S���߂܂��Ă����I�@�����肪���Ă���߂炦��Ȃ�Č��������āA���񎞂ɂȂ��Ă��炶��e�ՂȂ�������˂�����v
-�@�����͂�����x�A�����Ɖ����ƂɔR����ڂ��グ�āA�I��̏�̕��e�Ɩ��Ƃ��������Ɂs�ɂ�t�ނ悤�ɂ��Č��Ă���A�Â��ɂ����𗣂�Ă������B
-�u���킯�߁I�v
-�@�t���̉�����Ɍ������ēf���Ȃ���A�약�͂�����x�A�����̌�납��{������B
-�@�����s���Ȃ��t��āA�Â��ɂ�������݋����Ă��������̌�p�͂Ђǂ��₵�������B
-
-�@�@�@�@�@�@�@�Q
-
-�@�I�v�q�͂�Ȃ�ȂƐg�����s�ӂ�t�킹�Ȃ���Ȃ𗧂����B
-�i����ȂɎ��s�����t����āc�c����Ȃɓ{����āc�c���̐l���������̂��Ƃ����ꂩ�Ɍ������肵����c�c�j
-�@�I�v�q�͂�����l���������őS�g���؂̗t�̂悤�ɂ�ȂȂ��̂������B�ޏ��͐S�z�ŋ����ɂ��Ȃ��Ă����B�炪�X�s�낤�t�̂悤�ɔ��������B
-�i���̐l�������킽�����������s���₱�t�𑞂�ŁA���̂��Ƃ����ꂩ�Ɍ�������A�킽���͂ǂ��Ȃ�̂��낤�H�j
-�@������l����ƁA�I�v�q�͈ꎞ�s�����Ƃ��t�������Ƃ��Ă͂����Ȃ������B
-�i�������܂͂Ȃɂ��m��Ȃ��ŁA���̐l������ȂɂЂǂ���������A�ӑ�̂��Ƃ������������肵�����ǁA���������݂�Ȃ킽���������̂�����A��������̐l�ɂ��ꂩ�֘b���ꂽ��c�c�j
-�@�I�v�q�͖��V�a�҂̂悤�ɂ��āA�������A�����Ă����҂�ǂ��悤�ȍQ���������Ŏ����̕����֓����Ă������B
-�i���̐l�������v��Ƃ����̂Ȃ�A�킽�����o���Ă����悤�B���̐l�͒ӑ��{���ɍs�����痷���~�����ƌ����Ă��邯�ǁA�{���͂����������K�v�Ȃ̂ɑ���Ȃ��B�����Ȃ�킽���łł��邱�ƂȂ̂�����A�킽�������Ă����悤�j
-�@�I�v�q�͂����S�̒��ə�s�Ԃ�t���āA�蕶�ɂ̒ꂩ�炻���ɂ��肽���̎����s���t��́s���t�ނƁA������|�P�b�g�ɓ˂�����Ŏ����̕������o���B
-�i�킽���������܂ł�����A���̐l�͂������܂̂��Ƃ͋����Ă����ɑ���Ȃ��B�������܂͂Ȃɂ��m�炸�ɂ���Ȃ��Ƃ������Ă���̂����A���̐l�͗v����ɋ����K�v�Ȃ̂�����c�c�j
-�@�I�v�q�͂����l���Ȃ���A�X�q��ڐ[�ɔ�s���ԁt���ė��납��X�Ɂs���܂�t�̂ق��ւƑ����Ă������B
-
-�@�@�@�@�@�@�@�R
-
-�@�X�ɂ̑O�ɂ͎O���̔n�������o����āA�O���̔n�ɂ͂��ꂼ��Ɓs����t���u����Ă����B�����āA�n�ɈƂ�u���Ă��܂��ƁA�����ƕ���s�ւ����t�Ə��g�s�܂����t�̎O�l�̖q�v�͖��X�ɗւɂȂ��Ă���׈���������U���s�����t�ɂ������B�����āA�����͈��сs�������t�̉Ԗ[�ɁA����͍��n�s�����t�ɁA���g�͌I�сs���肰�t�ɂ��ꂼ��ׁs�܂����t�����B
-�u�����I�@�������邩�H�v
-�@�����͓��������Ԃ�Ȃ���A�N�炩�Ɍ������B
-�u������̂ق�����������Ȃ����H�v
-�u������H�v
-�@�Ƃ���ɁA�����̔��Ԃ��Ԗ[�̓��ɓ������B�Ԗ[�͂Ƃ��Ƃ��ƌy�₩�Ɂ��m���u���ւ�{��̂���v�A��3����1-92-34�n�𓥂�ŕ��q��̂ق��֏o�Ă������B�����č��n���������B�X�ɂ̑O�ɂ��邮��Ɖ~��`���ďo���݂̓��Ă����Ō�̌I�т́A���ɂ����Ɣ��Ԃ̋����ꌂ��H����ċ}�ɂ҂�[���Ƌ삯�������B�����āA�����܂��̂����ɍ��n�𔲂��A���т̉Ԗ[�𔲂��đ������B��������č��n�����舯�т��삯�����A�O���̔n�͓y���s���ڂ���t��~�s���t�����ĂȂ���A�{�s�܂�t�̂悤�ɂȂ��ĐV���H�𑖂����B
-�@�₪�āA�{�̂悤�ɂȂ��ēy���̒��ɗ��s�����t��Ă����O���̔n�́A���H���瑐���̒��ւƈ�s���t��Ă������B
-�@�t���ƎR�џO�Ƃ��܁A�Z�{�A�����ɉe�𗎂Ƃ��ċ󍂂������Ă����B���̉��ɏ����s�������t���������Ă��āA�܁A�Z���̕��q�n������U��U�����H���Ă����B�I�тƍ��n�ƈ��т̎O���̔n�͂u���`�̎O�p�`�ɂȂ��āA���̈�c�̕��q�n���P�����B�l�Ɋ���Ă��Ȃ����q�n�͂�������āA�_�̂悤�Ɏl�U�����B
-�u�Q���s�Ȃ݂����t�����I�@�E�֓��������̈��т́c�c�v
-�@�����͂������тȂ���A����グ�ē����Ă������Ƃ���V�n�̉E��ւƁA���~��`���悤�ɂ��đ������B�����āA�O�ԁi��܁E�l���[�g���j�΂���̋����ɂ܂Œǂ��l�߂�ƁA���ɂ����Ă���׈�������Ă��̉E�΂ߌ�납�瓊���������B��J���Ă͓�����J���Ă͓����������B���т̐V�n�Q���͋����ē���������B�׈��͗e�Ղɂ�����Ȃ������B�����͉��x�������������B���̂����ɁA�׈������邭����Ƃ��̐V�n�̌����瓷�ɓ������B
-�u���������I�@�����v
-�@�����͋��тȂ���׈����������B���̏u�ԁA�����t�����׈��̉������܂ł̊Ԃ��A�n�͔���ꂽ�`�ɂȂ��ē������Ƃ��ł��Ȃ������B���̋@�ɏ悶�ĕ���͍��n���΂��A���̐V�n�Q���̍��΂߂���饁s���Ă��݁t�ɔ�т��A��ɍj���������B
-�u�I�[���C�I�v
-�@���n�͂����āA��ɍj�������ē�����낤�Ƃ���n���������s���t��悤�ɂ��ĎΖʂ��삯�������B
-�@�����͉Ԗ[�Ɂ��m���u���ւ�{��̂���v�A��3����1-92-34�n�𓥂܂��Ȃ���A�n��ō׈���ւɊ������B�����āA�׈�����J��I���ƉX�ɂ�ڂ����Đ����́A�����Ɣ��Ԃ���ꂽ�B�I�т�����ɑ������B�I�т͍ŏ��̂����͉Ԗ[�ƌ܊ԁi��チ�[�g���j�΂���̋�����ۂ��Ă������A���ɔ��Ԃ̈ꌂ���󂯂�Ƌ}�ɋ삯�����āA�Ԗ[�̉E�𔲂����Ƃ����B�Ⴂ���т̉Ԗ[�́A���������ƁA�}�Ɉꑫ���тɈڂ����B���������ƐL�΂��āA���q��̑����̒����꒼���ɑ������B�����͎�j���ɂ߂āA�Ԗ[�̑���Ɉρs�܂��t�����B�Ԗ[�͎����̂悤�ɔ�񂾁B�����͂܂�������j���ɂ߂āA�Ⴂ���Ȃ₩�ȋr�̑���Ɉς��Ȃ���A��������炸�ɓ��s���Ԃ݁t�̏�ɓ˂������Ă����B
-�u�����ƁI�v
-�@���񂾏u�ԂɁA�����͑����̏�ւǂ��Ɠ����o����Ă����B�������A�ǂ��ɂ�����s�����t�͂Ȃ������B�����N���オ���ĉԖ[�̂ق�������ƁA�Ԗ[�͑��~�s�����t�������ċN���オ�낤�Ƃ��Ȃ���N���オ�ꂸ�ɂ����B
-�u�ǂ������񂾁H�v
-�@�I�т̏��g���삯���Ȃ��猾�����B
-�u�O�r��܂����炵���v
-�u�܂������āH�v
-�u�܂����킯�ł��˂��炵�����c�c�v
-�@�����Ȃ���A�����́A��j�������ƈ������B
-�u�ق���I�@�{���I�v
-�@�Ԗ[�͋N���悤�Ɠw�߂Ȃ���A�e�ՂɋN���オ��Ȃ������B
-�u�{���I�@�ق���I�@�ǂ������񂾂��H�v
-�u��j������āA�K�s����t���؂���H�킵�Ă݂�I�v
-�@�����͏��g�̊��߂�܂܂ɁA��j������ĐK�ɉ�����B�����ĕځs�ނ��t��U��グ��ƁA�Ԗ[�͂ӂ����O�����������Ƒ��~�������āA�ڂ�H���O�ɋN���オ�����B
-�u�Ȃ�ł��˂��˂��v
-�u�������Ă݂�I�@����������������v
-�@�����͎�j�����A�ڂ�U��グ�ĉԖ[�ɔ��~��`�������B����ƉԖ[�́A�E�̑O�r�������Ƃ��āA����ɗ͂̂Ȃ��悤�ȕ������������B
-�u�ς��Ȃ��H�v
-�u�؂��L�т��񂾂�B�G�s�Ђ��t��˂����Ƃ��ɋ؂��L�т��񂾂���A�Ȃ�ł��˂��B�O�A�l�����x�܂��Ă����Ⴀ�����v
-�u�Ȃ�ł��˂����Ȃ��H�v
-�u�Ȃ�ł��˂��Ƃ��B�������A�O�A�l���͏��˂��Ȃ��B�k�l�s�ق��Ɓt���Ȃ񂩂ɏ��Ⴀ��������˂����H�v
-�u�܂��e���s���₶�t�ɓ{����Ȃ��v
-�u�B���Ă����Ⴀ��������˂����B�O�A�l���̂��Ƃ����́v
-�@�����āA���g�͂�������΋삯�������Ƃ���I�т̎�j���������߁A��������s�т����t���������т��g���āA���q��̎Ζʂ�V���H�̂ق��ւƉ���Ă������B
-�u�ǂ��������̂��H�v
-�@���Ⴊ���n�̏ォ�琺���������B����͂������Ă��邤���ɂ��A���ܕ߂܂����΂���̃T���u���b�h�n�̐V�n�Q�����v���悤�Ɏ�j�ɂ��Ȃ��̂ŁA����؂��Ă����B
-�u�Ȃ�ł��˂��B�O�r�̋؂������L�т��炵���񂾁B�ق�ŏ��˂��񂾂�v
-�u�����I�@�ق񂶂�A���̘Q�������܂����g�������Ă����B�V�n���g������˂��ŕ����Ă����ƁA�e�����܂��Ȃ񂩂��񂩌�������v
-�u���ꂳ�Ȃ��B�ق񂶂�A���̘Q�������ꂳ��z����v
-�@�����āA�����͘Q���̎�ɂ��Ă���׈��𕽌Ⴉ��󂯎�����B
-�@����͐V�n�𐳏��ɓn���Ď�y�ɂȂ�ƁA���g�ƕ���Ŕn���삯�������B�����͂��邳�����邮���ぁs���t��鐸���s��������t�ȐV�n��あ�Ȃ��悤�ɎJ�s���΁t�����΂��A�����̎Ζʂ�����Ă������B
-
-�@�@�@�@�@�@�@�S
-
-�@�I�v�q�͉X�ɂ̑O�ɗ����āA�����ƕ��q��̂ق������Ă����B
-�@��s�Ђ��t���ɕ������o�ĉX�ɂ֗��Ă݂�ƁA�����ɂ͎O�l�̖q�v���n�ɈƂ�u���Ă��āA�����ɂ����閧�̘b�����邱�Ƃ͂ł��Ȃ���������ł���B�I�v�q�͂����ɗ����Ă��āA�@��̗���̂�҂��Ă�����d�����Ȃ������B�ޏ��͂��܂ł����q��̂ق������Ă����B
-�@�I�v�q�̐S�̂����͂������Ă��邤���ɂ��A�����ĕ��a�ł͂Ȃ������B
-�i����ȕ��ɂ��Ă��邤���ɁA���̐l�͂ق��̐l�����ւ��̂��Ƃ�b���Ȃ�������H�j
-�@�I�v�q�͎����̋��ɉ��C����坁s�܂ނ��t������悤�ȋC���������B�ޏ��́A�����������X�ɂ֋A���Ă��邱�Ƃ�����Ă����B
-�i�ӑ��{���ɍs���Ƃ��������ł��̐l���ǂ����֍s���Ă��܂�����A�킽���͂ǂ�Ȃɂ��ق��Ƃ���̂Ɂc�c�j
-�@�I�v�q�͂����l���āA���������̖q�ꂩ��p�������Ƃ����̂Ȃ�ǂ�Ȃ��Ƃł����Ă�肽�������B�����āA�ޏ��͐����������X�ɂ֋A���Ă���̂�҂����B
-�i���̋������n���΁A���̐l�͂����������̖q�ꂩ�炢�Ȃ��Ȃ�̂���j
-�@�₪�ĎO���̔n�͈ꓪ�̐V�n��f�s����t���āA�X�ɂ�ڎw���ċA���Ă����B�I�v�q�͐����̉Ԗ[���^����ɋA���Ă��邱�Ƃ�������B�Ƃ��낪�A�Ԗ[�͓r���Ŗ؂̍����T�s�܂��t������������������B
-�i����I�@���̐l�͂܂��������܂��玶����̂���j
-�@�I�v�q�͎����̂��Ƃ̂悤�ɐS�z�ɂȂ����B���܂̔ޏ��ɂƂ��āA�����������邱�Ƃ���������������̂͂����Ƃ���Ȃ��Ƃ������B���낵�����Ƃ������B
-�i�킽���ǂ����悤������H�j
-�@�I�v�q�͐S���̔M���Ȃ�̂������Ȃ���A�X�ɂ̑O������q��̂ق��֏o�Ă������B
-�i�킽���͂��̐l�̐g����ɂȂ낤�B�Ԗ[�̋r��܂����̂́A�����ł͂Ȃ��A�킽�����Ƃ������Ƃɂ��悤�B�킽�����Ԗ[�ɏ���ċ삯�Ă��邤���ɁA�Ԗ[���T���ē]�񂾂̂��ƌ����΁A�������܂͎���Ȃ��ɑ���Ȃ�����B�����āA���łɋ���n���Ă��܂��΁A���̐l�͂��̖q�ꂩ��p�������Ă��܂��ɑ���Ȃ�����j
-�@�I�v�q�͂���Ȃ��Ƃ��l���Ȃ���A���q��̂ق��֏o�Ă������B
-
-�@�@�@�@�@�@�@�T
-
-�@��������������Ȃ�������Ă���Ԗ[�̑O�֖��o�悤�Ƃ���Q�����A�Ԗ[�̌��ɑ����悤�ɂƉE��Ő����Ȃ���A�X�ɂւ̓����Ȃ������B
-�u�����s�܂����t�����I�v
-�@���̏u�ԂɁA�����V�A�O�̕�����������o�Ăς��Ɨz�s�Ёt�ɋP�����B�ˑR�Ɍ����������������āA�_�o�̗����Ă����Ԗ[�͋��z�I�Ɏ������Əグ�āA�܁A�Z���قǌ�ށs���Ƃ����t�����B�����ɁA�Ԗ[�̌��ɂ����Q���͋��|�̔���ŏK���I�ɑO�֋삯�������B�Ԗ[�̐K�ƘQ���̓����Ƃ��������˂����������B�g�߂����̐K���؂��ֈꌂ���󂯂āA�Ԗ[�͏K���I�ɂۂ�ƏR��s�����t�����B���̒��S�s�Ă��Ăt���Q���̕G�ɓ������B�Q���͋����ĉԖ[�̎��͂����邮��Ƌ삯������B
-�u�ǂ������A�ǂ������I�v
-�@���Ⴊ�삯����Ă��āA�Q���̎�ɂ��Ă���׈������Ȃ��猾�����B�����͖ق��ċI�v�q�̂ق��������B�I�v�q�͂����ɋ����Ă����B
-�u�킽���������񂾂�B�킽���������̂�B�킽���̂��̕��ɋ������̂ˁv
-�@�ޏ��͐\���������悤�Ɍ����āA���݊�����B
-�u�I�v�����I�@�o�Ă�����ʖڂ���B�B��Ă��������v
-�@�����͋��񂾁B�I�v�q�͎d���Ȃ��y��̉A�։��ށs�Ƃ��́t�����B�����֏��g�������Ă����B
-�u����͂˂����H�v
-�@���g�͂����Q���̐g�́s���炾�t�𒲂ׂ��B
-�u�����I�@�G������Ă�v
-�@�Q���̕G����͐ԍ��������ǂ��ǂ��ƗN�s��t���āA���s�ЂÂ߁t�̏�ɗ���Ă����B
-�u���ǂ��؂ꂽ�񂾂ȁH�v
-�@���̏o���͂����ԂЂǂ������B�Q�����ۂ��ۂ��ƕ����ɂ�āA���̐Ղ��������ԍ����H�ʂɎc�����B
-�u�������A���ǂ��؂ꂽ�����ő債�����Ƃ͂˂��Ȃ��v
-�u�Ȃ��Ƃ��v
-�u�������A����܂�o���������ራ����ׂȂ��v
-�@���g�͎�Ɋ����Ă����@�s�Ăʂ��t��������āA�Q���̕G�𔛂낤�Ƃ����B�������A�����؂��Ă���Q���͂��̐g�߂��ɐl���񂹂悤�Ƃ͂��Ȃ������B
-�u�{���I�@�����Ă�낤�Ƃ����̂ɁI�v
-�u�Ȃ�Ƃ����āA���������~�߂˂��Ƃ����˂����낤���Ȃ��v
-�u�Ƃɂ����A�������Ⴀ�d�l���˂�����A�X�ɂ܂ŉg�������Ă������v
-�@����͘Q�����g���A�����͉Ԗ[���g���āA�X�ɂ̂ق��֕����������B�Q���̕G����͂Ђǂ��������ꂽ�B���̑��Ղɂ͐ԍ����������s���t�܂����B
-�u���킯�߁I�@�Ȃ�ĊԂ̔��������Ƃ����₪��񂾁H�@���킯�߁I�v
-�@�q���̐X�J�약���{�藧�ĂȂ��炻���֊���Ă����B
-�u�Ȃ񂾂��ĉ���Ȃǂ����₪�����񂾁H�v
-�u���삳�܂��c�c�v
-�@�����͊약�̑O�֏o��ƁA�v���悤�Ɍ��̗����Ȃ��Ȃ�̂��킾�����B
-�u�Ȃɂ����I�@�I�v�q���H�v
-�u�������𒅂āA���̓y��̂Ƃ��납��ˑR�Ɂc�c�v
-�u�����I�@�Ă߂��͂܂��R�s�����t�������肩�H�v
-�@�약�͂҂���ƁA��ɂ��Ă��������ڂ���Ԃɑł��炵���B
-�u�R�Ȃ񂩁c�c�v
-�u�R�łȂ����Ă����̂��H�v
-�u���삳�܂��c�c�v
-�u�Ȃ�ł���ȉR�������񂾁B�킵�͂����ƌ��Ă����񂾂��B���Ă������猾���̂��B�Ă߂����T�����āA�ł��]�������񂶂�˂����H�v
-�u����͉Ԗ[�̂ق��Łc�c�v
-�u�Ԗ[�H�@���ꂶ�Ⴀ�Ă߂��́c�c�����I�@�Q�����H�@�Q���ɉ�����������̂��H�@�Ȃ�Ă��Ƃ����₪��񂾁I�@���킯�߁I�v
-�@�약�͂܂��҂���ƕڂ�ł��炵���B
-�u�����I�@�Ă߂��͑�ςȂ��Ƃ��������B�Q�����H�@�킵�͌��Ⴆ�Ă����B�Ԗ[�ƘQ���Ƃ����Ⴆ�Č��Ă����B�Ȃ�Ĕn���Ȃ��Ƃ�����񂾁B�Q����߂܂�����A�Q���͐V�n������ꓪ���������ĉg���Ă���Ⴀ��������˂����B�킵�͂܂��A�������Q���ɏ���đ��点�Ă���񂾂Ǝv���Ă����񂾁B����ŁA�Q�����T�����Ǝv��������S�z���ďo�Ă����񂾁B�Ƃ��낪�A�Ȃ�Ƃ����ԁs���܁t���B�T���ē]�񂾂ǂ��납�A�R�炵�đ�؂ȑO�r�։����������Ȃ�āA����I�@�����蓖�Ă����Ȃ�����I�@�����X�ɂ։g�������Ă����āA�r�֏d�݂�������Ȃ��悤�ɗ��s�͂�t����݁s�t���āA�����Ċ�ˁs����ǁt�������Ă�Ŏ蓖�Ă�������I�v
-�u�ق�ق�A�ق�ق�ق�v
-�@����͂����Q�����X�ɂ̂ق��։g���Ă������B���g�������ɗ����Ă��Ă��d�����Ȃ��̂ŁA�Q���ɂ��Ă������Ƃ����B
-�u���g�I�@���̉Ԗ[���g�������Ă����I�v
-�@�약�͓{�����B���g�͖߂��Ă��Đ��������j��������B�����͎₵�����ɍ����ꂽ�B
-�u�����I�@�Ă߂��͂������֗����I�v
-�@�약�͂��������ĕڂ��܂����҂���ƂЂƐU��U���āA�ꉮ�̂ق��֕����������B�������b�s���Ԃ��t�������ɂ����S�O�s���イ����t���Ă����B�약�͌���U��Ԃ��āA�܂��҂���҂���ƕڂ�U��炵���B
-�u�������Ă������痈���I�v
-�@�����͎d�����Ȃ������������B
-
-�@�@�@�@�@�@�@�U
-
-�@�I�v�q�͂ǂ����Ă�����������Ȃ������B
-�i��������A��������B���̐l���������܂̑O�Ɉ��������Ă�����āA�������܂���Ђǂ�����ꂽ��A�킽���̂��̂��Ƃ������Ă��܂��₵�Ȃ�������H�j
-�@�I�v�q�͋��|�ɐg�����킵���B���܂̏ꍇ�ɐ��������̕����ֈ��������Ă�����Ď�����Ƃ������Ƃ́A�I�v�q�ɂƂ��āA�����̔ƍ߂̏ؐl���ٔ����̑O�ֈ����o����Ă����̂�������������Ƌꂵ�������B�I�v�q�͂ł��邱�ƂȂ�A�������ǂ������ĕ��̑O�֏o�������Ȃ������B�����̉ߎ��������󂯁A�����̗���ɑ���A�Ȃ�Ƃ����Đ��������点�����Ȃ������B
-�i�T���u���b�h������������̂����āA���̐l�������̂���Ȃ��Ă킽���������񂾂��́B�킽�������̎��������֏o�Ă����Ȃ�������A�ǂ̔n�����z�Ȃ񂩂��Ȃ������񂾂��́B���ǁA������������̂͂킽���Ȃ̂���j
-�@�I�v�q�̂��������C�����́A�������Ă��鏭�������l�̍߂������󂯂悤�Ƃ���C�����ɂ������Ă����B�I�v�q�͉����ɑウ�Ă��A���������̉ߎ��̐ӂ߂���Ƃ�ĕ����玶��ꂸ�ɍςނ悤�ɂ��Ă�肽�������B
-�i�����Ă���B�������܂Ɍ����Ă���B�T���u���b�h�ɉ�����������̂͂��̐l�ł͂Ȃ��񂾂��́B�킽���Ȃ񂾂��́B���ꂾ�̂ɂ��̐l������Ȃ�āA�������܂����Ђǂ���B��������̂��߂Ɍ����Ă���j
-�@�I�v�q�͂Ђǂ��V���s�����ӂ�t���Ȃ���A�ꉮ�̂ق��֋삯�������B
-
-�@�@�@�@�@�@�@�V
-
-�@�V��̍����l�p�ȕ����������B���F�̕ǂɂ͑�^�̃V�F�C�t�B���h�e�ƁA�Õ��ȑ��c�e�Ƃ̓�b���s���傤�t�̗e�����ɉ˂����Ă������B���̉��O�ɂ͒e�X�сs����̂������t���ܓB�s���ꂭ���t���炾���ƒ݁s�t�邳��Ă����B�����āA�����̋��ɂ͍���s���내��t�̒��g�̓��{�������Ă����Ă������B���ɂ͑傫�ȌF�s���܁t�̔炪�~���Ă������B���̌F�̔�𓥂݂��đ发�삪�K���X���̉��ɐ������A�����ɂ͓�s�Ȃ�t�̊ۑ�Ƙr���̈֎q���l�u����Ă������B
-�u�����ւ�����I�v
-�@�ڂł��̓�ނ̘r���֎q�������Ȃ���A�약�͓{��悤�Ɍ������B�����͐Â��ɍ������낵���B�����āA�����̋�s���܁t�̂悤�Ɍ����p�΂点�Ċ�𕚂����B
-�u�����I�@�Ă߂��͘Q������炮�炢����n���A�m���Ă��邩�H�v
-�@�약�͏���̑O�̉�]�֎q�ɂǂ�����ƍ��𐘂��Ȃ��猾�����B
-�u�c�c�c�c�v
-�@�����͐Â��Ɏ��U���������ŁA�Ȃɂ�����Ȃ������B
-�u�m��˂��H�@�������A�Ă߂������ĉ��N�ƂȂ��q��ɂ���񂾂���A�����n�������n�����炢�͒m���Ă��邾�낤�v
-�u����́c�c�v
-�u����݂�I�@�Ă߂��͘Q���������Ȕn�����Ă��Ƃ�m���Ă��āA�킵�ւ̕����s�͂炢�t���ɂ킴�Ɖ�����������񂾂낤�H�v
-�u����ȁc�c����ȁc�c�v
-�u�Ƃɂ����A�Ă߂��͒ӂ������Ă������̂��A�킵�炪�Ձs�����t�߂����炾�Ƃł��v���Ă���񂾂낤�I�@�����I�v
-�@�약�͕ڂ����Ȃ��ȂƝ��s����t�߂Ȃ��猾�����B
-�u�c�c�c�c�v
-�@�����͊�𕚂����܂܁A�����Ȃ������B
-�u�Ă߂��͂����v���Ă���񂾂ȁH�@�v���Ȃ珟��Ɏv����������B�������A�����畠������������Ē��x�����邼�B�Q���͌ܕS��Z�S�̋����ᔃ����n����˂����B�����Đ��A�O�S�~�A�q����ŁA�O��~���炢�ɂ����Ĕ����n�Ȃ񂾂��B��������䂳���āc�c�v
-�u�ł��A���񂾂Ƃ����킯����˂���ŁA���ǂ��؂ꂽ�����Ȃ�ł�����v
-�u���ǂ��؂ꂽ���������炢���Ƃ����̂��H�@���킯�߁I�v
-�@�약�͂��������ē{��Ȃ���A�{�����Ƃ��̕Ȃŕڂ��܂��҂���Ƒł��炵���B
-�u����������A���肪���ɗ�����Ă����񂾂��B��������Ă���n�ɁA���ꂪ���肪�����񂩁B��~�A���~�ƂȂ�Ⴀ�Ă߂��Ȃ񂩁A�ꐶ�����������Ăł��邩�ł��˂���������Ⴕ�߂��B������c�c�v
-�u�n�������ɓ����Ă����񂶂�ƂĂ��c�c�v
-�u�Ȃɂ��H�@�n�������ɓ����Ă����񂶂�H�@�������I�@���I�ɗ������΂ł�����Ă����̂��H�v
-�u���I�ɗ�������Ĉ������Ƃł����˂�������A���ꂾ������Ȃ��A����ɂ����āI�v
-�u���������Ă₪��񂾁B�����A�s�ւ肭�t�΂���ׂ��ׂƕ��ׂ₪���āB���������A�Ă߂���͂���̂��A�ň�����Ǝv���Ă���񂾁H�@������Y��₪���āA�킵�ɕ��������܂������Ƃ��ł���Ǝv���̂��H�v
-�u�U�߁s����ȁt�I�@�U�߂͏����v���Ⴂ�����Ă���悤�ł����ǁc�c�v
-�u�v���Ⴂ�H�@�����v���Ⴂ���H�@�Ă߂��A�Ƃɂ��������֎��˂��Ďӂ�I�v
-�@�약�͒��C�����s�����Ɓt�ōr�X���������R�����B�����͐O�����s���t��ŁA�����Ɗ약�̊�����l�߂��܂ܖق��Ă����B
-�u�ӂ�̂�����Ȃ̂��H�@�ӂ闝�R���˂��Ƃ����̂��H�@�����I�v
-�@�약�͂�����x�A�r�X���������R�����B
-�u�ӂ�̂�����Ȃ�o�Ă����I�@���̖q�ꂩ��o�āA�Ă߂��̍D���ȂƂ���ւǂ��ւł��s���I�@�����A���܂����o�Ă����I�v
-�u�͂��I�@������ł��o�Ă����܂����ˁv
-�u�����o�Ă����I�v
-�u���ꂶ�Ⴀ�ЂƂA�o�Ă�����܂��悤�ɁA�����������s�����Ă��������Ă���ł����c�c�v
-�u���H�@����Ȃ��Ƃ킵�̒m�������Ƃ��H�@�Ă߂��̂悤�Ȏ҂ɋ����o���Ă�闝�R�Ȃ񂩂���Ⴕ�˂��I�v
-�u�U�߁I�@�̂̂��Ƃ������l���Ă݂Ă��������v
-�u�Ȃɂ��I�v
-�u�U�߂́A���ꂪ�Ȃɂ��m��˂��Ǝv���Ă���̂��ˁH�v
-�u����f�s�ʁt�����₪��񂾁H�@���킯�߁I�v
-�u����͂���ł��A�U�߈�Ƃ̔閧�������Ă����ł�����Ȃ��v
-�u�閧�H�@���킯�߁I�@�Ȃ�̔閧���H�@�킵���Ёs���ǁt�����ċ����o�����悤�Ƃ����̂��H�@���̂��킯�҂߁I�v
-�@�약�͗����オ���ĕڂ�U��グ���B�����͕I�s�Ђ��t�Ŋ�����s�����t�����B�ڂ͂҂���Ƌ�ԂŖ����B
-
-�@�@�@�@�@�@�@�W
-
-�@�I�v�q�́A�΂���Ə��̏�ɂ������ꂽ�B
-�i������I�@�閧���Ȃ�āA���̐l�͂��̂��Ƃ������Ă��܂��̂���j
-�@�ޏ��͂��������ŁA�����Ȃɂ�������Ȃ��Ȃ����B
-
-�@�@�@�@�@�@�@�X
-
-�@�I�v�q�͎����̃x�b�h�̏�ŉ�������Ă���̂ɋC�������B
-�u���삳�܁I�@���삳�܁I�@���C�Â��ɂȂ�܂��āH�v
-�@�k�s�΂��t�₪�ԋ߂�����񂹂Ȃ��猾�����B�����āA���̉E�����Ȃ�Ȃ����킵�Ȃ���A�Ԏ��s��������t�炵���Ԏ��F�̉t�̂��Ȃ����I�v�q�̌��Ɋ��߂悤�Ƃ��Ă����B
-�u���삳�܁I�@�{���ɂ�������Ȃ����܂���Ɓc�c������������������オ��܂��񂩂�H�@���삳�܁I�v
-�u����I�@�k��I�@�킽���ǂ������āH�v
-�u���삳�܂͂��Ⴀ�A�Ȃɂ��������������܂���̂��悤�H�@�킽�������삳�܂ɂ����������グ�悤�Ǝv���܂��Ă����������Ă܂���܂�����A���삳�܂͂����ɓ|��Ă��炵�����̂ł������܂���v
-�u����I�@�킽���ǂ��������̂�����H�v
-�u�킽���͂܂��т����肢�����܂��āA�����ɂ����֕����グ�āA���ꂩ��͂����ɐԎ��������Ă��č����グ���̂ł����ˁv
-�u����I�@����Ԏ��Ȃ́H�@�������s�Ԃǂ�����t����Ȃ��́H�@�Ԏ��Ȃ��s����t����B�킽���A�Ԏ��D����v
-�@�I�v�q�͂��������āA�X�s�낤�t�̂悤�ɔ����A���s�����t���ɂ�Ȃ�Ȃ������Ă����������L�ׂĂ��̐Ԏ��������ƈ��݊������B
-�u���삳�܁I�@���삳�܂͂ǂ����������̂��Ⴒ�����܂��񂩁v
-�u�Ȃ�ł��Ȃ���B�ǂ��������Ȃ��̂�B�]�n�����N�������̂���v
-�u�]�n�������āA�ǂ����������Ȃ��Ɓc�c���삳�܂́A���s�䂤�ׁt����Ȃ�ƂȂ�����̐F�������āA���S�z���ł�����悤�Ȃ��l�q�ł������܂�����v
-�u�Ȃ�ł��Ȃ��̂���v
-�u�Ȃ�ł��Ȃ���΂悤�������܂����A�������S�z���ł��������܂�����A�Ȃ�ł��킽���ɑł������Ă�������܂��ȁB�킽���͂��삳�܂̂��ƂȂ�A�����s���̂��t�Ɍ����Ă����������Ǝv���Ă���̂ł������܂�����ˁv
-�u�k��A�Ȃ�ł��Ȃ��񂾂�������������֍s���ĂĂ�v
-�@�܂����̎��A���܂܂ŐX�ՂƂ��Ă����׎����畃�e�약�̌������{�鐺���A���������s�����t�܂��������������ċI�v�q�̎��S�s�����t���P���Ă����B
-�u�������I�@���������猾���I�@���̔閧�Ƃ����̂������Ă݂�I�@�����I�@�Ă߂��͂Ȃ�Ŗق��Ă���񂾁H�v
-�@���̌������ԓx�s���̂����t�́A���܂ɂ��݂͂������Ă��������Ɋ�����ꂽ�B
-�u�k��I�@�������܂��Ă�ł��Ă�B�����������܂��Ă�ł��Ă�B�����I�@�k��I�v
-�@�I�v�q�̓x�b�h�̏�ɔ��g���N�����āA���|�ɐ�s���̂́t���Ȃ��狶�I�ɋ��񂾁B
-�u���삳�܁I�@���v�ł������܂���B�킽�������T�s���΁t�ɂ��Ă���܂�����A���ĂтȂ���Ȃ��ł���낵�イ�������܂���v
-�u����k��͌����Ă���́H�@�Ăтɍs���̂�����Ȃ́H�@����Ȃ炢����A�킽���������ōs���Ă��邩�炢����v
-�@�I�v�q�͂����̉������ɂ������킸�A���I�ɋ��тȂ��甯��U�藐���ăx�b�h�����щ��肽�B
-�u���삳�܁I�@�ł͂킽�����c�c�v
-�u������I�v
-�@�ޏ��͘V�k���������s�́t����悤�ɂ��āA�h�A�̂ق��֓˂��i�񂾁B
-�m�����y�[�W�n
-
-�@�@�@��O��
-
-�@�@�@�@�@�@�@�P
-
-�@���ق��������B�약�͖ڂ��P�����Đ������Ɂs�ɂ�t�݂��A�O�����s���t�ݒ��߁A�ځs�ނ��t�̎�������Ɛ����̐g�߂��֍����L�΂��A���̎����s�����t���ɂ�Ȃ�Ȃ����s�ӂ�t�킵�Ă����B�����āA�����͘r��g�݁A�O�����ݒ��߂Ă����Ƙ�s���ށt���Ă����B���s���炵�t��s�s�͂�t�߂钾�ق��B���܂܂��ɁA�S�C�̉ΊW�s�ЂԂ��t���؂��ė��Ƃ���悤�Ƃ��Ă���悤�Ȓ��ق������B
-�@�����͂����Ƙ낢�āA���̂悤�ɍr��Q�����S�̂����ɁA�약�̋��Ɍ������ē������ׂ��A���t�̒e�ہs���܁t�𐮂��Ă���̂������B�ߋ��̉\�s���킳�t����A�ߋ��̋L������A�ނ͊약�̋��ɓ������ׂ����t�̐��X���@�֏e�̒e�X�сs����̂������t�̂悤�ɌJ��o���Ă����B�����āA�ނ͔�s�Ђ��t���Ɋ약�̂��̓��̉��ʂ���Â��̂܂܂Ɉ������s�́t���ׂ��A�܁s�߁t���������܂��Ă���̂������B
-�@�약�͂����Ɛ��������l�߂Â��A�����������������s��߁t����������A���̍ג������Ȃ₩�ȕڂ������Ă����ɂ�������悤�Ƃ��Ă���̂������B�΂̂悤�ȍV���s�����ӂ�t�������āA�약�͑��̔����̓��@��҂��\���Ă���̂������B
-�@���\�ȗ��̒��̏u�ԓI�ȐÎ�̂悤�Ȓ��ق������B���R�ɋύt�𓾂���̋@�\���A�킸���̊Ԃ��ǂ��ɂ����ꂸ�ɂ���悤�ȁA�u�ԓI�Î~��Ԃł������B�Ȃ��傫�����낵���������悤�Ƃ��āc�c�B�����ē�l�̊Ԃɂ͒��ق��������B
-
-�@�׎��̒��قɂ�A�I�v�q�͂��̐g�́s���炾�t��k�s�΂��t��̎�Ɉρs�܂��t���悤�ɂ����B�k��͋I�v�q�̌��Ɏ�������āA�x�b�h�̏�֐Â��ɐQ�������B�����āA�I�v�q�̓x�b�h�̏�ł����Ɩڂ�������A���|�̗������̐g�����삯�����Ă����B
-�i��������͂��̂��Ƃ������Ă��܂��̂���B���̔閧���������Ƃ��Ă���̂���B���̔閧���c�c�j
-�@�I�v�q�͐S�̒��ə�s�Ԃ�t�����B�ޏ��͉Q�����������s�܂��t�鋰�|�̗��̂��߂ɁA�����􂯂Ă��܂������������B�����āA�ޏ��͂����Ɩڂ���Ă���ƁA�׎��ŕ��̊약�ƑΛ��s�������t���Ă��鐳�������̌��ӂ��������������Ȃ���A���܂ɂ����яo�����Ƃ��Ă��邳�܂��͂�����ƌ�����悤�ȋC������̂������B�����āA���̌��t�����܂ɂ������̐g���֔�э���ł��āA�����̐S����Œ��s�߂���t�߂���Ɋ��ݍr�炷�悤�ȋC������̂������B�I�v�q�̐S���͔M�a���҂̂悤�ɔR���Ȃ����������B
-�i�������񂪂��̔閧�𖾂�������A�킽���͂ǂ��Ȃ�̂��낤�H�j
-�@�I�v�q�͂����v���ƁA���낵�����Ƃ̗��Ȃ������ɏ����Ă��܂������悤�ȋC������̂������B
-�@�������A�����ǂ��ɂ��Ȃ�Ȃ����Ƃ������B���̊약�Ɛ����Ƃ̑Λ��̏ꏊ�֔�яo���āA�����̌����ǁs�ӂ��t�����Ƃ̂ł��Ȃ��̂͂�����񂾂������A��������x���̌��ɂ����閧�Ƃ������t�ɑ΂��镃�̒ǋy���A���܂��琧�~���邱�Ƃ��ł��Ȃ������B�I�v�q�͂������[���Ƃ��āA���낵���������g���`���čL����̂�҂��Ă�����ق��ɂ͎d�����Ȃ������B�I�v�q�̂�����̊�]�́A���̕s�C���Ȓ��ق����ق̂܂܂ɏI����Ă��܂����Ƃ����ł������B
-
-�@���ق��s�C���̂܂܂ɑ��������ƁA�약�͏���̏�ւ�����ƕڂ𓊂��o���čr�X���������s���΂��t�ɉ΂�_�s�t���Ȃ���A�ڂ��O�p�ɂ��ē{�����B
-�u�����I�@�����I�v
-�@�������A�����͊���グ�Ȃ������B
-�u�����I�@���̔閧���Ă̂������I�v
-�@�약�͓{��Â��A�ǋy���Â����B
-�u�Ȃ񂾂��Ėق��Ă��₪��񂾁I�@�����I�@���������猾���I�v
-�@�����͂�͂����グ�Ȃ������B
-�u���������猾���I�@�閧�̉��̂ƌ����₪���āI�@�����I�@�����I�v
-�@�약�͂܂��ڂ����グ�āA����̏���҂��҂��Ƒł��Â��Ȃ��狩�񂾁B
-�u�閧�̉��̂ƌ��₠�A�n����Y�s�΂���낤�t�A�����Ƃł��v���Ă��₪��̂��H�@�Ă߂���ɈЁs���ǁt������Ăǂ��Ȃ�񂾁H�@�n����Y�߁A�����閧���H�v
-�@�약�͂����ŁA����������ł��������B
-�u���ꂶ��A�閧�Ȃ�āA�Ȃ��Ƃ�����ł����H�v
-�@�����͂����Ɗ���グ�āA���Ԃ悤�Ɍ������B
-�u�Ȃ񂾂��āI�v
-�u�l�E���̂悤�Ȃ��Ƃ����Ă��Ȃ���A����ł��Ȃɂ��閧���˂��Ȃ�āc�c�v
-�u�l�E���H�@���̖�Y�߁I�@�ق��Ă���Ꮯ��Ȃ��Ƃ�f�s�ʁt�����₪���āA���ꂪ������Ȑl�E���̂悤�Ȃ��Ƃ������H�v
-�u�����̂��܂�����̂��߂Ɏ��񂾂��A���̂��߂Ɏ��񂾂��A����炪�m��˂��Ƃł��v���Ă���̂��H�v
-�u����Ȃ��Ƃ�����Ɖ��̊֌W������񂾁H�v
-�u�֌W���˂��H�@�֌W���˂��Ǝv���Ă�Ȃ狳���Ă�炠�v
-�u�n����Y�I�@���������ɋ�������Ă����̂��H�@�Ă߂��̂��܂́A�Ă߂��̐e���s���₶�t������ł��琶���ɍ����āA���E�������񂾂��B����łĂ߂���́A�����s�Ђځt���ɂȂ��Ă��܂��Ƃ��낾�����񂾁B���̊������ɂȂ��Ă��܂��̂��A�����������ꂪ�����Ă�����Ǝv���Ă񂾁H�v
-�u���ꂶ�Ⴂ�������A�����̂��܂����E�������̂͂���Ȃ񂾁v
-�u����Ȃ��Ƃ�����ɐu�s���t�������ĕ����邩�H�v
-�u���ꂶ�ዳ���Ă�낤�B�����̂��܂́A�����܁I�@�����܂̂��߂Ɏ��E�����񂾂��v
-�u�Ȃ�ƁH�@����̂��߂Ɏ��E���������āH�v
-�@�약�͋��ق̖ڂ��Ӂs�݂́t��Ȃ��狩�񂾁B
-�u�ق��Ă����f�����₪��H�v
-�@�약�͂����āA���܂ɂ��́s���t�݂����낤�Ƃ���悤�Ȍ`�������������B�������A�����͊약�̊�Ɍ����Ă����Ɩڂ𐘂����܂܁A�g���s�݂���t�������Ȃ������B�약�͕ڂ�����āA�҂���Ƌ�������̏��ł��������������B
-�u�n����Y�߁A��Ă�ꂽ����Y��₪���āI�v
-�u��ςȉ����B���������猾�킹��Ⴀ�A���ꂱ���]�v�Ȃ����b�������񂾁v
-�u�]�v�Ȃ����b���ƁH�@�]�v�Ȃ����b���͂���˂����A�������񎞂ɂ�������b����҂��Ȃ�������A�Ă߂����q�s���₱�t�͂ǂ�ȂɂȂ��Ă������A������l���Ă݂�I�v
-�u�ӂ�I�@����Ȃ��������񂴂�ς�l���Ă��炠�B�����̐e���͉��̂��߂Ɏ��񂾂��H�@����̂��߂ɎE���ꂽ���H�@�����āA���܂͂�������Ă邽�߂ɂǂ��������H�@�Ȃ����E�������H�@����̂��߂Ɏ��E�������H�@����Ȃ��������������m���Ă��炠�B�����̐e���͉߂��Ă��̒J��֗�������ł��A���E������ł��˂��񂾁B�˂����Ƃ��ꂽ�񂾁B�����̍��Y�̂��߂ɁA�����̍��Y���₷���߂ɁA�����̐e����˂����Ƃ����z�s��t������񂾁B�����̐e���͊J���n�̏���l�����̂��߂ɁA���`�̓��𓥂����Ƃ��Ēn��̓z����J��֓˂����Ƃ��ꂽ���Ă������A����΂��肶��Ȃ��A���ꂾ���Ēm���Ă��邱�ƂȂ񂾁v
-�u�n��̂��߂ɁH�@�Ă߂��͂��ꂶ��A�Ă߂��̐e�����E�����̂����ꂾ���Ă����̂��H�v
-�@�약�͂������Ɋ�F��ς��Ȃ��狩�񂾁B
-�u�������I�v
-�@�����͉s���������ѕԂ����B
-�u����Ȕn���Ȃ��Ƃ�������񂩁H�@�Ă߂��̐e���Ƃ���Ƃ́A�Z��̂悤�ɂ��Ă����񂾂��v
-�u�Z��̂悤�ɂ��āA�قƂ�ǋ������Ƃ̂悤�ɂ��Ėq��Ɣ_��Ƃ��n�߂āA���ꂪ�����������Ă���ƁA���肪������ł͂��ꂩ��オ�闘�v�������̏���ɂȂ�˂����񂾂���ז��ɂȂ��Ă��āA���̂��߂ɂ��Ă��������ꂾ���Ēm���Ă���񂾁B���v�̕��z�̂��Ƃɂ��Ă�����������A�ꍇ�ɂ�����Ⴀ�閧�ɉB������������������˂����B�������A�����̐e���͏���l�����ɂ͖������Ă����񂾁B����l���������n����ڏZ���Ă����Ƃ��ɁA�J���ɂ��ď���l�����ɖ񑩂������Ƃ́A�����s���̂��t�Ɍ����Ă��]�s�܁t���悤�ƂȂ񂩂��Ă��Ȃ������񂾁B�J���n�̐l�����������̂��̂Ƃ��ĊJ�������Ƃ���͂����܂ł����̐l�����̂��́A�n��̍k�n�Ƃ��ĊJ�������Ƃ���͒n��̂��̂��ċ�ʂ��͂�����Ɨ��ĂĂ����񂾁B�����~�̔��˂������āA�����̖��`�ŕ����������y�n�����Ă��������ŁA���R�J���n�̐l�����̓y�n�ł���ׂ��Ƃ���܂ŏ��쐧�x�ɂ��悤�Ƃ����񂶂�˂����H�@����ɂႠ�A���֗����ď���l�����̖����ɂȂ��Đ��`�̓��𓥂�ł������Ƃ��邨���̐e�����ז��ɂȂ����񂾁B�ז��ɂȂ���������ɘA��o���ĒJ��֓˂����Ƃ��āA�߂��ė������񂾂Ƃ����E�����񂾂Ƃ��A�Ȃ�Ƃ�����Ƃ��������Ƃɂ��Ă��܂����Ă��܂����񂶂�˂����H�v
-�u�����I�@�Ă߂��͖{���ɂ����v���Ă���̂��H�v
-�@�약�͊�F��ς��āA��Ȃ�ȂƐg�̂����킹�Ȃ��狩�񂾁B
-�u�������I�v
-�@�������g�̂����킹�Ȃ��狩�񂾁B
-�u������񂳁I�@���܂̗l�q�����Ă������邱�ƂȂ񂾁H�@�J�������y�n�̔������炢�͎����̓y�n�Ƃ��Ė�s����t����͂��œ��n����͂�΂�ڏZ���Ă����l�������A�����̓y�n���Ă��̂�L�̊z�قǂ������˂��ŁA�������������ʂقǓ�V���ĊJ�������y�n�������Ă����āA�����N�v�𕥂��čk���Ă��邶��˂����H�v
-�u����n���Ȃ��Ƃ�f�����Ă���񂾁B�Ă߂��Ȃ񂩂ɕ����邱�Ƃ��H�@�n���Ȃ��I�v
-�u�����āA�����̐e��������ł��܂������ɍ��肾���ƁA����炪�q���łȂɂ�������Ȃ��Ǝv���₪���āA���܂������ɍ����Ă���̂ɕt������ł��܂����s�߂����t�ɁA���ɂ��āA�q���܂śs�܂��āc�c�v
-�u�R�s�����t�����I�v
-�u�R�Ȃ��񂩁I�@�����̂��܂͂����p���Ď��E�����񂾂��B�q���܂śs�܂��Ă����Ȃ���A�낭�ɐH�����̂����s���Ă��t��˂��ŁA���E���Ă��炨������������ĉ��ɂȂ�񂾁B����������������̂����āA��ĂĂ����Ĉ��s���t���g���Ă����肾�����̂��낤�v
-�u�Ȃ񂾂ƁH�@��Ă�ꂽ�����Y��₪���āc�c�v
-�u���������H�@�����̐e���͂����܂̍��Y�̂��߂ɐ������Ȃ����A�����Ă��܂͂����܂̐F���̂��߂ɐ������Ȃ����Ă���̂ɁA���������H�@����Ԃ����Ă����̂��H�@����ȉ��Ȃ炢�ł��Ԃ��Ă�炠�v
-�u���̔n����Y�߁I�@�ق��Ă���Ⴀ�Ƃ�ł��˂����Ƃ΂���f�����₪���āI�@�Ă߂��̂悤�ȓz�͏o�Ă����I�@�Ă߂��̂悤�ȓz�͒u���킯�ɂ����˂�����v
-�@�약�͕ڂ�����āA����̏������U�炵�Ȃ��狩�񂾁B
-�u�������o�Ă����I�v
-�u���܂̂����ɏo�Ă����I�v
-�u�o�Ă����Ƃ��v
-�@�����͊약���ɂ݂Ȃ��痧���オ�����B
-�u�����o�Ă����I�v
-�u�o�Ă����Ƃ��I�@���̑���߁X�̂����ɉ���Ԃ��ɗ��邩��A�Y��˂��ł���A湐e��s�ނ��Ȃ��₶�t�߁I�v
-�@�����͊약���ɂ݂��Ȃ���A�̉Ȕ��s���Ă���Ӂt�����ĕ������o�Ă������B
-
-�@�׎��̌�����ू��ɂ��[���Ǝ��𗧂ĂĂ����I�v�q�́A�������o�Ă����Ƌ}���Ńx�b�h�����肽�B�����āA�I�v�q�͎����̗p�\�y�s�悤���񂷁t�̈��o���̒ꂩ�炻���ɂ���������̎�����͂ݏo���āA�����m���̃|�P�b�g�ɉ������݂Ȃ��畔�����o�Ă������B
-�@�I�v�q�͗���ɏo�āA���V�a�҂̂悤�ɂӂ�ӂ�Ǝ��͂ɋC��z��Ȃ���X�Ɂs���܂�t�̂ق��܂ŕ����Ă��������A�����������͂����ǂ��ɂ������Ȃ������B�I�v�q�͂܂�����������������B
-�@�X�ɂ͓�������ĎO�����O��ɂȂ��Ă���̂ł��������A���̈�ԑO�̓��[�̈�s�͖q�v�����̂��߂̍��h�����ɂȂ��Ă����B�����̎p�����������I�v�q�͑��l�ځs�ЂƂ߁t�𓐂ނ悤�ɂ��āA���̍��h�����̑O�֕��݊���Ă������B���h�����ɂ͂������A�����̓����Ă���炵���C�z�͂Ȃ��A�d���˂��ł��܂��Ă����B
-�u�����s�܂����t�����I�v
-�@�I�v�q�͂���ł��A���͂ɋC��z��悤�ɂ��Ȃ�����ᐺ�s�������t�ɂ����Ă񂾁B�������A���̕����̒�����͕����̋C�z�������Ă��Ȃ������B�I�v�q�͂��̏d���˂����l�߂āA�����Ƃ����ɗ����s�����Ă�����d�����Ȃ������B
-�u���������I�@���������I�v
-�@�I�v�q�͂��̏d���˂��y���@�s�����t���Ȃ���A�J��Ԃ����B�������A�ޏ��͂�͂艽�̋C�z�����󂯎�邱�Ƃ͂ł��Ȃ������B�I�v�q�͂����ǂ����Ă�����������Ȃ������B�ޏ��͋��낵���閧�̂������ɍL����̂������Ƃ��̖ڂ̑O�Ɍ��l�߂Ȃ���A���t�𕕂����A�葫�̎��R��D���Ă���悤�Ȏ����������ɂ܂��܂��Ɗ����Ȃ��ł͂����Ȃ������B�ޏ��͂܂������A�����Ƃ��Ă͂����Ȃ��悤�ȋC�����������B���s��t�鐣�s���t�̂Ȃ��C�����ŁA�ޏ��͎����Ƃ������̂�Ђ��[��������z�s�ނ��t���Ă��܂������قǂ������B�ޏ��̐S���͍��s�Ђǁt���ɂ�ł��Ă����B
-�u���������I�@���������I�v
-�@�I�v�q�͌��鐣�Ȃ��Ȃ��āA�����̐S���������z��悤�ȋC�����̒��ŁA����ɂ����J��Ԃ����B�����̒�����́A�ˑR�Ƃ��ĉ��̔������Ȃ������B�I�v�q�͂��������ɂ����Ɨ����s�����āA���̋C�����ɑς��Ă��邱�Ƃ͂ł��Ȃ������B�ޏ��͑S�g���������s���t�ނ悤�ȔY�܂���������āA�Â��ɂ���������o�����B�����āA�ޏ��͐S�������肶��ƏĂ�ࣁs�����t��Ă���悤�Ɋ����Ȃ���A�X�ɂ̉����ӂ����ї���̂ق��ֈ����Ԃ��Ă������B
-�u������I�v
-�@�I�v�q�͋����̐����グ�āA��O�b�X�Ɂs���イ����t�̑O�ɑ����~�߂��B
-�u���������I�@�����ɂ����́H�v
-�@�I�v�q�͊�т̂��܂�A�����̑O�܂łЂ�Ђ�Ɣ�Ԃ悤�Ȋ��D�s���������t�����ċߊ�����B
-�u�����Ă�́H�v
-�@�I�v�q�͐����̊��`�s�̂��t�����ނ悤�ɂ��Č������B
-�@�������A�����͖ق�Â��Ă����B�����āA�ނ͖ق�Â��Ȃ���z�ˁs�Ђ��t���̂ق��ɔw�������āA��O�X�ɂ̒����̒��ɂ����Ă��钷���j���A���q�n�ߊl�p�̒����j���A�����̐g�̂ɂ��邮��Ɗ������Ă����B
-�u���������I�@�����Ă�́H�v
-�@�I�v�q�͉��b�s������t�����ɁA��������s�ȁt��Ȃꂵ���J��Ԃ��Đu�����B�����͈ˑR�Ƃ��ē����Ȃ������B�ނ͖ق�Â��Ȃ���A��͂肻�̒����j�������̐g�̂ւ��邮��Ɗ�������̂������B
-�u���������I�@���Ȃ��͂ǂ����֍s������Ȃ́H�v
-�@�I�v�q�͋��邨����A�����A�������Â���悤�ɂ��āA�����̊��`�����ނ悤�ɂ����B
-�u�S�z���Ȃ��ł������v
-�@�����͏��߂Ă��ꂾ�����ڂ���ƌ������B�����āA�܂����̒����j���ق����Ă͊����A�ق����Ă͎����̐g�̂Ɋ��������B�������A�I�v�q�͐����̌��t�𕷂��Ăق��Ƃ����B
-�u��������́H�@���̍j�ŁH�v
-�u�I�v�����������ڂɑ��킹��悤�Ȃ��Ƃ͂��Ȃ�����v
-�u�ǂ����֍s���́H�v
-�u����Ⴀ�s�����v
-�u�ǂ����֍s���āA�ł��A����Ƃ����Ȃ���v
-�u���������āc�c�v
-�u��������炩�����Ă���́H�v
-�u�����H�@����Ȃ��̂˂���v
-�@�����͏��߂Ċ���グ�Č������B�ނ̊�͐��s�����t���܂łɐ��������B�����āA���̖ڂ͐��̂悤�������Ă����B
-�u�I�v�����I�@�I�v�����͈��S���Ă��Ă����B���ꂪ�������������󂯂邩��v
-�u�ǂ����֍s����Ȃ�A�{���ɍ���Ƃ����Ȃ���v
-�@�I�v�q�͂��������Ȃ���A�m���̃|�P�b�g�ɝ��s�ˁt������ł������������̎�����͂ݏo���āA����𐳏��̗m���̃|�P�b�g�ɉ������񂾁B
-�u�����H�@���͂͂́c�c�v
-�@�����͐Â��ɁA�������s�C���ɔ��΁s�قق��t�񂾁B
-�u����A���Ȃ񂩂���Ȃ��v
-�@�ނ͂������������A�������A�����͂ݏo���ĕԂ����Ƃ͂��Ȃ������B�����Ĕނ͂����A���̒����j�������̐g�̂Ɋ�������̂������B
-�u�ǂ����֍s����Ȃ�c�c�v
-�@�I�v�q�͐��������b�����Ɍ��l�߂Ȃ��猾�����B
-�u�I�v�����I�@����A�I�v������{���ɑz�s�����t���Ă���񂾂���A�I�v���������点��悤�Ȃ��Ƃ͌����Č���˂�����A���S���Ă���B����͌h��Y���������ƋI�v������z���Ă���̂�����B�q���̎����ɁA�ꏏ�ɗV��ł����Ƃ��̂��Ƃ��v���ƁA����I�v�����������ڂɑ��킹��悤�Ȃ��Ƃ͌����Č����˂��B���S���Ă���v
-�@�����͂��������āA�Â��ɔ��΂񂾁B�I�v�q�͐g�̂�Ⰱs�����t���S���ɂ񂾂悤�ȋC�����Ȃ���A�ڂ��M���Ȃ��Ă��ĂȂɂ��������Ƃ��ł��Ȃ������B�����͔��΂݂Ȃ���J��Ԃ����B
-�u�{���ɂȂɂ��S�z���Ȃ��Ă����v
-�u�ǂ����֍s���č�������A���ł��킽���������𑗂��Ă������v
-�u���Ȃ񂩂���Ȃ���v
-�@�����͂��������āA���̒����j��g�̂Ɋ��������܂܁A�Â��ɂ���������o�����B
-�u���������I�@�ǂ��֍s���́H�v
-�@�I�v�q�͉��b�����ɐu�����B
-�u�S�z���Ȃ��Ă������v
-�@�����͐U����������Ȃ��ŕ����Ă������B
-�u����Ȃ��̂��������āB�ł��A�ǂ��֍s������Ȃ́H�v
-�@�����͂����Ԏ������Ȃ������B�ނ̓Y�{���̃|�P�b�g�ɗ����˂�����ŁA�X�ɂ̉�������q��̎G���̒��ւƁA�Â��ɕ��ݏ����Ă������B
-
-�@�@�@�@�@�@�@�Q
-
-�@舗t���s���悤����t�̌����т͍g�s�����t�≩�̗t�ɗz���˂��āA���̂悤�ɋP���Ă����B
-�@�����͗z�ɂ��炫��ƋP���Ȃ���U��g�≩�̗����t�𗁂тȂ���A�j��g�̂Ɋ��������܂܌F���M�s���܂�����ԁt�̒���������B�ނ̂��̑����ɋ����āA���̒n�����L�̎R�����}����}�ւƁA����̉H���s�͂΂��t����ł��Ȃ���Q����Ȃ��Ĕ�񂾁B�����R�e�s��܂������t���E�n�s���ڂ��t�֌����ğ{�s�܂�t�̂悤�ɓ]�����Ă������肵���B
-�@���΂炭���Ă���A�����͓��̂ق��֏o���B�������A����̐Ղ͂��Ƃ��Ƃ������t�ɖ��ߐs������āA�������炬��Ɖ΂̊C�̂悤�ɗz�̌��ɔR���P���Ă��邾���ŁA�L�̊z�قǂ̒n�ʂ��c���Ă͂��Ȃ������B
-�@�������A�����ɂ͈�̖ڕW���������B���؂̒n���̈ÊD�F�̊��ɁA�^���ԂȒӁs���t����ʂɗ��݂��Ă���̂ł������B�����āA�͂邩�̒J��ɂ͈×ΐF�̓̏��s�Ƃǂ܂t�ёт��L����A���̏��s�������t�͎̌}�������̂悤�ɉJ����Ă���̂������B
-�@�����͊R�ہs��������t�̈�{�̊��Ɏ����̐g�̂Ɋ������Ă���j�̒[�����т��A�g�≩�̗����t�ɖ�����Ȃ���J��ւƉ���Ă������B�j�ɒ͂܂�A��p���؁s����ڂ��t�ɑ��������āA���͂ɋ��ނ���̂�T��Ȃ���J��֒J��ւƉ���Ă������B
-�@�������A�����̒n�`�͊R�̏�̓�����̑z���Ƃ́A�قƂ�ǈ���Ă���̂������B�����猩���̂ł́A���̊R�͓��[���炷���J��܂łقƂ�ǈ꒼���I�ɂ����Ɗ�ǂɂȂ��Ă���悤�Ɍ�����̂����A�R�ۂ���Z�A���Ԃ����ւ����ƁA�����ɂ͂k�̎��`�̊₪�˂��o�Ă��ĎG�����΂�A��؂��L�сA�����t�ɖ�����Ă���̂������B�����͎v�������ʑ����s�������܁t��𓾂��B�v�������ʐ��E�𔭌������B�����ē����ɁA�e�Ղɂ����Œӑ�̎��̂𔭌������̂������B�ނ͂������ĕ��C�s�������t�Ɏ��ꂽ�B
-�@�����͂��̎��̂�O�ɂ��Ă��΂炭�����s�������B���ꂩ��ނ́A�����t�ɖ��߂�ꂩ���Ă��邻�̎��̂Ɏ�������āA�O�̎p�����甼���قǂ��N���Ԃ炵�Ă݂��B���̂ɂ͕ʂɁA��p�ł̎C�ߏ��Ƃ����悤�Ȃ��̂͂Ȃ������B������e���s�킫�΂�t�ɂ����āA�o���̂��߂ɒ������ׂƂׂƂɂȂ��Ă��邾���ł������B�ނ͂���ɁA�r��r�𐸍ׂɒ��ׂĂ݂��B��͂�A�r��r�ɂ��C�ߏ��͂Ȃ������B���������̘H�ォ�瓊�����񂾂܂܂ǂ��̊�p�ɂ��˂������炸�ɁA���ڂ��̂k�̎��`�̊�̏�̎G���̏�ɗ������̂ɑ���Ȃ������B
-�@���ꂩ�琳���́A���̎��̂̓��֎����̐g�̂Ɋ������Ă���j�̈�[�����т��Ă����āA����Ă����Ƃ��̍j�ɒ͂܂��Ċݕǂ�o���Ă������B�����āA�R�̏�ɓo�蒅���ƁA���̑O��𒍈Ӑ[�������B�������A���i���炠�܂�l�ʂ�̂Ȃ����̓��ɂ́A�[�z�ɂ��炬��ƋP���Ȃ���A�g�≩�̗t���΂�΂�Ɨ����t�̊C�̏�ɎU���Ă��邾���ł������B
-�@�����͍j����J�����B�ނ̏��s�Ă̂Ђ�t�̔炪���s�ށt���Ă��܂��قǂ̏d���������ďa��Ȃ���A�ӑ�̎��̂͊R�̏�ɗg�����Ă����B�����͂���ƁA���̎��̂�f���������S����舗t���̌����т̉��[���삯����ł������B
-�@�����āA�ނ͂����̌F���M�̒��ɒӑ�̎��̂��B���A��̔���̂������Ƒ҂����B
-
-�@�@�@�@�@�@�@�R
-
-�@�I�v�q�͗e�Ղɖ���Ȃ������B
-�@�ޏ��̎��̒�ɂ́A�����́A���S���Ă���I�@�Ƃ������t������̂悤�ɕt���Z�s�܂Ɓt���Ă����B�����Ėڂ����ƁA�g�̂ɂ��邮��ƍj���������Ă��鐳���̎p�����̖ڂ̑O�ɂ͂�����ƌ�����̂������B�ޏ��͖ڂ���s���t���āA�ǂ����Ă����邱�Ƃ��ł��Ȃ������B�ޏ��̐_�o�͋�j�̂悤�ɉs�q�ɂȂ��āA�����̂悤�ɐ�s���̂́t���Ă���̂������B
-�@�������̕������u�ĂāA�����̂ق����璌���v�̈ꎞ��ł��������B
-�@�I�v�q�͖��ӎ��̂����ɁA�x�b�h�̏�ɔ��g���N�������B�ޏ��̐S���͋��낵���������������ē����s�ǂ����t��ł��Ă����B�����āA�����̂ق��ŉ����̑��������������Ă����悤�ɁA���v�̉��͔����Ɂ\�\�������ɔ����Ɂ\�\�����ɔ����ɁA�����̂悤�ɍׂ��Ȃ�Ȃ���\�\�����Ă������B�������A�I�v�q�̓����͗e�ՂɎ~�܂�Ȃ������B���܂ł����܂ł��A�������������������c�c�ǂ��ǂ��ǂ��c�c�ƁA�S�����j�ꂻ���ɂȂ�Ȃ��瑱�����B
-�@�Ă�ࣂ��悤�Ȓɂ݂ƔY�݂Ƃ����̐S���Ɋ����Ȃ���A�I�v�q�͂����ƕ����̒������񂵂āA���ꂩ��Â��ɖ���������s���ԁt�����B�������A�ޏ��͂�͂薰�邱�Ƃ��ł��Ȃ������B�Ȃɂ����狰�낵�����z���ޏ��̖ڂ̑O�ɗ����āA�ޏ��̐S�����������Ă���̂������B���e�̃x�b�h�ɂ����A�I�v�q�͂����Ɏ����̓��Â��M�s�������t���Ă���҂�����ł���悤�ȋC�����āA�_�o��~�s���t�����Ă���̂������B
-�@�ǂ����ŉ����҂��c�c�ƒe�s�͂��t���鉹�������B
-�@�I�v�q�͂܂��ς��ƃx�b�h�̏�ɋ��𕂂������B�������A�����̉��ɂ͓�ԂقǗ���ĕ��e�̃x�b�h������A���̏�ɕ��e�������Ă��邾���ł������B�ʂɉ��̕ς����Ȃ������B�I�v�q�͂������A�����̒����ӂ����ڂ����̂܂ܕ��Ă��܂����Ƃ͂ł��Ȃ������B�����āA�҂��Ƃ������̗]�C������ɑ����A���̒��Ő����́A���S���Ă���I�@�Ƃ���������������̂��B���܂ł����܂ł��������Ă���̂������B
-�@�������A�Ȃ�ł��Ȃ��������Ƃ�������ƁA�I�v�q�͂ق��Ɨ����s���߂����t������ĐÂ��ɖ�������������B�ޏ��̐S���͕��e�̖����W���͂��܂����Ǝv���قǁA������������ł��Ă����B�ޏ��͂����Ƌ������������āA�����Ə������Ȃ��Ă����B
-�@����Ƃ܂��A�ˌ��̂ق��ŋ����̐G�ꍇ���悤�ȉ����n�܂����B
-�@�I�v�q�͑S�g�̐_�o���ْ��������B�������A���͂��������Ăӂ����сA�Ⴆ���������Î�̂����ɕԂ��Ă������B�I�v�q�͋��|�����o���N�����₷���Ȃ��Ă��鎩���̐_�o�̂��Ƃ��v���Ȃ���A���̔��ʂł́A���ꂩ�킽����A��ɂ����̂ł͂Ȃ�������H�@�Ǝv���Ȃ���A�����ɂ��_�o����߂悤�Ƃ����B
-�@�����̐G�ꍇ���悤�Ȃ����Ƃ��������܂��������B�銦�̍Ⴆ����������C�̒��Ɂ\�\���X�܂ł��j�̐�œ˂��悤�ɂ��ā\�\���΂炭�������B
-�@�I�v�q�͂܂��ڂ��J�����B���Â��d���A�N�O�s�����낤�t�Ƃ��Ă��鉽���̉e�A���e�̃x�b�h�A�������������Ă��鎩���̐S���̓�����ł��A�Ƃ���ɓ����̃h�A���Â��ɊJ���āA�e�����ꂽ�B
-�@�I�v�q�͖��䖲���ɁA�ς��Ɣ��Â����̒��ɋN���オ�����B�ޏ��̐S���͔j���قǌ�����������ł��������B�ޏ��͋��ڂ��Ƃ��Đ����o�Ȃ������B���ڂ��Ƃ���g�\���������āA�ޏ��͂�����Ȃ�ȂƑS�g�����킵�Ă����B
-�@�����p�͐Â��ɕ����̒��֐i��ł����B�Â��Ɂ\�\�������������Ł\�\���������̂悤�Ɂ\�\�x�b�h�̂ق��֋߂Â����B�I�v�q�͋��ڂ��Ƃ���g�\���Ŗڂ��ӂ�A�O���ɓx�����킹�Ȃ��炶���Ƃ��̍����p�����l�߂Ă����B
-�@�����p�͂���ƁA�E����グ�āA������I�v�q�̂ق��֍����L�΂��Ȃ��牡�ɐU�����B�ق��Ă���Ƃ������Ƃ̍��}�炵�������B�������A�I�v�q�͋��ڂ��Ƃ��邻�̐g�\������A�p���������������Ƃ��ł��Ȃ������B�ޏ��̑S�g�̐_�o�͋��|�ɂ�Ȃ�ȂƐ�Ɂs�����t���Ȃ�����A�j���̂悤�Ɍł��Ȃ��Ă��܂��Ă���̂������B
-�@�����p�͓�̃x�b�h�̒��Ԃɗ����~�܂��ċI�v�q�̂ق��֌�������A�X�q��������B�����āA���̊�𔖂��d���̌������ȁs�����t�����B�����������B
-�@�I�v�q�͐����̊������ƁA�ł��̂߂��ꂽ�悤�ɂ��ăx�b�h�̏�ɂ������ꂽ�B�����āA�ޏ��͂������Ԃ��Ƃ��������Ƃ��ł��Ȃ������B�����A�S���������d�C�d�|���̋@�B�̂悤�ɁA�Α��̂悤�Ɍł��Ȃ����ޏ��̐g�̂�����ɖ��������Ă����B
-�@�����͌��������Ċ약�̃x�b�h�ɋߊ��A�����������s�߂��t���ċ���̂��̂�U�藎�Ƃ����B
-�u�����I�@���c�c�v
-�@�ݏd�ȚX�s���ȁt�萺���グ�Ȃ���약�͏㔼�g���N�������Ƃ������A�����̏��̒��̐n���͂ӂ����ъ약�̐S����ڂ����ē˂��h�������B
-�u�����I�v
-�@�약�͓݂��Z���X���āA�x�b�h�̏�ɓ|�ꂽ�B
-�u���I�v
-�@�I�v�q�͏��߂Đ����グ���B
-�@�����͂���ƁA���U��Ȃ���I�v�q�̃x�b�h�֊���Ă����B�I�v�q�͋��ڂ��Ƃ��āA�܂����Ԃ��Ƃ��ł��Ȃ��Ȃ��Ă����B�����͐^���Ȋ�ŋI�v�q��`�����񂾁B���̎�ɂ͍����������Ă��邾���ŁA�n���͎����Ă��Ȃ������B
-�u�I�v�����I�@�����������˂��I�v
-�@�����������鐺�Ō������B������̂��ł����Ŋ��ݒ��߂Ă���悤�Ȑ��ŁA�ނ͉s���������̂��B
-�u�I�v�����̔閧���A�閧��h�����߂Ȃ񂾁v
-�@�����͂����������B�I�v�q�͐O�𓮂����ĉ����������Ƃ������A��͂萺���ǂ����Ă��o�Ȃ������B
-�u�I�v����񂪁A���A���A���̏ؐl�ɂȂ�΂����񂾁v
-�u�\�\���傤�c�c�v
-�@�I�v�q�͌��t�ɂ͂Ȃ�Ȃ��������ɂ������A���̂��Ƃ��ǂ����Ă������Ȃ������B
-�u�������Ƃ͂˂��I�v
-�u�����I�@�����I�c�c�v
-�u�����̒��A�呛���ɂȂ�ɑ���˂�����A���A���A���̎��ɂႠ�I�v����񂪂��܂̂��Ƃ��A�͂�����ƌ����I�@���Č����΁A���A���A����ł����񂾁v
-�@�����͂������Ɍ��t������Ȃ������B
-�u�I�v�����I�@����́A����̌����Ă�̕����邩�H�v
-�u���I�v
-�@�I�v�q�͂����Ɛ����̊�����l�߂Ȃ��猾�����B
-�u���A���A����́A�������A���ꂪ��������Ƃɂ��Ă͂����˂��񂾁B�I�v�����I�@������H�v
-�u���I�v
-�u�ӑオ�A�ӑオ�A�ӑオ�E�������Ƃɂ��˂��Ƃ����˂��̂��v
-�u�ӑオ�H�c�c�v
-�@�I�v�q�͂������������A�ޏ��͐����̌������Ƃ��������Ă���̂ł͂Ȃ������B�ޏ��ɂ͉����������A�S�R������Ȃ������B�����̊炪�����̑O�Ɍ����Ă��邱�Ƃ����A�I�v�q�͂͂�����ƈӎ����邱�Ƃ��ł��Ȃ��悤�ȏ�ԂɂȂ����B�����������Ă��邱�Ƃ́A�����Ȃ�Ӗ��ł��邩�ȂǁA�I�v�q�͑S�R��������͂������Ă����B
-�u�I�v�����I�@�����邩�H�v
-�@�����͂������A�O�������Ȃ��瑱�����B�ނ��܂��A��������悤�ȐS���̓����̂��߂ɉ՗��s���炾�t���Ă��āA���f�͂������Ă���̂������B
-�u�ӑオ�E�������Ƃɂ���񂾁B�I�v�����́A�ӑオ�����Ă��ĕ�������h�����̂��I�@���Č����΂���ł����񂾁B���A���A�����āA���ꂩ��A�ӑオ�킽���̂ق��֊���Ă�������A�킽���͒ӑ��S�C�Ō������̂��I�@���Č����΂���ł����񂾁B�I�v�����͂���ŗ��h�ɐ����h�q�ɂȂ�񂾂���v
-�u�c�c�c�c�v
-�@�I�v�q�͂�͂�ق�Â��Ă����B�ق��āA�ޏ��͂����Ɛ����̊�����l�߂Ă����B�����̌����Ă��錾�t�̈Ӗ����A�ޏ��͂ǂ����Ă��������邱�Ƃ��ł��Ȃ��̂������B
-�u�Ȃ�Ȃ�ӑオ�A�I�v������ǂ��񂵂����Ƃɂ��Ă������񂾁B�I�v�����͓�������āA�S�C�̂���Ƃ���֍s�����̂ŁA���̓S�C�Ŏv�킸�ӑ�����������Ƃɂ���΂����񂾁B�S�C�ɂ́c�c�v
-�u�S�C�H�v
-�@�I�v�q�͏��߂āA���t�̌`�Ԃ���������t�����ɂ����B
-�u�S�C�ł��B�ӑ�̐g�̂ɂ��鏝�́A�ӑ�̎��񂾏��́A�S�C�̏��Ȃ񂾂��́v
-�u�S�C�H�v
-�@�I�v�q�͕�R�s�ڂ�����t�Ƃ��̌��t���J��Ԃ����B
-�u�S�C�ł��B����ɁA�S�C�ɂ͂��ł��e�ۂ��������Ă��āA�ׂ̕����ɂ������Ă��邱�ƂɂȂ��Ă���񂾂���v
-�u���������I�v
-�@�I�v�q�͒ᐺ�Ȃ���A���Ԃ悤�ɂ��Č������B
-�u�I�v�����I�@�傫�Ȑ��������Ⴂ���˂��I�v
-�@�����͉�������悤�ɉs���������B
-�u�킽���������āc�c�v
-�u����̌����Ă���̂�������Ȃ��̂��H�@����͎����̂��߂ɂ΂������Ă���̂���˂��񂾁B�������A�ӑオ�E�������Ƃɂ��āA�ӑオ���̂����ɋI�v�����܂ŎE�����Ƃ��Ēǂ��񂵂�����A�I�v�����͓S�C�̂��镔���֓����Ă����āA�����ɒe�ۂ����߂��܂܂����Ă���S�C������Ďv�킸�����Ă��܂������Ƃɂ���΁A����ł����񂾁B����ŋI�v�����͗��h�Ȑ����h�q�ɂȂ��āA�߂ɂ͂Ȃ�˂�����v
-�u�c�c�c�c�v
-�u�I�v�����I�@�������������H�v
-�u���I�v
-�@�I�v�q�͔��������s���Ȃ��t�����B
-�u���ꂶ��A���A���A���ꂩ�炨�ꂪ���̏��������邩��A�x�x���o���オ��܂ŁA�I�v�����͓������Ⴂ���˂��B�x�x���ł��Ă���A���̐Q���̂܂܂ŋN���āA�ׂ̕����֍s���ēS�C�����񂾂�B�����āA�����ɁA�݂�Ȃ��A�S�C�̉��𕷂��ďW�܂��Ă���܂ŁA�����Ƃ��ė����Ă�΁A����ŉ��������ςނ̂��B�������H�@����ŕ��������ȁH�v
-�u���I�v
-�@�I�v�q�͌y���������B
-�u���ꂶ��A���ꂪ�x�x����܂ŁA�Q�Ă��Ă���v
-�@�����������ĐÂ��ɁA�����������ĕ������o�Ă������B
-�m�����y�[�W�n
-
-�@�@�@��l��
-
-�@�@�@�@�@�@�@�P
-
-�@�Í��̒��ɁA�s�C���Ȓ��ق����΂炭�������B���̂悤�Ȗ�X���̍����ɒ��߂����ē��s���t�݊����؍ނ̖������A��C�𔺂��ĂƂ��ǂ��҂��҂��Ɣ��s�����t���ɕ������Ă��邾���������B�����āA�I�v�q�͓D���̒�̂悤�ȕs�C���Ȓ��ق̒��ɁA���̍�������Ȃ��܂ł����s�ӂ�t����s���̂́t���Ă����B
-�@�₪�āA�����͒ӑ�̎��[�s�������t������ē����Ă����B�����āA�����͔����d���̉��ɓ�̉e�������Ȃ���A�ӑ�̎��[���약�̎��[�̖T�s���΁t�֎����Ă������B
-�u�I�v�����I�v
-�@�����͒ᐺ�s�������t�ɂ����ĂтȂ���A�ӑ�̎��[���약�̎��[�̉��ɕ��ׂ��B
-�u�I�v�����I�@�������̒i��肪�I���܂ŁA�I�v�����͐Q���̒��֓����Ă��Ă���v
-�@�������A�I�v�q�͂قƂ�ǈӎ��������Ă���悤�ɁA������Ȃ�ȂƐg�����킵�Ă���΂��肾�����B
-�u�I�v�����I�@�Q���̒��֓����Ă��Ă���B�łȂ��ƁA�i��肪�ł��Ȃ�����v
-�@�����͋I�v�q�̃x�b�h�֋ߊ��Ȃ���A�J��Ԃ����B
-�u�I�v����񂪐Q���̒��֓����Ă�Ƃ���ցA�ӂ��Z���Ŏa�s���t����Ă���悤�ɂ���񂾂���A�Q���̒��֓����Ă��Ă��������v
-�@�����āA�����͂��̃x�b�h�̖������s�߂��t��A�I�v�q�̋����y���������B�I�v�q�͋���������āA���߂Ĉӎ������߂����悤�ɂ��ăx�b�h�̒��ɐ��荞�񂾁B
-�u�I�v�����I�@�����āA����̂Ƃ���ɓ����Ă���B�łȂ��ƁA�ӂ��a����Ă����Ƃ��̑��̉^�т�Ȃ񂩂̋��������˂�����v
-�@�����͂��������āA�ӂ����ѓ�̎��[�̖T�֖߂��Ă������B�����āA�����͎��[�ɂ��Ⴊ�ݍ���ŁA�����ɗ����Ă����Z�������A�܂������ӑ�̏��s�āt�������J���Ă��̒��Ɉ��点���B
-�@����ł��鏶�͋؂����s�t���Ă��āA����������J���Ĉ��点��̂��e�ՂłȂ�����A��x�����Ă��܂��Ƌ@�B�̂悤�ɂ��̏��Ɍł��ł��x���Ă����B�����ŁA�����͒ӑ�̎��̂�����N�������B�����N�����Ă����Ēӑ�̎�̍b�����̏ォ�爬��A�����̗͂ł��̒Z�����약�̋��̏����֓˂��h�����B�약�̋��̌����ӑ�̐�����ɁA�ԍ����ׂ��Ƃ�Ƃ����B�����āA�����͂��̎�������甲����点��ƁA���x�͒ӑ�̎��̂��E��Ɏx���Ȃ��獶�̎�Ŋ약�̎��̂𔼋N�����ɂ��āA��̎��̂�g�݂�����悤�ɂ����B�ӑ�̎��̂̋��ɂ͊약�̋��̏����̌��Ёs���̂�t���ׂ��Ƃ�Ƃ��A�ӑ�̎�̒Z�����약�̈�A���s���񂱂��ԁt�ɐG�ꂽ�B�����Ő����́A�약�̎��̂��x�b�h�̏�ɂǂ�Ɠ|���A�ӂ����ђӑ�̎�̍b�������Ċ약�̈�A���ɒZ����˂��h�����B���x�͏����ւ����˂����ނ悤�Ȃ킯�ɂ͂����Ȃ������B�Z���͂킸���ɓ˂��������΂���ŁA���s���t���ӑ�̏��̒�����˂��o���B
-�u�I�v�����I�@�N���Ă���B�x�b�h�̏�ցA�����΂���g�́s���炾�t���N�����Ă���B���܂͂��߂ċC�������悤�ɁA�g�̂𔼕��N�����Ă���v
-�@�����͂��������Ȃ���A�x�b�h�̉��̌����s�����܁t��ɒӑ�̑��𗧂����āA���̑������ɐ��߂��B
-�u�I�v�����I�@����������a����Ă����悤�Ȋ��D�s���������t�ŋI�v�����̂ق��֊���Ă�������A���ꂪ�������Č����܂ł��̂܂܂ɂ��Ă��Ă���v
-�@�����āA�����͒ӑ�̎��̂����̌�납������x���āA������E�΂���悤�ɏ����݂ɑ����^�΂��Ȃ���E��̒Z����U�肩�����āA�I�v�q�̃x�b�h�֐ڋ߂��Ă������B
-�@�I�v�q�̓x�b�h�̏�ɏ㔼�g���N�����āA�����킫�Ȃ�����s�܂�t���񂹂Ă������A�������ӑ�̉E���U��グ�ċߊ��ɂ�A�Â��ɐÂ��Ƀx�b�h���犊�艺�肽�B
-�u�I�v�����I�@���̂܂܂ł��Ă���B�ӂ��Z���Ŏa������悤�ɂ��邩��A�����֊���Ă����܂ł͓����˂��ł��Ă���v
-�@�����āA�����͐ڋ߂��Ă������B�I�v�q�͔����񂹂Ȃ�����A���̂܂܂����Ƃ��Ă����B�I�v�q�̃x�b�h�ւ��͂�O�ځi��ꃁ�[�g���j�΂���̂Ƃ���ŁA�����͒ӑ�̎�̒��̒Z�����ЂƐU�苭���I�v�q�Ɍ����ĐU�肩�������B
-�u�����I�v
-�@�I�v�q�͒ᐺ�ŋ���Ńx�b�h�̏ォ��ς��Ə��̏�ɔ�щ��肽���A���̏u�ԂɁA�Z�������񂾌��Ђ͋I�v�q�̐Q���̌��ցA���O�s�ڂ���t�̉Ԃ̖͗l�̂悤�ɍL�������B�����āA�ӑ�̎�̗]���̓x�b�h�̖��̏�ɂ΂���Ɨ������B�����ɁA���Ђ͖��̏�ɂ��ԍ����͗l��`�����B
-�u�I�v�����I�@���x�͓����Ă���I�v
-�@�����͒ӑ�̎������ĐU��グ�����Ȃ���A�I�v�q�𑣂����B
-�u���̕������ЂƉ�蓦������āA���ꂩ�玟�̕����֓�������ł���v
-�@�����͂����āA�ӑ�̎��[�����̌�납������A�ӑ�̑������̏�Ɉ󂷌��̑��Ղ𓥂܂Ȃ��悤�ɒ��Ӑ[����ҁs�����܂��t�ɋr���J���āA�s���D�ȑ��\���ŋI�v�q��ǂ��񂵂��B
-�u�I�v�����I�@���ꂭ�炢�ł������̕����֍s���Ă���B�����āA���łɂ����̌�����������ł����Ă���v
-�@�����͂��������āA�Ȃ����s���D�ȑ��\���Œӑ�̎��[������Ȃ���A�I�v�q��ǂ��񂵂��B�I�v�q�͌�����܂܂ɁA���Ђ𓥂݂��đN�₩�ȑ��Ղ��󂵂Ȃ���A���̕����̌ˌ��̂ق��֓����Ă������B
-�u�����āA���̕����֍s������A�S�C�̂������Ă��鉺�֓����Ă����Ă���v
-�@���̕����̌ˌ��ɂ܂Œǂ��l�߂Ă����āA�����͗����~�܂�Ȃ��猾�����B
-�u�����āA�S�C�̉��֍s�����炢���΂񉺂̓S�C������āA����Ō��������Ă���v
-�@�����́A�����ɂ��|��悤�Ƃ���ӑ�̎��̂�K���ɂȂ��ĕ����x���Ȃ��猾�����B�I�v�q�̓h�A�������J���āA���̕����֑��荞��ł������B
-�u�S�C���I�@�S�C������āI�v
-�@�����͋I�v�q�ɑ����ē���Ȃ���A�ᐺ�Ɍ������B
-�u�����΂񉺂́H�v
-�@�I�v�q�͏��߂āA���������鐺�Ō����Ȃ���A�e��������B
-�u�����ӂ̋��̏����ɓ��Ăāc�c�҂Ă�B���̑O�ɁA�厖�Ȃ��Ƃ�Y��Ă���B�҂��Ă��Ă���v
-�@�����͂��������Ȃ���A�ӑ�̎��̂�Â��ɂ����ɓ|���Ă����ĐQ���֖߂��Ă������B
-�@�I�v�q�͗e����ɂ��Č������S����e�܂��Ȃ���A�����ɂ�Ȃ�ȂƁA�^�钆�̗�C�������Ă����B
-�@�����͊약�̎��̂�����āA�ӂ����і߂��Ă����B�����āA���̎��̂������̌F�s���܁t�̔�̏�ւǂ�Ɠ|�����B�����ɁA�Q�����炻���։^��ł���܂ŐQ���̒[�ŉ��������Ă����약�̋��̏�������́A�ӂ����тǂ��ǂ��ƌ����N�s��t���ė��ꂽ�B
-�u�ӂ̏�������͌��͂����o�˂�����A�������Ă����˂��ƁH�v
-�@�����͂��������āA�����̌F�̔�̏�ɑ��ʂ̌������ꗎ����̂�҂����B�I�v�q���ق��ĐS�������s���t�܂�Ȃ���A�����Ƃ�������l�߂Ă����B
-�u�I�v�����I�@�ꍇ�ɂ������A���񎞁A�ӂ����ꂽ���ƈꏏ�ɋA�������ǂ������Ă��Ƃ����ɂȂ邩������˂����A���񎞁A�ǂ����悤���ȁH�@�r���܂ł͈ꏏ�ɗ��āA�r�����瓦�����̂ł��̂܂܂ɂ��Ă��������Ƃɂ��邩�ȁH�v
-�@�������A�I�v�q�͂���ɂ͂Ȃɂ������Ȃ������B�ޏ��͂����ڂ��������点�āA��R�s�ڂ�����t�Ƃ��Đ����̊�����l�߂Ă����B
-�u��ԏꂩ��A���ꂽ�����ӂ��ꏏ�ɘA��ċA�����̂��h��Y���񂪒m���Ă���̂�����A�Ƃɂ����ǂ��܂ł��ꏏ�ɋA�������Ƃɂ��Ă����Ȃ��Ƌ�������ȁB�q��̋߂��܂Ŕn�Ԃňꏏ�ɗ��āA�q��̖�̂Ƃ���ō~�낵���炻�̂܂܂܂��ǂ����֎p���B���Ă��܂������Ƃɂ��邩�H�v
-�u�c�c�c�c�v
-�u�ӂ����Ȃ��̂�������ɍ��݂������Ă������Ă��Ƃ́A�ӂ̂���ւ̎莆�����Ă�������B������c�c�v
-�u�c�c�c�c�v
-�u���ꂽ���������ɘA��߂��āA��̂Ƃ���ō~�낵�Ă��܂��Ă��炨��͂��������Ȃɂ��m��Ȃ��������Ƃɂ��Ă������B�I�v�����͋I�v�����ŁA���̏�̓s���łȂ�Ƃł��\�����Ă�΂������B�Ƃɂ����A����͖�̂Ƃ���܂ňꏏ�ɗ��Ă����ō~�낵������A���Ƃ͂��������m��˂����Ƃɂ���B�ӂ̎莆���؋��̈�Ƃ��Č�����K�v�͂��邾�낤���A���Ƃœǂ񂾂��Ƃɂ��邩��B����ł����ˁv
-�u�����s�܂����t����񂪂����Ǝv����Ȃ�c�c�v
-�u����Ȏ蔤�s�Ă͂��t�ɂ��Ă���������Ȃ����v
-�@�����͂����āA�약�̎��[�ɂ��Ⴊ�ݍ��񂾁B
-�u���ꂭ�炢�ł����������낤�v
-�@��s�Ԃ�t���Ȃ���A�����͂ӂ����ъ약�̋��̏��������̐Q���̒[�ŉ������A�Q���ւƓ����Ă������B
-�u����Œi���͏I������킯���v
-�@�����͂��������Ȃ���߂��Ă��āA�ӑ�̎��[������N�������B
-�u�ӂ����̕����܂ŁA�Z����U��グ�Ȃ���I�v������ǂ������Ă����킯�Ȃ񂾁B�����ŋI�v�����͐����h�q�Ƃ��āA���̓S�C������Ēӂ������|�����Ƃ����킯�Ȃ񂾁B���ꂪ�������ĉ������Ă��邩��A�I�v�����͒ӂ̏����ɏe��s�����t�����Č����Ă���v
-�@�����͂��������Ēӑ�̎��[�𒼗������A���̎��U��グ�������B
-�u�I�v�����́A�S�C�����Ă邾�낤�H�v
-�u���Ă��v
-�u���ꂶ��A�e���������ւ��Ĉ����������Ă���B�����āA�I�v����񂪓S�C����������A����͂������̕����𓦂��o���Ă�������A���ꂩ���S�C�̉��𕷂����Ă��̕����������Ă���܂ŁA�I�v�����͑�ςȂ��Ƃ������Ƃ����悤�Ȋ�����Ă��̕������瓮���˂��ł���΂����񂾁B����͐^����ɓ����Ă��Ȃ��ŁA�Ȃɂ������A�s���̂����悤�ɝn�s������t���邩��v
-�@�����͒ӑ�̎��[�̉��ɗ����āA���̏e���������̂Ƃ���֎����Ă������B
-�u���ꂶ��I�v
-�u�����H�v
-�u������v
-�@�u�ԁI�@�e���͍��R�s��������t�Ƒ��K���X��k�킵�Ė苿�����B
-�@�����͎葁���ӑ�̎��[���F�̔�̏�̌�����̏�ցA���傤�ǂ��̏����̂Ƃ��낪���悤�ɓ|���Ă����āA�ˊO�ւƋ삯�o���Ă������B
-
-�@�@�@�@�@�@�@�Q
-
-�@�e�������R�Ɛ^�钆�̔��Łs������݁t��h�蓮�������B�ǂ����炩�}�Ɍ����i�s�فt�������āA�����Ă��̈�C�̌�������ނƁA�܂��ǂ����炩�ʂ̌����i���������B
-�u�F�����I�v
-�@���ꂩ���Â���̒��ō������񂾁B
-�u�F�����I�@�F�����I�v
-�@�ǂ�����Ƃ��Ȃ������������B�Â���̒��ɐl�e���������B�����i���Â����B
-�u�F�����I�@�n�ɋC������I�@���q�̔n���C������I�c�c�v
-�u�ǂ����֍s�����I�v
-�u���̕ӂɂ���炵���I�v
-�@���������ꂽ�B
-�u�e�ہs���܁t�͓������Ă���̂��H�v
-�@�x�΁s�����܂t���Èł̒��ɖ͗l��`���o�����B
-�u�ǂ����֍s�����񂾂��H�v
-�@�Ζ��ʂ��������肾�����B�l�X�����э������B�؂�@�s�����t���炷�����������B
-�u���[���I�@�ǂ����֍s�����̂�������˂��̂��H�v
-�u���������A�e�ۂ�H����Ă���̂��H�v
-�u������A�F�������̂͂���Ȃ񂾁v
-�@�������Â���̒����������Ɗ�����B
-�u�S�C����������˂����H�v
-�@���ꂩ���������B
-�u�S�C���������ČF�Ƃ͌��܂�߂��v
-�u�F�ł��o���񂶂�Ȃ��ƁA��������̖钆�ɓS�C�Ȃǌ��҂͂���߂����c�c�v
-�@�ނ�͈Â���̒��ɓ����Ȃ���A���͂����񂵂��B
-�u���������A�S�C�͂��܁A����̂Ƃ��ɂ���񂾁H�v
-�@�Â���̒��ɂ��x�΂��h��߂����B
-�u���[���I�@�S�C���������̂͂��ꂾ���H�v
-�@���������Ŗi�����ĂĂ���B
-�u�S�C���������̂͂ǂ������H�v
-�u�����I�@�U�߁s����ȁt�̕����ɓ��s������t��������Łc�c�v
-�u�����I�v
-�u�U�߂��ȁH�@���񂶂�H�v
-�@�������������B
-�u�U�߂��ׁI�v
-�@�x�΂���̈ł������􂢂đ����Ă������B
-
-�@�@�@�@�@�@�@�R
-
-�@�R���N���[�g�̘I��ɏオ��ƁA�������畔���ւ̃h�A�͊J�����܂܂ɂȂ��Ă����B
-�u�����I�@�h�A���J���Ă邼�v
-�@���ꂩ���ˌ��ɗ����ċ��񂾁B�����ɁA�q�v�����͂��̌ˌ��ɎE�������B
-�u�ĂāA�āA��ρs�Ă��ւ�t�Łc�c�v
-�@�����̒�����k�s�΂��t�₪���񂾁B
-�u�����I�@���삳�܂��I�v
-�@���ꂩ���������ԂƁA�q�v�����͓y���̂܂܂ŕ����̒��ɐ���s�Ȃ��t�ꍞ�񂾁B
-�u�ǂ������񂾂ˁH�v
-�@�q�v�����͂܂��A�S�C�������Ă����ɕ�R�Ɨ����Ă���I�v�q�����̖ڂɑ��s�Ƃ�t�����̂������B
-�u���삳�܂��A�āA�āA���삳�܂��A�āA�āc�c�v
-�@�k��������킫�Ȃ���h�s�ǂ��t�����B�����āA�h��Ȃ���k��́A�F�̔�̏�ɓ|��Ă���ӑ�̎��[���w�������B
-�u�����I�@�ӑコ�񂪁c�c�v
-�@�q�v�����͋����̐��ŋ��тȂ���A�ӑ�̎��[�̏�ɂ��Ⴊ�ݍ��񂾁B
-�u�G�����Ⴂ���˂��A�G�����Ⴂ���˂��B�������Ă��炤�܂œ��������Ⴂ���˂��v
-�@�����͂����֊���Ă����Ȃ��狩�񂾁B
-�u�����I�@���Ղ�����ǁB���̑��Ղ��c�c�v
-�@�q�v�̈�l���������Ԃ悤�Ɍ����ƁA�q�v�����͂��̑��Ղ�H�s���ǁt���ė׎��ւƐ����Ă������B����������ɑ������B
-�u�����I�v
-�@�ނ�͂�������ŁA�ˌ��̂Ƃ���ɗ����~�܂������A�����Ɋ약�̐Q���ւƎE�����Ă������B
-�u�ӂ̓z�s��t�߁A�Ƃ��Ƃ����₪�����ȁv
-�@�����͚X�s���ȁt��悤�ɂ��Č������B
-�u�U�߁I�@�U�߁I�v
-�@�q�v�̈�l�́A�약�̎��[������N�����Ȃ��狩�񂾁B�������A�약�͂������Ȃɂ������͂��Ȃ������B
-�u�ӂ̏��u�������āA�A��߂��Ă����̂�������Ă���񂾂��A�Ƃ��Ƃ����₪�����ȁv
-�@�����͌J��Ԃ��Č������B
-�u�ӑコ�񂪂�����̂��ȁH�v
-�u�ӂ̓z���B�ӂ̓z�́A���삳�܂Ɏ���������Ɉ�s�����t���˂��B����ŁA���삳�܂ɓS�C�Ō����|���ꂽ�̂ɈႦ�˂��v
-�u�ӑコ�񂪁A�܂��A�ǂ����āc�c�v
-�u�����Ђǂ�����ł����炵������B�������܂��A����ŁA�d�l�˂��B�邪�����Čx�@���痈��܂ŁA�������Ă����ׁv
-�@�����͂��������āA�׎��ւƕ����������B�q�v�����͂���ɑ������B
-�u���삳�܁I�@�ǂ��A�ǂ��Ȃ�������ł��H�v
-�@�����͋I�v�q�̖T�֊��Ȃ���A�ڂ��Ӂs�݂́t���Đu�s���t�����B
-�u�ӂ��c�c�ӂ��c�c�v
-�@�I�v�q�͎��̍�������Ȃ��܂łɁA�����Ă����B
-�u�U�߂��E�����̂͒ӂ����Ă��ƁA�͂�����ƕ����邯��ǂ��c�c�v
-�@�����͂��������Ȃ���I�v�q�̎肩��e������āA�����̕ǂɗ��Ă������B
-�u�ӂ��A�ӂ��A�킽�����c�c�v
-�@�I�v�q�͂悤�₭���ꂾ�����������B
-�u�ӂ����Ȃ��ɂ������������ł��ˁv
-�@�I�v�q�͔��������s���Ȃ��t���悤�ɂ����B
-�u�������A�������Ă������Ďd�l�̂˂����Ƃ����A���Ȃ�������芦�����Ďd�l���˂����낤����A�������֍s���Ė�̖�����̂�҂��d�����˂��ł��傤�v
-�@�����͂��������ċI�v�q�̔w���Ɏ�������A�L���̂ق��֏o���B�q�v�����͓y���̂܂܂ŁA���낼��Ƃ��̌�ɑ������B
-
-�@�@�@�@�@�@�@�S
-
-�@�q�v�����̂��߂̐H���ɂȂ��Ă���R���N���[�g�̓y�Ԃ́A�Ћ��̕Ǎۂɐ΂ƔS�y�Ƃ��}�s���܂ǁt�̂悤�ɏ�ݏグ���Ă���X�g�[�u�ɂ́A�d�s�܂��t�����{�����{���������܂ꂽ�B�����āA�q�v�����͂��̕��s���t�����̑O�Ɏԍ��ɂȂ��č��𐘂��Ă����B�I�v�q�͂��̒����̉΂ɋ߂��Ƃ���ցA�Ȃ��󂯂�ꂽ�B
-�u�k��I�@�k��I�v
-�@�����͗₦�т��������ق�j�����B
-�u�k��I�@���삳�܂ɒ����������Ă��Ă������v
-�@�����͎��͂�ڒT��Ȃ��狩�񂾂��A�k��̎p�͂ǂ��ɂ������Ȃ������B
-�u�k��́A�ǂ����ɍ��𔲂����Ă���̂�������˂����v
-�@���ꂩ���������B����ɂ�āA���߂Ă悤�₭�����ȏ΂������ꂽ�B
-�u�d�l�̂˂��k�₾�Ȃ��B���ꂶ��A���ꂪ�s���Ď����Ă��邩�ȁv
-�@�����͐g���s�݂���t���Ȃ��猾�����B
-�u������v
-�@�I�v�q�͔����Ɍ����āA�~�߂��B
-�u�����Ďd�l���˂��ł��傤�H�v
-�u�䖝���Ă����v
-�u�䖝�����Ȃ������āc�c�v
-�@���������������ė����オ�낤�Ƃ����Ƃ��A�L���̂ق����獘�������悤�ɂ��Ĕk�₪�o�Ă����B
-�u�����I�@�k�₪�������H�@�k��I�@���삳�܂̒����������Ă����v
-�u�����v
-�u����k��͍����s���܂��t�Ă�񂾂��H�@���삳�܂̒����������Ă��Ă�����B�O���s�����Ƃ��t�ł��Ȃ�ł������v
-�@���������Ԃ悤�Ɍ����ƁA�k��͂܂����������悤�ɂ��ĉ��֓����Ă������B�ӂ����яd�ꂵ�����ق����荞��ł����B�X�g�[�u�̒��ɐd���҂�҂�ƒ��˂Ă��邾���������B
-�@�����́A���̏d�ꂵ�����ق̋�C�̒��Ɋ��s����t���Ă��邱�Ƃ��ł��Ȃ��C�������B�����͒��ق�j�邽�߂Ɍ������B
-�u���삳�܁I�@�Ȃɂ��S�z���邱�ƂȂ񂩂���܂����v
-�@�����̓X�g�[�u�ɂ����Ǝ���ȁs�����t���Ȃ��猾���̂������B
-�u�ӂ͂���̖��������Ƃ��A����Ƃ���Ƃ͕ʖ�肾���A���Ȃ��̏ꍇ�͗��h�ɐ����h�q�Ƃ������񂾂���v
-�@�������A�I�v�q�͖ق�Â��Ă����B
-�@�����ցA�k�₪�I�v�q�̊O���������Ė߂��Ă����B
-�u���삳�܂̒����A�ǂ��ɂ���񂾂��A��l�ŉ��֍s���̂����₾���c�c�v
-�@�k�₪�����ӂ��Ɠy�Ԃ։���Ă��Ȃ��猾�����B
-�u�O���̂ق��������v
-�@�������吺�Ɍ������B
-�u���̂Ƃ���֌������Ă���悤������A�x�@������܂ł�͂肱�̐Q���𒅂Ă����ق����������낤�v
-�u����͂������Ȃ��v
-�@�q�v�̈�l���A�I�v�q�̌��̂Ƃ���֖ڂ����Ȃ��猾�����B�k��͋I�v�q�̌�납��O���𕢂������āA���̂܂ܖq�v�����̌��������Ȃ��痧���s�������B
-�u�k����O���o�āA���������炢������˂����H�v
-�@�����͉������������Ă��Ȃ���΁A�ς����Ȃ��C�����������B
-�u���삳�܁I�@�{���ɂȂɂ��S�z���邱�ƂȂ񂩂˂���B���Ȃ��̂͐����h�q�Ȃ񂾂���v
-�u���삳�܂��炷��΁A�e��̋w�s�������t�ł����邵�c�c�v
-�@�q�v�̈�l�͌������B
-�u�e�̋w�Ȃ�Ă��������܂̎Љ�ł͒ʗp���˂����A�Ƃɂ��������h�q�����͗��h�ɐ��藧�̂�����c�c�v
-�u�閾���������ԋ߂��ׂ���A���ݏ��܂ōs���Ă������ȁH�v
-�u���邭�Ȃ��Ă���ł����v
-�@�����͉s���Ղ����B
-�u�������������Ƃ������͎̂��Ԃ��o�s���t�ĂΌo�قǁA�����҂̗��v�Ȃ񂾁B���삳�܂̋C�����������˂������Ɍx�@���痈��ꂽ�񂶂�A�Ƃ񂾔n���s�΂��t�����˂��Ƃ�����˂�����Ȃ��B���삳�܂���������S�𗎂��������Ƃ���ŏ��߂Čx�@���痈�Ă�����āA���񎞂̋���ԈႢ�Ȃ��\�����ĂĂ��x���˂��v
-�u����͂������Ȃ��v
-�u���삳�܁I�@�Ȃɂ��S�z�͂˂��B�ꍇ�ɂ�����Ⴀ�A���ݏ��̏����̐����h�q�Ƃ����񍐂����ŁA�x�@�{���̂ق�����Ȃ񂴂����邩�ǂ���������˂��B�����t�߂��ƍٔ�������܂ŗ��邻�����ǂ��A���̕ӂ���x�@�̖{������ƂȂ�Ⴀ��ς�����Ȃ��B���Ă݂āA�܂������l�����痈�邮�ꂦ�̂��񂾂ׂǁB�����Ă܂��A���������̕񍐂ŁA�I�v����񂪍ٔ����֌Ă΂��Ɠ����ɁA���ꂽ�����܂��ؐl�ɌĂ΂�񂾂ׂ��A�����h�q���Ă��Ƃł����ςނ��B���߂�ꂽ���āA���ׂ����܂łق�̎O�A�l���̂��񂾂ׂǁv
-�@�����͂قƂ�ǈ�l�Œ��s����ׁt��Â����B
-
-�@�@�@�@�@�@�@�T
-
-�@�z�s�Ёt���P�������ƃK���X���s�����t�̂悤�ȑ��������������ƕ���āA���y���ׂ��ׂ��ƔG�s�ʁt��Ă������B�z�����̏�ɂ��炬��Ɖf�����B
-�@�s�X�n�̒��ݏ��������y�̒�֑ʔn��������āA�R���N���[�g�̘I��̋߂��Ɋ���Ă����B�q�v�����͘I��̂Ƃ���ɗ����ď������}�����B�����͔n�̏ォ��q�v�����Ɍ������B
-�u�ӑ���Ă������͎�l�����̕����ցA�ǂ�����������炵����������˂����ˁH�v
-�u�������̂͂��̊K�i������āA��������c�c�v
-�@�q�v�̈�l���O�֏o�Ȃ��猾�����B
-�u���Ղ������c���Ă��Ȃ����ȁH�v
-�u�Ȃɂ���A����炪�S�C�̉��𕷂����ēy���ł����Ăǂ��ǂ��Ƌ삯���񂾂��񂾂���A�ǂꂪ����̑��Ղ����A�͂������A�Ă�ŕ�����Ȃ��Ȃ��Ă��܂��āc�c�v
-�@�����������̊�����グ�Ȃ��猾�����B
-�u����ŁA���삳��͂ǂ��ɂ���񂾂ˁH�v
-�u���삳�܂͒��ɂ��܂�����c�c�v
-�@�����͂��������āA�����̏���Ă���n�̌D�s����t�𑨂����B�����͎�j����s�ق��t���āA�n���牺�肽�B�����āA���C�̂܂܂ŘI��֏オ���Ă������B
-�u���ꂩ��ς܂˂����A���̔n�Ɏ��t������Ă����Ă���˂����Ȃ��B�ߏ��̔n���؂�Ă����񂾂���c�c�v
-�@�����͘I��̏ォ��A�v���o�����悤�ɂ��Č������B
-�u�͂��I�v
-�@�����͂��������Ȃ��炻�̔n��q�v�̈�l�ɓn���ƁA�I��ɋ삯�オ���ď����ƈꏏ�ɕ����̒��ɓ������B
-�@�����̐^�񒆂ɂ̓X�g�[�u���R���Ă����B�I�v�q�͐^���Ȋ�����Ĕk��ɕt���Y���Ȃ���A���̃X�g�[�u�̑O�ɍ������낵�Ă����B
-�u�I�v�����I�@�x�@�����s����t�ׂɂ����ł�������������A�Ȃ�ł��{���̂��Ƃ�\���グ�āc�c�v
-�@�����͂��������āA�����ƋI�v�q�Ƃ��������킹���B�I�v�q�͐Â��ɍ����グ�āA�����s���Ȃ��t��Ȃ���y����߂����B
-�u���������A�ǂ������Ƃ����񂾂ˁH�@���Ȃ��̂���������E���Ă����Ă���A���Ȃ��܂ŎE�����Ƃ����񂾂ˁH�v
-�@�����̓X�g�[�u�Ɋ���Ĉ֎q�s�����t�ɂ����Ȃ���u�����B
-�u�͂��A�킽�����C�̂����̂́A�ӑオ�����E���Ă��܂������Ƃ������̂ł������܂��B���̚X�萺�Ŗڂ��o�܂��āA�ӑオ���̋�����Z���𔲂��Ă���̂��킽�������Ă��܂������̂ł�����A�ӑ�͋}�ɂ킽���܂ł��E���Ă��܂����Ǝv�����̂��Ǝv���܂��v
-�u����ŁA���Ȃ��͂����A�����������ɎE���Ă��Ƃ����C�ɂȂ����񂾂ˁH�v
-�u�������I�@���̎��́A�ǂ������ē����悤�Ǝv�����̂ł������܂��B�킽���������ĕ��̐Q���̂ق������Ă��܂��ƁA�ӑ�͒Z����U��グ�Ă킽���̂ق��֔�т������Ă������̂ł�����A�킽���͂��������������̂ł������܂��B����ł��A���̂Ƃ���֒ӑ�̒Z���������Ă���肪�G��āA���Ђ������̂ł����ǁA�킽���͂ł��邱�ƂȂ�ǂ������ē����悤�Ǝv���܂��āA���̕����܂œ����Ă����̂ł����ǁA�����܂ŗ��Ă��������؂�Ȃ��Ȃ������̂ł�����A�S�C������ċt�ɒӑ���Ёs���ǁt�������Ƃ����̂ł������܂��B�����āA�킽���͂��̎����A�ʂɎE�����Ƃ����C�����͂Ȃ������̂ł����ǁc�c�v
-�u�������A�S�C�ɒe�ۂ����܂��Ă������Ƃ͑O����m���Ă����񂾂낤���Ȃ��v
-�u�������I�@�킽���͂����ɂ����Ă���S�C�݂͂�ȏ����Ƃ��Ă����Ă���̂ŁA�e�ۂȂǍ��܂��Ă��Ȃ��悤�Ɏv���Ă����̂ł������܂��v
-�u�܂��A���낢��̓S�C������񂾂Ȃ��B�ق��I�@�����c�c�v
-�@�����͂��������āA�����̕ǂɂ������Ă���S�C�Ⓛ�̂����ɖڂ������Ă������B
-�u�ł�����A�킽���͓S�C�Œӑ�̋��̕ӂ��˂��āA�ӑ���Ђ����Ă�낤�Ǝv�����̂ł������܂��B����Ȃ̂Ɂc�c����Ȃ̂Ɂc�c�v
-�@�I�v�q�͂��������āA�܂��񂾁B
-�u�������A�����͈������񂾂낤�H�v
-�u�킽���͈������悤�ȋC�����Ȃ�������ł����ǁA��͂�c�c�v
-�u���ꂶ��A�����h�q�Ƃ��Ă̎E�l�Ƃ������͉ߎ��Ƃ��Ă̎E�l�ŁA�ǂ����ɂ��Ă����Ȃ��ɂ͍߂��Ȃ��킯���B�������A�ꉞ�͖{���̒��ׂ��󂯁A�ٔ����󂯂Ȃ�����Ȃ�񂩂������ˁB�����Ă��̎��ɂ́A����Ƃ��ꂩ�A���̖q��̂��ꂩ���ؐl�Ƃ����킯�ɂȂ邾�낤�Ǝv�����A���������A�����΂��ɂ��̌����ڌ������̂͂��ꂩ�ˁH�v
-�u�k��I�@�k�₾������ł˂����H�@���ꂪ�����Ă����Ƃ��A�k��͂������Ă�������v
-�@�����͉�������������B
-�u�k����I�@���܂����񂩂ˁH�v
-�u�͂��I�v
-�@�k��͏�������悤�ɂ��Č������B
-�u����ŁA���܂����񂪂��̕����֓����Ă����Ƃ��A���̋I�v�q����͂ǂ�ȕ��ɂ��Ă������ˁH�v
-�u�킽���͂Ȃ�ɂ�������܂��Ȃ񂾁B�킽���͓����̂Ƃ���ō����c�c�I�@�����c�c�I�@�������������Ȃ��Ȃ��Ă��܂��āc�c�v
-�u���𔲂������Ƃ����̂��H�@�������A���𔲂������̂́A�������𔲂����قǋ������̂��������甲�������񂾂낤���A���̌������̂𕷂������񂾁v
-�u�͂��A�킽���͂ȁ[�ɁA���̕����֓����Ă܂���܂����Ƃ��A���ӂ�����F�������s�͂�΁t���Ă�Ǝv��������ł�����ˁv
-�u�������A�ӑ�Ƃ����̂������Ƃ���΁A���܂�����ƈꏏ�ɕ����ɂł��Q�Ă����񂾂낤���A�N���Ă���Ƃ��ӑ�̂��Ȃ��������Ƃɂ͋C�����Ȃ������̂��H�v
-�u�ȁ[�ɁA���ӂ���͑O�̓��ɂ͂��Ȃ��Ȃ��Ă�����ł�����ˁB����ŁA�S�C�̉�����������ł�����A�F���o���̂����ꂩ���Ђ����Ă�̂��Ǝv���āA�킽���͌F�����I�@�F�����I�@���ċ���ŒU�߂��m�点�ɗ��܂�����A�����ɍ������̂����܂����́A�F���Ǝv���Ă��܂��āc�c�v
-�u���������B����ŁA�ӑオ�O�̓����炢�Ȃ������Ƃ����̂͂ǂ������킯���ˁH�v
-�u����́c�c�v
-�@�����͂ЂƑ��O�̂ق��֏o���B
-�u�ӑ�͂킽���̖��ł��āA�����Ɉ⏑������܂����A�������̉��~���瓦���o�����̂ł������܂����A�r������A��߂��ċA�����̂ł������܂��B�����āA�A��߂�܂��Ă��炱�̎����܂ŁA�ǂ����ɉB��Ă��Ďp�������Ȃ������킯�ł��v
-�u������������ŕ��������v
-�@�����͂��������Ȃ���A�����̎肩��ӑ�̈⏑���󂯎���āA����ɂЂƂƂ���ڂ�ʂ����B
-�u����ɂ��Ǝ�l������ł����悤������A�A��߂��ꂽ���Ƃ�ߊς��āA���݂̂����l���E���āA����������ł��܂����Ǝv�����̂�������Ȃ��Ȃ��v
-�u�A��߂����Ƃ��ɁA�������s�Ђǁt�����s�����t�����̂ł������܂��B���ꂩ��}�Ɏp���B���Ă��܂��āc�c�v
-�u�������A����ł���҂��E���Ď��������̂��Ƃ����Ƃ��ɁA�����̔ƍs�𔭌����ꂽ����Ƃ����Ă��̐l�܂ŎE�����Ƃ����̂͏������������Ȃ��B���Ȃ��͂��̎��A�e�̋w�Ƃ����悤�Ȃ��Ƃ��v��Ȃ��������ȁH�v
-�@�����͎���X�s�����t����悤�ɂ��Ȃ��猾�����B
-�u�������v
-�u�ǂ����������������v
-�u���͒U�߂��܂΂���łȂ��A���삳�܂�����ł����悤�Ȃ�ł��B�U�߂��܂��������̂͒m��܂��񂯂�ǁA�A��߂�Ƃ��킽�����n�Ԃ̂��������Ă�����ł����A���삳�܂͔n�Ԃ̒��ō������������Ă��܂�������B����͌Z�Ƃ��āA�T�ŕ������قǂł������܂�������v
-�@�������܂��������������B
-�u����Ȃ番����B�ł́A���Ȃ��͒ӑ������ȂɎ���قǉ������ނ悤�Ȃ��Ƃł��������̂��ȁH�v
-�u�������I�@�ӑ�͖��̂悤�ɂ��킢�����Ă������̂ł�����A���ꂪ�������̂ŁA���̏ꂾ���Ȃ�ł����ǋ}�ɕ������������̂ł�����v
-�u����Ȃ番����B����ł͂Ƃɂ����A�{���܂ňꏏ�ɍs���Ă��炨���B�����āA�ꍇ�ɂ������ٔ����󂯂Ȃ�����Ȃ�񂩂�����񂪁A�S�z�͂Ȃ��낤�v
-�u�ؐl�Ƃ��āA���̂킽�����܂������ق��������Ƃ����̂ł�����H�v
-�@���������������猾�����B
-�u�ꏏ�ɍs���Ă��炨���B����ɁA���낢��؋��i�������Ă����Ȃ�����Ȃ�˂�����Ȃ��B�Z���ƓS�C�Ɓc�c���ꂩ��c�c�v
-�u���[�͂ǂ����܂��傤���H�v
-�u���[�͖{�����痈��̂�҂��ĕЂÂ���̂��{�������A��̎��[�͔Ɛl���͂�����ƕ������Ă��Ă��̔Ɛl������ł���񂾂��A���̈�̎��[�͂�����E�����l�����񂵂Ă���̂�����A�ЂÂ��Ă��܂��Ă������낤�B�{������m���ɗ�����̂Ȃ�ЂÂ����ɑ҂��Ă��Ă������̂����A�k�C���̎R�����Ⴛ��ȗ�͂��܂�Ȃ�����Ȃ��B������A�n�ԂȂ�Ȃ�Ȃ�p�ӂ��āA�����o������x�x�����Ă���B�������イ�ɖ{���֒����Ȃ��Ȃ邼�v
-�@�����ɑ�����āA�����͘I��֏o�Ă������B
-�u���[���I�@���ꂩ�����n�Ԃ̗p�ӂ����Ă��Ă���B���ꂩ��A�U�߂��܂̎��[�ƒӂ̎��[�͂��������ЂÂ��Ă�������������Ȃ��B����͂��ꂩ��x�@�֍s���Ȃ�����Ȃ�˂�����A�����ЂÂ��Ă��܂��Ă���v
-�@�����͘I��̏ォ��A�q�v�����֐����������ĘN�炩�Ɍ������B
-�m�����y�[�W�n
-
-�@�@�@��܏�
-
-�@�@�@�@�@�@�@�P
-
-�@�����͂Ȃɂ����킸�ɁA���́s�Ԃׂt���܂�Ŕ��΁s�قق��t�݂Â����B
-�i�ԁs���܁t��������˂��I�j
-�@���΂݂̒�ŁA�ނ͂�����s�Ԃ�t���Ă���̂������B
-�u��������I�@���݂͌��������Ȃ��Ȃ��ċA���Ă����̂��I�v
-�@���c�h��Y�͂��肶�肵�Ȃ��狩�Ԃ悤�ɂ��Č������B�������A�����͂�͂�����J�����Ƃ͂��Ȃ������B�����āA�ނ͕ځs�ނ��t��U��U��s�C���ɔ��΂݂Ȃ���A�X�Ɂs���܂�t�̑O�����������B�X�ɂ̑O�͓D�^�s�ł��˂��t�̓ʉ��̂܂܁A�܂����������Ă��܂����B�R���N���[�g�̂悤�ɍd���Ȃ��Ă����B�����͕ڂ�U��U��A���S�s�Ă��Ăt�̐Ղ̂��̍d���ʉ����R���s�������t�����B���̓���ɂ�A�X�J�q���X�J�약�̈�i�̍����ȕڂ͗z�s�Ёt�ɂ���߂��Ȃ���A�҂イ�҂イ�Ɩ����B
-�u�����āA���̕ڂȂ񂩂����āA����Ɏ����o�����肵�Ă����̂����H�v
-�@�h��Y�̌��t�͂������ɐh煁s�����t�ɂȂ��Ă������B
-�i�n����Y�s�΂���낤�t�߁I�@�����̑��������ꂩ���Ă���̂��m�炸�ɁA�̂����Ȃ��Ƃ΂��芫�s��߁t�����ĂĂ��₪��j
-�@�����͂����v���Ȃ�����A���΂��܂�Ŗق�Â����B
-�u�ܓ����O�ɋA���Ă��Ă���Ƃ����̂ɁA�ڂ��ɂ͉��Ȃ��悤�ɉ��Ȃ��悤�ɂƂ��Ă��邵�A�������������ŉ��������Ǝv���čٔ��̖͗l��u�s���t���Ⴀ�܂����������������A�킸���\���΂���̊ԂɂȂ�ĕς������B�܂����������Ă��܂��Ȃ��I�v
-�u�����������˂����I�@�ς��̂͂���΂��肶��˂��񂾁B���܂ɂ��݂����āA����ȏ�ɕς�邳�v
-�u�����I�@���������Ȃ��Ȃ��ċA���Ă����̂��Ǝv������A���������킯�ł��Ȃ��񂾂ȁH�v
-�u����Ⴀ�A�����ɂȂ��Ă����v
-�u�����ɁH�@����͖ʔ����ˁv
-�@�h��Y�͕��̓I�Ȕ��΂������Č������B
-�u�ʔ������ƂɂȂ邾�낤�Ƃ��B�ʔ����Ėʔ����āA�܂��o��قǖʔ������ƂɂȂ邾�낤����A�҂��Ă���Ƃ������v
-�@�����͓����o���悤�Ɍ����āA�X�ɂ̑O������q��̂ق��֌����ĕ����������B
-�u��������I�@���݂͂��܁A�ڂ��̂����ɂ���ςȕω�������悤�Ȃ��Ƃ�\�������ˁB���������A����͂ǂ�ȈӖ��Ȃ񂾁H�v
-�@�h��Y�͂��������Ȃ��琳���̌�����Ă������B�������A�����͖ق��Ă����B�فX�Ƃ��Đ����͕ڂ�U��Ȃ���A���q��̂ق��֕����Ă������B
-�u��������I�@�ǂ�ȈӖ��Ȃ̂��͂�����ƌ���Ȃ�����A���̂��Ƃ���������Ȃ�����Ȃ����H�v
-�u���܂ɕ����邳�v
-�u���܂ɕ�������āH�v
-�u����܂��Ƃ������āA���܂ɕ����炸�ɂ͂����Ȃ��Ȃ�̂��v
-�u��������������Ȃ��Ƃ΂��茾���Ă���񂾁v
-�@�h��Y�͎��\�����I�ɋ��񂾁B
-�u����ȕ��ɍl���Ă邤�����K���Ȃ̂��B���܂ɁA���ɂ�����Ȃ��Ƃ͍l�����Ȃ��Ȃ邩��A���܂̂��������ł������v���Ă���񂾂ˁv
-�u�ςȂ��ƌ����ˁv
-�@�l�ߊ��悤�ɂ��Čh��Y�͌������B
-�u�����ςȂ��ƂȂ񂾁B����͖{���̂��Ƃ������Ă���񂾁B�{���̂��Ƃ������̂��ςȂ̂��H�v
-�@�����͊J�������ĉs���������B�ނ͂������΂�ł͂��Ȃ������B�h��Y�͎�������������B
-�u�ڂ��ɂ́A���ꂪ�ǂ����C�ɂȂ��Ďd�l���Ȃ��񂾂�v
-�u�ǐS�ɒp����Ƃ��낪���邩�炳�v
-�u����Ȃ��̂͂Ȃ����ˁv
-�u�Ȃ�������A�Ȃɂ��C�ɂ����邱�ƂȂ񂩂Ȃ�����Ȃ����H�v
-�u���݂��ςȂ��Ƃ��������炾��B�����������̂��Ƃ����A�͂�����ƌ����Ă��ꂽ�܂��B���ނ���v
-�u����Ȃ猾���Ă�낤�B�������A���������̊y������������ł����o�߂Ă��܂���������Ȃ����B����ł�������Ȃ猾�����v
-�u�\��Ȃ��Ƃ��B�b���Ă���v
-�u�����Ă݂�΂܂��A����Ƃ��݂Ƃ̗�����n�ʂ��A�S�R���΂ɂȂ��Ă��܂��̂��v
-�u���ꂪ���΂ɂȂ�H�v
-�@�h��Y�͋����̖ڂ��Ӂs�݂́t���Đ����̊�����l�߂��B�������A�h��Y�͂������ɋ����̕\��������āA���̓I�Ȕ��΂ɕ���Ă������B�����āA�h��Y�͕��̓I�ɔ��΂݂Ȃ��睈���s���t�I�ɐu�����B
-�u����͂ǂ������킯���ˁv
-�u���R���H�@���R�͊ȒP���B���܂܂ł͂��̖q��̂��Ƃ͉����牽�܂ŒU�߁s����ȁt�̈ӎu��Ŏx�z����Ă����񂾂��A���ꂩ��͋I�v�����̈ӎu��Ŏx�z����邱�ƂɂȂ����񂾂���c�c�v
-�u����͂������B�������A�I�v�����̈ӎu�Ŏx�z����邱�ƂɂȂ���������āA�ڂ��̗����n�ʂ��ǂ����ĕς��񂾂ˁH�@�ǂ����āA�ڂ��Ƃ��݂Ƃ̗��ꂪ���΂ɂȂ�񂾂��H�v
-�u���ꂪ������Ȃ��̂��H�v
-�u�ڂ��ɂ͕������ˁB�ǂ��������ƂȂ񂾂��H�@����𕷂����Ă���v
-�u���݂́c�c�I�v�����͎����̈ӎu�ŁA���݂ƌ��������悤�Ƃ��Ă���̂��Ǝv���Ă���̂��H�@���R���鎩���̈ӎu�ŁH�v
-�u����͂������낤�Ȃ��v
-�u�͂��͂��͂��I�c�c�v
-�@�����͑吺�ɏ΂��������B
-�u�����s���ʂځt��ɂ��قǂ�����B�c�c�I�v����񂪋I�v����񂾂��̈ӎu�ŁA������Ȃ�ł����݂ƂȂǂƌ��������悤�����v�����Ⴂ�Ȃ����낤�Ȃ��B����͂��������B�܂��������������c�c�v
-�@�����͂��������đ吺�ɏ΂��Â����B�h��Y�͂Ԃ�Ԃ�Ɛg�����s�ӂ�t�킹�Ȃ���A�^���ԂɂȂ����B�������A�����͂Ȃ����吺�ɏ΂��Â���̂������B
-�u�����A��������Ȃɂ��������񂾂��H�@�I�v�����̈ӎu���ǂ����m��Ȃ����A���܂ɂڂ��ƋI�v����񂪈ꏏ�ɂȂ邱�Ƃ����͊m���Ȃ񂾁B���̎��ɂȂ��Ă���A�Ȃ�Ƃł������������Ƃ��������B�ڂ��͎����̉��j����y�̂���āA����Ŗق��Ă���悤�ȁA����قǂ̑P�l����Ȃ�����v
-�@�h��Y�͓{��̂��߂ɋh�s�ǂ��t��ǂ���A�g�����킹�Ȃ��猾���̂������B
-�u�͂��͂��͂��H�@�c�c�����������B�����������B�܂������I�@�c�c�������A�U�߂��ܑR�ƍ\����Ȃ��ǂ������������悤�ȋC�����邪�Ȃ��v
-�u���������񂾁H�@���łɌ��肵�Ă��邱�Ƃ��A���������񂾁H�v
-�u�������A�����̈ӎu�Ŏ��R�ɂł��邱�ƂɂȂ�ƁA�I�v����񂾂��āA���ꂩ�{���Ɏ����̍D���Ȑl�ƌ��������邩������Ȃ�����Ȃ��B���݂͂���ƁA���܂̂���̂悤�ɉ��j�Ƃ��ē����Ȃ�����Ȃ�Ȃ��Ȃ邩������Ȃ�����Ȃ��B�����āA����͂ǂ�������Ȃ��ƂɂȂ肻������v
-�u���������Ă���񂾁B���݂͂���ŁA�ڂ����y�̂��؂��Ă���񂾂ȁH�@�A���Ă��Ă����A�s�������t�����Ȃ���΁A����ɕ��������o�����肵�āB�ǂ�Ȃ��ƂɂȂ邩�A���܂ɖڂ̊o�߂�Ƃ������邳�v
-�u���Ȃ��Ƃ��A����͂��݂�U�߂��܂Ƃ��đՁs�������t���悤�Ȃ��Ƃ͐�΂ɂȂ��Ȃ��B���̎��������񂾁v
-�@�����͓�������悤�Ɍ����Ȃ���A�X�ɂ̑O������q��̂ق��֕����������B
-�u�������Ă₪��B�����l�E���������̂ŁA���������Ȃ�₪�����񂾂낤�v
-�@�h��Y�͐����̌�p��������Ȃ���A�Ƃ茾�̂悤�əꂢ�ĐO�����s���t�񂾁B
-
-�@�@�@�@�@�@�@�Q
-
-�@�h��Y�̋��͗��s���炵�t�̂悤�ɑ����������B
-�i�����̓z�s��t�͂��̂��ꂩ��A�I�v������D�s�Ɓt�낤�Ƃ��Ă���̂���Ȃ��̂��ȁH�j
-�@����ȕ��Ɍh��Y�͍l�����̂������B
-�i�����ē����ɁA���̐X�J�Ƃ̍��Y���A�܂肨��̍��Y���A�����̓z�͂��ꂩ��D�낤�Ƃ��Ă���̂���Ȃ��̂��H�j
-�@�h��Y�͐g���ɁA�s������̋삯����悤�ȏՌ����������B
-�i�����̓z�ƋI�v�����Ƃ͌Z���̂悤�ɂ��Ĉ�����̂����A�q���̎����ɂ͂���̂ق���萳���̓z���I�v�����͍D���������̂�����c�c�j
-�@�����ցA�d��z�B�v��������ăR���N���[�g�̂悤�ɂȂ��Ă���ʉ��̓����A���]�ԂŊ���Ă����B
-�u��������͂��܂����H�v
-�@�d��z�B�v�͎��]�Ԃ����щ���Ȃ��猾�����B
-�u�d�񂩁H�v
-�@�h��Y�͖ڂ��ӂ�Ȃ��猾�����B
-�i�����̓z�ցH�@�����̓z�ւ��������A�ǂ�����d��ȂǗ���Ƃ��낪����̂��낤�H�j
-�@�h��Y�̌y�������̒��ɂ́A���i�s�����Ɓt�̋C��������������Ă��Ă����B
-�u��������֗�����ł����ˁv
-�@�d��z�B�v�́A����ł������ȐԊv�̊��s���΂�t�̒�����d������o�����B
-�u����̂ł������A��s����t���Ă������B�����͕��q��̂ق��֍s���Ă��邩��v
-�u����ł́A���Ȃ�����n���Ă��������ˁB���݂܂���v
-�@�d��z�B�v�͂��������Čh��Y�̎�ɓd���n���Ă��܂��ƁA�����܂����]�ԂɌׁs�܂����t���ēʉ��̓����A���Ă������B�h��Y�͓d�����ɂ��āA�����Ɠd��z�B�v�̌�p�����������B�d��z�B�v�͊Ԃ��Ȃ����q��̊O����ㅁs�߂��t���Ă��鍂���y��̉A�ɏ������B�h��Y�͂����ŁA���q��̒��ɐ����̎p��T�����B�������A�����͂ǂ��ɂ������Ȃ������B
-�@�h��Y�͉X�Ɂs���イ����t�̒��ֈ����Ԃ����B�����āA�ނ͌�������鋹�������Ɨ}����悤�ɂ��āA���̓d����J�����B
-�i�����U�C�j�P�c�e�C�@�O�l�J�E�`�j�J�G���@�L�N�R���j
-�@�d��ɂ͂����������B
-�@�h��Y�̐S���͗􂯂�قǌ������A���̂悤�ȏd���M�𔺂��Ēe�݂������B�����ɁA�ނ͂��̓d�����^�킸�ɂ͂����Ȃ������B�ނ͉X�ɂ̌ˌ��֍s���āA���邢�O���Ɉ����s���Ăȁt�����������B
-�i���q�K�V�n���@�����^�j�{�N�W���E�i�C�@�^�J�I�J�}�T�J�c���j
-�@�u�ԁA�h��Y�̎��͋D�J�̂悤�Ɍۖ����h���Ė肾�����B�����ɁA��������ɂ��S���ɐH�����Ă����B���̒����΂̎Ԃ̂悤�Ȃ��̂��A�Q����������]�����B
-�i�ޏ��͐S�ς�肪�����̂��B�����̓z���x�s���܁t����āA�ޏ��͋}�ɐS�ς�肪�����̂��j
-�@�h��Y�͉΂�f���悤�ȑ������āA�S�̒��əꂢ���B
-�i�����̓z�����邩��Ȃ̂��B�����̓z�������Ȃ���΁A�ޏ��̋C����������Ȃɋ}�ɕς��킯�͂Ȃ��̂��j
-�@�h��Y�͓d���m���̃|�P�b�g�ɓ˂�����ŁA�X�ɂ̒�����҂イ���Ɣ�яo�����B�����āA�ނ͎����̕����ɓ����Ă������B�����ɓ���ƁA�ނ͕ǂɂ����Ă���e�������́s���t�񂾁B�����āA�����܂��ˊO�֔�яo���Ă������B
-�i�����̓z���A�ǂ�Ȃ��Ƃ������Ă��{�炵���Ⴂ���Ȃ��B�����̋@�����Ƃ��Ă����āA���������f�����Ă���Ƃ��c�c�j
-�@�h��Y�͋C��Â߂Ȃ���A���q��̂ق��֋삯�����Ă������B�������A�����̎p�͕��q��̂ǂ��ɂ������Ȃ������B
-�u�J����̂ق��֍s�����̂��ȁH�v
-�@�h��Y�͂����l���āA�l�p�ȃR���N���[�g�̐��傩�瓹�H�̂ق��֏o�Ă������B���傤�ǂ����ցA�������}�����Ɋ���Ă����B�������A�����͌h��Y�̎p������Ƌ}�ɗ����~�܂����B
-�u�h��Y����I�@�����V���s�����ӂ�t���Ă���񂾂��H�v
-�@�����͖ڂ��ӂ��Č������B
-�u�F�s���܁t���o���񂾂�B���s�ɂ�t�̖؂̏�̗т�����q��̂ق��ցA�̂��̂��Əo�Ă���̂��͂�����ƌ������񂾁B�ꏏ�ɍs���Ă���Ȃ����ˁv
-�@�h��Y�͋���e�܂��Ȃ��猾�����B
-�u�F���H�@���ꂶ��A���ꂽ���΂���łȂ��A�吨�ōs�����v
-�u�ڂ��Ƃ��݂����ő�R����v
-�u������A���݂͂���̓d���a�����Ă�͂����ȁH�@���܂����Ŕz�B�v�����������Ă������c�c�v
-�u�F���o����ŁA�d��̂��ƂȂ񂩖Y��Ă��܂��Ă����v
-�@�h��Y�͘T���s�낤�΂��t���Ȃ���d������o�����B
-�u�I�v����񂩂炾�낤�H�v
-�@�����͂��������āA�������̓d����L�����B
-�u�����I�@���߂Ɍ���I�@���߂Ɍ���I�@���߂Ƃ������Ƃɂ��悢�挈�肵���񂾁B���߂Ɍ���I�@���߂Ɍ���I�@���߂Ɂc�c�v
-�@�����͂������тȂ���A�d����Ђ�Ђ�ƐU��A�}�ɗx�肾�����B
-�u��������I�@��������ȂɊ��s����t�����񂾂��H�v
-�@�h��Y�͕��̓I�Ȕ��΂������Č������B
-�u���R�̂��Ƃ���Ȃ����I�@�I�v����񂪖��߂Ɍ��肵�āA�O�A�l�������ɂ͋A���Ă���񂾂��́B�ق��I�@���߂Ɍ���I�@���߂Ɍ���I�v
-�u��������I�@���݂͋I�v����񂪖��߂Ɍ��肵���̂��A����ȂɊ������̂��H�@�����̖����E�����������߂Ɍ��肵�����āA�����������̂��ڂ��ɂ͕�����Ȃ��Ȃ��v
-�u����ɂƂ��Ċ������������A���܂ƂȂ��Ă݂�΂��݂ɂƂ�����߂������Ƃ��v
-�u���������Ă���񂾁I�@���݂͖������킢�������Ƃ͎v��Ȃ��̂��H�@�����̖����E�����������Ƃ��􌎂ɂ�����A�Y�����Ɂc�c�v
-�u�]�v�Ȃ����b����B�ӂƋI�v�����Ƃ��ꏏ�ɂ������񂩁B�I�v�����̂��߂Ȃ�A�ӂȂ񂩕S�l�E���ꂽ���Ă����񂾁B�I�v�����Ƃ���Ƃ��ǂ�ȕ��ɂ��Ĉ���Ă������A������l���Ă݂�B���ꂩ��A���̖q�ꂪ�o���オ��܂ł���̐e���s���₶�t���ǂ�Ȃɓ�V�������A������l���Ă݂�I�@����̐e���͌����Ă݂�΁A���̖q��̂��߂Ɏ��񂾂񂾂��v
-�u���̂��ƂƁA�I�v����񂪖��߂ɂȂ����Ƃ������ƂƁA�ǂ��֌W������񂾂ˁH�v
-�u���ꂪ����Ȃ��Ă��A�I�v����񂪎O�A�l�������ɋA�邩��A����܂ő҂��Ă���񂾂ˁB�����Ƃǂ������I�@���߂Ɍ���I�@���߂Ɍ���I�v
-�@�����͂��������āA�ӂ����їx�肾�����B
-�u��������I�@����͂���Ƃ��āA���ꂶ��A�����ꏏ�ɍs���Ă���v
-�u�F���H�@����͂��Ƃ��B�I�v����񂪋A���Ă��˂������ɁA�F�ƊԈႦ�ĎE���ꂽ�肵���።�邩��Ȃ��B���ꂩ�ق��̓z��A��Ă�����B����͑O�j���ł����Ă��邩��B�����Ƃǂ������I�@���߂Ɍ��肾�I�@���߂Ɍ���I�@���߂Ɍ���I�v
-�@�����͂������тȂ���A�x��悤�ȑ����Ōh��Y�̑O�𗣂�Ă������B
-
-�@�@�@�@�@�@�@�R
-
-�@�J������ђʂ��鉝�҂�����ŁA�܁A�Z���΂���̖؉H�����s���΂�ˁt�̏W�����������B�X�J�q��ƐX�J�_��Ƃ�ړ��ĂƂ��ẮA�܂�A�q��Ɣ_��ł̘J���ɐg�́s���炾�t�𖁁s���t�茸�炵�ė]�����������s���t��l�X�ɂ���Č`������Ă���A�B��̏��ƏW���ł������B�G�ݓX�E�G�����E�����X�A�����Ȍ���s�݂��ځt�炵�������̓X�̊Ԃɋ��܂��āA�ꌬ�̔��������������������B
-�@�����͗x��悤�ȑ��������Ȃ���A���̋������̒��֓����Ă������B
-�@�������̔��Â��y�Ԃ̒����ɂ͎l�p�̑傫�ȘF�������āA�^���Ԃɉ΂��R���Ă����B�����āA���̘F�̎���ɂ́A������ȑ�����̃e�[�u���ƍ��|���Ƃ�ㅁs�߂��t�炳��Ă������B�����͂��̍��|���̈�ɁA�g�̂𓊂��o���悤�ɂ��č������낵���B
-�u��s�����t�����I�@��{���Ă���Ȃ����H�v
-�u�����I�@�������񂩁H�@����͂���͂��΂炭�v
-�@�K�g��s�����������t�͂��������Ȃ���A�ڂ��ڂ��Ɠy�Ԃ։���Ă����B
-�u�M�����Ă��炢�����Ȃ��v
-�u�M���H�@������B�Ƃ��ɁA�ٔ��͂ǂ�Ȃ��ƂɂȂ������A���肵�˂����ˁH�v
-�@�K�g������s����t�̎x�x�����Ȃ���u�����B
-�u���߂��H�@���߂Ɍ��肵���񂾁v
-�u���߁H�@�ق��I�@���߂��ˁB���ꂶ��A�h��Y����͊��ł�x�H�v
-�u�h��Y�̓z�Ȃ񂩁A�Ȃɂ���Ԃ킯�˂����B�I�v�����͌h��Y�̓z�Ȃ񂩍D������˂��񂾂��́v
-�u����͏������Ȃ��v
-�@�K�g��͂��������Ȃ���A���̍�s�����ȁt�ɉG���s�����t�̉��h���^��ł����B
-�u���x�����ċI�v�����́A���߂Ɍ��肵�����Ă����d����h��Y�̓z�Ɋ�z���˂��ŁA����Ɋ�z���Ă�񂾂���Ȃ��B�I�v�����͂ނ���A�h��Y�̓z�������Ă�񂾂�v
-�u���ꂶ��A���삳��͌h��Y��������A��������̂ق����C�ɓ����Ă���̂���˂��̂��ȁH�@�ǂ��������炵���Ȃ��v
-�@��͂��������Ȃ���A�����^��ł����B
-�u����͂ǂ������D�������A����Ȃ��Ƃ͒m��˂����ȁB�������A�h��Y�̓z���D���ł˂����Ƃ����A����͊m���Ȃ��ƂȂ񂾁B�����h��Y�̓z���D���Ȃ̂Ȃ�A���x�����Ă���̂ق����d�����z���킯�͂˂�����Ȃ��v
-�@�����͏㔼�g�������ƌ��Ɉ����悤�ɂ��āA�F�̉΂̏�ɑ�ҁs�����܂��t���J�����B
-�u����Ⴀ�A�h��Y����������삳��͐���������D���Ȃ̂���B����ɈႢ�˂��Ƃ��B����I�@�M�������Ɂc�c�v
-�@��͂��������āA���̂ł��Ă�����𒍁s�t�����B
-�u����Ȃ������܂��A����Ⴀ�ǂ��������Ă������Ȃ��v
-�@�������A�����̊�ɂ͂Ȃɂ�����A�Â��d�X�������̂̒ꂩ�畂���яオ���Ă��链�ӂ̕\��e�ՂɉB���؂�Ȃ������B�����͐O����΂ɘc�s�䂪�t�߂Ȃ���A�M�����̎��𑱂��Ă��т肮�т�ƈ��݊������B��͘F�̉΂�~�s���t�����ĂȂ���A�����Ȏ�Ŏނ𑱂���̂������B
-�u�ǂ����ł��������Ă������˂����B���܂̂Ƃ��남�삳��ɍD����邩�D����˂������Ă����������A����Ⴀ���肾���B���삳��ɍD�����Ⴀ�A����ł܂��A�X�J���܂̂������܂Ɍ��܂����悤�Ȃ��񂾁B�X�J���܂̍��Y�Ƃ�������A����Ⴀ�܂��債�����񂾁v
-�u����Ⴀ�A���Y�Ȃ񂩂ǂ������Ă����񂾁v
-�u���삳��ɂ��Ă݂�Ⴀ�A����Ⴀ��������̂��Ƃ��C�ɂ���Ȃ������Ƃ��Șb����B�q��̂ق����_��̂ق����X�J���܂ƍ����s���������t���܂Ɠ�l�Ŏn�߂āA�X�J���܂̂��삳��ƍ������܂̖V�����̐�������Ƃ͌Z���̂悤�ɂ��Ĉ�����̂��A�������܂̂ق��������s�K�Ȃ��ƂɂȂ��āA������������삳��̂�������ɂ���̂��Ǝv�����炻������Ȃ��ŁA�h��Y�����A��Ă���񂾂���c�c�v
-�u�I�v����񂪂��ƂȂ������炳�B�I�v����񂪎����̋C��������������΁A�e�������Ė������ɉ��������肵�₵�߂�����v
-�@�����͂����Ă܂��A���т�Ǝ����s�����t�����B
-�u���삳�܂����ƂȂ���������āA�q����n�߂�Ƃ��̂��Ƃ��l����΁c�c�v
-�u����Ȃ񂾁B���ꂾ��A�K�g�ꂳ��I�@����Ⴀ�X�J�̍��Y�������̂��̂ɂ��Ă��Ǝv��˂����A����̐e���΂��肶��Ȃ��A�J����̂ق��̉��l���̐l���������ɍ��s�Ђǁt���ڂɑ����Ă���񂾂���A�ł���ΊJ����̐l���������R�����̓y�n�Ƃ��Ėq��̂ق������s����t���Ă����y�n�΂���͊J����̐l�����̎�ɕԂ��Ă�肽���񂾁B����̐e���������l���Ă����񂾂���A�e���̋C�������p���ŁA����̎�ŕԂ��Ă�肽���񂾁v
-�u����͗��h�ȍl�����B���܂Ȃ�����A���삳��̋C������łǂ��ɂł��Ȃ�񂾂���A���삳�񂪌h��Y������ᐳ������̂ق����D���ŁA�������񂪐X�J���܂̂�������ɂȂ��āA���Ƃ������ł��Ԃ��Ă������A�J����̐l�X���ǂ�ȂɊ�Ԃ��c�c�v
-�u����ŁA����Ⴀ�A���ꂾ����A�I�v�����̋C�������ǂ����Ă��h��Y�̂ق��ւ��r�s�Ȃсt���������˂��񂾁B�h��Y�̖�Y�ɐX�J�̍��Y��D���Ă��܂��΁A����ł����O�Ɠ������ƂȂ񂾂���B�X�J�̐e���͂܂�������l���Čh��Y�̖�Y�𖹂ɂ��悤�Ƃ��Ă����񂾂��v
-�u�������A���삳�܂��h��Y����ɓd�����z���˂��Ő�������Ɋ�z�����̂Ȃ�A���ꂾ���ł��������삳�܂̋C�����͂͂�����ƕ�����悤�����Ȃ��v
-�u�K�g�ꂳ��I�@����Ⴀ����ɂ����āA�������l���������Ă̘b�����Ȃ��B���܂Ɍ��Ă�A���̕ӂ͂܂�ŕς�������̂ɂȂ邩��B�K�g�ꂳ��Ȃǂ����āA���܂��͂����Ƃ悭�Ȃ邩��B�ꂳ��I�@��t�܂����߁v
-�@�����͂������ɐ���������Ă��āA��̂ق��ւ����Ɣu�s���������t��˂����Ȃ��狩�Ԃ悤�ȍ����Ō����̂������B
-�u����͂���́c�c�v
-�@��͔��΂�����Ĕu���󂯂Ȃ���A��������s�����t�肾�����B
-�u����ȕ��ɂ��Ă����Ⴀ�A���ɂƂ�����_���܂̂悤�Ȃ��񂾁B���̐l�����̂��߂ɂł��A���ЂƂ���������ɂȂ��Ă��炢�Ă����񂾂Ȃ��B���̐l�������悭�Ȃ�Ⴀ�A����̂ق��������悭�Ȃ�̂����A����Ⴀ���ЂƂ��c�c�v
-�u�I�v�����̋C�������A�ǂ������Čh��Y�̓z����􂢂āc�c�v
-�@���̎��A������̌˂��J���āA�s�ӂɌh��Y�������Ă����B�����͋}�Ɍ��𚁁s���t�񂾁B�����āA�����Ɩ�Ƃ͊�������킹���B
-�u������������Ă�̂��H�v
-�@�h��Y�͕@�ł����炤�悤�ɂ��Ȃ���A�����ƌ��������ɁA�F�[�̍��|���֍������낵���B
-�m�����y�[�W�n
-
-�@�@�@��Z��
-
-�@�@�@�@�@�@�@�P
-
-�@�Ћ��̕ǂɑ�������Ă���y�Ԃ̃X�g�[�u�ɂ́A�d�s�܂��t���҂��҂��ƒ��˂Ȃ���^���ԂɔR���Ă����B�h��Y�̓X�g�[�u�̂ق��֒��C�̗�����L�΂��ĉ����s���΂��t���ӂ����Ȃ���A���̌��t���S�O�s���イ����t�����B����Ə�O�Ə��g�Ƃ̎O�l�̓X�g�[�u�Ɏ���������āA�d�����ق̒��Ɍh��Y�̌��t��҂����B�������A�h��Y�͉��������s����t�炵�Ă͂��������ƐO�����s���t�ݒ��߂邾���������B
-�u�Ƃɂ����A�����̖�Y�͒U�߁s����ȁt���S���Ȃ��Ă�����Ă��́A���ӋC�ɂȂ��Ă������Ƃ����͊m�����v
-�@���Ⴊ������C�荇�킹�Ȃ���A�v���o�����悤�Ɍ������B
-�u����Ȃ�{�����v
-�@���g������グ�āA���Ԃ悤�Ɍ������B
-�u����΂��肶��˂��A���̖�Y�͂Ȃɂ��d�������˂��ŗV��ł΂��肢�邼�B�����āA�U�߂̒��C�𗚂�����A�U�߂̕ځs�ނ��t�������o������A����Ȃ��Ƃ΂��肵�Ă��₪���v
-�u��������Ƃ�����A���ꂮ�炢�̂��ƁA�Ȃ�ł��Ȃ����ƂȂ񂾁v
-�@�h��Y�͎O�l�̎҂������ɔ���������Ă���̂�m���āA�}�ɐ����𓾂Ă����B
-�u�Ȃɂ���A��������͑�ςȂ��Ƃ���s������t��ł�̂�����Ȃ��B���͂���ŁA���݂����O�l�ɑ��k���Ă݂悤�Ǝv�����킯�Ȃ񂾂��ˁB�������A����͂ق��̐l�����ɂ͂���ɂ��m�点�����Ȃ����ƂȂ񂾁B�ڂ��͂��݂����O�l�ɂ����ł������āA�ق��̐l�����ɂ͐�Δ閧�ɂ��Ă��������Ǝv���񂾁v
-�@�h��Y�͂����܂Ō����āA���t��؂����B�����֔k�s�΂��t�₪�g�����^��ł����B�g����T�s�����t��Ȃ���ӂ����ђ��ق������������B
-�u����ŁA�����̖�Y�͂ǂ�Ȃ��Ƃ����ł�̂��ˁH�v
-�@���΂炭���Ă��珼�g�͂��������āA���ǁs������t�ɉ������l�߂��B
-�u��������͂��̐X�J�Ƃ̍��Y���A�����̂��̂ɂ��悤�Ƃ��Ă���̂���B���l�s�ЂƁt���畷�����b������ǁA�ǂ��������炵���C�U�肪�ڂ��ɂ��������łˁB����ł��݂����ɑ��k���Ă݂�킯�Ȃ񂾂�v
-�u���̖�Y�Ȃ�A���ꂮ�炢�̂��Ƃ͊�݂��˂Ȃ��Ȃ��v
-�@���Ⴊ��������Ō������B
-�u����ŁA���݂����͂ǂ��v�����ˁv
-�u�ǂ����������˂����Ƃ��Ⴀ��܂��񂪂Ȃ��B�����̖�Y�����܂̂����ɁA���̖q�ꂩ��ǂ��o���Ă��߂��΂�����ł���B���ꂪ�Ȃ�ƌ��������āA���܂̂Ƃ��날�Ȃ��͂��̖q��̎�l�s���邶�t�Ȃ̂�����A���Ȃ������̖�Y��ǂ��o�����ɂႠ���������͂˂��͂����v
-�u�������A�ǂ��o���Ƃ����Ă��A�ȒP�ɏo�Ă����j����Ȃ�����Ȃ��v
-�u���Ȃ����т��т��Ƃ��Ⴀ�A����Ȃ��ƂȂ�ł��˂����Ⴀ��܂��񂩁B����̂˂����Ƃł���B�ʓ|�ȂƂ��Ⴀ�A�����̖�Y��l���ꂦ�Ȃ���ł��߂��΂����񂾂���Ȃ��B�@�s�����t���E���ĒJ��ւł���������ł��߂��΁A����ŕЂÂ��Ă��܂��񂾂��́v
-�u�������A�I�v�����̋C�������ŋ߂ł͂ڂ��̂ق�������������̂ق��֌X���Ă��邩������Ȃ��̂�����A�I�v����񂪋A���Ă��āA����������t�ɂڂ��̂ق����ǂ��o����邩������Ȃ�����Ȃ��v
-�u����Ȃ�A���삳�܂̋A���Ă��˂������ɁA���܂̂����ɂ���Ă��߂��΂����ł���B�܂������ɁA���������̂��₪�邱�Ƃ��������āA�����ɂł�������񂾂Ȃ��B����ŁA�������������ǂ���ɂ��˂���Ȃ�A���ꂽ�����ق��Ă��˂�����v
-�u���������A�����̖�Y�͍����͉������Ă�񂾁H�@�����͒����猩���˂�����˂����H�v
-�@���g���ˑR�A�v���o�����悤�ɂ��Č������B
-�u�����͘Q���ɏ���āA���q��̂ق��œS�C�������ĕ����Ă�����v
-�u�Q���ɏ���āH�v
-�@�h��Y�͋����̕\��ŁA�u�s���t���Ԃ����B
-�u�߂���͐����̖�Y�A�Q���ɂ�����܂����v
-�u�Q���������̏��n�ɂ������Ȃ̂��ȁH�@�Q���Ȃ�A���n�Ƃ�����ŏ�̔n������Ȃ��B�܂������A���̖q��̒��ł������Ƃ��l�i�̏o�Ă���n�����A��������������΁A���ꂾ���ł����Q���͋M���K���̏��n����v
-�u����𐳏��̖�Y�ɏ���ɂ����Ă����Ȃ�āA����Ȕn���s�΂��t�Ȃ��Ƃ͂˂��I�@�h��Y����I�@���ꂪ���������Ă��邩��A���Ȃ����炮���ƍ����~�߂Ȃ�����B����ŁA���̖�Y�����Ȃ��̌������Ƃ𕷂��Ȃ�������A���̂Ƃ��Ⴀ����炪�ق��Ă˂�����v
-�u���ꂶ��A�Ƃɂ��������~�߂Ă݂悤�v
-�u���ꂶ��A�݂�Ȃ͉X�Ɂs���܂�t�̑O�֍s���āA�������ő҂��Ă��Ă���B�������������Ă��邩��v
-�@����͂��������Ē��C�������������Ɩ炵�Ȃ���A�ˊO�֏o�Ă������B
-
-�@�@�@�@�@�@�@�Q
-
-�@����͌I�сs���肰�t�̔n�ɏ���āA���q��̌͑��̒����꒼���ɋ삯�Ă������B
-�@�����͘Q���Ɂ��m���u���ւ�{��̂���v�A��3����1-92-34�n�s�����t�𓥂܂��āA���s�ɂ�t�̖؂̂���Ζʂ��G�ؗт̒J�̂ق��։���Ă���Ƃ��낾�����B�E��ɂ͗e�������āA��j�͍���ŎJ�s���΁t���Ă����B�����͂����āA�؂̎}�ɒ���T��Ȃ���A���Ⴊ�������̋߂��֍s���܂Œm�炸�ɂ����B
-�u�����s�܂����t�����悤�I�v
-�@����͔n�̏ォ�琺���������B
-�u�����񂩁H�v
-�@�����͌y�������̕\��ŐU��������B
-�u���������ɁA��U�߂�������Ɨp�������邻�����Łv
-�u��U�߁H�@��U�߂��āA������������̂��Ƃ����H�v
-�@�����͖j�s�ق��t��c��܂��Ȃ���A�����I�Ɍ������B
-�u����Ȕ���Ȃ��Ƃ͌������񂶂�˂���B�p��������񂾂���������A�ꏏ�ɗ��Ă����v
-�u�������A����ɂ͂���̂��Ƃ���������˂��Ȃ��B����炪��U�߂��ČĂ΂Ȃ���Ȃ�˂��l�Ԃ��A���܂��̖q��ɂ���̂��ˁB����ɂ͕�����˂��v
-�u������Ȃ��B�h��Y���񂪗p��������񂾂��Ă��v
-�u������I�@���݂͂����h��Y��U�߂ɂ��Ă���̂����H�v
-�u����Ȃ��Ƃ����������āA�d�����Ȃ�����Ȃ����H�v
-�u�d�����Ȃ��H�@������I�@���݂̐e���s���₶�t�͓��n����͂�΂�ƁA��V�����ɂ���ȂƂ���܂ŗ����̂����H�@�q����q��̈��������ɂ��悤�Ǝv���āA����ȂƂ���܂ŗ����̂����H�@�r�n�𑼐l�̂��߂ɊJ�������̂����H�@����Ȃ���ł���̐e���ɂ��ė����̂���˂��Ǝv�����Ȃ��v
-�u����Ȃ��Ƃ����������āA�͂��܂�Ȃ���v
-�u�ǂ����Ă��ˁH�@���݂̐e���̊J�������Ƃ���͂��݂̐e���̓y�n�ŁA�����ɂ��݂̓y�n�Ȃ񂾁B�Ȃɂ����̓y�n���h��Y�ɕ���āA���̂����h��Y��U�߂Ƃ��đՁs�������t���Ȃ��Ă������v
-�u�������A����Ȃ��Ƃ����������āA�J���͂����̐e����������������˂����A��U�߂���h��Y����ɏ����Ă����y�n�����́A����炪�����������Ƃ���Łc�c�v
-�u����Ȃ��Ƃ͂˂��B�X�J�̐e���͂���̐e���܂��x�s���܁t���āA�J���������l��������J���n���݂�Ȏ��グ�Ď����̂��̂ɂ��Ă��܂����̂��B����ǂ��A�X�J�̐e���̎���ł��܂������܂͂���̓y�n�ł��˂��̂��B����I�@�J�������l�����̓y�n�Ȃ̂��B�������A���̂܂܂ɂ��Ă����΂��̂܂܋I�v�����̂��̂ɂȂ��āA�I�v����񂪌h��Y�ƌ������Ă��܂��΁A���ꂱ���h��Y�̂��̂ɂȂ��Ă��܂��̂��B�����ŁA�I�v�����̎�Ɉڂ�˂������ɁA�J�������l�����������̎�ɖ߂��Ȃ�����I�@�I�v����񂪋A������A����͋I�v�����Ɍ������肾���A�I�v�����͂��ꂪ������˂��l����˂��񂾁v
-�u�Ƃɂ����A�h��Y����̂Ƃ���֍s���Ă����B���ނ���v
-�u���������A�h��Y�̓z�s��t�߁A����ɂȂ�̗p������񂾂낤�B���̖�Y�͖��f���ł��˂��񂾂��c�c�v
-�u�Ȃ�ł��A���̘Q�����ǂ����֔���炵���Ȃ��v
-�u�ȂɁH�@����ȏ���Ȑ^���s�܂ˁt�������Ă������񂩁B�s�����I�v
-�@�����͂��������āA�����Ɣ��Ԃ���ꂽ�B
-
-�@�@�@�@�@�@�@�R
-
-�@�X�ɂ̑O�ɂ́A���c�h��Y�ƁA��O�Ə��g�Ƃ̎O�l���O�����ݒ��߂Ȃ��痧���Ă����B�����āA�h��Y�͒����Ҋv�̕ڂŒ��C�̓����҂��҂��Ƒł��Ă����B��O�͗e����s���t�ɂ��Ă����B���g�͒����j����ɂ��Ă����B
-�@�����͍��̎�ł����Ǝ�j�������Ȃ���A�㔼�g���N�����ėe��l�w���w�������̂Ƃ���ւ����悤�Ɏ����ւ����B
-�u��������ɗp�����H�v
-�@�����͔���g�ɂȂ��Ă��������Ȃ���A��j�������i���Ă����ĘQ���̓��ւ����Ɣ��Ԃ���ꂽ�B�Q���͂ǂǂ��Ƃӂ����΂��������B�h��Y��O�l�͘T���s�낤�΂��t���Ȃ��牡�ɔ��s��t�����B
-�u��������I�@�Q�������݂̏��n�ɂ����።�邶��Ȃ����H�v
-�@�h��Y�͋h�s�ǂ��t��Ȃ������s�ӂ�t����тт����Ō������B
-�u�Q���͂��݂̔n���H�v
-�u�ڂ����Ǘ����Ă���n���v
-�u���������񂾂��H�@���݂̊Ǘ����Ă���n�Ȃ񂩁A�܂������ꓪ�����Ă��Ȃ��͂����B�n�͂���ꂪ�Ǘ����Ă���񂾁B���݂͒��ʂ̂ق���������Ă���΂����񂾁v
-�u�����I�@�������A��U�߂�����Ă����˂����Č����񂾂���A��U�߂̌����Ƃ���ɂ����炢������˂����H�v
-�@��O���O�̂ق��֏o�Ă��Č������B
-�u����Ă����Ȃ��ƌ������牺���I�v
-�@�����ɋ��ԂƓ����ɁA�h��Y�͒����ڂ�Q���̐K�s����t�ɐU�蓖�Ă��B�s�ӂ�H����āA�Q���͗��s���炵�t�̂悤�ɋ��z�����B�u�ԁA�����̎�̗e�������􂭂悤�ȉ��𗧂ĂĖ����B�Q���͂Ȃ������������z�����B�������A�����͒��C�̋r�Ŕn�̓�����߁A����Ŏ�j���J���āA�ނ�O�l�̊ԂւƊ��荞��ł������B
-�u����Ȃ���Ⴀ�����I�v
-�@��O�͔n��̐����ɏe��s�����t���������B
-�u���Ă�Ȃ猂�āI�v
-�@�u�ԁA�����͔n���ς��āA�҂���ƊJ����̂ق��֌����ċ삯�������B
-�u������̂��H�v
-�@���Ⴊ�����炻�����������ČI�т̔n�ɔ��Ԃ����A�����̌��ǂ����Ƃ����B
-�u������I�@������I�@���̓S�C�������Ă�����v
-�@��O���삯�Ă����āA�n��̕���ɓS�C��n�����B
-�u���݂����������ォ�痈�Ă���v
-�@����͓S�C���󂯎��Ȃ��猾���āA���������̌����������ɒǂ��Ă������B
-
-�@�@�@�@�@�@�@�S
-
-�@�h��Y�Ə��g�Ƃ͐^���ɂȂ�Ȃ���A��������킹���B
-�u�ǂ�����H�v
-�u�ǂ������܂��傤�v
-�u�����I�@�ǂ������悤�B��Y��J��֓�������ł��܂��H�v
-�@��O���������тȂ���A��l�̑O�ɋ삯�߂��Ă����B
-�u���ꂶ��A���X�ɓS�C�������āc�c�v
-�@�h��Y�͂��������Ȃ���A�X�ɂ̒��֋삯���񂾁B
-�@�X�ɂ̒��ɂ́A�O�C�̔n���Ɓs����t��u���ĉB����Ă����B�e���e�X�сs����̂������t�ƈꏏ�ɂ����ɒu����Ă������B�O�l�͓��ɒe�X�т���������ƁA�e�������Ĕn�Ɍׁs�܂����t�����B
-�u�R�̒��ցA�R�̒��֒ǂ����ނ悤�ɂ��Ȃ����I�v
-�@�h��Y�͂��������āA�Ԗ[�̓��ɂ������Ɣ��Ԃ�ł����񂾁B�O�C�̔n�͍��y���R�N�s�����t�����Ȃ���삯�������B
-�m�����y�[�W�n
-
-�@�@�@�掵��
-
-�@�@�@�@�@�@�@�P
-
-�@�������R��s�����t���Ȃ���A�{�s�܂�t�̂悤�ɋ삯���ŌᏕ�����s�����������t�̑O�܂ŗ���ƁA�����͔n�̔w�ɂ����݂��悤�ɂ��Ȃ��炮���Ǝ�j���������B�n�͚b�s�����t���ŗ����オ��悤�ɂ��Ȃ���~�܂����B���̏u�ԁA�����͂ς��Ɛg��|���ē��̏�֔�щ��肽�B�����āA�����͔n�����̂܂܂ɂ��Ă����āA�����̒��֔�э��񂾁B
-�@�����̒��̔��Â��y�Ԃɂ́A�J����̐l�������܁A�Z�l�΂���F���͂�ł����B
-�u�ǂ��Ȃ����܂�����H�v
-�@�Ꮥ�b��s�����t�͐����̓ˑR��菓��s����ɂイ�t�ɋ����āA�ڂ��Ӂs�݂́t��Ȃ��猾�����B
-�u�S�C�Ȃ񂩎����āH�v
-�u�h��Y�̓z�s��t�炪���ꂪ������ז��Ȃ��񂾂���A������E�����Ƃ����񂾁v
-�@�����͚b���Ȃ��猾�����B
-�u�E�����ĂˁH�v
-�u���ꂾ���āA���߂��߂ƎE���ꂿ�Ⴂ�˂����B��Y�ǂ��߁I�@�ǂ����Ă���邩�c�c�v
-�@�����͂��������āA�ˌ�����H��֌����ďe����˂��o�����B
-�u����������E�����Ȃ�āA�h��Y�̖�Y�͂Ȃ�Ė�Y���ׂȂ��v
-�@���ꂩ�����񂾁B�����āA�J����̐l�����͑������ɂȂ����B
-�u�t�ɁA�h��Y�̖�Y���Ԃ��|���Ă��v
-�@�J����̐l�����͔l�s�̂̂��t��Ȃ���A�y�Ԃ̋�����d�s�܂��t�������́s���t�񂾁B
-�u���v����B���ꂾ���Ă��߂��߂ƎE���ꂿ�Ⴂ�˂�����v
-�u�Ȃ񂾂��Ă܂��h��Y�̓z�́A���񂽂��E�����Ƃ�����ł��H�v
-�@�J����̐l�����͂��������Ȃ���A�H��Ɍ����ďe���\���Ă��鐳���̌��ւƊ���Ă������B
-�u�h��Y�̓z�͂��̋@��ɁA�X�J�̍��Y�����S�Ɏ󂯌p�����Ƃ��Ă���񂾁B����ɂ́A���ꂪ�����񂶂�ז��ɂȂ�񂾂�B����͐X�J�̍��Y�̂����J����̓y�n�����ł��A���̋@��ɊJ����̐l�����̎�ɕԂ�̂��{�����Ǝv���Ă���̂�����v
-�@�����͌ˊO�Ɍ����ďe���\���Ȃ���A�b���悤�ɂ��Č������B
-�u��������̂��̍l���͂��܌Ꮥ�ꂳ�񂩂畷�����Ƃ���Ȃ񂾂��A�����̗~�Ő���������E�����Ȃ�āA�h��Y�̓z�����₪������t�ɖ�Y���E�s��t�����Ă��߂��΂����v
-�@�J����̐l�����͍V���s�����ӂ�t���Č����̂������B
-�u��������I�@���ꂽ���Ɉρs�܂��t���āA���Ȃ��͂������ֈ�������ł��Ȃ�����v
-�u���v���B���݂���������������łĂ����B�z����S�C�������Ă���񂾂���A����Ɏ���o���˂��ł���B�h��Y��̎O�l��ܐl�͂��ꂪ��l�ŁA���v�A�����󂯂Ă݂��邩��v
-�u�������A�����̂��߂ɂ��񂽂������܂ł��Ă����̂ɁA����炪���g��Ō��Ă���킯�ɂ͂����˂��B��������I�@�����Ɉς��āA���񂽂͈�������ł��Ă���������B�h��Y�̖�Y���炢�Ȃ�A�����ň����󂯂邩��v
-�@���Â��������̓y�Ԃ͎E�C��ттĂ����B
-�u���ꂪ�����B�ꂵ����A�h��Y�̓z���Ȃ�Č������c�c�v
-�@�����͂��������āA�ˌ���ށs�́t���Ȃ������B
-�@�����ւۂ��ۂ��ƒ��S�s�Ă��Ăt��炵�āA�O���̔n���E�����Ă����B
-�u���₪�����Ȃ��I�v
-�@�����͓S�C�������������B
-�u�E�����Ă��܂��I�v
-�@�J���n�̐l�����͋��тȂ���A�ˌ����R��΂��悤�ɂ��ČˊO�ւǂǂ��Ɛ���s�Ȃ��t��o���Ă������B
-�@�H��ɂ͌h��Y�Ə��g�ƕ���Ƃ̎O�l���n���牺�藧���āA�D�s����t������ɒ͂݁A�S�C���E�e�s�݂��킫�t�ɍ\���Čˌ����Ɂs�ɂ�t��ł����B
-�u���܂����ցA�����̓z���삯����ł����ł��傤�H�v
-�@�h��Y���A�O�̂ق��ւЂƑ����ݏo���Ȃ���u�s���t�����B
-�u����炪�A����Ȃ��Ƃ�m�邩���H�v
-�u�ł��A���݂����͂��܂�������o�Ă�������Ȃ����H�v
-�@���g���h��Y�ɑ����Č������B
-�u����Ȃ������������̏��肾�v
-�u���݂����͂��ꂶ��A�����̓z���B�����Ƃ��Ă���񂾂ȁH�@�݁s���΁t���Ă���񂾂ȁH�v
-�u�݂����爫�����H�v
-�@�J���n�̐l�����݂͒͂������΂���ɎE�C�����Ă����B
-�u�������o�����I�v
-�@����͓S�C��˂��o���Ȃ��狩�񂾁B
-�u�Ă߂���̎w�}�Ȃ񂴎󂯂˂��v
-�u�w�}���󂯂˂��ƁH�v
-�u�󂯂˂��Ƃ��v
-�u����Ȃ��Ƃ�����Ȃ��ŁA�p��������񂾂���o���Ă���Ȃ����Ȃ��v
-�@�h��Y�͌��t��a�炰�Č������B
-�u�p���H�@���̗p�����H�v
-�@�����͂������тȂ���A�S�C���\���ĘH��֏o�Ă����B
-�u��������I�@���݂͂ǂ����ē�������Ȃ񂩂���̂��ˁH�v
-�u�p���𕷂����H�v
-�u���݂͘Q�����A�ǂ��ւ�����̂��ˁH�v
-�u����ȗp�����H�@����Ȃ��ƂɂႠ�Ȃɂ��A�Ԏ������悤�Ƃ��܂��Ƃ���̏��肾�v
-�u��������I�@����͏������\����Ȃ����Ȃ��H�@���������čl���Ă݂Ă���v
-�u�X�J�Ƃ̍��Y�͌��݂���̍��Y�ł��˂��񂾁B���ɕ����Ă�����Y�Ȃ񂾁B�����̂��̊������̂͂悵�Ă���v
-�u���݂͖{�C�ł���Ȃ��Ƃ������Ă�̂��H�v
-�u�{�C���Ƃ��B���݂��I�v�����ƌ������ĐX�J�Ƃ𑊑�������A���񎞂ɂႠ���h�ɕԎ������悤�v
-�u����Ȃ��Ƃ������āA�Q���������Ȃ��ł�������ǂ�����񂾂ˁH�@�Q���������Ȕn�����Ă��Ƃ́A���݂��m���Ă��邾�낤���c�c�v
-�u�]�v�ȐS�z����B�ǂ������̕ӂ̊J����֓������񂾂ɑ���˂�����A�J���n�̂��ꂩ���X�J�Ƃւ݂̑����̑���ɕ߂܂��邾�낤����B�J���n�̐l�����Ⴀ�A�J���̒������قƂ�ǖ�s����t���Ă˂��̂�����Ȃ��v
-�u�����Ȃ��Ƃ΂��茾���āA����Ȃ��v
-�@�h��Y�͗����s���߂����t��f�s�t���悤�ɂ��Č������B
-�u�����I�v
-�@�{��Ȃ��畽�Ⴊ�O�֏o���B
-�u��o�������Ă݂�I�v
-�@�J���n�̐l���������������グ�Ȃ���A���������ƕ��݊�����B
-�@���傤�ǂ��̎��A�����ֈ��̖y�n�ԁs�ق�΂���t���ʂ肩�������B�y�n�Ԃ͂����ɗ����Ă���n��l�X�̂��߂ɐi�H���Ղ�ꂽ�B�h��Y��͔n��H�T�֊񂹂��B�J���n�̐l�������A�����ƈꏏ�ɌᏕ�����̌����ɑނ����B
-
-�@�@�@�@�@�@�@�Q
-
-�@�y�n�Ԃɂ͋I�v�q������Ă����B
-�u�h����I�@�ǂ�������ł��́H�v
-�@�I�v�q�͔n�Ԃ̏ォ�琺���������B�ޏ��͂��̖ڂɁA�n���g�s�Ёt���ĘH�T�ɔ����Ă���h��Y�炾���𑨁s�Ƃ�t���āA�����̌����ɔ����ĊJ���n�̐l�����̒��Ɍ������Ă��鐳���̎p�ɂ͋C�����Ȃ������B
-�u�����I�@�I�v�����I�v
-�@�h��Y�͋����̖ڂ��ӂ�Ȃ���A�n���g���Ĕn�Ԃ̂ق��֊���Ă������B
-�u�킽���̋A��̂����������́H�v
-�u����Ȃɑ����A��Ƃ͎v��Ȃ������񂾂��c�c�v
-�u�}���ɗ��Ă��ꂽ�́H�@���肪�Ƃ��B�ł́A�A��܂��傤���H�v
-�@�I�v�q�͔��΂������Č������B�����āA�I�v�q�̔n�Ԃ͒��ق������āA�ӂ����т��炪��Ɠ����������B�h��Y�͕���Ə��g�Ƃɖڔz���������B�����āA�O�l�͂Ђ��Ɣn�Ɍׁs�܂����t�����B
-�u�I�v�����I�v
-�@�����͋��тȂ���A�����̌������яo���Ă������B
-�u������A�����s�܂����t�������c�c�v
-�@�I�v�q�͋����̔��΂��܂�ŁA�U��Ԃ����B
-�u��������̉��֏悹�Ă���v
-�@�����͂��������Ȃ���A�����Ă���n�Ԃɔ�я���ċI�v�q�ƕ���ō������낵���B�����āA�n�Ԃ͓�l���悹�ċ삯���B���̌ォ��h��Y�Ə��g�ƕ���̎O�C�̔n���A���S���ۂ��ۂ��炵�Ȃ�����Ă������B
-
-�@�@�@�@�@�@�@�R
-
-�@�J���n�̐l�����͋}�]������C�̒��ŁA���C�s�������t�Ɏ��ꂽ�悤�ɂ��Ĕn�Ԃ����������B
-�u�h��Y�̖�Y�͐�������Ɉꏏ�ɔn�Ԃɏ��ꂽ��ŁA�i�s��t���Ă���ɑ���˂��ׂ��v
-�@���ꂩ���������B
-�u�����ς��J��Ԃ���Ă���ׂ��v
-�@�΂��Ȃ���A�܂����ꂩ���������B
-�u����ŁA���삳�܂͂ǂ������D���Ȃ̂��ȁH�v
-�u����Ⴀ���삳�܂ɂ��Ă݂�Ⴀ�A�h��Y���񂪂����ɂ������˂����B�h��Y����Ɛ�������Ƃ���A�߁s��t�ƌ{�Ƃ��ꂦ�Ⴄ����˂����H�@����Ⴀ�h��Y����̂ق��������ɂ������˂��v
-�u�ł���������̘b����A����������D���Ă���炵���񂾂��Ȃ��B���x���h��Y����̂ق��ւ͉������s���Ƃ����t�����Ȃ��ŁA��������ɂ����莆����z������A�d�����z�����肵���炵���񂾂��c�c�v
-�@�Ꮥ��͖ڂ��C�s�����t��Ȃ���A�ڂ��ڂ��ƌ������B
-�u����Ⴀ���삳�܂ɂ��Ă݂�΁A��������������̖����E������ŁA�\���󂪂˂��悤�Ɏv���Ă���񂾂낤�B����ŁA��������ɂ����Ĉ�����͂ł��˂��̂��v
-�u�������A���p�͌h��Y����̂ق������h��������˂����A�l�Ԃ̏o�����炢�����琳������̂ق����ザ��˂����Ȃ��H�v
-�u�ǂ����ɂ��Ă��A�����̂��߂ɂႠ�������񂾂�B������p�΂��藧�h�ł��A�h��Y�̖�Y���ᕳ�s�����t�̖��ɂ������˂�����v
-�u����͂�����v
-�@�ނ�͔n�Ԃ�������Ȃ���A�b���Â��Ă����B
-�m�����y�[�W�n
-
-�@�@�@�攪��
-
-�@�@�@�@�@�@�@�P
-
-�@��͒�����Q�ɐ��߂Đ���n���Ă����B�����Ȃ��A�~�͂�̖q��ɂ͋�C�����炤��Ɨz���s�����낤�t�߂��Ă����B�I�v�q�ƌh��Y�Ƃ͔n�Ɍׁs�܂����t���āA�Â��ɕ��q��̌͑��̏���������Ă����B
-�u�c�c�ǂ������ꂾ�����A�ڂ��ɂ����s���Ȃ��t����Ȃ��񂾁B�I�v�����Ɍ����Ă܂�������Ȕn���s�΂��t�Ȃ��Ƃ͂Ȃ��Ǝv������ǁA���������l�s�ЂƁt�̋C�����Ƃ������̂́A�܂�����������Ȃ����̂�����Ȃ��B����ɁA�����̓z�s��t���c�c�v
-�@�h��Y�͋I�v�q�̔n�̂ق��֔n���񂹂Ȃ���A�����߂ĐÂ��Ɍ����̂������B���̌��t�͂Ȃɂ�����A�����Ƃ����悤�Ȃ��̂������܂�ł����B�I�v�q�͂���ƁA�T���s�낤�΂��t���Ă��̌��t���Ղ����B
-�u����͌h����̎v���߂�����B�킽���A�����̂��ƂȂ񂩂Ȃ�Ƃ��v���ĂȂ���B����͌h����̎v���߂����Ȃ̂�B�킽�����܂����A����������ȕ��Ɏv���͂��͂Ȃ�����Ȃ��́v
-�u����͂��������A�ł��A�I�v����񂪂ڂ��ɂ͗t����{��z���Ȃ��̂ɁA�����̓z�ւ����莆����z������d�����z�����肵�Ă������̂�����A�����̓z�͗L���V�ɂȂ��Ă���񂾂�v
-�@�h��Y�̂��̌��t�̒��ɂ́A�ǂ��ƂȂ�����s���񂶂傤�t�������܂�ł��Ă����B
-�u����ŁA�h����܂ł���ȕ��Ɏv���Ă���́H�v
-�u�ʂɂ����v���킯�ł͂Ȃ����A�ڂ��ɂ����ėt���̈ꖇ���炢�͊�z���Ă��c�c�v
-�u�h����I�@�킽���������Ɏ莆��d����o�����̂́A����Ȃ킯�ł͂Ȃ��̂�B����ɂ��ꂪ�ߎ��c�c�����h�q�ɂ�����A�����̂�����l�̖����E�����̂͂��̂킽���Ȃ񂾂���A�킽���A�����ɂȂ�ƂȂ��ς܂Ȃ��C�������B�ς܂Ȃ��C�����āA�����ɂ͂ł��邾���̂��Ƃ͂��Ă�肽���Ǝv���̂�B������ꂿ�።���v
-�u�ʂɌ���͂��Ȃ����ˁB�������A���̍ς܂Ȃ��Ƃ����C�����͂ǂ�������ƁA�댯�Ȃ��̂ɂȂ�Ⴕ�Ȃ����Ǝv���񂾂��ˁB���łɂ����A�����̓z�͋I�v�����̂��̋C�����𗚂��Ⴆ�Ă���悤������v
-�u����Ȃ��ƂȂ��Ǝv����B����Ȕn���Ȃ��ƁA�����ĂȂ��Ǝv����B���ꂾ���́A�킽���͂����肵�Ă�����B�����āA���ӂɑ΂���l�s��t�т̋C�������琳���̂ق��ւł��邾���̂��Ƃ����Ă�肽����v
-�@�I�v�q�͋���e�܂��Ȃ��猾�����B
-�u����ɂ́A��͂�ڂ��������������������Ă��܂�Ȃ����Ⴂ���Ȃ��ˁv
-�u����������H�@�킽���͂����͎v��Ȃ���B�����Ȃ񂩗��N�ł��ė��N�ł��A���ł������Ǝv����v
-�u�I�v�����͂����v���Ă���̂��H�v
-�@�h��Y�͋����̖ڂ��Ӂs�݂́t���Č������B�ނ̋��͒����s���������t�̂悤�ɖZ�s����t��������Ă����B�ނ͋I�v�q�̊炩��A���܂ł��ڂ𗣂����Ƃ��ł��Ȃ������B
-�u�����Ȃ񂩁A�����Ă��悤�Ǝv���Ζ����ɂł��ł��邱�ƂȂ񂾂���v
-�u����͂��������ˁB�������A�ڂ��炪�������Ă��܂�Ȃ������͐����̓z�A�C�����͐Â܂�Ȃ��Ǝv�����Ȃ��B�z�͋I�v�����ƌ������āA�X�J�Ƃ̍��Y�̔����͊J���n�̐l�����֕����Ă�邱�Ƃ��l���Ă���炵������B�l���Ă��邾������Ȃ��A���l�ɂ��������̘b�����Ă��邻��������v
-�u����́A���Y�̂ق��Ȃ甼�����炢�����ɏグ�Ă�������ˁv
-�@�I�v�q�͋ɂ߂Ă�������ƌ������B
-�u�I�v�����I�@�I�v�����͂���Ȃ��Ƃ��A�{�C�ɍl���Ă���̂����H�@��������Ȃ��Ƃ������̎��ւł���������A����͂ǂ�Ȃ��Ƃ����邩������Ȃ���v
-�@�h��Y�͋����̂��܂�A��j���葀��Ȃ��猾�����B
-�u�����āA�h����͂킽���ƌ��������ł��傤�H�v
-�u�������A�����̓z���I�v�����ƌ��������āc�c�v
-�u����Ȃ��Ƃł��Ȃ���B�킽���h����Ɛ����ƁA��l�ƌ�������킯�ɂ͂����Ȃ���B�킽���A�����ƂȂ񂩌����������Ȃ���v
-�u���ꂾ����A�ڂ���͑������������Ă��܂�Ȃ��Ƃ����Ȃ��񂾂�v
-�u����ł��A�������킽���ƌ������āA�킽���̉Ɓs�����t�̍��Y�̔��������J���n�̐l�����֕����Ă�肽���Ƃ����̂Ȃ�A�����͍��邯�Ǎ��Y�̂ق����������グ�Ă�������v
-�u����ȍl�����N��������ʖڂ���v
-�u�����āA�h����͂킽���ƌ��������ł��傤�H�@�킽���̉Ƃ̍��Y�ƌ�������킯����Ȃ��ł��傤�B����Ȃ̂ɁA�h���񂾂������Ƃ�������ᐳ�����������킢��������B�����̖����E��������ɂł��A���Y�̔������炢�Ȃ琳���֏グ�Ă������Ǝv����v
-�u�ڂ��͂���ɂ͕s�^�����B�I�v����񂪂ڂ���{���Ɉ����Ă���΁A����Ȃ��Ƃ͍l�����Ȃ��͂����B�ڂ���{���Ɉ����Ă���΁A�����Ɠ����ɍ��Y���S����l�̍K���̂��߂ɂƁc�c�v
-�u�h����͗~����Ȃ̂ˁv
-�u���R�̂��Ƃ���Ȃ����H�@���ꂾ�������āA�ڂ������͑������������Ă��܂�Ȃ��Ƃ����Ȃ��̂���B���������Ă��܂��΁A���������ȍl���͋N�����Ȃ��Ȃ邩��B�N���������āc�c�v
-�u�ł́A�t�ɂȂ�����c�c�v
-�u���[���I�@�I�v�����I�@�I�v�����I�v
-�@���ꂩ����납��吺�ɌĂ񂾁B�h��Y�ƋI�v�q�Ƃ͌y�������������ĐU��Ԃ����B�����������B�����͔n�ɏ���āA�͑����̒���{�s�܂�t�̂悤�Ɋۂ��Ȃ��Ĕ��ł����B
-�u�I�v�����I�@����������v
-�u�����p�Ȃ́H�@�����s�܂����t�����v
-�@�I�v�q�͂��������Ɠ����ɔn���ɂ����Ɣ��Ԃ����āA�����̂ق��֌����Ĕn���΂����B
-�u����ƈꏏ�ɗ��Ă���v
-�@�����͑吺�Ɍ����āA�����n����X�Βn�̂ق��֕ς����B�I�v�q�͂���ɑ������B�h��Y�͕��C�s�������t�Ɏ���āA�n�̏ォ��ڂ���ƌX�Βn������Ă��������ƋI�v�q�Ƃ̌�p�����l�߂Ă����B
-�i����ɂ͋I�v�����̖{���̋C�������ǂ���������Ȃ��B����������Ă���̂��A�����������Ă���̂��A�_��́s���t�ނ悤�Șb���B�������������̓z���A����ƋI�v�����Ƃ̊Ԃɍ���̂��邱�Ƃ�m���Ă��Ȃ���A�����̏��[�������̂悤�ɏ���ɘA��Ă������肵�₪���āc�c�j
-�@�h��Y�͌X�Βn������Ă����ނ�̌�p��������Ȃ���A�S�̒��ə�s�Ԃ�t�����B
-
-�@�@�@�@�@�@�@�Q
-
-�@�₪�āA�����͎�j�������Ĕn���~�߂��B�n�͗����~�܂��đ傫���������Ă���A�ӂ����ѐÂ��ɕ����������B�����ցA�I�v�q�̔n�����x���ɂ߂Ȃ���ǂ����Ă����B
-�u���������I�@�����p�������́H�v
-�@�I�v�q�͑���e�܂��Ȃ���A��s�ȁt��Ȃꂵ���������B
-�u�I�v�����I�@�h��Y�̓z�Ƙb�Ȃ񂩂���̂悹��v
-�@�����͔��΂��܂�ŁA�������Ɂs�ɂ�t�ނ悤�ɂ��Ȃ��猾�����B
-�u�Ȃ�ł��Ȃ��̂�v
-�u�������U���ɗU�������āA�ꏏ�ɎU���Ȃ񂩂���̂悹��v
-�u����ł��A�}�ɗ�W�ɂ���킯�ɂ͂����Ȃ��̂�B���̐l���������񂪐����Ă���΁A�킽���ƌ�������͂��̐l�ł��傤�B�}�ɋ�X��������킯�ɂ͂����Ȃ��̂�v
-�u�������A����Ȃ��Ƃ��l���Ă��邤���ɁA���񂽂̋C�����̒��֐[�����荞��ł�����ǂ�����H�v
-�u���v��B�ق��Č��Ă��Ă��傤�����B�킽���A���������̌������Ƃ͂Ȃ�ł����������B�������A���̐l�̌������Ƃ͉����牽�܂ŕ������Ⴂ�Ȃ���B�����̋C�����̒��ɐ��������Ă����āA�������璆�ւ͐�΂ɓ���Ȃ������B�����āA���������̌������Ƃɂ͐�΂ɐ��������Ȃ���B�ق��Č��Ă��Ă��ꂽ�番����Ǝv����v
-�u����Ȃ炢�����ˁv
-�u�킽�����^�s�������t�����肵����ʖڂ�B�킽���A�ƂĂ��悭�l���Ă���񂾂���B�����āA���̐l��������Ƃ킽�����痣��Ă����悤�ɂ����B�킽������΂���łȂ��A���̖q��ɂ��Ȃ�ƂȂ������A�����Ȃ��悤�ɂ��Ă���B����܂ł́A���������͖ق��Č��Ă��Ăˁv
-�u�������A�����͂Ȃ�ƂȂ�ᛁs���Ⴍ�t�ɏ��z������Ȃ��v
-�u����Ȃ��Ƃ���ʖڂ���B����ȓz�Ȃ�A����ɂ��Ă��\�ʂł͂悭���Ă��Ȃ��Ƃ����Ȃ��̂�B�킽�������̐l�Ƙb��������ꏏ�ɎU�������肷��̂́A�킽�����炠�̐l���������邽�߂Ȃ̂�����^��Ȃ��łˁB�킽���A���������̌������ƂȂ�A�{���ɂȂ�ł������̂�B�������A���̐l�̌������Ƃ͌����ĕ����Ȃ�����B�\�ʂł͂���Ȋ�����Ȃ��ł��āA�����Č������Ƃ����͕����Ȃ�����Ȃ́v
-�u�l�������񂾂ˁv
-�u���������ł��傤�H�@�^�����Ⴂ���B�킽���͍l���čl���āA�l�������Ă���񂾂���v
-�u�������A�����̊������ƁA��������ᛂɏ��ˁB����ȋC��������|����悤�ɁA���ꂩ��ЂƂᏕ�����ւł��s���Ă��邩�Ȃ��H�v
-�u���ꂪ������B����ŁA�����͂���́H�v
-�u�Ȃ��񂾂�v
-�u�������莝���Ă��ĂȂ��̂�v
-�@�I�v�q�͂��������Ĕ��΂��܂݂Ȃ���A���̃|�P�b�g����富��s���܂����t�����o���Đ����ɓn�����B
-�u�I�v�����I�@�������A�I�v�����͂��܂ł����삳��̂���Ōh��Y�Ȃ񂩂ƈꏏ�ɗV��ł�����ʖڂ���B�Ԃ��Ȃ������A�X�J�Ƃ̉����܂ɂȂ�񂾂��́A�o�����Ȃ��ŉ��̂ق��ւł���������ł����B�I�v�����I�v
-�@������富����|�P�b�g�̒��։������݂Ȃ��猾�����B
-�u���v��v
-�@�I�v�q�͂��������Ĕ��΂��܂񂾁B�����͔n���ɂ����Ɣ��Ԃ����āA�X�Βn���щ���Ă������B�I�v�q�͂����n�̏ォ�猩�������B
-�i�h��Y����I�@�킽���������ĂˁB�킽���A�����ɂȂ񂩌����ĐS�������ĂȂ��̂�B�킽���A���̐l���|�������Ȃ̂���B�t�������A���̐l�͂ǂ�Ȃ��Ƃ����邩������Ȃ�����j
-�@�I�v�q�͂����S�̒��əꂢ���B�����āA�ޏ��̋��͂������Ɍ������u�s�����t���Ă����B�ޏ��̗��̖ڂ́A���̊Ԃɂ��M������ł��Ă����B
-�i�h��Y����I�@�h��Y����I�@���Ȃ�������B�h��Y����I�@���Ȃ������̂킽���Ȃ̂�B���܂ɂȂ�Ƃ��Ȃ��B����܂ŋ����Ă��Ăˁj
-�@�I�v�q�͕��̑��s���Łt�Ŗڂ��������Ȃ���A�S�̒��ɋ��񂾁B�����āA�ޏ��͌X�Βn�̏�̂ق��֖ڂ��ڂ����B�X�Βn���������֌����āA�h��Y�̔n���Â��ɐÂ��ɕ����Ă����B
-�i�h����I�j
-�@�I�v�q�͐S�̒��ɋ���ŁA�n���ւ����Ɣ��Ԃ���ꂽ�B�n�͌X�Βn�̏�֌����Ĕ�񂾁B�I�v�q�͑吺�ɋ����ĂԂ��������悤�ȋ����A�����������ƈ������߂�悤�ɂ��Ȃ���A�ӂ����єn���֔��Ԃ��������B
-
-�@�@�@�@�@�@�@�R
-
-�@�����͔n�������ƘH�T�̔n�b�q�s�ȁt���Y�s�����t�ɔn���q���ŁA�Ꮥ�����ɓ����Ă������B
-�@���Â��������̓y�Ԃɂ́A�J���n�̐l�������܁A�Z�l�΂���F���͂�ł����B�ނ�͂��������Ɍˌ��̂ق���U��������B�����͔��΂��܂�ŁA�F�̂ق��֊���Ă������B
-�u�������񂾂Łv
-�u�����A��������I�@�����ւ������Ȃ�����v
-�@�J���n�̐l�����͂��������āA�����̂��߂Ɏ����̐Ȃ��������B
-�u�G�����֗����̂��ˁB���N�͂ǂ�Ȃ��ˁH�@���ނ̂ق��́H�c�c�v
-�@�����͂��������Ȃ���A�������낵���B
-�u�����͎G�����̒U�߁s����ȁt�̂Ƃ����A���k�ɗ����̂ł����ˁB���k�ɂȂ�˂��ŁA�͂����ʂ�̂܂܋A���Ă����Ƃ���ł����A�ƕ��Ȃ��̂����炱���ň�{�b��s����t���āc�c�v
-�@�J���n�̕F����s�Ђ����������t���@���������@�s�ʂ��t���Ȃ��猾�����B
-�u����ς肻�ꂶ��A���N���l�i���܂荇��˂��̂��ˁH�v
-�u�����̑��k�́A������������������������˂����ˁB����񂿂̛m�s�������t���ڂ��������ĕa�@�����ꂽ��ł������A��p�����Ȃ�����ڂ������Ȃ��Ȃ��Ă��܂����Ă�����ŁA��p�����Ă��炤�ׂƎv������A����ɂႠ�S�܁A�Z�\�~�͂�������Ă�����ł����B�������A�Е��̖ڂǂ��납�����̖ڂ������Ȃ��Ȃ������āA����ɂ͂���ȑ�����ł��˂�����A���̐l�����Ƒ��k���Ă݂��Ƃ���A���̐l�������S���ۏؐl�ɂȂ��ĎG��������؂�Ă������Č�����ŗ����̂ł����A�G�������S�܏\������ƂȂ�Ɓc�c�v
-�@�J���n�̈�g�s���Ȃ����t�͂����܂Ō����āA�T�s�����t�苃���悤�ɂ��ď΂��������B
-�u����炪�ۏؐl�ɂȂ��āA���N�͌܏\�~�����A�����ė��N���܏\�~�����A�����čė��N�ɂ͑S���b�ԁs�����t�����邵�A���q�������ɂ������邩����Č�������ł����A������M�p���˂��ł�����v
-�@��㎡�s���悶�t�͘F�̒��֎O�x�΂�����s�΁t��f���Ȃ���A�O��˂��o���悤�ɂ��Č������B
-�u��g����I�@�S�܏\�~����΁A����Ŗڂ�������悤�ɂȂ�̂��ˁH�v
-�@�����͂��������ĐO�����s���t�񂾁B
-�u������悤�ɂȂ�Ƃ�����ł����A�Е��̖ڂ�S�܏\�~���o������c�c�v
-�u������悤�ɂȂ�̂Ȃ�A���ꂪ������o���Ă�낤�v
-�@�����͂��������Ȃ���富������o���Ĕ`�s�̂��t�����񂾁B�������A富��̒��ɂ͓�A�O�\�~��������Ă��Ȃ������B�����͂��������オ���āA�y�Ԃ̋����異�s���t�����ɂ��锒���s���炩�΁t�̔�������Ă����B
-�u�Ƃ�����I�@�����s������΂��t��݂��Ă���Ȃ�v
-�@�����āA�����̓e�[�u���̑O�ɐȂ��Ƃ����B
-�u��������I�@���������肢������̂ł������c�c�v
-�@�^�O��s�悳�����t���ᐺ�s�������t�Ɍ����Ȃ������Ă������B
-�u���̉āA�͂��n���E���Ă��܂��āA�Ȃ�Ƃ�����Ƃ������Ă�̂ł������A������ł���ΕS�~�΂���݂��Ă��������Ă�����Łc�c�v
-�u�S�~�H�@���͂������A�n�𔃂��̂Ȃ�n�ł���Ă��������c�c�v
-�u����ς�A���ő݂��Ă��������āc�c�v
-�u���ꂶ��A���܂����֎����Ă������邩��v
-�@�Ꮥ�ꂪ�����֌����������Ă����B
-�u�ꂳ��H�@�܁A�Z�{�΂���M�����Ă���B���ꂩ��A�݂�Ȃ̕����������y���s�������t��n�s�����t���Ă����v
-�u���ꂶ��A�{�s�Ƃ�t�ł��ׁs�ԁt���ׂ������H�v
-�u�{�ł����v
-�@�����͂����āA�M�ɖn���܂܂����B
-�u��������I�@����̂Ƃ��ł��ˁA�G���≮����؋������Ă�̂ł����ˁB��������N���イ�ɐ�����ł��Ԃ��ƌ����̂ł������ˁB�G���≮�ł͎G���ŕԂ�����Z�i�Ȃ�ł����A�Ȃɂ��덡�N�͍��ނ̏o����������łˁB���ނŎ؋���Ԃ��Ă��܂��΁A�����͂����Ȃɂ��H�����̂��˂��ł������ˁv
-�@���O�Y��s�͂��Ԃ낤�����t�������Ɨ����Ă��Č������B
-�u���̎؋��Ƃ����̂́A�����������؂�Ă�̂��ˁH�v
-�u���\�~�����؂肽�̂ł����A���q�����ĕS�~�߂��ɂȂ��Ă�̂ł������ˁv
-�u����Ȃ炨�ꂪ�����Ă�邩��A�S�z���Ȃ��Ă������v
-�@�����͋C���������āA�ӂ����ѕM�ɖn���܂߂��B
-�u��������I�v
-�@������s���傤�܂����t������X�s�����t���Ȃ���A���b�s������t�����Ɍ������B
-�u�������񂪂������Ď莆�����ƁA�X�J�̂��삳�܂͋�����z���̂��ˁH�@��k�łȂ��A�{���Ɋ�z���̂��ˁH�@����ȑ������H�v
-�u��z������莆�����񂶂�Ȃ����B��z������z���˂������Ă̂˂��Ƃ���ցA�����炨�ꂾ���Ď莆�Ȃ񂩂��˂����B�_���؋����B�����Ă��邩���˂����A�����ɂ��Č��Ă�΂�����v
-�u�債�����񂾂Ȃ��B�莆��{�ŐX�J�̂��삳�܂�����͂��Ċ�z���Ȃ�āA���̂悤�Șb����˂����v
-�u���삳�܂͐�������̂ق��ցA�����ɂȂ��Ă���񂾂ׂ�v
-�@��㎡���������B
-�u�����ɂȂ��Ă��邩�ǂ����m��˂����A���ꂪ�莆�����΋I�v�����͎����Ŏ����Ă��Ă����B�I�v�����͂����A����̌������ƂȂ�Ȃ񂾂��ĕ����񂾂���v
-�u���ꂶ��A���삳�܂͌h��Y���񂪂���ɂȂ��āA��������ƈꏏ�ɂȂ����ł˂��̂��ˁH�v
-�@�F���ꂪ�������B
-�u����Ȃ��Ƃ͂���̒m�������Ƃ���˂��B�_���؋����A�Ƃɂ����A�����Ă��邩�����Ă��˂����A���Ă���Ε����邳�v
-�u���������A���̎莆���ẮA�ǂ�ȕ��ɏ����񂾂ˁH�v
-�@��㎡�����������ăe�[�u���̏�̔����̔��`�����ނƁA�J���n�̐l�����͂��������ɘF�[�𗣂�āA�e�[�u���̎��͂��͂񂾁B
-�u�莆���H�@���ʂ̎莆����B�܂��\�\�q�[�Ə����Ăȁv
-�@�����͂��̕���������Ȃ������s�ӂ�t����w����ł�������߂āA�����̔�̏�֖�����ɏ����͂��߂��B
-�u���ꂩ��\�\�������܌Ꮥ�����ɂċ��q���p�̂��Ƒ��N����\����\�\�Ƃ������Ƃɂ��āB�����ā\�\�͂Ȃ͂����k�Ȃ���\�\�Ƃ܂��A�����h�ӂ�\���Ă����āA�����ā\�\���������ܕS�~�΂��育�p�ӂȂ���A���܂����܂����g�ɂĂ��z���������ꂽ����\�\�B�ꂳ��I�@��������ꂩ�Ɏ������Ă���Ă���Ȃ����H�v
-�@�����͂��������āA�Ꮥ��̂ق��֐����������B�Ꮥ��͂���ƁA�~�ɓ������ڂ��ĘF�[�̃e�[�u���֊���Ă����B�����͔����̔�����邭��Ƃ���߁m���u����߁v�ɖT�_�n�̂悤�Ɋ����Ė�ɓn�����B
-�u���ꂶ��A�ЂƂ݂�Ȃň���������˂����B�I�v����񂪋��������Ă��邩���˂����A���ł����݂Ȃ���҂��Ă݂Ă����v
-�@�����͂��������āA�u�s���������t�Ɏ��𒍁s�t���ŉ�����B
-�u��������I�@���ꂶ�ቓ���Ȃ������܂����A���̎��͂܂��O�j���̂悤�Ȃ���ł����ˁv
-�@��㎡��͔��΂��܂݂Ȃ��猾���āA�u��������B
-
-�@�@�@�@�@�@�@�S
-
-�@�J���n�̐l�����͒��ے��q�s����݂̂�����t�ŁA�������т肮�т�ƙ�s�����t�����B�ނ�͂���ł��������������B���s�Ђǁt������������Ă���ƁA�ނ�͗����オ���ėx�肾�����B�����āA������@�s�����t���A���@���ĉ̂��������B
-�@�ˑR���̎��A�ˌ����J�����B�ނ�͋����������Čˌ��̂ق���U��������B�ˌ�����́A�I�v�q���Â��ɓ����Ă����B
-�u�I�v����񂩁H�v
-�@�����͔��΂��܂�ŗ����オ�����B�J���n�̐l�����͋}�ɖق肾�����B�I�v�q��㵒p�s���イ���t�̕\����܂�Ŋ��Ԃ�߂Ȃ���A��𕚂���悤�ɂ��ĐÂ��ɐ����̂ق��֊���Ă������B�J���n�̐l�X�͋����̖ڂ��ӂ��āA���������ƋI�v�q�̎p�����l�߂��B
-�u���������Ă��Ă��ꂽ�����H�v
-�u�����Ă�����v
-�@�I�v�q�͂��������āA�����ɏ����ȕ�݂�n�����B�����͂���ƁA�����s���΂��t�������s�悱����t���������Ȃ��炻�̕�݂��������B�\�~�����΂��肾�����B
-�u��g����I�@���ꂶ��S�܏\�~�v
-�@�����͂��������āA������ɕS�܏\�~�𐔂����B��g��͊��x�����x�������V�����āA�n�ʂ��r�s�ȁt�߂�قǍ������s�����t�߂Ȃ��琳���̂ق��֊���Ă������B���O�Y���^�O��������V�����Ă͍������߂Ȃ���A�����̂ق��֊���Ă������B�����͉����ł������悤�ɂ��āA���̋���n�����B
-�u���O�Y�ꂳ��Ɨ^�O�ꂳ��́A�S�~���������ˁH�v
-�u��������I�@�����͖{���ɁA���Ȃ����܂�_���܂̂悤�Ɏv���܂���v
-�@�ނ�͂��������āA���������������������B
-�u��������I�@�����ɂ������݂��Ă��������܂���B����炱��A�n�R�ŕn�R�Łc�c�v
-�@��㎡�炪���������āA���������Ȃ��琳���̂ق��֊���Ă������B�����͖ق��Ĕނ�������B���ꂩ��A���̖ڂ��I�v�q�̂ق��ֈڂ����B
-�u�I�v�����I�@�c���Ă镪���A��㎡�����ɏグ�Ă��������낤�H�v
-�u���������̂����悤�ɂ����炢����v
-�@�I�v�q�͊���グ�āA���΂��܂݂Ȃ��猾�����B
-�u���ꂶ��c�c�v
-�@�����͂��������āA�c���Ă��鎆�����ܖ��������āA�@���ł����悤�ɂ��Ĕނ�ɓn�����B
-�u��������I�@�����͎���ł����Ȃ��̂��Ƃ͖Y��܂����v
-�u����Ȃ��Ƃ͂܂���������A����������Ȃ����H�v
-�u���Ȃ������삳�܂ƈꏏ�ɂȂ��ĐX�J���܂̒U�߂��܂ɂȂ�ꂽ��A�����͎����̐����s���̂��t�𓊂��o���Ă����Ȃ��̂��߂ɂȂ�悤�Ȃ��Ƃ��������܂���v
-�u����������Ȃ����B�I�v�����I�@���񂽂����߂�v
-�@�����͂��������ċI�v�q�ɂ��u��n�����B�I�v�q�͔��΂��܂�őf���ɔu��������B�J���n�̐l�����͂܂������Ƌ����̖ڂł���������B�I�v�q�͂��т�Ɣu���������B
-�u�킽�������A����ŋA���Ă������ł���H�v
-�@�I�v�q�͔u��u���Ȃ��猾�����B
-�u�ꏏ�ɋA�邩��҂Ă�v
-�u���Ⴊ�O�ő҂��Ă���̂�v
-�u���ꂶ��A�����A�낤���H�@�I�v�����I�@���܂����ł݂�Ȃ̗x��������Ă�������񂾂��ˁB�I�v�������x���Č����Ȃ����H�v
-�u�킽���̗x��Ȃ񂩑ʖڂ���B����ɒ���������ł́c�c�v
-�u�\��Ȃ����B�ȒP�ł�������A�����x���Č����Ă����v
-�u�ł��Ȃ��񂾂��ǁc�c�v
-�@�I�v�q�͔��΂��܂�ł��������Ȃ�����A���U�葫���グ�Ȃ���Â��ɗx�肾�����B�J���n�̐l�����͉������Y��āA���C�Ɏ���Ă���𒭂߂Ă����B�ނ�͖�������悤�ɂ��āA�����ɓW�J���ꂽ�v�������ʋ�C�ɋ��قƊ�x�Ƃ̖ڂ��ӂ��Ă���̂������B
-�u����ł��������ł��傤�H�v
-�@�I�v�q�͒p���������ĂȂ�Ȃ��悤�ɁA���^���Ԃɂ��Č������B
-�u���肪�Ƃ��I�@���ꂶ��A�A�낤���H�v
-�u�A��܂��傤�B����������Ƃ���ɑ҂����Ă�������A���킢����������v
-�@�����ƋI�v�q�Ƃ͑��s����t���ĐȂ𗧂����B
-�u��������I�@�����͖{���ɁA���Ȃ����܂�_���܂̂悤�Ɏv���Ă���ł�����v
-�u���삳�܁I�@���Ȃ����܂��A���ЂƂ���������ƈꏏ�ɂȂ��Ă��������܂���B�����̂��肢�ł�����v
-�@�J���n�̐l�����͂���Ȃ��Ƃ������Ȃ���A�����ƋI�v�q�Ƃ��ˌ��֑����Ă������B
-
-�@�@�@�@�@�@�@�T
-
-�@�J���n�̐l�����͘F�[�֖߂�ƁA�݂��ɂ��̐Ԃ���������킹���B
-�u�ǂ����A���삳�܂͏����C���ςɂȂ��Ă���悤����˂����ȁH�v
-�@��㎡���ᐺ�Ɍ������B
-�u���ꂳ��B������Ȃ�ł��A�X�J�Ƃ̂��삳�܂������̎莆��{�ő���������ċ삯���Ă�����c�c�v
-�u��������ŗx���x��Ȃ�āA�C���ǂ������Ă��Ȃ����c�c�v
-�u�������񂪈̂����炾��B����ŁA��������̌������ƂȂ�A���삳�܂͂Ȃ�ł������̂���v
-�@�Ꮥ�ꂪ�ڂ�����ƌ������B
-�u�������A��������������C���ǂ������Ă���̂���Ȃ����Ȃ��B���R�s�킯�t���Ȃ����l������𕪂��Ă��ꂽ�肵�Ă��v
-�@�^�O�ꂪ�ڂ��ӂ�Ȃ��猾�����B
-�u�C���ςɂȂ����̂���Ȃ��āA�������x�s���܁t�����肶��˂��̂��H�@��������Ă����āA�������ł��N�����Ƃ��ɂ��ꂽ���𖡕��ɂ���Ƃ��Ȃ�Ƃ��c�c�v
-�u����Ȃ��Ƃ͂˂��B���삳�܂͎����̐e��͎E����邵�A�����͉߂��đ��l���E�����̂ŁA�C���ςɂȂ����̂��B�������񂾂��āA��������Ȃ��ƂɂȂ����񂾂���A����ς�C�������ǂ��������񂾂�v
-�@���O�Y�ꂪ�����s�݂��΂ȁt�������@���Ȃ��猾�����B
-�u�ǂ����A�����ς��Ȃ��B��������ƋI�v�q����Ƃ́A���������͈ꏏ�ɂȂ�Ă��񂾂��A�e���s���₶�t����̑�ɁA�͂��A�h��Y����Ƃ����l���񑩂ɂȂ��Ă���̂ŁA���܂��炻�ꂪ�ł��˂����񂾂���A�h��Y������E���Ă��܂��悤�Ȃ��Ƃł��l���Ă���񂶂�˂��̂��H�@����ŁA���ꂽ������������Ă����āA���ꂽ���𖡕��ɂ�����肶��˂��̂��ȁH�v
-�@��㎡�͎���X�s�����t���Ȃ���A�S�z�����Ɍ������B
-�u���ꂳ�Ȃ��H�v
-�@�ނ�͂��������Ċ�������킹���B
-�m�����y�[�W�n
-
-�@�@�@����
-
-�@�@�@�@�@�@�@�P
-
-�@�J�T�s�䂤���t�ȓܓV���A�h���悤�ȗ�C���܂�ōL�����Ă����B�������A�h��Y�͉΂̋C�̂Ȃ��R���N���[�g�̘I��ɏo�āA�����������ƕs���ƗJ�T�Ƃɋ���ࣁs�����t�炵�Ȃ��琳���̗���̂�҂��Ă����B
-�i���������A�I�v�����͂���Ɛ����Ƃ́A�ǂ����������Ă���̂��낤�H�j
-�@�h��Y�͂�����l����ƁA�����Ƃ��Ă͂����Ȃ��Ȃ��Ă���̂������B�I�v�q�������̖��̂܂܂ɓ����āA�Ꮥ�����܂ŋ���͂��ɍs�������Ƃ𕷂��Ă���Ƃ������́A�h��Y�̕s���ƗJ�T�Ƃ��Ȃ��ЂƂ����������Ȃ��Ă����B�����ɁA�����ɑ΂��鑞�����h��Y�̓��ɂ͉΂̎Ԃ̂悤�ɋ삯�����Ă����B�ܑ��Z�D�s����������Ձt�̎ς��J��Ԃ�悤�ȏő��ɋ���āA�h��Y�͖���낭�낭���邱�Ƃ��ł��Ȃ������B���̕s���̏ő����܂��ނ̐_�o���Ȃ������s�Ђǁt�����コ���āA����Ɍ������J�T�ƕs���Ƃ̉Q�����̒��ɒǂ����񂾁B�畆�Ƌؓ��Ƃ̊Ԃ���y�s��������t�����S�̒����삯�����Ă���悤�ȗJ�T���������B�h��Y�ɂƂ��ẮA���͂␶���s���̂��t�������Ă̌��S�����ׂ��Ƃ��������B
-�i�I�v�������������Ƃ́A�����ɂ܂��X�J�Ƃ̑����������������Ƃ��B�I�v�����ƐX�J�Ƃ̑������ƁA���̓�������Ă��܂�����A�����ɂ͂������������c�邾�낤�H�@�������Ȃ��ł͂Ȃ����H�j
-�@�h��Y�͂�����l���āA�J�T�ȗ����s���߂����t���J��Ԃ����ɂ͂����Ȃ������B
-�i��������̂������ĎS�߂Ȏp�Ő����Ă��邭�炢�Ȃ�A�������̂��Ǝ���ł��܂����ق��������̂��j
-�@��������̂��������Ƃ��A�l�Ԃ͗E���ɂȂ邱�Ƃ��ł���Ύ̂Ĕ��ɂȂ邱�Ƃ��ł���B
-�i�����ɉ���čŌ�̒k�������Ă݂悤�B����Ɠ����ɁA�I�v�����̋C������������ɑ���Ȃ��B�����H�@�����H�@���ꂩ�炾�j
-�@�h��Y�͌ł����S�������ċ������s�ӂ�t�킹�Ȃ���A�����̗���̂�҂����B�ނ͊�𕚂��āA�I��̏�������ƟB�s����t�̒��̌F�s���܁t�̂悤�ɕ���������B����ࣂ�Ă���΂���łȂ��A�ނ̓��̒��͉΂̋ʂ̂悤�Ɍ����������̉��ł����ς��������B
-�u����ɉ����p�����H�v
-�@�ˑR�ɘI��̉��ɗ��āA�����͓{�C���܂�ő吺�Ɍ������B�h��Y�͋����̕\��Ŋ���グ���B�����͂��̎�ɕځs�ނ��t�������Ă����B
-�u�p�����邩��Ă񂾂̂��I�v
-�@�h��Y�̖ڂ͐����̎�̕ڂɑ������B�{�C�Ƌ��|�Ƃ��܂񂾖ځH�@�h��Y��ࣁX�s�����t�Ɩڂ��P�����Ȃ���A�����������ƌ��l�߂��B
-�u���̗p���ˁH�v
-�@�����͂Ƃ�Ƃ�ƘI��֏オ���Ă������B
-�u�I�v����������ɌĂяo�����肷��̂́A�悵�Ă���I�v
-�@�h��Y�͌������S�����e��ŁA���t���r�؂ꂽ�B
-�u���݂ɂ͂��������A����Ȃ��Ƃ���������������̂��H�v
-�u���������邩�猾���񂾁B�I�v�����́A�ڂ��ƍ��񂵂Ă��鏗���B����̂��鏗������ɌĂяo�����肷��̂́A�a�m�̂��ׂ����Ƃ���Ȃ��B����͂悵�Ă���v
-�u����Ⴀ�a�m����˂���B����Ȃ���������Ɍ���˂��ŁA�I�v�����Ɍ������炢������˂����H�@���݂̏��[�ɂȂ鏗�Ȃ�A�������Ă��݂̌������Ƃ͕������낤����B�������A�ǂ������������ƂɁA�I�v�����͂���̌������Ƃ΂��蕷����łȂ��B����͂ǂ����A���݂ɂ��ꂾ���̈Ќ����Ȃ�����Ȃ񂾂Ȃ��v
-�u�Ȃɂ��I�v
-�@�h��Y�͋��ԂƓ����ɁA�T��̍��|����U��グ�Đ����ɑł��Ă������Ă������B�����͂ς��Ɛg��|���āA�ڂ��҂�����ƌh��Y�̌������a�s���ˁt�ɑł����񂾁B�u�ԁA�h��Y�̓����������|���������̌��ɓ������ė������B
-�u�������Ȃ��I�v
-�u����Ⴀ�ǂ��������H�v
-�@�{��Ȃ���A��l�͎���g��ł������B�����āA��l�͑g�ݕt�����܂܂ŘI��̏���щ�����B�Ō�ɁA�����͂Ƃ��Ƃ����ɑg�ݕ~���ꂽ�B
-�u�����Ȃ����Ă����ł����H�v
-�@�I�v�q���o�Ă��āA�����̖ڂ��Ӂs�݂́t��Ȃ��炻���ɗ������B
-�u���悵�Ȃ�����v
-�@�I�v�q�͌h��Y�̌��Ɏ�������Ĉ��s�Ёt�����s�ρt�������B�u�ԁA�����͎����̐g�́s���炾�t���痣��Ă����h��Y�̔����s�݂������t�ɓ˂��̈ꌂ�𓖂Ă��B�}����˂���āA�h��Y�͊�����s�����t�߂Ȃ���A�܂����������͂��������B
-�u�ԁs���܁t������˂��I�@�n����Y�s�΂���낤�t�߁I�v
-�@�����͓{��Ȃ���A�ڂ��E���ėI�X�ƘI�������Ă������B
-�i������I�@������I�@����������܂肾��I�j
-�@�I�v�q�͂����S�̒��ə�s�Ԃ�t���Ȃ�����A�������Ȃɂ��������Ƃ͂ł��Ȃ������B�ޏ��͐O�����s���t�݂Ȃ���A�����̖ڂ������Ă����Ɛ����̌�p�����������B�����āA�����̎p�����A�ɏ����Ă���A�I�v�q�͋}���̏d�ꂵ���ɂ݂ɔY��ł���h��Y��Â��ɕ����̒��֘J�s������t����ꂽ�B
-
-�@�@�@�@�@�@�@�Q
-
-�@�I�v�q�͂��܂ł��ق�Â����B
-�i�����Ă��������B�h����I�@�킽����������ł��B�����Ă��������B�킽�������Ȃ������������Ă�����Ă��Ƃ��A���܂͌������Ƃ��ł��Ȃ���ł��B�����Ă��������j
-�@�I�v�q�͂����S�̒��əꂫ�Ȃ���A�ق�Â��Ă����B
-�@���̊O�͈ßT�ȓܓV���������ɈÂ��D�F��ттāA�X�g�[�u���^���ԂɏĂ��Ă����B�^���ԂȃX�g�[�u��O�ɂ��āA�h��Y���O�����ݒ��߂Ȃ��猾�t��؂����B�d�ꂵ�����ق������s���̂��ȁt������C��s�s�͂�t��ŁA��l�̊Ԃ֊��荞��ł����B
-�u�ڂ��͋I�v�����̖{���̋C������m�肽���̂��B�ڂ��͋I�v�����̈����������炢�Ȃ�c�c�v
-�u�h����I�v
-�@�I�v�q�̓n���J�`�Ŗڂ��������Ĉ�s�ނ��t�т������B
-�u�ڂ��͖{���ɁA�I�v�����̈����������炢�Ȃ�A����ł��܂����ق��������̂��v
-�u�䖝���Ă��Ă��������B�����ƁA�����ƁA���܂ɂ����ƁA�ǂ��ɂ��Ȃ�܂���B�킽���̖{���̋C�����̕�����Ƃ������܂���B����܂ŁA�����Ɖ䖝���Ă��Ă��傤�����v
-�u������ł��䖝�����邪�ˁB�������A�I�v�����͂ڂ��̌������Ƃ����A�����̂ق��̌������Ƃ𕷂��̂����A�����������āA�ڂ��������̓z�s��t��g�ݕ����Ă���̂ɁA�I�v����񂪏o�Ă��Đ����̓z�ɉ�����������̂�����c�c�v
-�u�h����I�@�킽���̖{���̋C�����𕪂����Ă��傤�����B�킽���c�c�킽���c�c�킽���ƌh����Ƃ̂��Ƃ́A�킽��������l�����Ōł��M�������Ă���΂����̂���B�킽���̖{���Ɉ����Ă���̂͌h���񂾂���v
-�u����Ȃ�A���ꂩ��͐����̓z����ǂ�Ȃ��Ƃ������Ă��Ă��A�����̌������Ƃ����͕����Ȃ��ł���B�ڂ��͂��Ȃ��̈���M�������̂��B�����̌������Ƃ𕷂��Ȃ��ł���v
-�u�킽���ǂ������炢���̂�����H�@����́A�킽���ɂ����Ɂs����t�����񂾂���ǁA�ǂ��ɂ��Ȃ�Ȃ��̂�B����Ȓj���A�{���ɑ傫�Ȋ�����Đ����Ă�����Ȃ�āc�c�v
-�@���ꂩ�����̎��A�����ƃh�A��@�s�����t�����B
-�u�k�s�΂��t��H�@������v
-�@�k��͍������s�����t�߂Ȃ�������Ă����B���̎�ɂ́A�����s���炩�΁t�̔�������Ă����B��l�̖ڂ͋��ق̕\���X�s�����t���āA���̎����̔�̏�ɑ������B
-�u�������񂩂���āc�c�v
-�@�k��͋C���˂炵���ᐺ�s�������t�Ɍ����āA�I�v�q�̊�F��`�s�̂��t�����B�I�v�q�͐^���ɂȂ��Ă�Ȃ�Ȃ������Ă����B�ޏ��������Ȃ���A�������������Ȋ�����ĐÂ��Ɏ���o�����B
-�u�����͂܂��A�Ꮥ�����ɍs���Ă���̂ł��傤�v
-�u���������܂��A���������Ă����񂾁H�v
-�@�h��Y�͓{��悤�Ɍ����āA�����甒���̔���Ђ����������B
-�u�܂��H�@�Ȃ�Ƃ������h�ȓz���I�@�s���K�v��������̂��v
-�@�h��Y�͋����������g�ł����Ȃ���A�{�����B
-�u�����Ă��܂���B�k��H�@���܂����s������ƌ����āA�A�炵�Ă�����v
-�u�܂���܂����H�v
-�@�k��͂����O�������āA���b�s������t�����Ȋ�����Ȃ���o�Ă������B
-�u�I�v�����͂��ꂶ��A�s���񂾂ˁH�v
-�@�h��Y�͊�������c�s�䂪�t�߂Ȃ���O�����񂾁B
-�u�ł��A�莆�ɂ͗����Ə����Ă���̂ł��傤�H�v
-�u�\�\�������܌Ꮥ�����ɂĔu�s���������t���d�˂����B�������A���Ȃ��Ȃ��ł͂܂������܂�Ȃ�������B�Ƃ��Ɉ��݁A�Ƃ��ɉ̂��ėx�肽����ԁA���������ɂ����z���������ꂽ����\�\�v
-�u����ς�ˁv
-�@�I�v�q�͂��������āA�[��������f�s�t�����B
-�u�s�����Ƃ�������̂��I�v
-�@�h��Y�͓{��悤�Ɍ����āA�����̔���X�g�[�u�̒��ɓ������񂾁B�������A�I�v�q�͐^���Ȋ�����āA���s�����t���ɂ�ȂȂ��Ȃ��獘���グ���B�h��Y�̖ڂ͋��قƈ��D�Ƃ̕\����܂�ŋP���������B
-�u�I�v�����͍s������Ȃ̂��H�v
-�u�c�c�c�c�v
-�u�I�v�����I�@���ނ���s���Ȃ��ł���B�s���Ȃ��ł���v
-�u�c�c�c�c�v
-�u�I�v����񂪓z�̌������Ƃ𕷂��Ȃ�������āA�z������������ڂ����ǂ��ɂł��n��������v
-�@�������A�I�v�q�͂����Ƌ�Ԃ����l�߂āA���V�a�҂̂悤�ɂӂ�ӂ�ƐÂ��Ɍˌ��̂ق��֕����Ă������B
-�u�I�v�����I�@���肢����B���ނ���s���Ȃ��ł���v
-�u�c�c�c�c�v
-�u�I�v�����I�@�ڂ��͂����A�{���ɐ����Ă͂����Ȃ��v
-�@�������A�I�v�q�͂������̒E�k�s�ʂ�����t�̂悤�ɁA�ق��Ăӂ�ӂ�ƐÂ��ɕ����Ă������B�h��Y�������~�߂悤�Ƃ��Ă��A������ȋ@�B�l�Ԃ̂悤�ɐÂ��ɂ��̎肩��E�s�ʁt���āA�ӂ�ӂ�ƕ����Ă������B�h��Y�́��m���u���ւ�{���v�A��3����1-92-36�n�s�����t���悤�ɂ��Ė�s�����t���Y�݂Ȃ��炽�����̌��ǂ������ŁA���͂�@�B�̂悤�ɂ��ē����Ă���I�v�q������~�߂悤�Ƃ͂��Ȃ������B
-
-�@�@�@�@�@�@�@�R
-
-�@�I�v�q�͂����āA������ȋ@�B�l�Ԃ̂悤�ɌᏕ�����̒��ւӂ�ӂ�Ɠ����Ă������B
-�u�����I�@�I�v����񂩁H�@�����ˁv
-�@�����������Ɨ����オ���Č������B
-�u���삳�܂ł����H�@�Â��Ƃ�����悭�܂��B�F�̂ق��ցA��������Ă��������v
-�@�J���n�̊�㎡�����������Ȃ��猾�����B�������A�I�v�q�͂���ɂ͓������ɁA���̒E�v�̂悤�ɂ����ӂ�ӂ�Ɛ����̂ق��֊���Ă������B�J���n�̎l�A�ܐl�΂���̖ڂ́A���ق̕\��������Ă��������ɂ��̎p��ǂ����B
-�u�I�v�����I�@�ꏏ�Ɉ������v
-�@�����͑傫�Șo�s���t�Ɏ��𒍁s�t���ŋI�v�q�̂ق��ւ����ƍ����o�����B�I�v�q�͂���ƁA���\��̂܂܂łЂƑ��Ɉ��񂾁B���������b�����Ȋ�\����܂�ŁA�����ƋI�v�q�������B
-�u�I�v�����I�@�ꏏ�ɗx�낤���H�v
-�@�����͂��������Ȃ�I�v�q�̌��Ɏ�������āA�����グ���U��Ȃ���x�肾�����B�J���n�̐l�����͂ł���߂ȉ̂��̂��Ȃ���A������u��@���炵���B
-�u���삳�܂́A���悢��C���ς����v
-�@��㎡�͓�����@���Ȃ���A�T��̗^�O�b��s�����t�̎��ւ����ƚ��s������t�����B
-�u������A���������炻���v���Č��Ă�Ƃ��낾�v
-�@���̎��A�I�v�q���΂�����Ɠ|�ꂽ�B
-�u�ǂ������H�@�I�v�����I�@�ǂ������H�v
-�@�����͘T���s�낤�΂��t���Ȃ�����ݍ��񂾁B
-�u�Ȃ�ł��Ȃ��́v
-�u��F�������v
-�u�Ȃ�ł��Ȃ��̂�v
-�@�I�v�q�͂��������āA�����N���オ�����B
-�u�������A�΂��Ɋ�F�������B�A�낤�v
-�u�Ȃ�ł��Ȃ��̂����ǁc�c�v
-�u�ǂ��������񂾁B�^������B�A�낤�v
-�@�����͘T�����Ȃ���I�v�q�̌��Ɏ�������āA�Â��ɂ������o�Ă������B
-
-�@�@�@�@�@�@�@�S
-
-�@���̗m���܂ŁA�����͋I�v�q�ɂ��ē����Ă������B
-�u������I�v
-�@�I�v�q�͋����̐����グ�Čˌ��ɗ������B
-�@�X�g�[�u���ԁX�ƔR���Ă��āA���̖T�s���΁t�Ɍh��Y���΂�����Ɠ|��Ă����B���̂Ƃ��납�猌������āA�X�g�[�u�ƌF�̔�̕~���Ƃ̊Ԃ̕~���^���ԂȌ����s�����܁t��ɂȂ��Ă����B�����āA���̎�ɂ͍����s�X�g�����ł������Ă����B
-�u����ł��邶��Ȃ����H�@���E�������񂾂ȁH�@�n���Ȃ��I�v
-�@�����͂��������Ȃ���A�X�g�[�u�̂ق��֊���Ă������B�X�g�[�u�̖T�̏���̏�ɂ́A�����莆�̂悤�Ȃ��̂������c����Ă������B�I�v�q���ق��Ă����֊���Ă������B
-�u���u�����ȁH�v
-�@�I�v�q�͖ق��āA�������̋������킹�Ȃ��琳���ƈꏏ�ɂ��̎莆��`�����񂾁B
-
-�@�ň��̋I�v�q����I
-�@�i���s���������t�̌����Ɛ[���̈��𐾂��Ȃ���A�����̂悤�ɕʂ�Ă����˂΂Ȃ�Ȃ����Ƃ��A�킽���͐[���[���߂��݂܂��B���Ȃ��̈������ɐ����Ă���킽���Ƃ��ẮA���͂₱����d���̂Ȃ����Ƃł��B���܂ɂ��āA�킽���͂킽�������̈����A�J���n�̐l�����̌��Ɠ��Ƃ̂����Ɍ��Ă��Ă��������Ƃ��͂�����ƒm��܂����B�킽�������͂��̌��̒r�̂Ȃ��ɁA���̓��̎R�ɁA�i���̈������߂悤�Ƃ����̂ł��B�������A����͌����Ă��Ȃ��̍߂ł��Ȃ��A�킽���̐ӔC�ł�����܂���B���Ȃ��̕���̕����ׂ���؂̂��̂𕉂킳��āA�킽�������̉ʊ��s�͂��t�Ȃ��h���̈�����������𓥂ݏo�����̂ł����B�킽�����������������s�Ɓt���ɂ��̂��ƂɋC�����āA�킽���������g�̐��E�ɉi���̌����Ɛ[���̈��𐾂����̂ł�������A�������ߎS���ԕʁs�ׂ��ׂt�������邱�Ƃ͂Ȃ������ł��傤�B�������A�킽�������͋����ɂ��A�J���n�̐l�����̌��Ɠ��ƍ��Ƃ̂����ɂ��̈���z�����Ƃ����̂ł����B�����Ă킽�������́A���Ȃ��̕���̕����ׂ��ӂ߂ƕ��Q�s�ӂ����イ�t�Ƃ��A�킽�������̈��̂����Ɏ󂯂��̂ł��B�킽�����������Ȃ��̕���̈�Y�Ɏ������邩����A���R�̋A���������Ǝv���܂��B�����ĂȂ��A�킽�������Ȃ����狎���Ă̂̂����A�������Ȃ������̎�s�̂�t���Ă�����Y�Ɏ�������Ȃ�A���Ȃ��̍���̈��������čK���ł͂Ȃ��낤�Ǝv���܂��B
-�@�ň��̋I�v�q����I
-�@�킽���͍Ō�̌��t�Ƃ��āA���Ȃ��̍���̈����A���Ȃ����g�̐��E�Ɍ��Ă��邱�Ƃ���]���܂��B�X�J�Ƃ̈�Y�͂킽�����p���ׂ����̂ł��Ȃ��A�������p���ׂ����̂ł��Ȃ��̂ł��B���R�A������󂯎��ׂ��l����R����͂��ł��B���Ȃ��͂킽����������p�������Ɍ������Ԃ͂킽���Ɉ����q�s�ȁt���A�����������D�҂�������Ƌ}�ɐ����ֈ����ڂ��Ă����܂������A����͊ԈႢ�ł��B���Y�ɂ��ĉ�邠�Ȃ��̈��͊ԈႢ�ł��B���Y�͓��R�󂯎��ׂ��l�X�ɂ����n���A�܂������āA�����Ƃ̌��ɂ��ĕs�^���Ȃ鈤���R�s���t���Đ^���̈��̐��E�ɍK�������ނׂ��ł��B���ꂪ�A�킽�����炠�Ȃ��ւ̍Ō�̌��t�ł��B
-�@�ň��̋I�v�q����I�@�@���̂������猾���Ă��A�X�J�Ƃ̍��Y�͗{�q�Ƃ��Ă̂킽�����p�����ƂɂȂ��Ă���̂ł�����A����𐳏��ɂȂǂ͌����Čp�������ɊJ���n�̐l�����֕Ԃ��Ă���Ă��������B�����̌����猾�킵�Ă��A���R�̂��ƊJ���n�̐l�������󂯎��ׂ����Ƃ������Y���A�J���n�̐l�����̎�ɓn�炸�A�����̎�ɓn��悤�ł́A�킽���͂ƂĂ����ɐ؂�܂���B���ꂾ���͂��ꂮ������肢���܂��B
-�@�ň��̋I�v�q����I�@�Ō�܂ł��Ȃ��������A�Ȃ�������̂��Ȃ��̍K�����F��Ȃ���B
-
-�@�ق��ē�l�͊�������킹���B
-�u�n���Ȃ��Ƃ������₪���āc�c�v
-�@�����͕��́s�Ԃׂt�̔��΂��܂݂Ȃ���f���o���悤�Ɍ����āA�I�v�q�̌��ւ����Ǝ���񂵂��B
-�u�����������Ƃ���ŁA�z������ł��܂��΂���ƋI�v�����̐��E���v
-�u����͂�������v
-�@�I�v�q�͒ᐺ�Ɍ����Ȃ���A�⏑����񂾁B
-�u�n���ȓz���Ȃ��A�������̒فs�ځt�ɛƁs�́t�܂��Ď��E�����Ă��܂��₪��������Ȃ����B����ƋI�v�����Ƃ̊Ԃɂ́A�q���̂Ƃ����獥�񂪂���񂾁v
-�@�����͔��΁s�قق��t�݂Ȃ��猾���āA�}�ɋI�v�q�̐O�����߂悤�Ƃ����B
-�u��������ʖڂ���B������֍s���܂��傤�v
-�@�I�v�q�͔��΂������ėD�����������B
-�u��������Ăǂ������H�v
-�u�킽���̕����ցc�c�v
-�@�I�v�q�͂��������āA�⏑�����ɂ��Ȃ��玩���̐Q���̂ق��֐����𔺂����B
-
-�@�@�@�@�@�@�@�T
-
-�@�Q���֓���ƁA�����͂����܂��I�v�q�̌��֎���񂵂āA�ޏ��̂�Ȃ�Ȃ������Ă���Ԃ��O�����߂悤�Ƃ����B
-�u�҂��Ă�����Ⴂ��B�킽���A�����𒅑ւ��Ă����v
-�@�I�v�q�͂��������āA�����̊�������̊�̏ォ�珜�s�́t�����B
-�u�����𒅑ւ��Ă�����āv
-�u�����āI�@���Ȃ��̓x�b�h�ŐQ�đ҂��Ă�����Ⴂ��B����������v
-�u���ꂶ��c�c�v
-�@�����͂����x�b�h�֍s���ĉ��ɂȂ����B
-�u���ꂽ���̐��E���悤�₭�����񂾁B����ƋI�v�����Ƃ̐��E�������񂾁B����������A���ꂽ���̈��Ɋ�����҂͈�l���˂��񂾁v
-�@�����͋��s�����ށt���ɂȂ��āA�Ƃ茾�̂悤�Ɍ������B
-�u����������ˁv
-�@�I�v�q�͔��΂݂Ȃ���D���������āA�������o�Ă������B
-
-�@�@�@�@�@�@�@�U
-
-�@�Q�����o��ƁA�I�v�q�͐O�����݂Ȃ���h�A�ɂ������Ə������낵���B
-�@�I�v�q�͂����āA�����h��Y�̎��[�s�������t�̂��镔���֔��ł������B�^���ԂɔR���Ă���X�g�[�u�B������̒��ɓ|��Ă��鎀�[�B�^���Ȏ��̎�Ɉ����Ă���s�X�g���B�I�v�q�͎��[�ɋ삯����āA���̎��[�̏�֎����̐g�̂��ǂ��Ɠ����������B
-�u�h����I�@�����āB�����āB�킽���������Ăˁv
-�@�I�v�q�́A���l�܂�悤�Ȍ��s��t�鐣�s���t�̂Ȃ����q�Ō������B
-�u�h����I�@�킽�������������̂���B�킽�������������̂���B�����ĂˁB�킽�������܂����A�����������Ȃ��̂Ƃ���֍s���܂���B�킽���̖{���̐S�����ڂɂ����܂���B�h����I�@�����Ăˁv
-�@�I�v�q�̐��͂������ɚT�s�����t�苃���ɂȂ��Ă����B
-�u�h����I�@�킽���̖{���̐S���A�����������ڂɂ������܂���B�҂��ĂĂˁB�킽���A���ꂩ�炠�Ȃ��̈⌾�����s���Ă�����B�����ɂȂǁA���̈����ɂȂǁA�o�s����t������ė^���܂����B���Ȃ��̂����t�ǂ���A�݂�Ȃ݂�ȁA�������Ƃ��n�߂�Ƃ��ɈڏZ���Ă����l�����ցA�������������Ă��܂���B�킽�����莆�ɂ��̂��Ƃ������c���Ă����܂��傤�B�����āA�킽���������������Ȃ��̂Ƃ���֍s���܂���v
-�@�I�v�q�͚T�苃���Ȃ��猾���āA�Â��ɐg�̂��N�������B�����āA�I�v�q�͈��Ō��̕ӂ�ɔg�ł����Ȃ���A�T��̏���̑O�ɍ��s����t�蒼�����B��̏�ɂ́A�h��Y�̎g���c���̎��Ɩ��N�M�Ƃ��������B�I�v�q�͖��N�M������āA�{���a�s���t���E���悤�Ɏ�𓮂����Ȃ���A�T�苃���Ȃ���A�܂ɓ܂��Ă���ڂ����x�����x�������@�s�ʂ��t���Ȃ���A�ꎚ�ꎚ��A���t����悤�ɂ��Ď莆���������B
-�@�����I���ƁA�I�v�q�͂��̎莆���h��Y�̈⏑�ƈꏏ�ɏd�˂ď��ŁA�ӂ����ёт̊Ԃɍ������񂾁B
-�u�h����I�v
-�@�I�v�q�͂ӂ����сA�h��Y�̎��[�̏�ɂǂ��Ɛg�̂𓊂��������B
-�u�h����I�@�����ĂˁB�킽�������������Ȃ��̂Ƃ���֍s����v
-�@�I�v�q�͂����āA�h��Y�̎��[�Ɋ�������t���A���̎���ł��������B�I�v�q�͂ӂƁA�h��Y�̎�Ɉ����Ă���s�X�g���ɋC�������B�I�v�q�͂��������Ă��΂炭�����ƌ��l�߂Ă���A�Ȃ��������ɒe�ہs���܁t�̎c���Ă��邱�Ƃ��m���߂�ƁA�O�����ݒ��߂Ȃ��炻�̃s�X�g���������̑т̊Ԃɍ������񂾁B
-�@�I�v�q�͂����āA���錈�S�̕\��𕂂��ׂȂ��猈�R�Ƃ��ĕ������o�Ă������B�������A�ޏ��͊Ԃ��Ȃ��߂��Ă����B�ޏ��̗���ɂ͓�̐Ζ��ʂ��񂰂��Ă����B�ޏ��͌ˌ������ƁA�ˌ��������ƊJ���Ă����āA�X�g�[�u�̂Ƃ��납��ˌ��̂ق��֌����A�ˌ�����L���̂ق��Ɍ������āA���[���Ɠ�ʂ̐Ζ����Ԃ��T�s�܁t�����B
-
-�@���ꂩ��A�I�v�q�͂ӂ����уX�g�[�u�̑O�֋삯�߂��āA�����ɂ��鍘�|�������グ��Ƃ���ŃX�g�[�u���������Ɖ����|�����B�X�g�[�u�͉��˂���O��Đ^���Ԃȉ΂����ڂ��Ȃ���A���̏�ւ��炪��Ɠ|�ꂽ�B���̏u�ԁA�X�g�[�u�����яo�����΂̉�͏��̏�֗����Ă���Ζ��̒r�̏���A�ˌ��̂ق��֌����Ă������Ƒ����Ă������B
-�@�I�v�q�͂��̌��s�����t�Ɍh��Y�̎��[������グ�āA��ʂ��Ă���ˌ��̂ق�����o���R�j�[�̂ق��֋삯�o���Ă������B
-
-�@�@�@�@�@�@�@�V
-
-�@�������؂��Ă���ؑ��̌����́A�����܂��ɂ��Ė҉΂ɕ�܂�Ă��܂����B
-�@�I�v�q�̐Q���̓S�i�q�̛Ƃ܂��Ă��閁�s����t�K���X�̑��ɁA�҉΂ɐӂߗ��Ă��ā��m���u���ւ�{���v�A��3����1-92-36�n�s�����t���ꂵ��ł���炵���A������L���đ��ɔ�т������Ă��鐳���̎p���e�G�̂悤�ɉf���āA�x�苶���Ă����B
-�u�I�v�����I�@�I�v�����I�@�J���Ă���I�v
-�@�����̉����̂ق�����A���X�s���������t�ƉQ�����Ă���҉΂̉��̉��ŁA����ȕ��ɋ���ł��鐺�������ɕ��������B
-�u�J���Ă���I�@���������I�@�I�v�����I�v
-�u�����̂ł��傤�H�@���߂ďグ���v
-�@�I�v�q�͌h��Y�̎��[������āA�~�肩����΂̕��𗁂тȂ��炻�̑��̉��ɍs���ċ��񂾁B
-�u�h����I�@�킽���̖{���̐S�����܏��߂ĕ������Ă���āH�@���A�h����I�v
-�@�I�v�q�͂��������āA�ł��ł����[��������߂��B
-�u�h����I�@�I�v�q�͂���ς�A�h���񂾂��̋I�v�q��������B�h����I�@�������Ă���āH�v
-�@�I�v�q�͗x��悤�ɂ��Ȃ���A�h��Y�̐O�Ɏ����̐O�����������B
-�u�ˁI�@�ˁI�@���Ȃ������ł��傤�B�I�v�q�̐O�ɐG�����̂͂��Ȃ�������B������A�킽���A�G�点�Ȃ������̂�v
-�@�I�v�q�͂ӂ����сA���̐O���h��Y�̐O�̏�ɒu�����B���̏u�ԁA�I�v�q�̐O�͌h��Y�̊�̏�ɁA�J�̂悤�ɍ~�����B
-�@���鐣�̂Ȃ��Փ��������āA�h��Y�̎��[������Ɍł��ł��������߂������B
-�u���삳�܁I�@���삳�܁I�@��ςȂ��ƂɂȂ�܂����v
-�@���ꂩ�܁A�Z�l�̐l�Ԃ��A�΂��΂��Ƌ삯���Ă����B
-�u������I�@�����I�@������I�v
-�@�I�v�q�͑т̊Ԃ���h��Y�Ǝ����Ƃ̓�l�̈⏑�������o���āA�T�����Ă���l�X�̑O�ւ����˂��o�����B���ꂩ�����̏�܂�Ă��鎆�؂���󂯎�����B�����Ď��̏u�Ԃɂ́A���̎�͂����ɋI�v�q�̎���������B
-�u���삳�܁I�@����ȂƂ���ɂ������Ȃ��ł��B�΂̎q�̍~���Ă��Ȃ��Ƃ���ցI�v
-�u�\��Ȃ��ŁI�@�\��Ȃ��ŁI�@�������̎莆���Ȃ����Ȃ��łˁB����ɂ͑�؂Ȃ��Ƃ������Ă���̂�����v
-�u���삳�܁I�@�Ƃɂ����������ցI�v
-�u���܂��͕��Ⴞ�ˁI�@���̎莆�͊m���ɂ��܂��ɗa������B�h��Y����Ƃ킽���Ƃ̎莆����v
-�@�I�v�q�͂�������ŁA���̏u�Ԃɂ͂ς��Ɛg��|���Čh��Y�̎��[��������܂ܖ҉΂̒��֔�э���ł������B
-�@�^���Ԃɋ���Ă��ĉ΂͔R���������B�ÈŁs�����݁t�̒�����吨�̐l�Ԃ��삯����Ă��鑫�����n��h�邪�����B�����̂ق��Ō����i�s�فt���������B
-
-
-
-��{�F�u���|��@��5�ҁv�t�z���ɁA�t�z�����X
-�@�@�@1995�i����7�j�N8��10�����Ŕ��s
-���́F����p�i
-�Z���FJuki
-1999�N11��8�����J
-2005�N12��24���C��
-�󕶌ɍ쐬�t�@�C���F
-���̃t�@�C���́A�C���^�[�l�b�g�̐}���فA�󕶌Ɂihttp://www.aozora.gr.jp/�j�ō���܂����B���́A�Z���A����ɂ��������̂́A�{�����e�B�A�̊F����ł��B
+　　　第一章
+
+　　　　　　　１
+
+　森谷牧場《もりやぼくじょう》の無蓋《むがい》二輪の箱馬車は放牧場のコンクリートの門を出ると、高原地帯の新道路を一直線に走っていった。馬車には森谷家の令嬢の紀久子《きくこ》と、その婚約者の松田敬二郎《まつだけいじろう》とが乗っていた。松田敬二郎が牧場の用事で真駒内《まこまない》の種畜場へ出かけるのを、令嬢の紀久子が市街地まで送っていくのだった。
+　空は孔雀青《くじゃくあお》の色を広げていた。陽《ひ》は激しくぎらぎらと照りつけていた。路傍の芒《すすき》が銀のように光っていた。
+「眩《まぶ》しいわ」
+　紀久子は馬車の上に薄紫色のパラソルを開いた。
+「冬服じゃ暑かったかしら？」
+「夜になると寒いんですもの」
+「暑いのはもう日中だけですね」
+　そして、二人はパラソルの下で身近く寄り添った。
+「ほいやっ、しっ！」
+　馭者《ぎょしゃ》は長い鞭《むち》を振り上げて馬を追った。馬車はごとごと揺れながら走った。敬二郎と紀久子とはそーっと手を握り合った。
+「ほいやっ！」
+　馭者は鞭を振り上げ振り上げては、その手を馭者台の横へ持っていった。そこには一梃《いっちょう》の猟銃がその銃口をパラソルの下の二人のほうへ向けて、横たえられてあった。猟銃は馬車の動揺につれてひどく躍っていた。
+「あら！　奇麗に紅葉しているわ。楓《かえで》かしら！」
+　紀久子はパラソルを窄《つぼ》めながら言った。
+「あれは山毛欅《ぶな》じゃないかな？　山毛欅か楡《にれ》でしょう。楓ならもっと紅《あか》くなるから」
+　馬車はそして、原生林帯の中へ入っていった。道はそこで一面の落ち葉にうずめられ、もはや一分の地肌をも見せてはいなかった。落ち葉の海！　火の海！　一面の落ち葉は陽に映えて火のように輝いていた。そして、湿っぽい林道の両側には熊笹《くまざさ》の藪《やぶ》が高くなり、熊笹の間からは闊葉樹《かつようじゅ》が群立して原生樹林帯はしだいに奥暗くなっていった。暗灰褐色の樹皮が鱗状《うろこじょう》に剥《む》き出しかけている春楡の幹、水楢《みずなら》、桂《かつら》の灰色の肌、鵜松明樺《さいはだかんば》、一面に刺《とげ》のある※［＃「木＋忽」、4-1］木《たらのき》、栓木《せんのき》、白樺《しらかば》の雪白の肌、馬車は原生闊葉樹の間を午後の陽に輝きながら、ばらばらと散る紅や黄の落ち葉を浴びて、落ち葉の道の上をぼこぼこと転がっていった。
+「ほいやっ、しっ！」
+　道はその右手に深い渓谷を持ち出して、谷底の椴松《とどまつ》林帯はアスファルトのように黒く、その梢《こずえ》の枯枝が白骨のように雨ざれていた。谷の上に伸びた樹木の渋色の幹には真っ赤な蔦《つた》が絡んでいたりした。馬車はぎしぎしと鳴り軋《きし》みながら、落ち葉の波の上をぼこぼこと沈んでは転がり、浮かんでは転がっていった。
+「おいっ！　正勝《まさかつ》くん！　鉄砲を持ってきているんだね。危ないじゃないか。弾丸《たま》は入っていないのか？」
+　馭者台の猟銃に気がついて、敬二郎はそう言いながら猟銃に手を出した。
+　瞬間！　猟銃は轟然《ごうぜん》と鳴り響いた。
+「あっ！」
+　敬二郎は横に身を躱《かわ》した。紀久子がその横腹に抱きついた。馬が驚いて跳び上がった。正勝は怪訝《けげん》そうな顔をして、馭者台から振り返った。
+「どどど、ど、どうしたんだ？」
+　敬二郎は思うように口が利けなかった。彼は歯の根が合わなかった。真っ青な顔をして木の葉のように顫《ふる》えていた。
+「引っ張ったんですか？」
+　馭者の正勝は沼のような落ち着きをもって訊《き》いた。
+「引っ張るも引っ張らないも、弾丸を込めた鉄砲を……」
+「本当に危なかったわ。ほんの二、三｜分《ぶ》くらいだったわ。わたしの額のところを、弾丸がすっと通っていったの、はっきりと分かってよ」
+　紀久子は溜息《ためいき》をつくようにして、敬二郎の脇《わき》から顔を出した。
+「本当に危なかったよ。ほんのちょっとのところで、いまごろは二人とも死んでるところだった」
+　敬二郎のうちには、まだ驚愕《きょうがく》の顫えが尾を引いていた。
+「熊が出る季節なもんだから、鉄砲を持ってないといつどんなことが……」
+「熊が出るからって、弾丸の詰まっている鉄砲をそんなところへ縛りつけて、引っ張れば発砲するようにしておくってことはないよ」
+「そんなわけじゃなかったのですがね。弾丸を込めてからここへ置いたのが少し動くもんだから、なにげなく縄をかけてしまって」
+「引金へ縄をかけるなんて……」
+「正勝！　おまえこれから無闇《むやみ》と鉄砲など持ち出しちゃ駄目よ」
+　紀久子は命令的に言った。
+「無闇と持ち出したわけじゃないんですがね。これからしばらくの間は鉄砲も持たずに、馬を連れて歩くってわけにはいきませんよ。なにしろこれからは熊の出る季節ですからね」
+　馭者は反抗的に言った。
+「とにかく、そこへ置くことは絶対にいかんね。こっちに寄越したまえ」
+　敬二郎は叱《しか》りつけるように鋭く言った。
+「弾丸はもう詰まってないのだから、どこへ置いたってもう危なくはないだか……」
+　反抗的な語調で繰り返しながらも、正勝は猟銃を解かないわけにはいかなかった。
+「それじゃ、これも一緒にそっちへ置いてください」
+　馭者はそうして、猟銃と一緒に弾嚢帯《だんのうたい》をも敬二郎に渡した。
+「本当に危なかったわ。正勝！　これからは気をつけないと駄目よ」
+　紀久子は女王の冷厳さをもって言った。
+「ほいやっ、しっ！」
+　正勝は鞭を振り上げて馬を追った。
+　そして、馬車はまた、午後の陽に輝きながら散る紅や黄の落ち葉を浴びて、落ち葉の道をぼこぼこと沈んでは転がり、浮かんでは走った。
+
+　　　　　　　２
+
+　馭者の正勝は固く唇を噛《か》み締めながら馬を追った。彼の沼のような落ち着きのうちには、激しい敵愾心《てきがいしん》が嵐《あらし》のように乱れているのだった。彼はそれをじっと抑えつけていた。
+（次の機会を待とう！）
+　彼は心の中に呟《つぶや》いて、わずかに慰めた。
+（いまの弾丸さえ逸《そ》れなかったら……）
+　慰めの言葉のあとからすぐ別の想念が湧《わ》いてきて、正勝は容易に諦《あきら》め切れなかった。
+（あの弾丸で男のほうだけでも倒れてしまえば、女のほうなんかどうにだってなったのだから……）
+　彼のうちの復讐《ふくしゅう》の炎は、失敗の口惜《くや》しさを加えて、かえって激しく燃え立った。
+（よし！　帰り道だ！　帰り道で女だけでも先に殺《や》ってしまおう！）
+　彼は心のうちに叫んだ。
+（女のほうを殺っておいて、男の苦しむのを見たほうがかえって面白い。あいつがあれを奪っておれに与えた苦しみを、おれはあれを殺っつけておれの背負わされた苦悶《くもん》の何倍かの苦悶を、何倍かの深刻さであいつに突っ返してやるんだ）
+　正勝の思いはしだいに悪魔的になってきた。彼の敬二郎と紀久子とに対する遣《や》る瀬《せ》ないような復讐心は、復讐のことを考えるだけでも幾分は慰められるのだった。彼は馬の歩むに委《まか》せて、その考えのうちに没頭した。
+（しかし、紀久子だってただ簡単に鉄砲で撃ち殺したのでは面白くない。敬二郎よりもだいいち、あの女を苦しめてやらなければならないのだ。何もかも、あの女から出発していることなのだから……）
+　彼はそう考えて、その脳髄の隅に新たな積極的な復讐の手段を探った。
+（そうだ！　谷底を目がけて馬車をひっくり返すことだ。そうだ！　おれは馭者台から飛び降りておいて、馬車を谷底へ追い込んでやることだ。馬が谷を目がけて駆け下りなかったら、馬を押し落としてでもあいつらごと馬車をひっくり返してやるんだ。それだけでは万一に死ななかったにしても、谷から這《は》い上がってくるまでには熊のために食い殺されるに相違ないから……）
+　しかし、馬車はもう谷の上を過ぎて、道の両側にはふたたび原生樹林が続いていた。
+（なぜこの手段をもっと早く思いつかなかったのだろう？）
+　彼はそう心のうちに呟いて、馬車がすでに谷の上を過ぎていることを残念がった。
+（帰り道だ！　帰り道で女のほうだけでも……）
+　彼はそう考えて、沼のような落ち着きを装いながら馬車を追い進めた。
+
+　　　　　　　３
+
+　原生闊葉樹林帯を抜けると、馬車は植林｜落葉松《からまつ》帯の中を通り、開墾地帯に出ていった。道はようやく平坦《へいたん》になってきた。馬車は軽やかに走った。
+　午後の陽は畑地一面に玻璃色《はりいろ》の光を撒《ま》いていた。どこまでもどこまでも黄褐色の大豆畑が続き、その茎や莢《さや》についている微毛《のげ》が陰影につれてきらきらと畑一面に蜘蛛《くも》の巣が張っているように光っていた。そして、ところどころには玉蜀黍《とうもろこし》がその枯葉をがさがさと摺《す》り合わせていたりした。
+　しばらくして、馬車の前方に一人の人影が見えだした。馬車の進むにつれしだいに大きく、しだいに形を整えて、その後姿が接近してきた。赤い帯、頭のてっぺんに載っている桃割れ。錆茶《さびちゃ》の塗下駄《ぬりげた》。十六、七の少女だった。少女はその小脇に風呂敷包《ふろしきづつ》みを抱えていた。そして、少女は何かに追い立てられているように、急いでいた。
+「あら！　蔦《つた》やじゃないかしら？」
+　紀久子は立ち上がるようにして言った。敬二郎も顔を上げた。しかし、正勝はなんらの感動をも受けてはいないもののようにして、馬を追い進めた。
+「ほいやっ！」
+　鞭が玻璃色の空気の中にぴゅっと鳴った。
+「正勝！　蔦やじゃない？」
+「さあ？」
+　正勝は簡単に片づけた。彼は自分の妹について、ほとんど無関心のような態度を見せた。
+「正勝！　おまえは呑気《のんき》ね。自分の妹じゃないの？　正勝！」
+「妹かしれませんが、しかしおれの知ったことじゃないです」
+「正勝！　おまえはこのごろ少し変ね？」
+　そのとたんに、少女はくるりと背後を振り返った。
+　敬二郎が言った。
+「蔦代《つたよ》だ」
+「蔦やだわ。どこへ行く気なのかしら？　あの子は……」
+　馬車はそのうちにもしだいに近く、蔦代の背後に接近していった。蔦代は狼狽《ろうばい》の物腰を見せて、後ろを振り返り振り返り早足に急いだ。
+　しかし、馬車がいよいよ彼女の後ろに接近してその横を通り過ぎようとしても、正勝は馬車を停《と》めようとはしなかった。
+「正勝！　馬車をお停めよ！　おまえはずいぶんと薄情なのね、自分の妹が一人で歩いているのに……」
+　紀久子は冷厳な態度で言った。正勝は無言だった。彼は黙々として馬車を停めただけだった。
+「蔦や！　おまえはどこへ行くの？」
+　紀久子は馬車の上から声をかけた。
+　しかし、蔦代は路傍に馬車を避け、顔を伏せたまま答えようとはしなかった。
+「蔦や！　どこへ行く気なのよ？　え？」
+　紀久子は繰り返した。しかし、蔦代は依然として顔を伏せたままだった。
+「言わないんなら言わなくてもいいわ。おまえ、どこかへ逃げていくつもりなのね、蔦や！」
+「とにかく、どこへ行くにしても馬車へ乗せたらどうです」
+　敬二郎が傍《そば》から言った。
+「蔦や？　おまえ、どこかへ行く気なら行ってもいいわ。とにかく、わたしたち停車場まで行くんだから、一緒に馬車へお乗り。おまえ停車場へ行くんだろう？　蔦や！」
+　しかし、蔦代は下駄で路面に落書きなどをしていて、顔を上げようとはしなかった。
+「蔦や！　急いでいるんだから早くお乗り！　早く！」
+　紀久子にそう促されて、蔦代は仕方なく馬車へ寄ってきた。そして、彼女は顔を伏せたままで隅のほうにそーっと腰を下ろした。その彼女の目には、涙がいっぱいに湧いていた。
+　沈黙が続いた。だれも口を利こうとはしなかった。馬車も停まったままだった。馬だけがときどきぴしっぴしっと尾を振って、横腹に飛びつこうとする蠅《はえ》を叩《たた》き落としていた。
+「正勝！　何をぼんやりしているの？　急いでいるのに」
+　しばらくしてから、紀久子が言った。
+「ほいやっ、しっ！」
+　鞭がぴゅっと鳴った。馬は習慣的にどどっとふた足、三足を駆け出した。馬車はそして、ごとごとと平坦な道を走っていった。
+「蔦や！　おまえ、本当にどこへ行くつもりなの？　え？　蔦や！」
+　紀久子はしばらくしてから訊いた。しかし、蔦代は依然として答えなかった。紀久子は繰り返した。
+「どこへ行くつもりなの？　蔦や！　おまえはそれをわたしにも言えないの？　蔦や！　おまえは、わたしがおまえをどんなに思っているかってこと、おまえには分からないんだね。ねえ？　蔦や！」
+「いいえ！　それは……それは……」
+「いいえ！　蔦やには、わたしがおまえをどんなに思っているかってことが少しも分かっていないんだわ。わたしはおまえを、ただの女中だなんて思ってやしないのよ。自分の妹か何かのようにして、なんでもおまえには、特別にしているのに、それがおまえには分からないんだわ」
+「いいえ！　お嬢さま！」
+　蔦代は唇を引き歪《ゆが》めながら、涙に濡《ぬ》れぎらぎらと光っている目を上げた。
+「違って？　もしわたしの気持ちが少しでも分かっていたら、わたしに何のひと言も言わずに黙って逃げていくってことはないはずじゃないの？」
+「お嬢さま！　お嬢さま！」
+　蔦代はそう言って目を上げたが、言いたいことが言葉になってこないらしく、ハンカチで目を押さえて啜《すす》り泣きを始めてしまった。
+「いいわ！　訊かないわ。蔦や！　おまえ泣いたりなんかして、なんなの？　おまえが言いたくなかったら無理に訊こうというんじゃないから、言わなくてもいいわ。ただ、おまえのことを心配してわたし言ってるのよ。おまえが言わなくても、わたしはだいたい分かっているんだけれど……」
+「蔦代！　おまえそんな黙ってなんか出ていかないで、何もかも打ち明けて相談して出ていったほうがいいぜ。蔦代！」
+　敬二郎が横から言った。しかし、蔦代はもちろんそれに答えはしなかった。彼女はただ目を伏せて、啜り泣いていた。
+「いったい、どこへ行く気なんだい？　え？　蔦代！」
+　それにも、蔦代はもちろん答えはしなかった。
+　沈黙がふたたび馬車の上を襲った。馬車はごとごとと走った。鞭がときどきぴゅっと鳴った。
+
+　　　　　　　４
+
+　馭者台の正勝は鞭を振り上げては馬を追うだけで、ただのひと言も口を利こうとはしなかった。彼は単なる馭者としての役目を果たしているだけだった。そこに妹の蔦代がいて、その身の上についての詮議《せんぎ》が進められているのに、彼はそれに対しても耳さえ傾けてはいないような様子だった。少なくとも、正勝は馬車の上の三人の席と馭者台とを、全然別の世界にしているようだった。
+　しかし、正勝は馬車の上の詰問に対して、なんらの関心をも持っていないのではなかった。妹の蔦代の啜り泣きに正勝の心は涙を流していた。紀久子の親切めく言葉を軽蔑《けいべつ》し踏みにじっていた。繰り返しての詰問に対しては抗議を叩きつけていた。
+（蔦代がどこへ行こうと勝手じゃないか？）
+　正勝は心のうちに叫んだ。
+（他人の意志までも自由にすることができるもんか。蔦代には蔦代の意志があり、おれにはおれの生命《いのち》を懸けての意志があるのだ。あいつらのわがままが、おれたちの生命を懸けての意志までも押し曲げることができるものか）
+　だいいち正勝にとって、帰り道での計画を果たすのにたとえ妹にもしろ、他人にいられては具合が悪かった。
+（蔦代が森谷の家を出ていこうというのなら、おれの力で蔦代を逃がしてやろう。なにも、あいつらの思いどおりになっていなければならないということはないのだから）
+　正勝は黙々として、妹の蔦代をいかにして逃がしてやるかについて考えつづけた。
+
+　　　　　　　５
+
+　馬車は間もなく市街地に入った。柾葺屋根《まさぶきやね》の家が虫食い歯のように空地を置いて、六間（約一〇・八メートル）道路の両側に十二、三軒ほど続くと、すぐにもう停車場だった。馬車は駅前の椴松のところで停まった。
+　汽車はもう時間が迫っていた。
+「正勝！　蔦やに逃げられちゃ駄目よ。わたしが戻ってくるまでちゃんと看視していてね。すぐだから」
+　紀久子はそう言いながら、ひらりと馬車を降りた。そして、彼女は敬二郎を促し立てるようにして停車場の中へ入っていった。
+「ちぇっ！」
+　正勝はそっぽを向いた。紀久子と敬二郎との後姿をじっと見詰めていた目を逸らして。
+　蔦代は兄の吐き出すようなその声に驚いて、顔を上げた。その頬《ほお》には蛞蝓《なめくじ》の這《は》い跡のように、涙の跡が鈍く光っていた。
+「蔦！　おまえは馬鹿《ばか》だなあ。馬車へなんか乗らなけりゃよかったじゃねえか」
+「だって……」
+「畑の中へでも、構わずどんどんと逃げていってしめえばよかったじゃねえか」
+「そしたら、お嬢さまは兄さんに、捕まえておいで！　っておっしゃるわ」
+「馬鹿！　おまえはおれのことを心配しているのか？　おれのような馬鹿な兄貴のことなんか心配したって始まらねえぞ。おれのことなんか心配しねえで、おまえの思ったとおりなんでもどんどんやりゃあいいんだ。東京へ行きたいのなら、東京へでもどこへでもおまえの行きたいところへ行くさ。早く、さあ、いまのうちに逃げてしまえ」
+　正勝はそう促すように言って、馭者台の上から周囲を見回した。
+「でも、お嬢さまがわたしのことをあんなに思っていてくださるのだから、わたしもうどこへも行かないわ」
+「おまえは馬鹿だなあ。おまえはあの女の言うことを信じているのか？　馬鹿だなあ。いったいあの女が、いつおまえを妹のようにしてくれたことがあるんだ？　考えてみなあ。おまえだってもう十八じゃないか？　おまえをいつまでも子供にしておこうと思って、そんな子供のような身装《みなり》をさせているんだろうが。奴隷じゃあるまいし、十八にもなってあいつらが勝手な真似《まね》をするのをその前に立って……馬鹿なっ！　そんな馬鹿なことってあるもんか。おまえの好きな人が東京にいるんなら、構わねえから東京へ行ってしまえ。おれもあとから行くし、早く、さあ、いまのうちに逃げてしまえ」
+「だって、いま逃げたら、また兄さんが怒られるわ。逃げるにしても一度帰って、それからにするわ」
+「おれのことなんか心配するなったら！」
+「だって……」
+「それじゃ、帰り道にあの原始林にかかったら、隙《すき》を見て馬車から飛び降りるといいや。そして引っ返せば、ちょうどこの次の汽車に間に合うから」
+「いいかしら？」
+「構うもんか。おまえが馬車から飛び降りてしまったら、おれは馬車をどんどん急がせるから」
+「でも、お嬢さまが兄さんに、捕まえておいで！　っておっしゃらないかしら？」
+「言ったって、だれがおまえを捕まえてきて苦しめるようなことをするもんか。おまえはおれのなんだ？　そしていったいあの女はおれのなんだ？　心配しなくたっていい、構わねえからどんどん逃げてしまえ」
+「では、わたしそうするわ」
+　蔦代は決心の表情を見せて、その小さな唇を固く引き結んだ。正勝は妹のその顔に見入りながら、長い鞭をしなしなと撓《たわ》めた。
+　紀久子がそこへ戻ってきた。
+「あら！　よく逃がさなかったわね」
+　紀久子は微笑をもって言いながら馬車に乗った。蔦代も正勝も黙りこくっていた。そして、蔦代はまた目を伏せた。正勝は馭者台に直った。
+「正勝！　では、急いで帰りましょうね」
+「ほいやっ、しっ！」
+　鞭が陽光の中にぴゅっと鳴った。馬車は煙のような土埃《つちぼこり》を上げて動きだした。そして、市街地から高原地帯の道へと、馬車は走っていった。
+
+　　　　　　　６
+
+　馬車が原始林帯に近づくにつれて、正勝は計画実現の手段について考えなければならなかった。
+（馬車を谷底へひっくり返して紀久子と馬とを殺し、おれだけが生きて帰ったとしたら、すぐ疑《うたぐ》られるに相違ないのだが）
+　それを考えると、正勝はどうしていいか分からなくなってくるのだった。
+　正勝は最初のうちは、自分の生命を懸けてこの計画を果たそうと思っていたのだった。生命を懸けてなら、二人を殺しておいて自分も死んでしまえばいいのだから、機会はいくらでもあった。しかし、それは考えてみると馬鹿らしいことだった。彼はしだいに、敬二郎と紀久子とを殺してしまったあとも、自分だけは安楽のうちに生きていたかった。彼はそれからというもの、絶えずその手段について考え、またいろいろの機会を狙《ねら》った。しかし、正勝は容易にその適当な手段を思いつくことができなかった。そして、最後に思いついたのが、馭者台に熊の出る季節だからという口実で猟銃を横たえておき、敬二郎がそれに対する好奇心からその銃を取ろうとすると、引金に紐《ひも》がかかっているため敬二郎の腋《わき》の下を貫き、紀久子の胸を貫くことになる計画だったのだけれど、それも見事失敗に終わってしまった。そしてさらに、谷底へ馬車をひっくり返すことを思いついたのだが、これについても、彼の計画は相当細かく考えたにもかかわらず、またも支障を来しそうになってきたのだ。
+（なんとかならないものかな？　紀久子と馬だけを谷底へ落として、おれは生きていて、そして疑われずに敬二郎の苦悶するのを傍から見ている。次に、敬二郎をやっつける機会を安全に持つことのできるような方法は……）
+　正勝は考えるのだった。
+（そうだ！　そうすればいいんだ！）
+　ある一つの想念が、彼の頭を掠《かす》め去っていった。
+（おれは木の枝へ引っかかったことにすればいいんだ。紀久子を乗せたまま馬車は谷底へひっくり返しておいて、おれはあとから馬車が墜落していった跡の木の枝へ引っかかっていて、だれかの通りかかるのを待っていればいいのだ）
+　彼はそう考えて、急に勇気づいてきた。同時に心臓の鼓動が激しくなってきた。全身の活動力がその考えに向かって集中してきた。
+
+　　　　　　　７
+
+　馬車はふたたび原生樹林の中に走り込んだ。
+　突然に山時雨《やましぐれ》が襲ってきた。紀久子は狼狽しながらパラソルを広げて、その中に蔦代をも引き入れた。原生樹林の底は急に薄暗くなってきた。時雨は闊葉樹林の上に幽寂な音楽を掻《か》き立てながら渡り過ぎていった。馬車は雨に濡れ、雨に叩き落とされる紅や黄の濡れ葉を浴びながら、原生樹林の底を走った。
+　やがて、幽寂な山時雨の音が遠退《とおの》くにつれて、原生樹林の底はふたたび明るくなってきた。孔雀青の高い空から陽が斜めに射《さ》し込んだ。玻璃色の陽縞《ひじま》の中にもやもやと水蒸気が縺《もつ》れた。樹木の葉間《はあい》にばたばたと山鳥が飛び回った。落ち葉の海が真っ赤に、ぎらぎらと火のように輝きだした。正勝の心臓はどきどきと激しく動悸《どうき》を打ってきた。
+「あら！　ずいぶんどっさりいるのね」
+　紀久子は樹木の枝を見上げながら言った。蔦代もその言葉に釣り込まれて目を上げた。濡れ葉を叩きながら、山鳥は幾羽も枝から枝に移り飛んでいた。紅や黄の濡れ葉がぎらぎらと午後の陽に輝きながら散った。
+「正勝！　あれ山鳥なの？」
+「さあ？」
+　正勝は気のない返事をした。
+「きっとあれは山鳥よ。わたしでも撃てそうね。撃ってみようかしら？」
+　紀久子はそう言って横から猟銃を取った。そして、弾嚢帯から弾丸を銃に込めた。
+「正勝！　馬車をちょっと停めてよ。わたしだって撃てると思うわ」
+　馬車が停まると、紀久子は微笑《ほほえ》みながら立ち上がって樹上に狙いをつけた。紀久子の戯れだった。狙いは続いた。
+　じっと紀久子の様子を窺《うかが》っていた蔦代は、その隙に乗じて包みを取って馬車から飛び降りていこうとした。
+「蔦代！　駄目！　逃げちゃ！」
+　紀久子はその銃身をもって蔦代を押さえつけた。
+　瞬間！　銃は音を立てて発砲した。蔦代はがくりと倒れた。
+「あらっ！」
+　紀久子はがたんと銃を取り落とした。
+「あらっ！」
+　紀久子の顔は紙より白くなった。紀久子はもうどうしていいのか分からなかった。彼女は大声を上げて泣きたかった。しかし、泣けなかった。彼女は致死期の蔦代の身体《からだ》の上に身を投げかけて謝りたい気もした。しかし、彼女にはそれもできなかった。彼女はただわなわなと身を顫わした。
+　自分の思いがけぬ罪に対する恐怖に噛み苛《さいな》まれながら、彼女は亡失状態の中で微《かす》かにひくひくと蠢《うごめ》いている蔦代の致死期の胴体を見詰めていた。
+　発砲と同時に、馭者台から身を向け直して蔦代の上に目を落としていた正勝は、その目を上げて紀久子を見た。その目は爛々《らんらん》と火のように輝いていた。唇がわなわなと顫えていた。
+「正勝《まっか》ちゃん！　どうしましょう？　どうしましょう？」
+　紀久子は正勝を、彼の幼少時のまっか［＃「まっか」に傍点］ちゃんという呼び名で呼んで、ようやくそれだけを言った。
+「正勝ちゃん」
+　しかし、正勝もどうしていいのか分からなかった。彼はただその目を爛々と輝かしていた。その目にはなにかしら、許すまじきものがあった。
+「正勝ちゃん！　わたしも殺してちょうだい！　この鉄砲でわたしも撃ってちょうだい！」
+　紀久子はふらふらと倒れるようにして屈《かが》み、銃を取って正勝の手に渡そうとした。
+「正勝ちゃん！　わたしも殺してよ。ねえ！　正勝ちゃん！」
+「紀久ちゃん！」
+　正勝は言った。彼女の幼少のときに彼が呼んでいたと同じ呼び方で、正勝は紀久子を呼んだ。しかし、それだけで正勝はなにかしらひどく硬張《こわば》って、あとを続けることができなかった。
+「正勝ちゃん！　わたしを撃って。ねえ！　わたしを撃って。痛くないように、ひと思いに死ねるようにわたしの心臓を撃ってよ」
+　紀久子は少女のような態度で言うのだった。
+「紀久ちゃん！　心配することはねえ」
+　正勝は力強く言った。
+「紀久ちゃんは昔の紀久ちゃんではなくなって、おれなんかのことはもう馬か牛のように思っているようだげっども、おれはいまだって……」
+「そんなことないのよ。わたしだって、正勝ちゃんのこと兄さんか何かのように思っているのよ」
+「そんなことは信じないけども、おれだけは、おれだけは紀久ちゃんのこと、昔と同じように思っているんだ。友達で一緒に遊んでいた時分のことなんか考えると、おれは紀久ちゃんを死なせたくなんかないんだ。でもなかったら、おれだってもうどこかへ行ってしまっていたかもしれないんだ。ただ、紀久ちゃんのいる近くにいて、いつまでもいつまでも紀久ちゃんを見ていたいからこそ、おれはこうしているんだ。たとえ紀久ちゃんが結婚をしてしまっても、おれはやはり紀久ちゃんの傍を離れられねえような気がするんだ。奴隷のようにされても、牛馬のように思われても、やはりおれは紀久ちゃんの傍にいたいんだ。おれはやっぱり、いつまでもいつまでも紀久ちゃんを生かしておきたいんだ。紀久ちゃんが死んだからって、蔦が生き返るわけでもあるまいし……」
+「でも、わたし、人を殺したんだから、わたしも殺されるのが本当だと思うわ。殺されないまでも、わたし、何年も何年も監獄に繋《つな》がれることなんか考えると、かえって殺されたほうがいいわ。正勝ちゃん！　わたしを殺してよ！　ねえ！」
+　紀久子は泣きだしそうにして言うのだった。
+「大丈夫だ！　心配することなんかねえよ。蔦がいまいなくなったって、だれも蔦のことなんか気にかけやしねえ。蔦なんか、猫の子が一匹いなくなったよりももっと、なんでもない人間なんだから」
+「そんなことないわ。すぐ知れるわ。そして、真っ先に調べられるのはわたしと正勝ちゃんだわ。そしたらわたし、すぐ顔色が変わってしまうわ。顔色ですぐ分かってしまうわ」
+「大丈夫だ。都合のいいことに蔦の奴《やつ》がおれに書置きをしてあったんだよ。だれか、蔦のいなくなったのを不思議がる奴があったら、蔦の書置きを見せりゃあそれでいいんだ」
+　正勝はそう言って、一本の手紙を懐から取り出した。
+「こんな風に書いてあるんだから……」
+　紀久子に示しながら、正勝はもう一度それを覗《のぞ》き込んだ。
+
+　兄上さま。わたしのたった一人の兄さん。わたしは悲しくてなりません。今日かぎり、しばらくはお目にかかれないのだと思いますと、わたしは悲しくてなりません。それでも、わたしは悲しいのをこらえて、東京へ出ていく決心をいたしました。わたしのたった一人の兄さんを残して、自分だけ東京へ行くのだと思うと、わたしは悲しくてなりません。それでも、いまのうちに悲しいのをがまんして、東京へ出ていったほうがいいと思いますから、わたしは決心してしまいました。兄さんにだけは相談してからと思ったのですけど、兄さんはきっと止めると思いますし、止められては、わたしも兄さんもこのまま一生不幸に終わってしまうのですから、兄さんにも相談しないで、わたしは一人で決心しました。わたしのことは死んだものと思って、どうぞ捜さないでください。そのうちわたしも兄さんも幸福に暮らしていけるようになったら、わたしはきっと手紙を出します。そして、兄さんを東京へ呼びます。そして、兄さんをきっと幸福に暮らさせてあげます。わたしも兄さんも、このままでいたのでは、一生たったって幸福にはなりません。兄さんは一生たったって下男でいなければなりませんし、わたしは女中奉公をしていなければならないのですもの。わたしはそれを考えると悲しいのです。兄さんと別れていくのも悲しいのです。けれど、それはほんのちょっとの間のことです。二年か三年のうちには、わたしはきっと、兄さんに手紙を出して東京に呼びます。それまでは捜さないでください。わたしはどこにいても、毎日毎日兄さんの幸福を祈っています。わたしのことは死んだものと思って、どうぞ捜さないでください。そして、わたしが東京へ行ったことは、旦那《だんな》さまやお嬢さまに訊かれても、知らさないでください。兄さんだけ心のうちに思っていてください。お父さまやお母さまの生きていたときのことを思い出したり、これからは兄さんが洗濯などまで自分でしなければならないことを考えると、涙が出てなりません。お父さまやお母さまのお墓にも、一日も早く石を立てたいと思います。それには、このままでいたのでは駄目だと思いますから、わたしは思い切って東京へ行くのです。わたしのことは死んだものと思って、どうぞ諦めてください。涙が出て書けませんからこれでやめます。どうぞお身体を大切にしてください。兄さんに万一のことがあると、わたしは天にも地にも、ほんとうに一人きりになってしまうのですから。ではさよなら。愚かしき妹の蔦代から。
+
+　正勝の目には、またも熱い涙が湧いた。しかし、彼はその悲しみのためにも、躊躇《ちゅうちょ》しているべきときではなかった。
+「これを証拠として見せりゃあ、だれも疑いをかけやしませんよ」
+「でも……でも……その死骸《しがい》を……」
+「死骸なんか、この谷底へ投げ込んでしまえばすぐもう熊に食われてしまうだろうし、熊に食われなくたってすぐもう雪が積もるから、来年の四、五月ごろになって雪が消えてから発見されても、自分で谷へ落ちて死んだのか鉄砲で殺されたのか、そのころには全然分からなくなっていますよ」
+「正勝ちゃん！　では、わたしの罪を庇《かば》ってくれるの？」
+「紀久ちゃんにはおれの気持ちが、おれが紀久ちゃんをどんなに想《おも》っていたかってこと、分からないのかい？」
+「分かってよ。ご免なさいね、いままでのこと許してね」
+　正勝はもうなにも言わなかった。彼は黙って馬車から飛び降りた。そして、すぐ妹の死体を抱き上げたかと思うと、それを崖際《がけぎわ》へ持っていって、谷底を目がけて投げ込んだ。そして、蔦代の死体は岩角に突き当たり突き当たり、深い谷底へと雑草の間を転がり落ちていった。どこかでふた声三声、高く鷹《たか》が鳴いた。
+［＃改ページ］
+
+　　　第二章
+
+　　　　　　　１
+
+　森谷牧場主の邸宅は、高原放牧場のほとんど中央の地点にあった。緩やかな起伏がひと渡り波を打って過ぎた高原地帯の波形の低い丘を背にして、なおその下の放牧場をひと目に見下ろせる中階段の位置に、土手で取り囲んだ屋敷を構えているのだった。その周囲には春楡《はるにれ》や山毛欅《ぶな》などの巨大な樹木が自然のままに伐《き》り残されていて、ひと棟の白壁の建物が樹木の間に見え隠れていた。そして、その屋敷の前から二間幅（約三・六メートル）の新道路が三、四町（約三三七～四三六メートル）の間を、放牧地の草原を一直線に割って走っていた。
+　白壁の建物は日本建築ながら洋風めいていて、南向きの広い露台を持っていた。木材の多い地方ではあるが雪に埋もれる期間が長いので、露台はコンクリートでできていた。コンクリートの階段と手摺《てす》りとがあり、階段の上がり口には蘇鉄《そてつ》や寒菊や葉蘭《はらん》などの鉢が四つ五つ置いてあった。
+　露台の中央には籐《とう》の丸テーブルと籐椅子《とういす》とが置かれて、主人の森谷｜喜平《きへい》は南に向いて朝の陽光をぎらぎらと顔に浴び、令嬢の紀久子は北を向いて陽光を背に受け、向き合って腰を下ろしていた。丸テーブルの上には二つの紅茶｜茶碗《ぢゃわん》が白い湯気を立てていた。そして、喜平は紅茶には手を出さずに、林檎《りんご》の皮を剥《む》いていた。
+「脚《きゃく》がよく締まらないのは、そりゃあ胴が太いからだろう？」
+　喜平は林檎の皮を剥きながら、微笑をもっていつものように乗馬の話をしていた。
+「なんか知らないけど、わたし駄目だわ」
+　紀久子は父親の顔を見ないようにしながら、元気なく言った。彼女はいつになく元気がなかった。彼女は丸テーブルの上の紅茶にさえ手を出そうとはしなかった。彼女の純白の、天鵞絨《ビロード》の乗馬服の肩さえが、なんとなく寂しかった。
+「駄目なことがあるもんか。馬を替えてみたらどうかな？　花房《はなぶさ》ならいいだろう？」
+「わたしもう乗馬をやめるわ」
+「なにもやめることなんかあるものか。初めはだれだってそう思うもんだ。しかし、そこを押し通さなくちゃ何事も上達はせんもんじゃからなあ」
+「でも、わたしなんか駄目だわ」
+「とにかく、花房で当分練習してみるといい。花房なら胴が細いから脚も締まるし※［＃「足へん＋鉋のつくり」、第3水準1-92-34］《だく》もよくやるし、きっとおまえの気に入ると思うから」
+「わたしもう乗馬なんかあっさりやめてしまうわ」
+「やめてしまわんでもいいじゃないか？　停車場へ敬二郎を送るときだって、これからは馬車などで送らないで馬で送っていくようにならないといかんよ」
+　喜平はそう言って、大口に林檎を頬張《ほおば》った。紀久子は父親の言葉に衝《つ》かれたらしく、伏せていた目を上げて父親の顔を見た。紀久子のその顔は燐光《りんこう》を浴びてでもいるように病的なほど青く、窶《やつ》れてさえいた。
+「馬で送っていって、そして帰りには敬二郎の馬も一緒に曳《ひ》いて帰れるようにならんとなあ」
+　父親は微笑しながら、戯《ざ》れめく口調で言うのだった。
+　そこへ、正勝がのっそりと歩み寄ってきた。喜平はすぐそれに気がついて目をやった。紀久子もそこに目を向けた。その瞬間に、紀久子は急に顔色を変えて恐怖の表情を湛《たた》えた。
+「なんか用か？」
+　喜平は突慳貪《つっけんどん》に言って、冷めかけた紅茶をいっきに飲み干した。
+「少しお願いしたいことがあったものですから……」
+「どんな話だ？」
+　怒鳴るように言って、喜平はそっぽを向いた。そして、乗馬服の上着のポケットから葉巻を抜き取って、それに火を点《つ》けた。
+「お金を少し借りてえのですけど……」
+「金！　金を何にするんだ？」
+「蔦の奴《やつ》が急にどこかへ行きやがったもんですから、捜しにいってこようかと思うんですけど……」
+「本当に仕様のねえ奴だなあ、黙って逃げ出すなんて。黙って逃げていった奴なんか捜しに行ったところで仕方があるめえ。構わんでおきゃあいいじゃねえか？」
+「それはそうですが、でも、自分の妹となってみると……」
+「正勝！　おまえはなんだってわしにひと言も挨拶《あいさつ》をしねえんだ！　自分の妹じゃねえか？　自分の妹を他人の家に預けておいて、妹がいくらかでも世話になっていると思ったら、黙って逃げていったというのに兄たるおまえが一言の挨拶もしないということはないじゃないか？」
+「…………」
+「済まないとか申し訳ないとか、なんとかひと言ぐらいは挨拶をするもんなんだぞ。それを一言の挨拶もしねえで、見えなくなったから捜しに行く旅費を貸せなんて、そんな言い方ってあるもんか？　おまえはよくよく生まれたままの人間だなあ」
+「…………」
+「いったいどこへ行ったのか、見当がつくのか？」
+「東京らしいんで……」
+「東京らしい？　たわけめ！　逃げていった者を東京くんだりまで捜しにいって、なんになるんだ？　たわけめ！」
+「いますぐなら、札幌《さっぽろ》の伯母のところに寄っていると思うもんですから」
+「馬鹿《ばか》なっ！　逃げていったもんなんか捜しに行くことねえ！　それより、正午《ひる》前にサラブレッド系の馬を全部捕まえておけ、買い手が来るのだから」
+「…………」
+　正勝はなにも言わずに上目遣いに喜平を見て、それからその目を紀久子のほうに移した。紀久子ははっと胸を衝かれた。憎悪！　怨恨《えんこん》！　その目は爛々《らんらん》として憎悪と怨恨とに燃えていた。
+「なんて目をしやがるんだ？　たわけめ！」
+　喜平は怒鳴りつけた。
+「そんな目をしていねえで、早くあっちへ行け！　そうして、すぐサラブレッド系の馬を三頭とも全部捕まえておけ！　買い手が来てから捕らえるなんて言ったって、そん時になってからじゃ容易なこっちゃねえから」
+　正勝はもう一度、憎悪と怨恨とに燃える目を上げて、露台の上の父親と娘とをじっと睨《にら》むようにして見てから、静かにそこを離れていった。
+「たわけめ！」
+　葉巻の煙を空に向かって吐きながら、喜平はもう一度、正勝の後ろから怒鳴りつけた。
+　項垂《うなだ》れて、静かにそこを歩み去っていく正勝の後姿はひどく寂しかった。
+
+　　　　　　　２
+
+　紀久子はわなわなと身を顫《ふる》わせながら席を立った。
+（あんなに叱《しか》りつけて……あんなに怒鳴りつけて……あの人がもしあのことをだれかに言ったりしたら……）
+　紀久子はそれを考えただけで全身が木の葉のようにわななくのだった。彼女は心配で胸が痛くなっていた。顔が蝋《ろう》のように白かった。
+（あの人がもしわたしたち父娘《おやこ》を憎んで、あのことをだれかに言ったら、わたしはどうなるのだろう？）
+　それを考えると、紀久子は一時《いっとき》もじっとしてはいられなかった。
+（お父さまはなにも知らないで、あの人をあんなにひどく叱ったり、蔦代のことを悪く言ったりしたけど、何もかもみんなわたしが悪いのだから、それをあの人にだれかへ話されたら……）
+　紀久子は夢遊病者のようにして、しかし、逃げていく者を追うような慌ただしさで自分の部屋へ入っていった。
+（あの人が金が要るというのなら、わたしが出してあげよう。あの人は蔦代を捜しに行くから旅費を欲しいと言っているけど、本当はお金だけが必要なのに相違ない。お金ならわたしでできることなのだから、わたしがしてあげよう）
+　紀久子はそう心の中に呟《つぶや》いて、手文庫の底からそこにありたけの紙幣《さつ》を掴《つか》むと、それをポケットに突っ込んで自分の部屋を出た。
+（わたしがこうまでしたら、あの人はお父さまのことは許してくれるに相違ない。お父さまはなにも知らずにあんなことを言っているのだし、あの人は要するに金が必要なのだから……）
+　紀久子はそう考えながら、帽子を目深に被《かぶ》って裏庭から厩舎《うまや》のほうへと走っていった。
+
+　　　　　　　３
+
+　厩舎の前には三頭の馬が引き出されて、三頭の馬にはそれぞれ鞍《くら》が置かれていた。そして、馬に鞍を置いてしまうと、正勝と平吾《へいご》と松吉《まつきち》の三人の牧夫は銘々に輪になっている細引を肩から袈裟《けさ》にかけた。そして、正勝は葦毛《あしげ》の花房に、平吾は黒馬《あお》に、松吉は栗毛《くりげ》にそれぞれ跨《またが》った。
+「おい！　東からやるか？」
+　正勝は同僚を見返りながら、朗らかに言った。
+「西からのほうがいいじゃないか？」
+「西から？」
+　とたんに、正勝の拍車が花房の胴に入った。花房はとっとっと軽やかに※［＃「足へん＋鉋のつくり」、第3水準1-92-34］を踏んで放牧場のほうへ出ていった。続いて黒馬が走った。厩舎の前にぐるぐると円を描いて出足の鈍っていた最後の栗毛は、胴にぐっと拍車の強い一撃を食らって急にぴゅーっと駆けだした。そして、たちまちのうちに黒馬を抜き、葦毛の花房を抜いて走った。それを見て黒馬が走り葦毛が駆けだし、三頭の馬は土埃《つちぼこり》を掻《か》き立てながら、毬《まり》のようになって新道路を走った。
+　やがて、毬のようになって土埃の中に掠《かす》れていた三頭の馬は、道路から草原の中へと逸《そ》れていった。
+　春楡と山毛欅とが五、六本、草原に影を落として空高く立っていた。その下に小笹《こざさ》が密生していて、五、六頭の放牧馬が尾を振り振り笹を食っていた。栗毛と黒馬と葦毛の三頭の馬はＶ字形の三角形になって、その一団の放牧馬を襲った。人に慣れていない放牧馬はそれを見て、雲のように四散した。
+「浪岡《なみおか》だぞ！　右へ逃げたその葦毛の……」
+　正勝はそう叫びながら、首を上げて逃げていこうとする新馬の右手へと、半円を描くようにして走った。そして、三間（約五・四メートル）ばかりの距離にまで追い詰めると、肩にかけてある細引を取ってその右斜め後ろから投げかけた。手繰っては投げ手繰っては投げかけた。葦毛の新馬浪岡は驚いて逃げ回った。細引は容易にかからなかった。正勝は何度も投げかけた。そのうちに、細引がくるくるっとその新馬の肩から胴に入った。
+「早く早く！　早く」
+　正勝は叫びながら細引を引いた。その瞬間、巻き付いた細引の解かれるまでの間を、馬は縛られた形になって動くことができなかった。その機に乗じて平吾は黒馬を飛ばし、その新馬浪岡の左斜めから鬣《たてがみ》に飛びつき、首に綱をかけた。
+「オーライ！」
+　黒馬はそして、首に綱をつけられて逃げ回ろうとする馬を引き摺《ず》るようにして斜面を駆けだした。
+　正勝は花房に※［＃「足へん＋鉋のつくり」、第3水準1-92-34］を踏ませながら、馬上で細引を輪に巻いた。そして、細引を手繰り終わると厩舎を目がけて正勝は、ぐっと拍車を入れた。栗毛がそれに続いた。栗毛は最初のうちは花房と五間（約九メートル）ばかりの距離を保っていたが、胴に拍車の一撃を受けると急に駆けだして、花房の右を抜こうとした。若い葦毛の花房は、それを見ると、急に一足跳びに移った。胴をぐっと伸ばして、放牧場の草原の中を一直線に走った。正勝は手綱を緩めて、花房の走るに委《まか》せた。花房は疾風のように飛んだ。正勝はまったく手綱を緩めて、若いしなやかな脚の走るに委せながら、反動も取らずに鐙《あぶみ》の上に突っ立っていた。
+「おっと！」
+　叫んだ瞬間に、正勝は草原の上へどっと投げ出されていた。しかし、どこにも怪我《けが》はなかった。すぐ起き上がって花房のほうを見ると、花房は足掻《あが》きをして起き上がろうとしながら起き上がれずにいた。
+「どうしたんだ？」
+　栗毛の松吉が駆け寄りながら言った。
+「前脚を折ったらしい」
+「折ったって？」
+「折ったわけでもねえらしいが……」
+　言いながら、正勝は、手綱をぐっと引いた。
+「ほらっ！　畜生！」
+　花房は起きようと努めながら、容易に起き上がれなかった。
+「畜生！　ほらっ！　どうしたんだい？」
+「手綱を放して、尻《しり》っぺたを食わしてみろ！」
+　正勝は松吉の勧めるままに、手綱を放して尻に回った。そして鞭《むち》を振り上げると、花房はふた足三足ぐいぐいと足掻きをして、鞭を食う前に起き上がった。
+「なんでもねえねえ」
+「歩かしてみろ！　少しおかしいから」
+　正勝は手綱を取り、鞭を振り上げて花房に半円を描かせた。すると花房は、右の前脚がだらりとして、それに力のないような歩き方をした。
+「変だなあ？」
+「筋が伸びたんだよ。膝《ひざ》を突いたときに筋が伸びたんだから、なんでもねえ。三、四日も休ませておきゃあ治るよ」
+「なんでもねえかなあ？」
+「なんでもねえとも。しかし、三、四日は乗れねえなあ。北斗《ほくと》かなんかに乗りゃあいいじゃねえか？」
+「また親父《おやじ》に怒鳴られるなあ」
+「隠しておきゃあいいじゃねえか。三、四日のことだもの」
+　そして、松吉はややもすれば駆けだそうとする栗毛の手綱を引き締め、正勝は跛《びっこ》を引く葦毛を曳いて、放牧場の斜面を新道路のほうへと下りていった。
+「どうかしたのか？」
+　平吾が黒馬の上から声をかけた。平吾はそうしているうちにも、いま捕まえたばかりのサラブレッド系の新馬浪岡が思うように手綱につかないので、困り切っていた。
+「なんでもねえ。前脚の筋が少し伸びたらしいんだ。ほんで乗れねえんだよ」
+「おい！　ほんじゃ、この浪岡をおまえが曳っ張っていけ。新馬も曳っ張らねえで歩いていくと、親父がまたなんかかんか言うから」
+「それさなあ。ほんじゃ、その浪岡をおれさ寄越せや」
+　そして、正勝は浪岡の首についている細引を平吾から受け取った。
+　平吾は新馬を正勝に渡して手軽になると、松吉と並んで馬を駆けさせた。正勝はうるさくぐるぐると縺《もつ》れる精悍《せいかん》な新馬を縺れないように捌《さば》きさばき、草原の斜面を下りていった。
+
+　　　　　　　４
+
+　紀久子は厩舎の前に立って、じっと放牧場のほうを見ていた。
+　秘《ひそ》かに部屋を出て厩舎へ来てみると、そこには三人の牧夫が馬に鞍を置いていて、正勝にだけ秘密の話をすることはできなかったからである。紀久子はそこに立っていて、機会の来るのを待っているより仕方がなかった。彼女はいつまでも放牧場のほうを見ていた。
+　紀久子の心のうちはそうしているうちにも、決して平和ではなかった。
+（あんな風にしているうちに、あの人はほかの人たちへあのことを話さないかしら？）
+　紀久子は自分の胸に何匹かの蝮《まむし》がいるような気さえした。彼女は、正勝が早く厩舎へ帰ってくることを願っていた。
+（蔦代を捜しに行くという口実であの人がどこかへ行ってしまったら、わたしはどんなにかほっとするのに……）
+　紀久子はそう考えて、正勝がこの牧場から姿を消すというのならどんなことでもしてやりたかった。そして、彼女は正勝が早く厩舎へ帰ってくるのを待った。
+（この金さえ渡せば、あの人はすぐもうこの牧場からいなくなるのだわ）
+　やがて三頭の馬は一頭の新馬を拉《らっ》して、厩舎を目指して帰ってきた。紀久子は正勝の花房が真っ先に帰ってくることを願った。ところが、花房は途中で木の根に躓《つまず》いて跛を引きだした。
+（あら！　あの人はまたお父さまから叱られるのだわ）
+　紀久子は自分のことのように心配になった。いまの彼女にとって、自分が叱られることよりも正勝が叱られるのはもっといやなことだった。恐ろしいことだった。
+（わたしどうしようかしら？）
+　紀久子は心臓の熱くなるのを感じながら、厩舎の前から放牧場のほうへ出ていった。
+（わたしはあの人の身代わりになろう。花房の脚を折ったのは、正勝ではなく、わたしだということにしよう。わたしが花房に乗って駆けているうちに、花房が躓いて転んだのだと言えば、お父さまは叱らないに相違ないから。そして、ついでに金を渡してしまえば、あの人はこの牧場から姿を消してしまうに相違ないから）
+　紀久子はそんなことを考えながら、放牧場のほうへ出ていった。
+
+　　　　　　　５
+
+　正勝は跛を引きながら歩いている花房の前へ躍り出ようとする浪岡を、花房の後ろに続くようにと右手で制しながら、厩舎への道を曲がった。
+「正勝《まっか》ちゃん！」
+　その瞬間に、白い天鵞絨の服が草原から出てぱっと陽《ひ》に輝いた。突然に激しい白光を感じて、神経の立っていた花房は狂奔的に首をぐんと上げて、五、六歩ほど後退《あとずさ》った。同時に、花房の後ろにいた浪岡は恐怖の発作で習慣的に前へ駆けだした。花房の尻と浪岡の頭部とが激しく突き当たった。身近くその尻っぺたへ一撃を受けて、花房は習慣的にぽんと蹴上《けあ》げた。その蹄鉄《ていてつ》が浪岡の膝に入った。浪岡は驚いて花房の周囲をぐるぐると駆け回った。
+「どうした、どうした！」
+　平吾が駆け寄ってきて、浪岡の首についている細引を取りながら言った。正勝は黙って紀久子のほうを見た。紀久子はそこに驚いていた。
+「わたしが悪いんだわ。わたしが悪いのよ。わたしのこの服に驚いたのね」
+　彼女は申し訳をするように言って、歩み寄った。
+「紀久ちゃん！　出てきちゃ駄目だよ。隠れてください」
+　正勝は叫んだ。紀久子は仕方なく土手の陰へ遠退《とおの》いた。そこへ松吉が走ってきた。
+「怪我はねえか？」
+　松吉はすぐ浪岡の身体《からだ》を調べた。
+「あっ！　膝をやられてる」
+　浪岡の膝からは赤黒い血がどくどくと湧《わ》いて、蹄《ひづめ》の上に流れていた。
+「血管が切れたんだな？」
+　その出血はだいぶひどかった。浪岡がぽこぽこと歩くにつれて、蹄の跡が幾つも幾つも赤黒く路面に残った。
+「しかし、血管が切れただけで大したことはねえなあ」
+「ないとも」
+「しかし、あんまり出血させちゃ悪かんべなあ」
+　松吉は首に巻いてある手拭《てぬぐ》いを取って、浪岡の膝を縛ろうとした。しかし、驚き切っている浪岡はその身近くに人を寄せようとはしなかった。
+「畜生！　縛ってやろうというのに！」
+「なんとかして、早く血を止めねえといけねえだろうがなあ」
+「とにかく、ここじゃあ仕様がねえから、厩舎まで曳っ張っていこう」
+　平吾は浪岡を曳き、正勝は花房を曳いて、厩舎のほうへ歩きだした。浪岡の膝からはひどく血が流れた。その足跡には赤黒く血が溜《た》まった。
+「たわけめ！　なんて間の抜けたことをしやがるんだ？　たわけめ！」
+　牧場主の森谷喜平が怒鳴り立てながらそこへ寄ってきた。
+「なんだって怪我などさせやがったんだ？」
+「お嬢さまが……」
+　正勝は喜平の前へ出ると、思うように口の利けなくなるのが常だった。
+「なにをっ！　紀久子が？」
+「白い服を着て、あの土手のところから突然に……」
+「正勝！　てめえはまた嘘《うそ》をつくつもりか？」
+　喜平はぴゅっと、手にしていた長い鞭を空間に打ち鳴らした。
+「嘘なんか……」
+「嘘でないっていうのか？」
+「お嬢さまが……」
+「なんでそんな嘘を言うんだ。わしはちゃんと見ていたんだぞ。見ていたから言うのだ。てめえが躓かせて、打ち転がしたんじゃねえか？」
+「それは花房のほうで……」
+「花房？　それじゃあてめえは……あっ！　浪岡か？　浪岡に怪我をさせたのか？　なんてことをしやがるんだ！　たわけめ！」
+　喜平はまたぴゅっと鞭を打ち鳴らした。
+「正勝！　てめえは大変なことをしたぞ。浪岡か？　わしは見違えていた。花房と浪岡とを取り違えて見ていた。なんて馬鹿なことをするんだ。浪岡を捕まえたら、浪岡は新馬だから一頭だけ離して曳いてくりゃあいいじゃねえか。わしはまた、正勝が浪岡に乗って走らせているんだと思っていたんだ。それで、浪岡が躓いたと思ったから心配して出てきたんだ。ところが、なんという態《ざま》だ。躓いて転んだどころか、蹴らして大切な前脚へ怪我をさせるなんて、平吾！　早く手当てをしなくちゃ！　早く厩舎へ曳っ張っていって、脚へ重みがかからないように梁《はり》から吊《つ》って、そして岩戸《いわど》をすぐ呼んで手当てをさせろ！」
+「ほらほら、ほらほらほら」
+　平吾はすぐ浪岡を厩舎のほうへ曳いていった。松吉もそこに立っていても仕方がないので、浪岡についていこうとした。
+「松吉！　この花房を曳っ張っていけ！」
+　喜平は怒鳴った。松吉は戻ってきて正勝から手綱を取った。正勝は寂しそうに項垂れた。
+「正勝！　てめえはこっちへ来い！」
+　喜平はそう言って鞭をまたもぴゅっとひと振り振って、母屋のほうへ歩きだした。正勝は訝《いぶか》しそうにして躊躇《ちゅうちょ》していた。喜平は後ろを振り返って、またぴゅっぴゅっと鞭を振り鳴らした。
+「来いっていったら来い！」
+　正勝は仕方がなく歩きだした。
+
+　　　　　　　６
+
+　紀久子はどうしていいか分からなかった。
+（困ったわ、困ったわ。あの人がお父さまの前に引っ張っていかれて、お父さまからひどく叱られたら、わたしのあのことを言ってしまいやしないかしら？）
+　紀久子は恐怖に身を顫わした。いまの場合に正勝が父の部屋へ引っ張っていかれて叱られるということは、紀久子にとって、自分の犯罪の証人が裁判官の前へ引き出されていくのを見るよりももっと苦しかった。紀久子はできることなら、正勝をどうかして父の前へ出したくなかった。正勝の過失を引き受け、正勝の立場に代わり、なんとかして正勝を叱らせたくなかった。
+（サラブレッドが怪我をしたのだって、あの人が悪いのじゃなくてわたしが悪いんだもの。わたしがあの時あそこへ出ていかなかったら、どの馬も狂奔なんかしなかったんだもの。結局、怪我をさせたのはわたしなのだわ）
+　紀久子のそういう気持ちは、恋をしている少女が恋人の罪を引き受けようとする気持ちにさえ似ていた。紀久子は何物に代えても、正勝がその過失の責めから免れて父から叱られずに済むようにしてやりたかった。
+（言ってやるわ。お父さまに言ってやるわ。サラブレッドに怪我をさせたのはあの人ではないんだもの。わたしなんだもの。それだのにあの人を叱るなんて、お父さまこそひどいわ。正勝さんのために言ってやるわ）
+　紀久子はひどく昂奮《こうふん》しながら、母屋のほうへ駆けだした。
+
+　　　　　　　７
+
+　天井の高い四角な部屋だった。卵色の壁には大型のシェイフィルド銃と、古風な村田銃との二｜梃《ちょう》の猟銃が横に架けられてあった。その下前には弾嚢帯《だんのうたい》が折釘《おれくぎ》からだらりと吊《つ》るされていた。そして、部屋の隅には黒鞘《くろざや》の長身の日本刀が立てかけてあった。床には大きな熊《くま》の皮が敷いてあった。その熊の皮を踏みつけて大書卓がガラス窓の下に据えられ、中央には楢《なら》の丸卓と腕つきの椅子が四つ置かれてあった。
+「そこへかけろ！」
+　鞭でその楢材の腕つき椅子を示しながら、喜平は怒鳴るように言った。正勝は静かに腰を下ろした。そして、将棋の駒《こま》のように肩を角ばらせて顔を伏せた。
+「正勝！　てめえは浪岡を幾らぐらいする馬か、知っているか？」
+　喜平は書卓の前の回転椅子にどっかりと腰を据えながら言った。
+「…………」
+　正勝は静かに首を振っただけで、なにも言わなかった。
+「知らねえ？　しかし、てめえだって何年となく牧場にいるんだから、安い馬か高い馬かぐらいは知っているだろう」
+「それは……」
+「それみろ！　てめえは浪岡が高価な馬だってことを知っていて、わしへの腹癒《はらい》せにわざと怪我をさせたんだろう？」
+「そんな……そんな……」
+「とにかく、てめえは蔦が逃げていったのを、わしらが苛《いじ》めたからだとでも思っているんだろう！　正勝！」
+　喜平は鞭をしなしなと撓《たわ》めながら言った。
+「…………」
+　正勝は顔を伏せたまま、答えなかった。
+「てめえはそう思っているんだな？　思うなら勝手に思うがいいや。しかし、いくら腹癒せだからって程度があるぞ。浪岡は五百や六百の金じゃ買える馬じゃねえぞ。投げて千二、三百円、客次第で、三千円ぐらいにだって売れる馬なんだぞ。それを怪我させて……」
+「でも、死んだというわけじゃねえんで、血管が切れただけなんですから」
+「血管が切れただけだからいいというのか？　たわけめ！」
+　喜平はそう言って怒鳴りながら、怒ったときの癖で鞭をまたぴゅっと打ち鳴らした。
+「それも今日、買手が見に来るっていうんだぞ。怪我をしている馬に、だれが買手がつくもんか。千円、二千円となりゃあてめえなんか、一生かかったってできるかできねえか分かりゃしめえ。それを……」
+「馬鹿正直に働いていたんじゃとても……」
+「なにを？　馬鹿正直に働いていたんじゃ？　ちぇっ！　利巧に立ち回ればできるっていうのか？」
+「利巧に立ち回って悪いことでもしねえかぎり、おれだけじゃなく、だれにだって！」
+「何を言ってやがるんだ。屁理窟《へりくつ》ばかりつべこべと並べやがって。いったい、てめえらはだれのお陰で育ったと思っているんだ？　それも忘れやがって、わしに腹癒せがましいことができると思うのか？」
+「旦那《だんな》！　旦那は少し思い違いをしているようですけど……」
+「思い違い？　何が思い違いだ？　てめえ、とにかくそこへ手を突いて謝れ！」
+　喜平は長靴の踵《かかと》で荒々しく床を蹴った。正勝は唇を噛《か》んで、じっと喜平の顔を見詰めたまま黙っていた。
+「謝るのがいやなのか？　謝る理由がねえというのか？　正勝！」
+　喜平はもう一度、荒々しく床を蹴った。
+「謝るのがいやなら出ていけ！　この牧場から出て、てめえの好きなところへどこへでも行け！　すぐ、いますぐ出ていけ！」
+「はあ！　いくらでも出ていきますがね」
+「すぐ出ていけ！」
+「それじゃあひとつ、出ていかれますように、お金を少し都合していただきてえんですが……」
+「金？　そんなことわしの知ったことか？　てめえのような者に金を出してやる理由なんかありゃしねえ！」
+「旦那！　昔のことを少し考えてみてくだせえ」
+「なにを！」
+「旦那は、おれがなにも知らねえと思っているのかね？」
+「何を吐《ぬ》かしやがるんだ？　たわけめ！」
+「おれはこれでも、旦那一家の秘密を握っているんですからなあ」
+「秘密？　たわけめ！　なんの秘密だ？　わしを威《おど》かして金を出させようというのか？　このたわけ者め！」
+　喜平は立ち上がって鞭を振り上げた。正勝は肘《ひじ》で顔を掩《おお》った。鞭はぴゅっと空間で鳴った。
+
+　　　　　　　８
+
+　紀久子は、ばたりと床の上にくずおれた。
+（あらっ！　秘密だなんて、あの人はあのことを言ってしまうのだわ）
+　彼女はそれっきりで、もうなにも分からなくなった。
+
+　　　　　　　９
+
+　紀久子は自分のベッドの上で横たわっているのに気がついた。
+「お嬢さま！　お嬢さま！　お気づきになりまして？」
+　婆《ばあ》やが間近く顔を寄せながら言った。そして、その右手をわなわなと顫わしながら、赤酒《せきしゅ》らしい赤紫色の液体をなおも紀久子の口に勧めようとしていた。
+「お嬢さま！　本当にしっかりなさいませんと……これをもう少し召し上がりませんかよ？　お嬢さま！」
+「あら！　婆や！　わたしどうかして？」
+「お嬢さまはじゃあ、なにもご存じございませんのかよう？　わたしがお嬢さまにお茶を差し上げようと思いましてお茶を持ってまいりましたら、お嬢さまはそこに倒れていらしったのでございますよ」
+「あら！　わたしどうかしたのかしら？」
+「わたしはまたびっくりいたしまして、すぐにここへ抱き上げて、それからはすぐに赤酒を持ってきて差し上げたのですがね」
+「あら！　それ赤酒なの？　葡萄酒《ぶどうしゅ》じゃないの？　赤酒なら貰《もら》うわ。わたし、赤酒大好きよ」
+　紀久子はそう言って、蝋《ろう》のように白く、微《かす》かにわなわなと顫えている手を差し伸べてその赤酒をぐっと飲み干した。
+「お嬢さま！　お嬢さまはどこかお悪いのじゃございませんか」
+「なんでもないわ。どこも悪くないのよ。脳貧血を起こしたのだわ」
+「脳貧血だって、どこかお悪くないと……お嬢さまは、昨夜《ゆうべ》からなんとなくお顔の色が悪くて、ご心配事でもあるようなご様子でございましたよ」
+「なんでもないのだわ」
+「なんでもなければようございますが、何かご心配事でもございましたら、なんでもわたしに打ち明けてくだされませな。わたしはお嬢さまのことなら、生命《いのち》に懸けてもいたそうと思っているのでございますからね」
+「婆や、なんでもないんだからもうあっちへ行っててよ」
+　またその時、いままで森閑としていた隣室から父親喜平の激しく怒鳴る声が、雷よりも凄《すさ》まじい勢いをもって紀久子の耳朶《じだ》を襲ってきた。
+「言えっ！　言えったら言え！　その秘密というのを言ってみろ！　正勝！　てめえはなんで黙っているんだ？」
+　その激しい態度《ものごし》は、いまにも掴みかかっていきそうに感じられた。
+「婆や！　お父さまを呼んできてよ。早くお父さまを呼んできてよ。早く！　婆や！」
+　紀久子はベッドの上に半身を起こして、恐怖に戦《おのの》きながら狂的に叫んだ。
+「お嬢さま！　大丈夫でございますよ。わたしがお傍《そば》についておりますから、お呼びなさらないでもよろしゅうございますよ」
+「何を婆やは言っているの？　呼びに行くのがいやなの？　いやならいいわ、わたしが自分で行ってくるからいいわ」
+　紀久子はいつもの温順さにも似合わず、狂的に叫びながら髪を振り乱してベッドから飛び下りた。
+「お嬢さま！　ではわたしが……」
+「いいわ！」
+　彼女は老婆を押し除《の》けるようにして、ドアのほうへ突き進んだ。
+［＃改ページ］
+
+　　　第三章
+
+　　　　　　　１
+
+　沈黙が続いた。喜平は目を輝かして正勝を睨《にら》みつけ、唇を噛《か》み締め、鞭《むち》の手をぐっと正勝の身近くへ差し伸ばし、その手を微《かす》かにわなわなと顫《ふる》わしていた。そして、正勝は腕を組み、唇を噛み締めてじっと俯《うつむ》いていた。嵐《あらし》を孕《はら》める沈黙だ。いままさに、鉄砲の火蓋《ひぶた》が切って落とされようとしているような沈黙だった。
+　正勝はじっと俯いて、嵐のように荒れ渦巻く心のうちに、喜平の胸に向かって投げつくべく、言葉の弾丸《たま》を整えているのだった。過去の噂《うわさ》から、過去の記憶から、彼は喜平の胸に投げつくべき言葉の数々を機関銃の弾嚢帯《だんのうたい》のように繰り出していた。そして、彼は秘《ひそ》かに喜平のその肉の仮面を肉づきのままに引き剥《は》ぐべく、爪《つめ》を研ぎ澄ましているのだった。
+　喜平はじっと正勝を見詰めつづけ、正勝がもし何か喚《わめ》きだしたら、その細長いしなやかな鞭をもってすぐにも殴りつけようとしているのだった。火のような昂奮《こうふん》をもって、喜平は第二の爆発の動機を待ち構えているのだった。
+　狂暴な嵐の中の瞬間的な静寂のような沈黙だった。偶然に均衡を得た一つの機構が、わずかの間をどうにか崩れずにいるような、瞬間的静止状態であった。なお大きく恐ろしく爆発しようとして……。そして二人の間には沈黙が続いた。
+
+　隣室の沈黙につれ、紀久子はその身体《からだ》を婆《ばあ》やの手に委《まか》すようにした。婆やは紀久子の肩に手をかけて、ベッドの上へ静かに寝かした。そして、紀久子はベッドの上でじっと目を閉じたが、恐怖の嵐がその身内を駆け巡っていた。
+（正勝さんはあのことを言ってしまうのだわ。あの秘密を言おうとしているのだわ。あの秘密を……）
+　紀久子は心の中に呟《つぶや》いた。彼女は渦巻き吹き捲《まく》る恐怖の嵐のために、胸が裂けてしまいそうだった。そして、彼女はじっと目を閉じていると、隣室で父の喜平と対峙《たいじ》している正勝がその口辺をもぐもぐさせながら、いまにも叫び出そうとしているさまがはっきりと見えるような気がするのだった。そして、その言葉がいまにも自分の身内へ飛び込んできて、自分の心臓を滅茶《めちゃ》めちゃに噛み荒らすような気がするのだった。紀久子の心臓は熱病患者のように燃えながら顫えた。
+（正勝さんがあの秘密を明かしたら、わたしはどうなるのだろう？）
+　紀久子はそう思うと、恐ろしいことの来ないうちに消えてしまいたいような気がするのだった。
+　しかし、もうどうにもならないことだった。父の喜平と正勝との対峙の場所へ飛び出して、正勝の口を塞《ふさ》ぐことのできないのはもちろんだったし、正勝が一度その口にした秘密という言葉に対する父の追及を、いまさら制止することもできなかった。紀久子はただじーっとして、恐ろしい現実が波紋を描いて広がるのを待っているよりほかには仕方がなかった。紀久子のただ一つの希望は、その不気味な沈黙が沈黙のままに終わってしまうことだけであった。
+
+　沈黙が不気味のままに続きだすと、喜平は書卓の上へがたりと鞭を投げ出して荒々しく煙草《たばこ》に火を点《つ》けながら、目を三角にして怒鳴った。
+「さあ！　言え！」
+　しかし、正勝は顔を上げなかった。
+「言え！　その秘密ってのを言え！」
+　喜平は怒鳴りつづけ、追及しつづけた。
+「なんだって黙っていやがるんだ！　さあ！　言えったら言え！」
+　正勝はやはり顔を上げなかった。
+「言えったら言え！　秘密の何のと言いやがって！　さあ！　言え！」
+　喜平はまた鞭を取り上げて、書卓の上をぴしぴしと打ちつづけながら叫んだ。
+「秘密の何のと言やあ、馬鹿野郎《ばかやろう》、驚くとでも思っていやがるのか？　てめえらに威《おど》かされてどうなるんだ？　馬鹿野郎め、何が秘密だ？」
+　喜平はそこで、書卓を強く打ち据えた。
+「それじゃ、秘密なんて、ないというんですか？」
+　正勝はぐいと顔を上げて、叫ぶように言った。
+「なんだって！」
+「人殺しのようなことをしていながら、そんでもなにも秘密がねえなんて……」
+「人殺し？　この野郎め！　黙っていりゃ勝手なことを吐《ぬ》かしやがって、おれがいつそんな人殺しのようなことをした？」
+「おれらのお袋がだれのために死んだか、何のために死んだか、おれらが知らねえとでも思っているのか？」
+「そんなことがおれと何の関係があるんだ？」
+「関係がねえ？　関係がねえと思ってんなら教えてやらあ」
+「馬鹿野郎！　それをおれに教えるっていうのか？　てめえのお袋は、てめえの親父《おやじ》が死んでから生活に困って、自殺をしたんだぞ。そんでてめえらは、干乾《ひぼ》しになってしまうところだったんだ。その干乾しになってしまうのを、いったいだれが助けてやったと思ってんだ？」
+「それじゃいったい、おれらのお袋を自殺させたのはだれなんだ」
+「そんなことをおれに訊《き》いたって分かるか？」
+「それじゃ教えてやろう。おれらのお袋は、きさま！　きさまのために自殺したんだぞ」
+「なんと？　おれのために自殺をしたって？」
+　喜平は驚異の目を瞠《みは》りながら叫んだ。
+「黙っていりゃ吐かしやがる？」
+　喜平はそして、いまにも掴《つか》みかかろうとするような形相さえ示した。しかし、正勝は喜平の顔に向けてぐっと目を据えたまま、身動《みじろ》ぎもしなかった。喜平は鞭を取って、ぴしりと強く書卓の上を打っただけだった。
+「馬鹿野郎め、育てられた恩を忘れやがって！」
+「大変な恩だ。こっちから言わせりゃあ、それこそ余計なお世話だったんだ」
+「余計なお世話だと？　余計なお世話かはしんねえが、もしあん時にだれも世話する者がなかったら、てめえら母子《おやこ》はどんなになっていたか、それを考えてみろ！」
+「ふん！　そんなこたあさんざんぱら考えていらあ。おれらの親父は何のために死んだか？　だれのために殺されたか？　そして、お袋はおれらを育てるためにどうしたか？　なぜ自殺したか？　だれのために自殺したか？　そんなこたあ何もかも知っていらあ。おれらの親父は過ってあの谷底へ落ちたんでも、自殺したんでもねえんだ。突き落とされたんだ。自分の財産のために、自分の財産を肥やすために、おれらの親父を突き落とした奴《やつ》がいるんだ。おれらの親父は開墾地の小作人たちのために、正義の道を踏もうとして地主の奴から谷底へ突き落とされたってこたあ、おればかりじゃなく、だれだって知っていることなんだ」
+「地主のために？　てめえはそれじゃ、てめえの親父を殺したのがおれだっていうのか？」
+　喜平はさすがに顔色を変えながら叫んだ。
+「もちろん！」
+　正勝は鋭く太く叫び返した。
+「そんな馬鹿なことがあるもんか？　てめえの親父とおれとは、兄弟のようにしていたんだぞ」
+「兄弟のようにして、ほとんど共同事業のようにして牧場と農場とを始めて、それが成功しかけてくると、相手がいたんではそれから上がる利益が自分の勝手にならねえもんだから邪魔になってきて、そのためにってこたあだれだって知っているんだ。利益の分配のことについてだけだったら、場合によっちゃあ秘密に隠しおおせたかもしれねえさ。しかし、おれらの親父は小作人たちには味方していたんだ。小作人たちが内地から移住してきたときに、開墾について小作人たちに約束したことは、生命《いのち》に懸けても枉《ま》げようとなんかしていなかったんだ。開墾地の人たちが自分のものとして開墾したところはあくまでもその人たちのもの、地主の耕地として開墾したところは地主のものって区別をはっきりと立てていたんだ。それを欲の皮を突っ張って、自分の名義で払い下げた土地だっていう口実で、当然開墾地の人たちの土地であるべきところまで小作制度にしようとしたんじゃねえか？　それにゃあ、仲へ立って小作人たちの味方になって正義の道を踏んでいこうとするおれらの親父が邪魔になったんだ。邪魔になったから狩りに連れ出して谷底へ突き落として、過って落ちたんだとか自殺したんだとか、なんとかかんとかいうことにしてごまかしてしまったんじゃねえか？」
+「正勝！　てめえは本当にそう思っているのか？」
+　喜平は顔色を変えて、わなわなと身体を顫わせながら叫んだ。
+「もちろん！」
+　正勝も身体を顫わせながら叫んだ。
+「もちろんさ！　いまの様子を見ても分かることなんだ？　開墾した土地の半分くらいは自分の土地として貰《もら》えるはずで内地からはるばる移住してきた人たちが、自分の土地ってものを猫の額ほども持たねえで、自分たちが死ぬほど難儀して開墾した土地さ持っていって、高い年貢を払って耕しているじゃねえか？」
+「何を馬鹿なことを吐かしているんだ。てめえなんかに分かることか？　馬鹿なっ！」
+「そして、おれらの親父が死んでお袋が生活に困りだすと、おれらが子供でなにも分からないと思いやがって、お袋が生活に困っているのに付け込んでお袋を妾《めかけ》に、妾にして、子供まで孕まして……」
+「嘘《うそ》をつけ！」
+「嘘なもんか！　おれらのお袋はそれを恥じて自殺したんだぞ。子供まで孕ましておきながら、ろくに食うものも宛《あてが》わねえで、自殺してからおれらを引き取って何になるんだ。おれらを引き取ったのだって、育てておいて扱《こ》き使ってやるつもりだったのだろう」
+「なんだと？　育てられた恩も忘れやがって……」
+「何が恩だ？　おれらの親父はきさまの財産のために生命をなくし、そしてお袋はきさまの色事のために生命をなくしているのに、何が恩だ？　恩を返せっていうのか？　そんな恩ならいつでも返してやらあ」
+「この馬鹿野郎め！　黙っていりゃあとんでもねえことばかり吐かしやがって！　てめえのような奴は出ていけ！　てめえのような奴は置くわけにいかねえから」
+　喜平は鞭を取って、書卓の上を殴り散らしながら叫んだ。
+「もちろん出ていく！」
+「いまのうちに出ていけ！」
+「出ていくとも」
+　正勝は喜平を睨みながら立ち上がった。
+「すぐ出ていけ！」
+「出ていくとも！　その代わり近々のうちに恩を返しに来るから、忘れねえでいろ、貉親爺《むじなおやじ》め！」
+　正勝は喜平を睨みつけながら、捨科白《すてぜりふ》をして部屋を出ていった。
+
+　隣室の激しい爭いにじーっと耳を立てていた紀久子は、正勝が出ていくと急いでベッドを下りた。そして、紀久子は自分の用箪笥《ようだんす》の引出しの底からそこにありったけの紙幣を掴み出して、それを洋服のポケットに押し込みながら部屋を出ていった。
+　紀久子は裏庭に出て、夢遊病者のようにふらふらと周囲に気を配りながら厩舎《うまや》のほうまで歩いていったが、しかし正勝はもうどこにも見えなかった。紀久子はまた激しく胸が躍った。
+　厩舎は南を向いて三棟が三列になっているのであったが、その一番前の東端の一郭は牧夫たちのための合宿部屋になっていた。正勝の姿を見失った紀久子は他人目《ひとめ》を盗むようにして、その合宿部屋の前へ歩み寄っていった。合宿部屋にはしかし、正勝の入っているらしい気配はなく、重い板戸が固く閉まっていた。
+「正勝《まっか》ちゃん！」
+　紀久子はそれでも、周囲に気を配るようにしながらも低声《こごえ》にそう呼んだ。しかし、その部屋の中からは物音の気配さえしてこなかった。紀久子はその重い板戸を見詰めて、じっとそこに立ち尽くしているより仕方がなかった。
+「正勝ちゃん！　正勝ちゃん！」
+　紀久子はその重い板戸を軽く叩《たた》きながら、繰り返した。しかし、彼女はやはり何の気配をも受け取ることはできなかった。紀久子はもうどうしていいか分からなかった。彼女は恐ろしい秘密のしだいに広がるのをじっとその目の前に見詰めながら、言葉を封じられ、手足の自由を奪われているような自分をそこにまざまざと感じないではいられなかった。彼女はまったく、じっとしてはいられないような気持ちだった。遣《や》る瀬《せ》のない気持ちで、彼女は自分というものを片っ端から引き毟《むし》ってしまいたいほどだった。彼女の心臓は酷《ひど》く痛んできていた。
+「正勝ちゃん！　正勝ちゃん！」
+　紀久子は遣る瀬なくなって、自分の心臓を引き毟るような気持ちの中で、さらにそう繰り返した。部屋の中からは、依然として何の反響もなかった。紀久子はもうそこにじっと立ち尽くして、その気持ちに耐えていることはできなかった。彼女は全身を押し揉《も》むような悩ましさを抱いて、静かにそこを歩き出した。そして、彼女は心臓がじりじりと焼け爛《ただ》れているように感じながら、厩舎の横をふたたび裏庭のほうへ引き返していった。
+「あらっ！」
+　紀久子は驚きの声を上げて、第三｜厩舎《きゅうしゃ》の前に足を止めた。
+「正勝ちゃん！　ここにいたの？」
+　紀久子は喜びのあまり、正勝の前までひらひらと飛ぶような恰好《かっこう》をして近寄った。
+「何してんの？」
+　紀久子は正勝の顔を覗《のぞ》き込むようにして言った。
+　しかし、正勝は黙りつづけていた。そして、彼は黙りつづけながら陽射《ひざ》しのほうに背を向けて、第三厩舎の中央の柱にかけてある長い綱を、放牧馬捕獲用の長い綱を、自分の身体にぐるぐると巻きつけていた。
+「正勝ちゃん！　何してんの？」
+　紀久子は怪訝《けげん》そうに、しかし馴《な》れなれしく繰り返して訊いた。正勝は依然として答えなかった。彼は黙りつづけながら、やはりその長い綱を自分の身体へぐるぐると巻きつけるのだった。
+「正勝ちゃん！　あなたはどこかへ行くつもりなの？」
+　紀久子は恐るおそる、そう、しかし甘えるようにして、正勝の顔を覗き込むようにした。
+「心配しないでもいい」
+　正勝は初めてそれだけをぼそりと言った。そして、またその長い綱をほぐしては巻き、ほぐしては自分の身体に巻きつけた。しかし、紀久子は正勝の言葉を聞いてほっとした。
+「何をするの？　その綱で？」
+「紀久ちゃんを酷い目に遭わせるようなことはしないから」
+「どこかへ行くの？」
+「そりゃあ行くさ」
+「どこかへ行って、でも、困るといけないわ」
+「困ったって……」
+「お金を幾らか持っているの？」
+「お金？　そんなものねえよ」
+　正勝は初めて顔を上げて言った。彼の顔は凄《すご》いまでに青白かった。そして、その目は星のように顫えていた。
+「紀久ちゃん！　紀久ちゃんは安心していていい。おれが何もかも引き受けるから」
+「どこかへ行くんなら、本当に困るといけないわ」
+　紀久子はそう言いながら、洋服のポケットに捩《ね》じ込んでおいた幾枚かの紙幣を掴み出して、それを正勝の洋服のポケットに押し込んだ。
+「金か？　あははは……」
+　正勝は静かに、しかし不気味に微笑《ほほえ》んだ。
+「おれ、金なんかいらない」
+　彼はそう言ったが、しかし、それを掴み出して返そうとはしなかった。そして彼はただ、その長い綱を自分の身体に巻きつけるのだった。
+「どこかへ行くんなら……」
+　紀久子は正勝を怪訝そうに見詰めながら言った。
+「紀久ちゃん！　おれ、紀久ちゃんを本当に想《おも》っているんだから、紀久ちゃんを困らせるようなことは決して言わねえから、安心していろ。おれは敬二郎よりももっと紀久ちゃんを想っているのだから。子供の時分に、一緒に遊んでいたときのことを思うと、おれ紀久ちゃんを酷い目に遭わせるようなことは決して言えねえ。安心していろ」
+　正勝はそう言って、静かに微笑んだ。紀久子は身体の箍《たが》が全部緩んだような気がしながら、目が熱くなってきてなにも言うことができなかった。正勝は微笑みながら繰り返した。
+「本当になにも心配しなくていい」
+「どこかへ行って困ったら、いつでもわたしがお金を送ってあげるわ」
+「金なんかいらないよ」
+　正勝はそう言って、その長い綱を身体に巻きつけたまま、静かにそこを歩き出した。
+「正勝ちゃん！　どこへ行くの？」
+　紀久子は怪訝そうに訊いた。
+「心配しなくてもいい」
+　正勝は振り向きもしないで歩いていった。
+「そんなものを巻きつけて。でも、どこへ行くつもりなの？」
+　正勝はもう返事もしなかった。彼はズボンのポケットに両手を突っ込んで、厩舎の横から放牧場の雑草の中へと、静かに歩み消えていった。
+
+　　　　　　　２
+
+　闊葉樹《かつようじゅ》の原生林は紅《あか》や黄の葉に陽が射して、炎のように輝いていた。
+　正勝は陽にきらきらと輝きながら散る紅や黄の落ち葉を浴びながら、綱を身体に巻きつけたまま熊笹藪《くまざさやぶ》の中を歩いた。彼のその足音に驚いて、この地方特有の山鳥が枝から枝へと、銀光の羽搏《はばた》きを打ちながら群れをなして飛んだ。白い山兎《やまうさぎ》が窪地《くぼち》へ向けて毬《まり》のように転がっていったりした。
+　しばらくしてから、正勝は道のほうへ出た。しかし、昨日の跡はことごとく落ち葉に埋め尽くされて、ただぎらぎらと火の海のように陽の光に燃え輝いているだけで、猫の額ほどの地面も残ってはいなかった。
+　しかし、そこには一つの目標があった。横筋の地肌の暗灰色の幹に、真っ赤な蔦《つた》が一面に絡みついているのであった。そして、はるかの谷底には暗緑色の椴松《とどまつ》林帯が広がり、その梢《こずえ》の枯枝が白骨のように雨ざれているのだった。
+　正勝は崖際《がけぎわ》の一本の幹に自分の身体に巻きつけてある綱の端を結びつけ、紅や黄の落ち葉に埋もれながら谷底へと下りていった。綱に掴まり、岩角や灌木《かんぼく》に足をかけて、周囲に求むるものを探りながら谷底へ谷底へと下りていった。
+　しかし、そこの地形は崖の上の道からの想像とは、ほとんど違っているのだった。道から見たのでは、その崖は道端からすぐ谷底までほとんど一直線的にぐっと岩壁になっているように見えるのだが、崖際から六、七間も下へおりると、そこにはＬの字形の岩が突き出ていて雑草が茂り、灌木が伸び、落ち葉に埋もれているのだった。正勝は思いがけぬ足溜《あしだま》りを得た。思いがけぬ世界を発見した。そして同時に、容易にそこで蔦代の死体を発見したのだった。彼はかえって呆気《あっけ》に取られた。
+　正勝はその死体を前にしてしばらく立ち尽くした。それから彼は、落ち葉に埋められかけているその死体に手をかけて、前の姿勢から半分ほども起き返らしてみた。死体には別に、岩角での擦過傷というようなものはなかった。胸から脇腹《わきばら》にかけて、出血のために着物がべとべとになっているだけであった。彼はさらに、腕や脚を精細に調べてみた。やはり、腕や脚にも擦過傷はなかった。正勝がその路上から投げ込んだままどこの岩角にも突き当たらずに、直接そのＬの字形の岩の上の雑草の上に落ちたのに相違なかった。
+　それから正勝は、その死体の胴へ自分の身体に巻きつけてある綱の一端を結びつけておいて、下りてきたときの綱に掴まって岸壁を登っていった。そして、崖の上に登り着くと、道の前後を注意深く見た。しかし、普段からあまり人通りのないその道には、夕陽にぎらぎらと輝きながら、紅や黄の葉がばらばらと落ち葉の海の上に散っているだけであった。
+　正勝は綱を手繰った。彼の掌《てのひら》の皮が剥《む》けてしまうほどの重さをもって渋りながら、蔦代の死体は崖の上に揚がってきた。正勝はすると、その死体を素早く引っ担いで闊葉樹の原生林の奥深く駆け込んでいった。
+　そして、彼はそこの熊笹藪の中に蔦代の死体を隠し、夜の迫るのをじっと待った。
+
+　　　　　　　３
+
+　紀久子は容易に眠れなかった。
+　彼女の耳の底には、正勝の、安心していろ！　という言葉が耳鳴りのように付き纏《まと》っていた。そして目を閉じると、身体にぐるぐると綱を巻きつけている正勝の姿がその目の前にはっきりと見えるのだった。彼女は目が冴《さ》えて、どうしても眠ることができなかった。彼女の神経は銀針のように鋭敏になって、絹糸のように戦《おのの》いているのだった。
+　いくつかの部屋を隔てて、遠くのほうから柱時計の一時を打つ音がした。
+　紀久子は無意識のうちに、ベッドの上に半身を起こした。彼女の心臓は恐ろしい激しさをもって動悸《どうき》を打っていた。そして、遠くのほうで何かの足音が遠ざかっていくように、時計の音は微かに――しだいに微かに――微かに微かに、絹糸のように細くなりながら――消えていった。しかし、紀久子の動悸は容易に止まらなかった。いつまでもいつまでも、だくっだくっだくっ……どきどきどき……と、心臓が破れそうになりながら続いた。
+　焼け爛れるような痛みと悩みとをその心臓に感じながら、紀久子はじっと部屋の中を見回して、それから静かに夜具を引き被《かぶ》った。しかし、彼女はやはり眠ることができなかった。なにかしら恐ろしい幻想が彼女の目の前に立って、彼女の心臓を圧迫しているのだった。父親のベッドにさえ、紀久子はそこに自分の動静を窺《うかが》っている者が潜んでいるような気がして、神経を掻《か》き立てられるのだった。
+　どこかで何かぴゅん……と弾《はじ》ける音がした。
+　紀久子はまたぱっとベッドの上に胸を浮かした。しかし、自分の横には二間ほど離れて父親のベッドがあり、その上に父親が眠っているだけであった。別に何の変わりもなかった。紀久子はしかし、部屋の中に瞠った目をそのまま閉じてしまうことはできなかった。そして、ぴゅんという音の余韻が耳底に続き、その中で正勝の、安心していろ！　という声が聞こえるのだ。いつまでもいつまでも聞こえているのだった。
+　しかし、なんでもなかったことが分かると、紀久子はほっと溜息《ためいき》を一つして静かに夜具を引き被った。彼女の心臓は父親の眠りを妨げはしまいかと思うほど、激しく動悸を打っていた。彼女はぐっと胸を押さえつけて、じっと小さくなっていた。
+　するとまた、戸口のほうで金属の触れ合うような音が始まった。
+　紀久子は全身の神経を緊張させた。しかし、音はすぐ消えてふたたび、冴えざえしい静寂のうちに返っていった。紀久子は恐怖性錯覚を起こしやすくなっている自分の神経のことを思いながら、その半面では、だれかわたしを連れにきたのではないかしら？　と思いながら、無理にも神経を鎮めようとした。
+　金属の触れ合うようながつがつという音がまた続いた。夜寒の冴えざえしい空気の中に――隅々までも針の先で突くようにして――しばらく続いた。
+　紀久子はまた目を開いた。薄暗い電灯、朦朧《もうろう》としている何かの影、父親のベッド、何物をも圧している自分の心臓の動悸を打つ音、とたんに入口のドアが静かに開いて、影が現れた。
+　紀久子は無我夢中に、ぱっと薄暗い光の中に起き上がった。彼女の心臓は破れるほど激しく動悸を打ちだした。彼女は叫ぼうとして声が出なかった。叫ぼうとする身構えをもって、彼女はただわなわなと全身を顫わしていた。
+　黒い姿は静かに部屋の中へ進んできた。静かに――抜き足差し足で――煙か何かのように――ベッドのほうへ近づいた。紀久子は叫ぼうとする身構えで目を瞠り、唇を極度に顫わせながらじっとその黒い姿を見詰めていた。
+　黒い姿はすると、右手を上げて、それを紀久子のほうへ差し伸ばしながら横に振った。黙っていろということの合図らしかった。しかし、紀久子は叫ぼうとするその身構えから、姿勢をさえ崩すことができなかった。彼女の全身の神経は恐怖にわなわなと戦慄《せんりつ》しながらも、針金のように固くなってしまっているのだった。
+　黒い姿は二つのベッドの中間に立ち止まって紀久子のほうへ向き直り、帽子を取った。そして、その顔を薄い電灯の光線に翳《かざ》した。正勝だった。
+　紀久子は正勝の顔を見ると、打ちのめされたようにしてベッドの上にくずおれた。そして、彼女はもう叫ぶことも動くこともできなかった。ただ、心臓だけが電気仕掛けの機械のように、石像のように固くなった彼女の身体を微かに躍動させていた。
+　正勝は向き直って喜平のベッドに近寄り、夜具を引き捲《めく》って銀光のものを振り落とした。
+「うっ！　う……」
+　鈍重な唸《うな》り声を上げながら喜平は上半身を起こそうとしたが、正勝の掌の中の刃物はふたたび喜平の心臓を目がけて突き刺さった。
+「うっ！」
+　喜平は鈍く短く唸って、ベッドの上に倒れた。
+「あ！」
+　紀久子は初めて声を上げた。
+　正勝はすると、手を振りながら紀久子のベッドへ寄ってきた。紀久子は叫ぼうとして、また叫ぶことができなくなっていた。正勝は真っ青な顔で紀久子を覗き込んだ。その手には黒く血がついているだけで、刃物は持っていなかった。
+「紀久ちゃん！　驚くこたあねえ！」
+　正勝は顫える声で言った。顫えるのを固く歯で噛み締めているような声で、彼は鋭く言ったのだ。
+「紀久ちゃんの秘密を、秘密を防ぐためなんだ」
+　正勝はそう言った。紀久子は唇を動かして何か言おうとしたが、やはり声がどうしても出なかった。
+「紀久ちゃんが、こ、こ、この証人になればいいんだ」
+「――しょう……」
+　紀久子は言葉にはならない声を口にしたが、そのあとがどうしても続かなかった。
+「驚くことはねえ！」
+「あっ！　あっ！……」
+「明日の朝、大騒ぎになるに相違ねえから、そ、そ、その時にゃあ紀久ちゃんがいまのことを、はっきりと見た！　って言えば、そ、そ、そんでいいんだ」
+　正勝はさすがに言葉が整わなかった。
+「紀久ちゃん！　おれの、おれの言ってるの分かるか？」
+「え！」
+　紀久子はじっと正勝の顔を見詰めながら言った。
+「こ、こ、これは、しかし、おれがやったことにしてはいけねえんだ。紀久ちゃん！　分かる？」
+「え！」
+「蔦代が、蔦代が、蔦代が殺したことにしねえといけねえのだ」
+「蔦代が？……」
+　紀久子はそう言ったが、彼女は正勝の言うことが分かっているのではなかった。彼女には何もかもが、全然分からなかった。正勝の顔が自分の前に見えていることさえ、紀久子ははっきりと意識することができないような状態になった。正勝が言っていることの、いかなる意味であるかなど、紀久子は全然消化する力を失っていた。
+「紀久ちゃん！　分かるか？」
+　正勝はしかし、念を押しながら続けた。彼もまた、沸騰するような心臓の動悸のために苛立《いらだ》っていて、判断力を失っているのだった。
+「蔦代が殺したことにするんだ。紀久ちゃんは、蔦代が入ってきて父さんを刺したのだ！　って言えばそんでいいんだ。そ、そ、そして、それから、蔦代がわたしのほうへ寄ってきたから、わたしは蔦代を鉄砲で撃ったのだ！　って言えばそんでいいんだ。紀久ちゃんはそれで立派に正当防衛になるんだから」
+「…………」
+　紀久子はやはり黙りつづけていた。黙って、彼女はじっと正勝の顔を見詰めていた。正勝の言っている言葉の意味を、彼女はどうしても消化することができないのだった。
+「なんなら蔦代が、紀久ちゃんを追い回したことにしてもいいんだ。紀久ちゃんは逃げ回って、鉄砲のあるところへ行ったので、その鉄砲で思わず蔦代を撃ったことにすればいいんだ。鉄砲には……」
+「鉄砲？」
+　紀久子は初めて、言葉の形態を備えた言葉を口にした。
+「鉄砲でさ。蔦代の身体にある傷は、蔦代の死んだ傷は、鉄砲の傷なんだもの」
+「鉄砲？」
+　紀久子は呆然《ぼうぜん》とその言葉を繰り返した。
+「鉄砲でさ。それに、鉄砲にはいつでも弾丸が込もっていて、隣の部屋にかかっていることになっているんだから」
+「正勝ちゃん！」
+　紀久子は低声ながら、叫ぶようにして言った。
+「紀久ちゃん！　大きな声をしちゃいけねえ！」
+　正勝は押しつけるように鋭く言った。
+「わたしを助けて……」
+「おれの言っているのが分からないのか？　おれは自分のためにばかりやっているのじゃねえんだ。いいか、蔦代が殺したことにして、蔦代がそのうえに紀久ちゃんまで殺そうとして追い回したから、紀久ちゃんは鉄砲のある部屋へ逃げていって、そこに弾丸を込めたままかけてある鉄砲を取って思わず撃ってしまったことにすれば、それでいいんだ。それで紀久ちゃんは立派な正当防衛になって、罪にはならねえから」
+「…………」
+「紀久ちゃん！　分かったかい？」
+「え！」
+　紀久子は微かに頷《うなず》いた。
+「それじゃ、こ、こ、これからおれがその準備をするから、支度が出来上がるまで、紀久ちゃんは動いちゃいけねえ。支度ができてから、その寝巻のままで起きて、隣の部屋へ行って鉄砲を撃つんだよ。そして、そこに、みんなが、鉄砲の音を聞いて集まってくるまで、じっとして立ってれば、それで何もかも済むのだ。いいか？　それで分かったな？」
+「え！」
+　紀久子は軽く頷いた。
+「それじゃ、おれが支度するまで、寝ていてくれ」
+　正勝がそして静かに、抜き足をして部屋を出ていった。
+［＃改ページ］
+
+　　　第四章
+
+　　　　　　　１
+
+　暗黒の中に、不気味な沈黙がしばらく続いた。死のような夜更けの酷寒に締めつけられて凍《し》み割れる木材の鳴き声が、冷気を伴ってときどきぴゅんぴゅんと微《かす》かに聞こえてくるだけだった。そして、紀久子は泥沼の底のような不気味な沈黙の中に、歯の根も合わないまでに顫《ふる》え戦《おのの》いていた。
+　やがて、正勝は蔦代の死骸《しがい》を抱えて入ってきた。そして、正勝は薄い電灯の下に二つの影を引きながら、蔦代の死骸を喜平の死骸の傍《そば》へ持っていった。
+「紀久ちゃん！」
+　正勝は低声《こごえ》にそう呼びながら、蔦代の死骸を喜平の死骸の横に並べた。
+「紀久ちゃん！　こっちの段取りが終わるまで、紀久ちゃんは寝床の中へ入っていてくれ」
+　しかし、紀久子はほとんど意識を失っているように、ただわなわなと身を顫わしているばかりだった。
+「紀久ちゃん！　寝床の中へ入っていてくれ。でないと、段取りができないから」
+　正勝は紀久子のベッドへ近寄りながら、繰り返した。
+「紀久ちゃんが寝床の中へ入ってるところへ、蔦が短刀で斬《き》りつけてくるようにするんだから、寝床の中へ入っていてくれったら」
+　そして、正勝はそのベッドの夜具を捲《めく》り、紀久子の胸を軽く押した。紀久子は胸を押されて、初めて意識を取り戻したようにしてベッドの中に潜り込んだ。
+「紀久ちゃん！　そして、おれのとおりに動いてくれ。でないと、蔦が斬りつけていくときの足の運びやなんかの具合が分かんねえから」
+　正勝はそう言って、ふたたび二つの死骸の傍へ戻っていった。そして、正勝は死骸にしゃがみ込んで、そこに落ちていた短刀を取り、まずそれを蔦代の掌《て》を押し開いてその中に握らせた。
+　死んでいる掌は筋が攣《つ》っていて、それを押し開いて握らせるのが容易でない代わり、一度握ってしまうと機械のようにその掌に固く固く支えていた。そこで、正勝は蔦代の死体を抱き起こした。抱き起こしておいて蔦代の手の甲をその上から握り、自分の力でその短刀を喜平の胸の傷口へ突き刺した。喜平の胸の血が蔦代の青白い手に、赤黒くべっとりとついた。そして、正勝はその手を胸から抜き取らせると、今度は蔦代の死体を右手に支えながら左の手で喜平の死体を半起こしにして、二つの死体を組みつかせるようにした。蔦代の死体の胸には喜平の胸の傷口の血糊《ちのり》がべっとりとつき、蔦代の手の短刀が喜平の咽喉部《いんこうぶ》に触れた。そこで正勝は、喜平の死体をベッドの上にどんと倒し、ふたたび蔦代の手の甲を握って喜平の咽喉部に短刀を突き刺した。今度は傷口へそれを突っ込むようなわけにはいかなかった。短刀はわずかに突っ立ったばかりで、柄《つか》が蔦代の掌の中から突き出た。
+「紀久ちゃん！　起きてくれ。ベッドの上へ、半分ばかり身体《からだ》を起こしてくれ。いまはじめて気がついたように、身体を半分起こしてくれ」
+　正勝はそう言いながら、ベッドの横の血溜《ちだま》りに蔦代の足を立たして、その足を血に染めた。
+「紀久ちゃん！　こっちから斬りつけていくような恰好《かっこう》で紀久ちゃんのほうへ寄っていくから、おれが動けって言うまでそのままにしていてくれ」
+　そして、正勝は蔦代の死体をその後ろから抱き支えて、足音を忍ばせるように小刻みに足を運ばせながら右手の短刀を振りかざして、紀久子のベッドへ接近していった。
+　紀久子はベッドの上に上半身を起こして、顫え戦きながら眉《まゆ》を寄せていたが、正勝が蔦代の右手を振り上げて近寄るにつれ、静かに静かにベッドから滑り下りた。
+「紀久ちゃん！　そのままでいてくれ。蔦が短刀で斬りつけたようにするから、そこへ寄っていくまでは動かねえでいてくれ」
+　そして、正勝は接近していった。紀久子は眉を寄せながらも、そのままじっとしていた。紀久子のベッドへもはや三尺（約一メートル）ばかりのところで、正勝は蔦代の手の中の短刀をひと振り強く紀久子に向けて振りかざした。
+「あっ！」
+　紀久子は低声で叫んでベッドの上からぱっと床の上に飛び下りたが、その瞬間に、短刀から飛んだ血糊は紀久子の寝巻の肩へ、牡丹《ぼたん》の花の模様のように広がった。そして、蔦代の手の余勢はベッドの夜具の上にばたりと落ちた。同時に、血糊は夜具の上にも赤黒い模様を描いた。
+「紀久ちゃん！　今度は逃げてくれ！」
+　正勝は蔦代の手を取って振り上げさせながら、紀久子を促した。
+「この部屋をひと回り逃げ回って、それから次の部屋へ逃げ込んでくれ」
+　正勝はそして、蔦代の死骸をその後ろから抱き、蔦代の足が床の上に印す血の足跡を踏まないように注意深く大股《おおまた》に脚を開いて、不恰好な足構えで紀久子を追い回した。
+「紀久ちゃん！　それくらいでもう次の部屋へ行ってくれ。そして、ついでにそこの血を少し踏んでいってくれ」
+　正勝はそう言って、なおも不恰好な足構えで蔦代の死骸を抱えながら、紀久子を追い回した。紀久子は言われるままに、血糊を踏みつけて鮮やかな足跡を印しながら、次の部屋の戸口のほうへ逃げていった。
+「そして、次の部屋へ行ったら、鉄砲のかかっている下へ逃げていってくれ」
+　次の部屋の戸口にまで追い詰めておいて、正勝は立ち止まりながら言った。
+「そして、鉄砲の下へ行ったらいちばん下の鉄砲を取って、それで向き直ってくれ」
+　正勝は、すぐにも倒れようとする蔦代の死体を必死になって抱き支えながら言った。紀久子はドアを押し開いて、次の部屋へ走り込んでいった。
+「鉄砲だ！　鉄砲を取って！」
+　正勝は紀久子に続いて入りながら、低声に言った。
+「いちばん下の？」
+　紀久子は初めて、そう顫える声で言いながら、猟銃を取った。
+「それを蔦の胸の傷口に当てて……待てよ。その前に、大事なことを忘れている。待っていてくれ」
+　正勝はそう言いながら、蔦代の死体を静かにそこに倒しておいて寝室へ戻っていった。
+　紀久子は猟銃を手にして激しく心臓を弾ませながら、そこにわなわなと、真夜中の冷気に顫えていた。
+　正勝は喜平の死体を抱えて、ふたたび戻ってきた。そして、その死体をそこの熊《くま》の皮の上へどんと倒した。同時に、寝室からそこへ運んでくるまで寝巻の端で押さえられていた喜平の胸の傷口からは、ふたたびどくどくと血が湧《わ》いて流れた。
+「蔦の傷口からは血はもう出ねえから、こうしておかねえと？」
+　正勝はそう言って、そこの熊の皮の上に多量の血が流れ落ちるのを待った。紀久子も黙って心臓を噛《か》まれながら、じっとそれを見詰めていた。
+「紀久ちゃん！　場合によっちゃ、あん時、蔦がおれたちと一緒に帰ったかどうかってことが問題になるかもしれねえが、そん時、どうしようかな？　途中までは一緒に来て、途中から逃げたのでそのままにしておいたことにするかな？」
+　しかし、紀久子はそれにはなにも答えなかった。彼女はただ目だけを光らせて、呆然《ぼうぜん》として正勝の顔を見詰めていた。
+「停車場から、おれたちが蔦を一緒に連れて帰ったのを敬二郎くんが知っているのだから、とにかくどこまでか一緒に帰ったことにしておかないと具合が悪いな。牧場の近くまで馬車で一緒に来て、牧場の門のところで降ろしたらそのまままたどこかへ姿を隠してしまったことにするか？」
+「…………」
+「蔦があなたのお父さんに恨みを持っていたってことは、蔦のおれへの手紙を見ても分かる。だから……」
+「…………」
+「おれたちが無理に連れ戻って、門のところで降ろしてしまってからおれはいっさいなにも知らなかったことにしておこう。紀久ちゃんは紀久ちゃんで、その場の都合でなんとでも申し立てればいいさ。とにかく、おれは門のところまで一緒に来てそこで降ろしたから、あとはいっさい知らねえことにする。蔦の手紙も証拠の一つとして見せる必要はあるだろうが、あとで読んだことにするから。それでいいね」
+「正勝《まっか》ちゃんがいいと思うんなら……」
+「そんな手筈《てはず》にしておこうじゃないか」
+　正勝はそして、喜平の死骸にしゃがみ込んだ。
+「これくらいでもういいだろう」
+　呟《つぶや》きながら、正勝はふたたび喜平の胸の傷口をその寝巻の端で押さえ、寝室へと入っていった。
+「これで段取りは終わったわけだ」
+　正勝はそう言いながら戻ってきて、蔦代の死骸を抱き起こした。
+「蔦がこの部屋まで、短刀を振り上げながら紀久ちゃんを追いかけてきたわけなんだ。そこで紀久ちゃんは正当防衛として、その鉄砲を取って蔦を撃ち倒したというわけなんだ。おれがこうして押さえているから、紀久ちゃんは蔦の傷口に銃先《つつさき》をつけて撃ってくれ」
+　正勝はそう言って蔦代の死骸を直立させ、その手を振り上げさせた。
+「紀久ちゃんは、鉄砲を撃てるだろう？」
+「撃てるわ」
+「それじゃ、銃口を傷口へつけて引金を引いてくれ。そして、紀久ちゃんが鉄砲を撃ったら、おれはすぐこの部屋を逃げ出していくから、だれかが鉄砲の音を聞きつけてこの部屋さ入ってくるまで、紀久ちゃんは大変なことをしたというような顔をしてこの部屋から動かねえでいればいいんだ。おれは真っ先に入ってこないで、なにかこう、都合のいいように拵《こしら》えるから」
+　正勝は蔦代の死骸の横に立って、その銃口を傷口のところへ持っていった。
+「それじゃ！」
+「いい？」
+「いいよ」
+　瞬間！　銃声は轟然《ごうぜん》と窓ガラスを震わして鳴り響いた。
+　正勝は手早く蔦代の死骸を熊の皮の上の血溜りの上へ、ちょうどその傷口のところがつくように倒しておいて、戸外へと駆け出していった。
+
+　　　　　　　２
+
+　銃声が轟然と真夜中の薄闇《うすやみ》を揺り動かした。どこからか急に犬が吠《ほ》えだして、そしてその一匹の犬が鳴きやむと、またどこからか別の犬が吠えだした。
+「熊だあ！」
+　だれかが暗がりの中で高く叫んだ。
+「熊だあ！　熊だあ！」
+　どこからともなく声が続いた。暗がりの中に人影が動いた。犬が吠えつづけた。
+「熊だあ！　馬に気をつけろ！　放牧の馬を気をつけろ！……」
+「どっちへ行った！」
+「その辺にいるらしい！」
+　足音が乱れた。
+「弾丸《たま》は当たっているのか？」
+　炬火《たいまつ》が暗闇の中に模様を描き出した。
+「どっちへ行ったんだあ？」
+　石油缶が激しく鳴りだした。人々が叫び合った。板木を叩《たた》き鳴らす音が続いた。
+「おーい！　どっちへ行ったのか分かんねえのか？」
+「いったい、弾丸を食らっているのか？」
+「それより、熊を見たのはだれなんだ」
+　足音が暗がりの中をぞそっと寄った。
+「鉄砲が鳴ったじゃねえか？」
+　だれかが言った。
+「鉄砲が鳴ったって熊とは決まるめえ」
+「熊でも出たんじゃないと、だれもこの夜中に鉄砲など撃つ者はあんめえが……」
+　彼らは暗がりの中に動きながら、周囲を見回した。
+「いったい、鉄砲はいま、だれのとこにあるんだ？」
+　暗がりの中には炬火が揺らめいた。
+「おーい！　鉄砲を撃ったのはだれだあ？」
+　犬が遠くで吠え立てている。
+「鉄砲を撃ったのはどこだあ？」
+「おい！　旦那《だんな》の部屋に灯《あかり》が見えるで……」
+「あっ！」
+「旦那かな？　そんじゃ？」
+　正勝が言った。
+「旦那だべ！」
+　炬火が夜の闇を引き裂いて走っていった。
+
+　　　　　　　３
+
+　コンクリートの露台に上がると、そこから部屋へのドアは開いたままになっていた。
+「おい！　ドアが開いてるぞ」
+　だれかが戸口に立って叫んだ。同時に、牧夫たちはその戸口に殺到した。
+「てて、て、大変《てえへん》で……」
+　部屋の中から婆《ばあ》やが叫んだ。
+「あっ！　お嬢さまが！」
+　だれかがそう叫ぶと、牧夫たちは土足のままで部屋の中に雪崩《なだ》れ込んだ。
+「どうしたんだね？」
+　牧夫たちはまず、鉄砲を持ってそこに呆然と立っている紀久子をその目に捉《とら》えたのだった。
+「お嬢さまが、て、て、お嬢さまが、て、て……」
+　婆やは顫え戦きながら吃《ども》った。そして、吃りながら婆やは、熊の皮の上に倒れている蔦代の死骸を指さした。
+「あっ！　蔦代さんが……」
+　牧夫たちは驚きの声で叫びながら、蔦代の死骸の上にしゃがみ込んだ。
+「触っちゃいけねえ、触っちゃいけねえ。検査してもらうまで動かしちゃいけねえ」
+　正勝はそこへ寄っていきながら叫んだ。
+「あっ！　足跡があるど。血の足跡が……」
+　牧夫の一人がそう叫ぶように言うと、牧夫たちはその足跡を辿《たど》って隣室へと雪崩れていった。正勝もそれに続いた。
+「あっ！」
+　彼らはそう叫んで、戸口のところに立ち止まったが、すぐに喜平の寝室へと殺到していった。
+「蔦の奴《やつ》め、とうとうやりやがったな」
+　正勝は唸《うな》るようにして言った。
+「旦那！　旦那！」
+　牧夫の一人は、喜平の死骸を抱き起こしながら叫んだ。しかし、喜平はもちろんなにも答えはしなかった。
+「蔦の書置きを見て、連れ戻してきたのを後悔しているんだが、とうとうやりやがったな」
+　正勝は繰り返して言った。
+「蔦代さんがやったのかな？」
+「蔦の奴だ。蔦の奴は、お嬢さまに手向かったに違《ちげ》えねえ。そんで、お嬢さまに鉄砲で撃ち倒されたのに違えねえ」
+「蔦代さんが、また、どうして……」
+「何かひどく恨んでいたらしいから。しかしまあ、こんで、仕様ねえ。夜が明けて警察から来るまで、こうしておくべ」
+　正勝はそう言って、隣室へと歩きだした。牧夫たちはそれに続いた。
+「お嬢さま！　どう、どうなすったんです？」
+　正勝は紀久子の傍へ寄りながら、目を瞠《みは》って訊《き》いた。
+「蔦が……蔦が……」
+　紀久子は歯の根が合わないまでに、顫えていた。
+「旦那を殺したのは蔦だってこと、はっきりと分かるけれども……」
+　正勝はそう言いながら紀久子の手から猟銃を取って、そこの壁に立てかけた。
+「蔦が、蔦が、わたしも……」
+　紀久子はようやくそれだけを言った。
+「蔦があなたにも手向かったんですね」
+　紀久子は微かに頷《うなず》くようにした。
+「しかし、こうしていたって仕様のねえことだし、あなたが何より寒くって仕様がねえだろうから、あっちへ行って夜の明けるのを待つより仕方がねえでしょう」
+　正勝はそう言って紀久子の背中に手をかけ、廊下のほうへ出た。牧夫たちは土足のままで、ぞろぞろとその後に続いた。
+
+　　　　　　　４
+
+　牧夫たちのための食堂になっているコンクリートの土間の、片隅の壁際に石と粘土とで竈《かまど》のように畳み上げられてあるストーブには、薪《まき》が幾本も幾本も投げ込まれた。そして、牧夫たちはその焚《た》き口の前に車座になって腰を据えていた。紀久子はその中央の火に近いところへ、席を空けられた。
+「婆や！　婆や！」
+　正勝は冷えびえしい沈黙を破った。
+「婆や！　お嬢さまに着物を持ってきてあげろよ」
+　正勝は周囲を目探りながら叫んだが、婆やの姿はどこにも見えなかった。
+「婆やは、どこかに腰を抜かしているのかもしんねえぞ」
+　だれかが言った。それにつれて、初めてようやく微かな笑いが崩れた。
+「仕様のねえ婆やだなあ。それじゃ、おれが行って持ってくるかな」
+　正勝は身動《みじろ》ぎながら言った。
+「いいわ」
+　紀久子は微かに言って、止めた。
+「寒くて仕様がねえでしょう？」
+「我慢しているわ」
+「我慢をしなくたって……」
+　正勝がそう言って立ち上がろうとしたとき、廊下のほうから腰を引くようにして婆やが出てきた。
+「あっ！　婆やが来たか？　婆や！　お嬢さまの着物を持ってこう」
+「えっ」
+「何を婆やは魂消《たまげ》てるんだい？　お嬢さまの着物を持ってきてあげろ。外套《がいとう》でもなんでもいい」
+　正勝が叫ぶように言うと、婆やはまた腰を引くようにして奥へ入っていった。ふたたび重苦しい沈黙が割り込んできた。ストーブの中に薪がぴんぴんと跳ねているだけだった。
+　正勝は、その重苦しい沈黙の空気の中に堪《こら》えていることができない気がした。正勝は沈黙を破るために言った。
+「お嬢さま！　なにも心配することなんかありませんよ」
+　正勝はストーブにぐっと手を翳《かざ》しながら言うのだった。
+「蔦はおれの妹だげっとも、それとこれとは別問題だし、あなたの場合は立派に正当防衛というもんだから」
+　しかし、紀久子は黙りつづけていた。
+　そこへ、婆やが紀久子の外套を持って戻ってきた。
+「お嬢さまの着物、どこにあるんだか、一人で奥へ行くのもいやだし……」
+　婆やがあたふたと土間へ下りてきながら言った。
+「外套のほうがいい」
+　正勝が大声に言った。
+「肩のところへ血がついているようだから、警察が来るまでやはりこの寝巻を着ていたほうがいいだろう」
+「それはそうだなあ」
+　牧夫の一人が、紀久子の肩のところへ目をやりながら言った。婆やは紀久子の後ろから外套を覆いかけて、そのまま牧夫たちの後ろに顫えながら立ち尽くした。
+「婆やも前さ出て、当たったらいいじゃねえか？」
+　正勝は何事かを言っていなければ、耐えられない気持ちだった。
+「お嬢さま！　本当になにも心配することなんかねえよ。あなたのは正当防衛なんだから」
+「お嬢さまからすれば、親御の仇《かたき》でもあるし……」
+　牧夫の一人は言った。
+「親の仇なんてこたあいまの社会では通用しねえが、とにかく正当防衛だけは立派に成り立つのだから……」
+「夜明けももう間近えべから、駐在所まで行ってくっかな？」
+「明るくなってからでいい」
+　正勝は鋭く遮った。
+「こういう事件というものは時間が経《た》てば経つほど、当事者の利益なんだ。お嬢さまの気も落ち着かねえうちに警察から来られたんじゃ、とんだ馬鹿《ばか》も見ねえとも限らねえからなあ。お嬢さまがすっかり心を落ち着けたところで初めて警察から来てもらって、そん時の具合を間違いなく申し立てても遅くねえ」
+「それはそうだなあ」
+「お嬢さま！　なにも心配はねえ。場合によっちゃあ、駐在所の巡査の正当防衛という報告だけで、警察本署のほうからなんざあ来るかどうか分からねえ。東京付近だと裁判所からまで来るそうだども、この辺じゃ警察の本署からとなりゃあ大変だからなあ。来てみて、まあ部長詰所から来るぐれえのもんだべど。そしてまあ、巡査部長の報告で、紀久ちゃんが裁判所へ呼ばれると同時に、おれたちもまあ証人に呼ばれんだべが、正当防衛ってことですぐ済むさ。泊められたって、調べがつくまでほんの三、四日のもんだべど」
+　正勝はほとんど一人で喋《しゃべ》りつづけた。
+
+　　　　　　　５
+
+　陽《ひ》が輝きだすとガラス屑《くず》のような霜柱がかさかさと崩れて、黒土がべたべたと濡《ぬ》れていった。陽がその上にぎらぎらと映った。
+　市街地の駐在巡査が黒土の庭へ駄馬を乗り入れて、コンクリートの露台の近くに寄ってきた。牧夫たちは露台のところに立って巡査を迎えた。巡査は馬の上から牧夫たちに言った。
+「蔦代っていう娘は主人たちの部屋へ、どこから入ったらしいか分からねえかね？」
+「入ったのはこの階段を上って、ここから……」
+　牧夫の一人が前へ出ながら言った。
+「足跡か何か残っていないかな？」
+「なにしろ、おれらが鉄砲の音を聞きつけて土足でもってどかどかと駆け込んだもんだから、どれがだれの足跡だか、はあもう、てんで分かんなくなってしまって……」
+　正勝が巡査の顔を見上げながら言った。
+「それで、お嬢さんはどこにいるんだね？」
+「お嬢さまは中にいますから……」
+　正勝はそう言って、巡査の乗っている馬の轡《くつわ》を捉えた。巡査は手綱を放《ほう》って、馬から下りた。そして、長靴のままで露台へ上がっていった。
+「それから済まねえが、その馬に飼葉をやっておいてくれねえかなあ。近所の馬を借りてきたんだから……」
+　巡査は露台の上から、思い出したようにして言った。
+「はあ！」
+　正勝はそう言いながらその馬を牧夫の一人に渡すと、露台に駆け上がって巡査と一緒に部屋の中に入った。
+　部屋の真ん中にはストーブが燃えていた。紀久子は真っ青な顔をして婆やに付き添われながら、そのストーブの前に腰を下ろしていた。
+「紀久ちゃん！　警察が検《しら》べにおいでくださったから、なんでも本当のことを申し上げて……」
+　正勝はそう言って、巡査と紀久子とを引き合わせた。紀久子は静かに腰を上げて、項垂《うなだ》れながら軽く会釈した。
+「いったい、どうしたというんだね？　あなたのお父さんを殺しておいてから、あなたまで殺そうとしたんだね？」
+　巡査はストーブに寄って椅子《いす》にかけながら訊いた。
+「はい、わたしが気のついたのは、蔦代が父を殺してしまったあとだったのでございます。父の唸り声で目を覚まして、蔦代が父の胸から短刀を抜いているのをわたしが見てしまったものですから、蔦代は急にわたしまでも殺してしまおうと思ったのだと思います」
+「それで、あなたはすぐ、こっちから先に殺してやるという気になったんだね？」
+「いいえ！　その時は、どうかして逃げようと思ったのでございます。わたしが驚いて父の寝室のほうを見ていますと、蔦代は短刀を振り上げてわたしのほうへ飛びかかってきたものですから、わたしはすぐ逃げだしたのでございます。それでも、肩のところへ蔦代の短刀を握っている手が触れて、血糊がついたのですけど、わたしはできることならどうかして逃げようと思いまして、この部屋まで逃げてきたのですけど、ここまで来てもう逃げ切れなくなったものですから、鉄砲を取って逆に蔦代を威《おど》かそうとしたのでございます。そして、わたしはその時も、別に殺そうという気持ちはなかったのですけど……」
+「しかし、鉄砲に弾丸が込まっていたことは前から知っていたんだろうがなあ」
+「いいえ！　わたしはここにかけてある鉄砲はみんな飾物としてかけてあるので、弾丸など込まっていないように思っていたのでございます」
+「また、いろいろの鉄砲があるんだなあ。ほう！　刀も……」
+　巡査はそう言って、そこの壁にかけられてある鉄砲や刀のうえに目を持っていった。
+「ですから、わたしは鉄砲で蔦代の胸の辺りを突いて、蔦代を威かしてやろうと思ったのでございます。それなのに……それなのに……」
+　紀久子はそう言って、涙ぐんだ。
+「しかし、引金は引いたんだろう？」
+「わたしは引いたような気もしなかったんですけど、やはり……」
+「それじゃ、正当防衛としての殺人というよりは過失としての殺人で、どっちにしてもあなたには罪がないわけだ。しかし、一応は本署の調べも受け、裁判も受けなくちゃならんかもしれんね。そしてその時には、おれとだれか、この牧場のだれかが証人というわけになるだろうと思うが、いったい、いちばん先にこの現場を目撃したのはだれかね？」
+「婆や！　婆やだったんでねえか？　おれが入ってきたとき、婆やはもう来ていたから」
+　正勝は横から説明した。
+「婆さん！　おまえさんかね？」
+「はあ！」
+　婆やは消え入るようにして言った。
+「それで、おまえさんがこの部屋へ入ってきたとき、この紀久子さんはどんな風にしていたかね？」
+「わたしはなんにも分かりませなんだ。わたしは入口のところで腰を……！　腰を……！　腰がもう立たなくなってしまって……」
+「腰を抜かしたというのか？　しかし、腰を抜かしたのは、何か腰を抜かすほど驚くものを見たから抜かしたんだろうが、その見たものを聞きたいんだ」
+「はあ、わたしはなーに、この部屋へ入ってまいりましたとき、お蔦さんを熊が腹這《はらば》ってると思ったもんですかんね」
+「しかし、蔦代というのが女中とすれば、おまえさんと一緒に部屋にでも寝ていたんだろうが、起きてくるとき蔦代のいなかったことには気がつかなかったのか？」
+「なーに、お蔦さんは前の日にはいなくなっていたんですかんね。そんで、鉄砲の音がしたもんですから、熊が出たのをだれかが威かしてるのだと思うて、わたしは熊だあ！　熊だあ！　って叫んで旦那さ知らせに来ましたら、足下に黒いものがいますもの、熊だと思ってしまって……」
+「分かった。それで、蔦代が前の日からいなかったというのはどういうわけかね？」
+「それは……」
+　正勝はひと足前のほうへ出た。
+「蔦代はわたしの妹でして、ここに遺書がありますが、一昨日この屋敷から逃げ出したのでございますが、途中から連れ戻って帰ったのでございます。そして、連れ戻りましてからこの事件まで、どこかに隠れていて姿を見せなかったわけです」
+「だいたいそれで分かった」
+　巡査はそう言いながら、正勝の手から蔦代の遺書を受け取って、それにひととおり目を通した。
+「これによると主人を恨んでいたようだから、連れ戻されたことを悲観して、恨みのある主人を殺して、自分も死んでしまおうと思ったのかもしれないなあ」
+「連れ戻ったときに、父が酷《ひど》く叱《しか》ったのでございます。それから急に姿を隠してしまって……」
+「しかし、恨んでいる者を殺して自分も死のうというときに、自分の犯行を発見されたからといってその人まで殺そうとしたのは少しおかしいなあ。あなたはその時、親の仇というようなことを思わなかったかな？」
+　巡査は首を傾《かし》げるようにしながら言った。
+「いいえ」
+「どうも少しおかしい」
+「妹は旦那さまばかりでなく、お嬢さまも恨んでいたようなんです。旦那さまが叱ったのは知りませんけれど、連れ戻るときわたしが馬車のお供をしていたんですが、お嬢さまは馬車の中で酷く妹を叱っていましたから。それは兄として、傍で腹が立つほどでございましたから」
+　正勝がまたそう説明した。
+「それなら分かる。では、あなたは蔦代をそんなに叱るほど何か憎むようなことでもあったのかな？」
+「いいえ！　蔦代は妹のようにかわいがっていたものですから、それが逃げたので、その場だけなんですけど急に腹が立ったものですから」
+「それなら分かる。それではとにかく、本署まで一緒に行ってもらおう。そして、場合によっちゃ裁判も受けなくちゃならんかもしれんが、心配はなかろう」
+「証人として、このわたしもまいったほうがいいというのでしたら？」
+　正勝がそう横から言った。
+「一緒に行ってもらおう。それに、いろいろ証拠品も持っていかなくちゃならねえからなあ。短刀と鉄砲と……それから……」
+「死骸はどうしましょうか？」
+「死骸は本署から来るのを待って片づけるのが本当だが、一つの死骸は犯人がはっきりと分かっていてその犯人が死んでいるんだし、他の一つの死骸はそれを殺した人が自首しているのだから、片づけてしまっていいだろう。本署から確かに来るものなら片づけずに待っていてもいいのだが、北海道の山奥じゃそんな例はあまりないからなあ。それより、馬車なりなんなり用意して、早く出かける支度をしてくれ。今日じゅうに本署へ着けなくなるぞ」
+　巡査に促されて、正勝は露台へ出ていった。
+「おーい！　だれか早く馬車の用意をしてきてくれ。それから、旦那さまの死骸と蔦の死骸はすぐもう片づけていいそうだからなあ。おれはこれから警察へ行かなくちゃなんねえから、すぐ片づけてしまってくれ」
+　正勝は露台の上から、牧夫たちへ声を高くして朗らかに言った。
+［＃改ページ］
+
+　　　第五章
+
+　　　　　　　１
+
+　正勝はなにも言わずに、侮蔑《ぶべつ》を含んで微笑《ほほえ》みつづけた。
+（態《ざま》あったらねえ！）
+　微笑みの底で、彼はそう呟《つぶや》いているのだった。
+「正勝くん！　きみは口が利けなくなって帰ってきたのか！」
+　松田敬二郎はじりじりしながら叫ぶようにして言った。しかし、正勝はやはり口を開こうとはしなかった。そして、彼は鞭《むち》を振り振り不気味に微笑みながら、厩舎《うまや》の前を歩き回った。厩舎の前は泥濘《でいねい》の凸凹のまま、まったく凍ってしまった。コンクリートのように硬くなっていた。正勝は鞭を振り振り、蹄鉄《ていてつ》の跡のその硬い凸凹を蹴崩《けくず》した。その動作につれ、森谷牧場主森谷喜平の遺品の高価な鞭は陽《ひ》にきらめきながら、ぴゅうぴゅうと鳴った。
+「そして、その鞭なんかだって、勝手に持ち出したりしていいのかい？」
+　敬二郎の言葉はしだいに辛辣《しんらつ》になっていった。
+（馬鹿野郎《ばかやろう》め！　自分の足下が崩れかけているのも知らずに、偉そうなことばかり喚《わめ》き立てていやがる）
+　正勝はそう思いながらも、微笑を含んで黙りつづけた。
+「五日も前に帰ってきているというのに、ぼくには会わないように会わないようにとしているし、せっかくここで会ったからと思って裁判の模様を訊《き》きゃあまったく口も利かず、わずか十日ばかりの間になんて変わり方だ。まったく驚いてしまうなあ！」
+「驚くこたあねえさ！　変わるのはおればかりじゃねえんだ。いまにきみだって、おれ以上に変わるさ」
+「おっ！　口が利けなくなって帰ってきたのかと思ったら、そういうわけでもないんだな？」
+「おりゃあ、悪魔になってきた」
+「悪魔に？　それは面白いね」
+　敬二郎は侮蔑的な微笑をもって言った。
+「面白いことになるだろうとも。面白くて面白くて、涙が出るほど面白いことになるだろうから、待っているといいさ」
+　正勝は投げ出すように言って、厩舎の前から放牧場のほうへ向けて歩きだした。
+「正勝くん！　きみはいま、ぼくのうえにも大変な変化があるようなことを予言したね。いったい、それはどんな意味なんだ？」
+　敬二郎はそう言いながら正勝の後をついていった。しかし、正勝は黙っていた。黙々として正勝は鞭を振りながら、放牧場のほうへ歩いていった。
+「正勝くん！　どんな意味なのかはっきりと言わなくちゃ、何のことだか分からないじゃないか？」
+「いまに分かるさ」
+「いまに分かるって？」
+「分るまいとしたって、いまに分からずにはいられなくなるのさ」
+「何をいいかげんなことばかり言っているんだ」
+　敬二郎は自暴自棄的に叫んだ。
+「そんな風に考えてるうちが幸福なのさ。いまに、夢にもそんなことは考えられなくなるから、いまのうちだけでもそう思っているんだね」
+「変なこと言うね」
+　詰め寄るようにして敬二郎は言った。
+「何が変なことなんだ。おれは本当のことを言っているんだ。本当のことを言うのが変なのか？」
+　正勝は開き直って鋭く言った。彼はもう微笑んではいなかった。敬二郎は取りつき場を失った。
+「ぼくには、それがどうも気になって仕様がないんだよ」
+「良心に恥じるところがあるからさ」
+「そんなものはないがね」
+「なかったら、なにも気にかけることなんかないじゃないか？」
+「きみが変なことを言うからだよ。いったい何のことだか、はっきりと言ってくれたまえ。頼むから」
+「そんなら言ってやろう。しかし、せっかくの楽しい夢がそれでもう覚めてしまうかもしれないぞ。それでもいいんなら言おう」
+「構わないとも。話してくれ」
+「言ってみればまあ、おれときみとの立場も地位も、全然反対になってしまうのさ」
+「立場が反対になる？」
+　敬二郎は驚きの目を瞠《みは》って正勝の顔を見詰めた。しかし、敬二郎はしだいに驚きの表情を失って、侮蔑的な微笑に崩れていった。そして、敬二郎は侮蔑的に微笑みながら揶揄《やゆ》的に訊いた。
+「それはどういうわけかね」
+「理由か？　理由は簡単だ。いままではこの牧場のことは何から何まで旦那《だんな》の意志一つで支配されていたんだが、これからは紀久ちゃんの意志一つで支配されることになったんだから……」
+「それはそうだ。しかし、紀久ちゃんの意志で支配されることになったからって、ぼくの立場や地位がどうして変わるんだね？　どうして、ぼくときみとの立場が反対になるんだえ？」
+「それが分からないのか？」
+「ぼくには分からんね。どういうことなんだえ？　それを聞かしてくれ」
+「きみは……紀久ちゃんは自分の意志で、きみと結婚をしようとしているのだと思っているのか？　純然たる自分の意志で？」
+「それはそうだろうなあ」
+「はっはっはっ！……」
+　正勝は大声に笑いだした。
+「自惚《うぬぼ》れにもほどがある。……紀久ちゃんが紀久ちゃんだけの意志で、いくらなんでもきみとなどと結婚をしようたあ思っちゃいないだろうなあ。それはおかしい。まったくおかしい……」
+　正勝はそう言って大声に笑いつづけた。敬二郎はぶるぶると身を顫《ふる》わせながら、真っ赤になった。しかし、正勝はなおも大声に笑いつづけるのだった。
+「何が、何がそんなにおかしいんだえ？　紀久ちゃんの意志がどうか知らないが、いまにぼくと紀久ちゃんが一緒になることだけは確かなんだ。その時になってから、なんとでも言いたいことを言うさ。ぼくは自分の下男から軽蔑されて、それで黙っているような、それほどの善人じゃないから」
+　敬二郎は怒りのために吃《ども》りどもり、身を顫わせながら言うのだった。
+「はっはっはっ？　……驚き入った。恐れ入ったよ。まったく！　……しかし、旦那さま然と構えるなあどうも少し早いような気がするがなあ」
+「何が早いんだ？　すでに決定していることが、何が早いんだ？」
+「しかし、自分の意志で自由にできることになると、紀久ちゃんだって、だれか本当に自分の好きな人と結婚をするかもしれないからなあ。きみはすると、いまのおれのように下男として働かなくちゃならなくなるかもしれないからなあ。そして、これはどうもそんなことになりそうだよ」
+「何を言っているんだ。きみはそれで、ぼくを軽蔑し切っているんだな？　帰ってきても挨拶《あいさつ》もしなければ、勝手に物を持ち出したりして。どんなことになるか、いまに目の覚めるときがあるさ」
+「少なくとも、おれはきみを旦那さまとして戴《いただ》くようなことは絶対にないなあ。その時が来たんだ」
+　正勝は投げつけるように言いながら、厩舎の前から放牧場のほうへ歩きだした。
+「夢を見てやがる。妹が人殺しをしたので、おかしくなりやがったんだろう」
+　敬二郎は正勝の後姿を見送りながら、独り言のように呟いて唇を噛《か》んだ。
+
+　　　　　　　２
+
+　敬二郎の胸は嵐《あらし》のように騒ぎだした。
+（正勝の奴《やつ》はこのおれから、紀久ちゃんを奪《と》ろうとしているのじゃないのかな？）
+　そんな風に敬二郎は考えたのだった。
+（そして同時に、この森谷家の財産を、つまりおれの財産を、正勝の奴はおれから奪ろうとしているのじゃないのか？）
+　敬二郎は身内に、鋭い銀線の駆け巡るような衝撃を感じた。
+（正勝の奴と紀久ちゃんとは兄妹のようにして育ったのだし、子供の時分にはおれのほうより正勝の奴を紀久ちゃんは好きだったのだから……）
+　そこへ、電報配達夫が凍りついてコンクリートのようになっている凸凹の道を、自転車で寄ってきた。
+「正勝さんはいますか？」
+　電報配達夫は自転車から飛び下りながら言った。
+「電報か？」
+　敬二郎は目を瞠りながら言った。
+（正勝の奴へ？　正勝の奴へいったい、どこから電報など来るところがあるのだろう？）
+　敬二郎の軽い驚きの中には、嫉妬《しっと》の気持ちさえ加わってきていた。
+「正勝さんへ来たんですがね」
+　電報配達夫は、それでも小さな赤革の鞄《かばん》の中から電報を取り出した。
+「だれのでもいい、貰《もら》っておこう。正勝は放牧場のほうへ行っているから」
+「それでは、あなたから渡してくださいね。頼みますよ」
+　電報配達夫はそう言って敬二郎の手に電報を渡してしまうと、すぐまた自転車に跨《またが》って凸凹の道を帰っていった。敬二郎は電報を手にして、じっと電報配達夫の後姿を見送った。電報配達夫は間もなく放牧場の外周を繞《めぐ》っている高い土手の陰に消えた。敬二郎はそこで、放牧場の中に正勝の姿を探した。しかし、正勝はどこにも見えなかった。
+　敬二郎は厩舎《きゅうしゃ》の中へ引き返した。そして、彼は激しく躍る胸をじっと抑えるようにして、その電報を開いた。
+（＝ムザイニケツテイ　三四カウチニカエル　キクコ＝）
+　電報にはそうあった。
+　敬二郎の心臓は裂けるほど激しく、湯のような重い熱を伴って弾みだした。同時に、彼はその電文を疑わずにはいられなかった。彼は厩舎の戸口へ行って、明るい外光に宛名《あてな》をかざした。
+（＝ヒガシハラ　モリタニボクジヨウナイ　タカオカマサカツ＝）
+　瞬間、敬二郎の耳は汽笛のように鼓膜を刺して鳴りだした。同時に、激しい苦痛が心臓に食いついてきた。頭の中を火の車のようなものが、慌ただしく回転した。
+（彼女は心変わりがしたのだ。正勝の奴に騙《だま》されて、彼女は急に心変わりがしたのだ）
+　敬二郎は火を吐くような息をして、心の中に呟いた。
+（正勝の奴がいるからなのだ。正勝の奴さえいなければ、彼女の気持ちがこんなに急に変わるわけはないのだ）
+　敬二郎は電報を洋服のポケットに突っ込んで、厩舎の中からぴゅうっと飛び出した。そして、彼は自分の部屋に入っていった。部屋に入ると、彼は壁にかけてある猟銃を引っ掴《つか》んだ。そして、すぐまた戸外へ飛び出していった。
+（正勝の奴を、どんなことがあっても怒らしちゃいけない。あいつの機嫌をとっておいて、あいつが油断をしているとき……）
+　敬二郎は気を静めながら、放牧場のほうへ駆けだしていった。しかし、正勝の姿は放牧場のどこにも見えなかった。
+「開墾場のほうへ行ったのかな？」
+　敬二郎はそう考えて、四角なコンクリートの正門から道路のほうへ出ていった。ちょうどそこへ、正勝が急ぎ足に寄ってきた。しかし、正勝は敬二郎の姿を見ると急に立ち止まった。
+「敬二郎くん！　何を昂奮《こうふん》しているんだえ？」
+　正勝は目を瞠って言った。
+「熊《くま》が出たんだよ。楡《にれ》の木の上の林から放牧場のほうへ、のそのそと出てくるのがはっきりと見えたんだ。一緒に行ってくれないかね」
+　敬二郎は胸を弾ませながら言った。
+「熊が？　それじゃ、おれたちばかりでなく、大勢で行こう」
+「ぼくときみだけで沢山だよ」
+「それより、きみはおれの電報を預かってるはずだな？　いまそこで配達夫がそう言っていたが……」
+「熊が出たんで、電報のことなんか忘れてしまっていた」
+　敬二郎は狼狽《ろうばい》しながら電報を取り出した。
+「紀久ちゃんからだろう？」
+　正勝はそう言って、すぐその電報を広げた。
+「おっ！　無罪に決定！　無罪に決定！　無罪ということにいよいよ決定したんだ。無罪に決定！　無罪に決定！　無罪に……」
+　正勝はそう叫びながら、電報をひらひらと振り、急に踊りだした。
+「正勝くん！　何がそんなに嬉《うれ》しいんだえ？」
+　敬二郎は侮蔑的な微笑をもって言った。
+「当然のことじゃないか！　紀久ちゃんが無罪に決定して、三、四日うちには帰ってくるんだもの。ほっ！　無罪に決定！　無罪に決定！」
+「正勝くん！　きみは紀久ちゃんが無罪に決定したのが、そんなに嬉しいのか？　自分の妹を殺した女が無罪に決定したって、何が嬉しいのかぼくには分からないなあ」
+「おれにとって嬉しいこたあ、いまとなってみればきみにとっちゃ悲しいことさ」
+「何を言っているんだ！　きみは妹をかわいそうだとは思わないのか？　自分の妹を殺した女がたとえ幾月にもしろ、刑務所に……」
+「余計なお世話だよ。蔦と紀久ちゃんとを一緒にされるもんか。紀久ちゃんのためなら、蔦なんか百人殺されたっていいんだ。紀久ちゃんとおれとがどんな風にして育ってきたか、それを考えてみろ。それから、この牧場が出来上がるまでおれの親父《おやじ》がどんなに難儀したか、それを考えてみろ！　おれの親父は言ってみれば、この牧場のために死んだんだぞ」
+「そのことと、紀久ちゃんが無罪になったということと、どう関係があるんだね？」
+「おれが言わなくても、紀久ちゃんが三、四日うちに帰るから、それまで待っているんだね。おっとどっこい！　無罪に決定！　無罪に決定！」
+　正勝はそう言って、ふたたび踊りだした。
+「正勝くん！　それはそれとして、それじゃ、早く一緒に行ってくれ」
+「熊か？　おれはご免だ。紀久ちゃんが帰ってこねえうちに、熊と間違えて殺されたりしちゃ困るからなあ。だれかほかの奴を連れていけよ。おれは前祝いでもしてくるから。おっとどっこい！　無罪に決定だ！　無罪に決定！　無罪に決定！」
+　正勝はそう叫びながら、踊るような足つきで敬二郎の前を離れていった。
+
+　　　　　　　３
+
+　開墾場を貫通する往還を挟んで、五、六軒ばかりの木羽屋根《こばやね》の集落があった。森谷牧場と森谷農場とを目当てとしての、つまり、牧場と農場での労働に身体《からだ》を磨《す》り減らして余生を引き摺《ず》る人々によって形成されている、唯一の商業集落であった。雑貨店・雑穀屋・呉服店、小さな見窄《みすぼ》らしいそれらの店の間に挟まって、一軒の薄汚い居酒屋があった。
+　正勝は踊るような足つきをしながら、その居酒屋の中へ入っていった。
+　居酒屋の薄暗い土間の中央には四角の大きな炉があって、真っ赤に火が燃えていた。そして、その炉の周りには、無造作な造りつけのテーブルと腰掛けとが繞《めぐ》らされてあった。正勝はその腰掛けの一つに、身体を投げ出すようにして腰を下ろした。
+「爺《じい》さあ！　一本つけてくれないか？」
+「おっ！　正勝さんか？　これはこれはしばらく」
+　卯吉爺《うきちじい》はそう言いながら、ぼそぼそと土間へ下りてきた。
+「熱くしてもらいたいなあ」
+「熱く？　あいよ。ときに、裁判はどんなことになったか、決定しねえかね？」
+　卯吉爺は燗《かん》の支度をしながら訊いた。
+「無罪さ？　無罪に決定したんだ」
+「無罪？　ほっ！　無罪かね。それじゃ、敬二郎さんは喜んでるベ？」
+「敬二郎の奴なんか、なにも喜ぶわけねえさ。紀久ちゃんは敬二郎の奴なんか好きじゃねえんだもの」
+「それは初耳だなあ」
+　卯吉爺はそう言いながら、酒の肴《さかな》に烏賊《いか》の塩辛を運んできた。
+「今度だって紀久ちゃんは、無罪に決定したっていう電報を敬二郎の奴に寄越さねえで、おれに寄越してるんだからなあ。紀久ちゃんはむしろ、敬二郎の奴を嫌ってるんだよ」
+「それじゃ、お嬢さんは敬二郎さんよりも、正勝さんのほうを気に入っているのじゃねえのかな？　どうもそうらしいなあ」
+　爺はそう言いながら、酒を運んできた。
+「おれはどっちを好きだか、そんなことは知らねえがな。しかし、敬二郎の奴を好きでねえことだけ、これは確かなことなんだ。もし敬二郎の奴を好きなのなら、今度だっておれのほうさ電報を寄越すわけはねえからなあ」
+　正勝は上半身をぐっと後ろに引くようにして、炉の火の上に大股《おおまた》を開いた。
+「そりゃあ、敬二郎さんよりもお嬢さんは正勝さんを好きなのだよ。それに違いねえとも。それ！　熱いうちに……」
+　爺はそう言って、燗のできている酒を注《つ》いだ。
+「そんなこたあまあ、おりゃあどっちだっていいがなあ」
+　しかし、正勝の顔にはなにかしら、暗い重々しいものの底から浮かび上がってくる得意の表情が容易に隠し切れなかった。正勝は唇を微笑に歪《ゆが》めながら、熱い燗の酒を続けてぐびりぐびりと飲み干した。爺は炉の火を掻《か》き立てながら、無骨な手で酌を続けるのだった。
+「どっちでもいいってこたあねえさ。いまのところお嬢さんに好かれるか好かれねえかっていうこたあ、こりゃあ大問題だぞ。お嬢さんに好かれりゃあ、それでまあ、森谷さまのお婿さまに決まったようなもんだ。森谷さまの財産といったら、こりゃあまた大したもんだ」
+「おりゃあ、財産なんかどうだっていいんだ」
+「お嬢さんにしてみりゃあ、そりゃあ正勝さんのことを気にするなあもっともな話だよ。牧場のほうも農場のほうも森谷さまと高岡《たかおか》さまと二人で始めて、森谷さまのお嬢さんと高岡さまの坊ちゃんの正勝さんとは兄妹のようにして育ったのを、高岡さまのほうだけが不幸なことになって、正勝さんをお嬢さんのお婿さんにするのかと思ったらそれもしないで、敬二郎さんを連れてくるんだから……」
+「紀久ちゃんがおとなしいからさ。紀久ちゃんが自分の気持ちを言い張れば、親父だって無理やりに押しつけたりしやしめえから」
+　正勝はそしてまた、ぐびりと酒を呷《あお》った。
+「お嬢さまがおとなしいからって、牧場を始めるときのことを考えれば……」
+「それなんだ。それだよ、卯吉爺さん！　おりゃあ森谷の財産を自分のものにしてえと思わねえが、おれの親父ばかりじゃなく、開墾場のほうの何人かの人たちが実に酷《ひど》い目に遭っているんだから、できれば開墾場の人たちが当然自分の土地として牧場のほうから貰《もら》っていい土地ばかりは開墾場の人たちの手に返してやりたいんだ。おれの親父がそう考えていたんだから、親父の気持ちを継いで、おれの手で返してやりたいんだ」
+「それは立派な考えだ。いまならもう、お嬢さんの気持ち一つでどうにでもなるんだから、お嬢さんが敬二郎さんよりゃ正勝さんのほうを好きで、正勝さんが森谷さまのお婿さんになられて、たとえ半分でも返してやったら、開墾場の人々がどんなに喜ぶか……」
+「それで、おりゃあ、それだから、紀久ちゃんの気持ちをどうしても敬二郎のほうへは靡《なび》かせたくねえんだ。敬二郎の野郎に森谷の財産を奪られてしまえば、それでもう前と同じことなんだから。森谷の親父はまたそれを考えて敬二郎の野郎を婿にしようとしていたんだし」
+「しかし、お嬢さまが敬二郎さんに電報を寄越さねえで正勝さんに寄越したのなら、それだけでももうお嬢さまの気持ちははっきりと分かるようだがなあ」
+「卯吉爺さん！　そりゃあおれにだって、見当も考えもあっての話だがなあ。いまに見てろ、この辺はまるで変わったものになるから。卯吉爺さんなどだって、いまよりはきっとよくなるから。爺さん！　一杯まあ飲め」
+　正勝はしだいに酔いが回ってきて、爺のほうへぐっと盃《さかずき》を突きつけながら叫ぶような高声で言うのだった。
+「これはこれは……」
+　爺は微笑を崩して盃を受けながら、正勝を煽《あお》りだした。
+「そんな風にしてくれりゃあ、村にとっちゃ神さまのようなもんだ。村の人たちのためにでも、ぜひともお婿さんになってもらいてえもんだなあ。村の人たちがよくなりゃあ、おれのほうもすぐよくなるのだし、そりゃあぜひとも……」
+「紀久ちゃんの気持ちを、どうかして敬二郎の奴から裂いて……」
+　その時、入り口の戸が開いて、不意に敬二郎が入ってきた。正勝は急に口を噤《つぐ》んだ。そして、正勝と爺とは顔を見合わせた。
+「正勝くんも来てるのか？」
+　敬二郎は鼻であしらうようにしながら、正勝と向き合いに、炉端の腰掛けへ腰を下ろした。
+［＃改ページ］
+
+　　　第六章
+
+　　　　　　　１
+
+　片隅の壁に造りつけられてある土間のストーブには、薪《まき》がぴちぴちと跳ねながら真っ赤に燃えていた。敬二郎はストーブのほうへ長靴の両足を伸ばして煙草《たばこ》をふかしながら、次の言葉を躊躇《ちゅうちょ》した。平吾と常三と松吉との三人はストーブに手をかざして、重い沈黙の中に敬二郎の言葉を待った。しかし、敬二郎は煙草を燻《くゆ》らしてはただじっと唇を噛《か》み締めるだけだった。
+「とにかく、正勝の野郎は旦那《だんな》が亡くなってからってもの、生意気になってきたことだけは確かだ」
+　平吾が両手を擦り合わせながら、思い出したように言った。
+「それなら本当だ」
+　松吉が顔を上げて、叫ぶように言った。
+「そればかりじゃねえ、あの野郎はなにも仕事をしねえで遊んでばかりいるぞ。そして、旦那の長靴を履いたり、旦那の鞭《むち》を持ち出したり、勝手なことばかりしていやがるよ」
+「正勝くんとしちゃ、それぐらいのこと、なんでもないことなんだ」
+　敬二郎は三人の者が正勝に反感を抱いているのを知って、急に勢いを得てきた。
+「なにしろ、正勝くんは大変なことを企《たくら》んでるのだからなあ。実はそれで、きみたち三人に相談してみようと思ったわけなんだがね。しかし、これはほかの人たちにはだれにも知らせたくないことなんだ。ぼくはきみたち三人にだけ打ち明けて、ほかの人たちには絶対秘密にしておきたいと思うんだ」
+　敬二郎はそこまで言って、言葉を切った。そこへ婆《ばあ》やが紅茶を運んできた。紅茶を啜《すす》りながらふたたび沈黙が続きだした。
+「それで、正勝の野郎はどんなことを企んでるのかね？」
+　しばらくしてから松吉はそう言って、煙管《きせる》に煙草を詰めた。
+「正勝くんはこの森谷家の財産を、自分のものにしようとしているのだよ。他人《ひと》から聞いた話だけれど、どうもそうらしい気振りがぼくにも見えるんでね。それできみたちに相談してみるわけなんだよ」
+「あの野郎なら、それぐらいのことは企みかねないなあ」
+　平吾が勢い込んで言った。
+「それで、きみたちはどう思うかね」
+「どうもこうもねえことじゃありませんがなあ。正勝の野郎をいまのうちに、この牧場から追い出してしめえばいいんですよ。だれがなんと言ったって、いまのところあなたはこの牧場の主人《あるじ》なのだから、あなたがあの野郎を追い出す分にゃあだれも文句はねえはずだ」
+「しかし、追い出すといっても、簡単に出ていく男じゃないからなあ」
+「あなたがびしびしとやりゃあ、そんなことなんでもねえじゃありませんか。造作のねえことですよ。面倒なときゃあ、正勝の野郎一人ぐれえなら畳んでしめえばいいんだからなあ。叩《たた》き殺して谷底へでも投げ込んでしめえば、それで片づいてしまうんだもの」
+「しかし、紀久ちゃんの気持ちが最近ではぼくのほうよりも正勝くんのほうへ傾いているかもしれないのだから、紀久ちゃんが帰ってきて、正勝くんより逆にぼくのほうが追い出されるかもしれないからなあ」
+「そんなら、お嬢さまの帰ってこねえうちに、いまのうちにやってしめえばいいですよ。まず試しに、何かあいつのいやがることを言いつけて、無理にでもさせるんだなあ。それで、あいつが言いつけどおりにやらねえんなら、おれたちが黙っていねえから」
+「いったい、正勝の野郎は今日は何をしてるんだ？　今日は朝から見えねえじゃねえか？」
+　松吉が突然、思い出したようにして言った。
+「今日は浪岡に乗って、放牧場のほうで鉄砲を撃って歩いていたよ」
+「浪岡に乗って？」
+　敬二郎は驚きの表情で、訊《き》き返した。
+「近ごろは正勝の野郎、浪岡にきり乗りませんよ」
+「浪岡を自分の乗り馬にするつもりなのかな？　浪岡なら、乗り馬としちゃ最上の馬だからなあ。まったく、この牧場の中でももっとも値段の出ている馬だし、調教を少しつければ、それだけでもう浪岡は貴族階級の乗り馬だよ」
+「それを正勝の野郎に勝手にさせておくなんて、そんな馬鹿《ばか》なことはねえ！　敬二郎さん！　おれが引っ張ってくるから、あなたからぐっと差し止めなせえよ。それで、あの野郎があなたの言うことを聞かなかったら、そのときゃあおれらが黙ってねえから」
+「それじゃ、とにかく差し止めてみよう」
+「それじゃ、みんなは厩舎《うまや》の前へ行って、あそこで待っていてくれ。すぐ引っ張ってくるから」
+　平吾はそう言って長靴をぎゅっぎゅっと鳴らしながら、戸外へ出ていった。
+
+　　　　　　　２
+
+　平吾は栗毛《くりげ》の馬に乗って、放牧場の枯草の中を一直線に駆けていった。
+　正勝は浪岡に※［＃「足へん＋鉋のつくり」、第3水準1-92-34］《だく》を踏ませて、楡《にれ》の木のある斜面を雑木林の谷のほうへ下りてくるところだった。右手には猟銃を持って、手綱は左手で捌《さば》いていた。正勝はそして、木の枝に鳥を探りながら、平吾がすぐその近くへ行くまで知らずにいた。
+「正勝《まっか》ちゃんよう！」
+　平吾は馬の上から声をかけた。
+「平さんか？」
+　正勝は軽い驚きの表情で振り向いた。
+「正勝ちゃんに、若旦那がちょっと用事があるそうだで」
+「若旦那？　若旦那って、いったいだれのことだえ？」
+　正勝は頬《ほお》を膨らましながら、高圧的に言った。
+「そんな皮肉なことは言うもんじゃねえよ。用事があるんだそうだから、一緒に来てくれよ」
+「しかし、おれにはだれのことだか分かんねえなあ。おれらが若旦那って呼ばなきゃならねえ人間が、いまこの牧場にいるのかね。おれには分かんねえ」
+「皮肉だなあ。敬二郎さんが用事があるんだってさ」
+「平さん！　きみはもう敬二郎を旦那にしているのかい？」
+「そんなことを言ったって、仕方がないじゃないか？」
+「仕方がない？　平さん！　きみの親父《おやじ》は内地からはるばると、難儀をしにこんなところまで来たのかい？　子供を牧場の安日当取りにしようと思って、こんなところまで来たのかい？　荒地を他人のために開墾したのかい？　そんなつもりでおれの親父について来たのじゃねえと思うがなあ」
+「そんなことを言ったって、はじまらないよ」
+「どうしてかね？　きみの親父の開墾したところはきみの親父の土地で、同時にきみの土地なんだ。なにもその土地を敬二郎に奉って、そのうえ敬二郎を旦那として戴《いただ》かなくてもいい」
+「しかし、そんなことを言ったって、開墾はおれらの親父がしたかもしれねえが、大旦那から敬二郎さんに譲られていく土地だもの、おれらが何を言ったところで……」
+「そんなことはねえ。森谷の親父はおれの親父まで騙《だま》して、開墾をした人たちから開墾地をみんな取り上げて自分のものにしてしまったのだ。けれども、森谷の親父の死んでしまったいまはだれの土地でもねえのだ。いや！　開墾した人たちの土地なのだ。しかし、このままにしておけばこのまま紀久ちゃんのものになって、紀久ちゃんが敬二郎と結婚してしまえば、それこそ敬二郎のものになってしまうのだ。そこで、紀久ちゃんの手に移らねえうちに、開墾した人たちが自分の手に戻さなくちゃ！　紀久ちゃんが帰ったら、おれは紀久ちゃんに言うつもりだが、紀久ちゃんはそれが分からねえ人じゃねえんだ」
+「とにかく、敬二郎さんのところへ行ってくれよ。頼むから」
+「いったい、敬二郎の奴《やつ》め、おれになんの用があるんだろう。あの野郎は油断ができねえんだが……」
+「なんでも、その浪岡をどこかへ売るらしいなあ」
+「なに？　そんな勝手な真似《まね》をさせておくもんか。行こう！」
+　正勝はそう言って、ぐっと拍車を入れた。
+
+　　　　　　　３
+
+　厩舎の前には、松田敬二郎と、常三と松吉との三人が唇を噛み締めながら立っていた。そして、敬二郎は長い編革の鞭で長靴の胴をぴしぴしと打っていた。常三は猟銃を杖《つえ》にしていた。松吉は長い綱を手にしていた。
+　正勝は左の手でぐっと手綱を引きながら、上半身を起こして猟銃を人指し指が引金のところへいくように持ち替えた。
+「何かおれに用かい？」
+　正勝は反り身になってそう言いながら、手綱を引き絞っておいて浪岡の胴へぐっと拍車を入れた。浪岡はどどっとふた足ばかり躍った。敬二郎ら三人は狼狽《ろうばい》しながら横に避《よ》けた。
+「正勝くん！　浪岡をきみの乗り馬にしちゃ困るじゃないか？」
+　敬二郎は吃《ども》りながら顫《ふる》えを帯びた声で言った。
+「浪岡はきみの馬か？」
+「ぼくが管理している馬だ」
+「何を言うんだい？　きみの管理している馬なんか、まったく一頭だっていないはずだ。馬はわれわれが管理しているんだ。きみは帳面のほうさえやっていればいいんだ」
+「正勝！　しかし、若旦那が乗っていけねえって言うんだから、若旦那の言うとおりにしたらいいじゃねえか？」
+　常三が前のほうへ出てきて言った。
+「乗っていけないと言ったら下りろ！」
+　声高に叫ぶと同時に、敬二郎は長い鞭を浪岡の尻《しり》に振り当てた。不意を食らって、浪岡は嵐《あらし》のように狂奔した。瞬間、正勝の手の猟銃が引き裂くような音を立てて鳴った。浪岡はなおも激しく狂奔した。しかし、正勝は長靴の脚で馬の胴を締め、左手で手綱を捌いて、彼ら三人の間へと割り込んでいった。
+「下りなけりゃあ撃つぞ！」
+　常三は馬上の正勝に銃先《つつさき》を向けた。
+「撃てるなら撃て！」
+　瞬間、正勝は馬首を変えて、ぴゅっと開墾場のほうへ向けて駆けだした。
+「逃げるのか？」
+　平吾が横からそう声をかけて栗毛の馬に拍車を入れ、正勝の後を追おうとした。
+「平さん！　平さん！　この鉄砲を持っていけよ」
+　常三が駆けていって、馬上の平吾に鉄砲を渡した。
+「きみたちもすぐ後から来てくれ」
+　平吾は鉄砲を受け取りながら言って、すぐ正勝の後をいっさんに追っていった。
+
+　　　　　　　４
+
+　敬二郎と松吉とは真っ青になりながら、顔を見合わせた。
+「どうする？」
+「追いかけましょう」
+「おい！　追っかけよう。野郎を谷底へ投げ込んでしまえ？」
+　常三がそう叫びながら、二人の前に駆け戻ってきた。
+「それじゃ、銘々に鉄砲を持って……」
+　敬二郎はそう言いながら、厩舎の中へ駆け込んだ。
+　厩舎の中には、三匹の馬が鞍《くら》を置いて隠されていた。猟銃も弾嚢帯《だんのうたい》と一緒にそこに置かれてあった。三人は胴に弾嚢帯を巻きつけると、銃を握って馬に跨《またが》った。
+「山の中へ、山の中へ追い込むようにしなけりゃ！」
+　敬二郎はそう言って、花房の胴にぐいっと拍車を打ち込んだ。三匹の馬は黒土を蹴起《けお》こしながら駆けだした。
+［＃改ページ］
+
+　　　第七章
+
+　　　　　　　１
+
+　砂煙を蹴上《けあ》げながら、毬《まり》のように駆け飛んで吾助茶屋《ごすけぢゃや》の前まで来ると、正勝は馬の背にしがみつくようにしながらぐっと手綱を引いた。馬は喘《あえ》いで立ち上がるようにしながら止まった。次の瞬間、正勝はぱっと身を翻して道の上へ飛び下りた。そして、正勝は馬をそのままにしておいて、茶屋の中へ飛び込んだ。
+　茶屋の中の薄暗い土間には、開墾場の人たちが五、六人ばかり炉を囲んでいた。
+「どうなさいましたよ？」
+　吾助｜爺《じい》は正勝の突然の闖入《ちんにゅう》に驚いて、目を瞠《みは》りながら言った。
+「鉄砲なんか持って？」
+「敬二郎の奴《やつ》らがおれがいちゃ邪魔なもんだから、おれを殺そうというんだ」
+　正勝は喘ぎながら言った。
+「殺すってね？」
+「おれだって、おめおめと殺されちゃいねえさ。野郎どもめ！　どうしてくれるか……」
+　正勝はそう言って、戸口から路上へ向けて銃口を突き出した。
+「正勝さんを殺そうなんて、敬二郎の野郎はなんて野郎だべなあ」
+　だれかが叫んだ。そして、開墾場の人たちは総立ちになった。
+「逆に、敬二郎の野郎をぶっ倒してやれ」
+　開墾場の人たちは罵《ののし》りながら、土間の隅から薪《まき》を引っ掴《つか》んだ。
+「大丈夫だよ。おれだっておめおめと殺されちゃいねえから」
+「なんだってまた敬二郎の奴は、あんたを殺そうというんです？」
+　開墾場の人たちはそう言いながら、路上に向けて銃を構えている正勝の後ろへと寄っていった。
+「敬二郎の奴はこの機会に、森谷の財産を完全に受け継ごうとしているんだ。それには、おれがいたんじゃ邪魔になるんだよ。おれは森谷の財産のうち開墾場の土地だけでも、この機会に開墾場の人たちの手に返るのが本当だと思っているのだから」
+　正勝は戸外に向けて銃を構えながら、喘ぐようにして言った。
+「正勝さんのその考えはいま吾助爺さんから聞いたところなんだが、自分の欲で正勝さんを殺そうなんて、敬二郎の奴が来やがったら逆に野郎を殺《や》っつけてしめえばいい」
+　開墾場の人たちは昂奮《こうふん》して言うのだった。
+「正勝さん！　おれたちに委《まか》して、あなたはこっちへ引っ込んでいなせえよ」
+「大丈夫だ。きみたちこそ引っ込んでてくれよ。奴らも鉄砲を持っているんだから、下手に手を出さねえでくれ。敬二郎らの三人や五人はおれが一人で、大丈夫、引き受けてみせるから」
+「しかし、おれらのためにあんたがそうまでしてくれるのに、おれらが手を組んで見ているわけにはいかねえ。正勝さん！　おれらに委せて、あんたは引っ込んでいてくだせえよ。敬二郎の野郎ぐらいなら、おれらで引き受けるから」
+　薄暗い居酒屋の土間は殺気を帯びてきた。
+「おれが逃げ隠れしたら、敬二郎の奴がなんて言うか……」
+　正勝はそう言って、戸口を退《の》かなかった。
+　そこへぽかぽかと蹄鉄《ていてつ》を鳴らして、三頭の馬が殺到してきた。
+「来やがったなっ！」
+　正勝は鉄砲を持ち直した。
+「殺っつけてしまえ！」
+　開墾地の人たちは叫びながら、戸口を蹴飛ばすようにして戸外へどどっと雪崩《なだ》れ出していった。
+　路上には敬二郎と松吉と平吾との三人が馬から下り立って、轡《くつわ》を左手に掴み、鉄砲を右脇《みぎわき》に構えて戸口を睨《にら》んでいた。
+「いまここへ、正勝の奴が駆け込んできたでしょう？」
+　敬二郎が、前のほうへひと足踏み出しながら訊《き》いた。
+「おれらが、そんなことを知るかい？」
+「でも、きみたちはいまそこから出てきたじゃないか？」
+　松吉が敬二郎に代わって言った。
+「そんなこたあこっちの勝手だ」
+「きみたちはそれじゃ、正勝の奴を隠そうとしているんだな？　庇《かば》っているんだな？」
+「庇ったら悪いか？」
+　開墾地の人たちは掴みかからんばかりに殺気立っていた。
+「正勝を出せっ！」
+　平吾は鉄砲を突き出しながら叫んだ。
+「てめえらの指図なんざ受けねえ」
+「指図を受けねえと？」
+「受けねえとも」
+「そんなことを言わないで、用事があるんだから出してくれないかなあ」
+　敬二郎は言葉を和らげて言った。
+「用事？　何の用事だ？」
+　正勝はそう叫びながら、鉄砲を構えて路上へ出てきた。
+「正勝くん！　きみはどうして逃げたりなんかするのかね？」
+「用事を聞こう？」
+「きみは浪岡を、どこへやったのかね？」
+「そんな用事か？　そんなことにゃあなにも、返事をしようとしまいとおれの勝手だ」
+「正勝くん！　それは少し乱暴じゃないかなあ？　落ち着いて考えてみてくれ」
+「森谷家の財産は現在だれの財産でもねえんだ。宙に浮いている財産なんだ。自分のもの顔をするのはよしてくれ」
+「きみは本気でそんなことを言ってるのか？」
+「本気だとも。きみが紀久ちゃんと結婚して森谷家を相続したら、そん時にゃあ立派に返事をしよう」
+「そんなことを言って、浪岡を見えなくでもしたらどうするんだね？　浪岡が高価な馬だってことは、きみも知っているだろうが……」
+「余計な心配だよ。どこかその辺の開墾場へ逃げ込んだに相違ねえから、開墾地のだれかが森谷家への貸し分の代わりに捕まえるだろうから。開墾地の人たちゃあ、開墾の賃金をほとんど貰《もら》ってねえのだからなあ」
+「無茶なことばかり言って、困るなあ」
+　敬二郎は溜息《ためいき》を吐《つ》くようにして言った。
+「正勝！」
+　怒鳴りながら平吾が前へ出た。
+「手出しをしてみろ！」
+　開墾地の人たちが肩を持ち上げながら、ぞぞぞっと歩み寄った。
+　ちょうどその時、そこへ一台の幌馬車《ほろばしゃ》が通りかかった。幌馬車はそこに立っている馬や人々のために進路を遮られた。敬二郎らは馬を路傍へ寄せた。開墾地の人たちも、正勝と一緒に吾助茶屋の軒下に退いた。
+
+　　　　　　　２
+
+　幌馬車には紀久子が乗っていた。
+「敬さん！　どうしたんですの？」
+　紀久子は馬車の上から声をかけた。彼女はその目に、馬を曳《ひ》いて路傍に避けている敬二郎らだけを捉《とら》えて、茶屋の軒下に避けて開墾地の人たちの中に交じっている正勝の姿には気がつかなかった。
+「おっ！　紀久ちゃん！」
+　敬二郎は驚きの目を瞠りながら、馬を曳いて馬車のほうへ寄っていった。
+「わたしの帰るのが分かったの？」
+「こんなに早く帰るとは思わなかったんだが……」
+「迎えに来てくれたの？　ありがとう。では、帰りましょうか？」
+　紀久子は微笑をもって言った。そして、紀久子の馬車は沈黙を割って、ふたたびがらがらと動きだした。敬二郎は平吾と松吉とに目配せをした。そして、三人はひらりと馬に跨《またが》った。
+「紀久ちゃん！」
+　正勝は叫びながら、茶屋の軒下を飛び出していった。
+「あらっ、正勝《まっか》ちゃんも……」
+　紀久子は驚きの微笑を含んで、振り返った。
+「おれをその横へ乗せてくれ」
+　正勝はそう言いながら、動いている馬車に飛び乗って紀久子と並んで腰を下ろした。そして、馬車は二人を乗せて駆けた。その後から敬二郎と松吉と平吾の三匹の馬が、蹄鉄をぽかぽか鳴らしながらついていった。
+
+　　　　　　　３
+
+　開墾地の人たちは急転した空気の中で、呆気《あっけ》に取られたようにして馬車を見送った。
+「敬二郎の野郎は正勝さんに一緒に馬車に乗られたんで、妬《や》いているに相違ねえべぞ」
+　だれかが言った。
+「腹が煮え繰り返るってやつだべさ」
+　笑いながら、まただれかが言った。
+「それで、お嬢さまはどっちが好きなのかな？」
+「そりゃあお嬢さまにしてみりゃあ、敬二郎さんがいいにちげえねえさ。敬二郎さんと正勝さんとじゃ、鶴《つる》と鶏とぐれえ違うじゃねえか？　そりゃあ敬二郎さんのほうがいいにちげえねえ」
+「でも正勝さんの話じゃ、正勝さんを好いているらしいんだがなあ。今度も敬二郎さんのほうへは音沙汰《おとさた》をしないで、正勝さんにだけ手紙を寄越したり、電報を寄越したりしたらしいんだが……」
+　吾助爺は目を擦《こす》りながら、ぼそぼそと言った。
+「そりゃあお嬢さまにしてみれば、自分が正勝さんの妹を殺したんで、申し訳がねえように思っているんだろう。それで、正勝さんにだって悪い顔はできねえのさ」
+「しかし、顔や姿は敬二郎さんのほうが立派かもしれねえが、人間の出来からいったら正勝さんのほうが上じゃねえかなあ？」
+「どっちにしても、おれらのためにゃあ正勝さんだよ。いくら姿ばかり立派でも、敬二郎の野郎じゃ糞《くそ》の役にも立たねえから」
+「それはそうよ」
+　彼らは馬車を見送りながら、話しつづけていた。
+［＃改ページ］
+
+　　　第八章
+
+　　　　　　　１
+
+　空は朝から群青に染めて晴れ渡っていた。風もなく、冬枯れの牧場には空気がうらうらと陽炎《かげろう》めいていた。紀久子と敬二郎とは馬に跨《またが》って、静かに放牧場の枯草の上を歩き回っていた。
+「……どうもそれだけが、ぼくには頷《うなず》かれないんだ。紀久ちゃんに限ってまさかそんな馬鹿《ばか》なことはないと思うけれど、しかし他人《ひと》の気持ちというものは、まったく分からないものだからなあ。それに、正勝の奴《やつ》が……」
+　敬二郎は紀久子の馬のほうへ馬を寄せながら、声を低めて静かに言うのだった。その言葉はなにかしら、哀調というようなものをさえ含んでいた。紀久子はすると、狼狽《ろうばい》してその言葉を遮った。
+「それは敬さんの思い過ごしよ。わたし、正勝のことなんかなんとも思ってないわ。それは敬さんの思い過ごしなのよ。わたしがまさか、正勝をそんな風に思うはずはないじゃないの」
+「それはそうだが、でも、紀久ちゃんがぼくには葉書一本寄越さないのに、正勝の奴へだけ手紙を寄越したり電報を寄越したりしていたものだから、正勝の奴は有頂天になっているんだよ」
+　敬二郎のその言葉の中には、どことなく怨情《えんじょう》をさえ含んできていた。
+「それで、敬さんまでそんな風に思っているの？」
+「別にそう思うわけではないが、ぼくにだって葉書の一枚ぐらいは寄越しても……」
+「敬さん！　わたしが正勝に手紙や電報を出したのは、そんなわけではないのよ。かりにそれが過失……正当防衛にもしろ、正勝のただ一人の妹を殺したのはこのわたしなんだから、わたし、正勝になんとなく済まない気がするわ。済まない気がして、正勝にはできるだけのことはしてやりたいと思うのよ。誤解されちゃ困るわ」
+「別に誤解はしないがね。しかし、その済まないという気持ちはどうかすると、危険なものになりゃしないかと思うんだがね。すでにもう、正勝の奴は紀久ちゃんのその気持ちを履き違えているようだから」
+「そんなことないと思うわ。そんな馬鹿なこと、決してないと思うわ。それだけは、わたしはっきりしておくわ。そして、お蔦に対する詫《わ》びの気持ちから正勝のほうへできるだけのことをしてやりたいわ」
+　紀久子は胸を弾ませながら言った。
+「それには、やはりぼくたちが早く結婚をしてしまわなくちゃいけないね」
+「そうかしら？　わたしはそうは思わないわ。結婚なんか来年でも再来年でも、いつでもいいと思うわ」
+「紀久ちゃんはそう思っているのか？」
+　敬二郎は驚きの目を瞠《みは》って言った。彼の胸は潮騒《しおざい》のように忙《せわ》しく乱れていた。彼は紀久子の顔から、いつまでも目を離すことができなかった。
+「結婚なんか、だってしようと思えば明日にでもできることなんだから」
+「それはそうだがね。しかし、ぼくらが結婚してしまわないうちは正勝の奴、気持ちは静まらないと思うがなあ。奴は紀久ちゃんと結婚して、森谷家の財産の半分は開墾地の人たちへ分けてやることを考えているらしいから。考えているだけじゃなく、他人にももうその話をしているそうだから」
+「それは、財産のほうなら半分ぐらい正勝に上げてもいいわね」
+　紀久子は極めてあっさりと言った。
+「紀久ちゃん！　紀久ちゃんはそんなことを、本気に考えているのかい？　もしそんなことが正勝の耳へでも入ったら、きゃつはどんなことをするか分からないよ」
+　敬二郎は驚きのあまり、手綱を手操りながら言った。
+「だって、敬さんはわたしと結婚するんでしょう？」
+「しかし、正勝の奴も紀久ちゃんと結婚をして……」
+「そんなことできないわ。わたし敬さんと正勝と、二人と結婚するわけにはいかないわ。わたし、正勝となんか結婚したくないわ」
+「それだから、ぼくらは早く結婚をしてしまわないといけないんだよ」
+「それでも、正勝がわたしと結婚して、わたしの家《うち》の財産の半分だけ開墾地の人たちへ分けてやりたいというのなら、結婚は困るけど財産のほうだけ半分上げてもいいわ」
+「そんな考えを起こしちゃ駄目だよ」
+「だって、敬さんはわたしと結婚するんでしょう？　わたしの家の財産と結婚するわけじゃないでしょう。それなのに、敬さんだけ両方とも取っちゃ正勝が少しかわいそうだわ。正勝の妹を殺した代わりにでも、財産の半分ぐらいなら正勝へ上げてもいいと思うわ」
+「ぼくはそれには不賛成だ。紀久ちゃんがぼくを本当に愛していれば、そんなことは考えられないはずだ。ぼくを本当に愛していれば、結婚と同時に財産も全部二人の幸福のためにと……」
+「敬さんは欲張りなのね」
+「当然のことじゃないか？　それだけだって、ぼくたちは早く結婚をしてしまわないといけないのだよ。結婚をしてしまえば、だれもそんな考えは起こさなくなるから。起こしたって……」
+「では、春になったら……」
+「おーい！　紀久ちゃん！　紀久ちゃん！」
+　だれかが後ろから大声に呼んだ。敬二郎と紀久子とは軽い驚きをもって振り返った。正勝だった。正勝は馬に乗って、枯草原の中を毬《まり》のように丸くなって飛んできた。
+「紀久ちゃん！　早く来いよ」
+「何か用なの？　正勝《まっか》ちゃん」
+　紀久子はそう言うと同時に馬腹にぐっと拍車を入れて、正勝のほうへ向けて馬を飛ばした。
+「おれと一緒に来てくれ」
+　正勝は大声に言って、すぐ馬首を傾斜地のほうへ変えた。紀久子はそれに続いた。敬二郎は呆気《あっけ》に取られて、馬の上からぼんやりと傾斜地を下りていく正勝と紀久子との後姿を見詰めていた。
+（おれには紀久ちゃんの本当の気持ちがどうも分からない。おれを愛しているのか、正勝を愛しているのか、雲を掴《つか》むような話だ。だいいち正勝の奴が、おれと紀久ちゃんとの間に婚約のあることを知っていながら、自分の女房か何かのように勝手に連れていったりしやがって……）
+　敬二郎は傾斜地を下りていく彼らの後姿を見送りながら、心の中に呟《つぶや》いた。
+
+　　　　　　　２
+
+　やがて、正勝は手綱を引いて馬を止めた。馬は立ち止まって大きく息をしてから、ふたたび静かに歩きだした。そこへ、紀久子の馬が歩度を緩めながら追いついてきた。
+「正勝ちゃん！　何か用だったの？」
+　紀久子は息を弾ませながら、馴《な》れなれしく言った。
+「紀久ちゃん！　敬二郎の奴と話なんかするのよせよ」
+　正勝は微笑を含んで、しかし睨《にら》むようにしながら言った。
+「なんでもないのよ」
+「あいつが散歩に誘ったって、一緒に散歩なんかするのよせよ」
+「それでも、急に冷淡にするわけにはいかないのよ。あの人もお父さんが生きていれば、わたしと結婚するはずの人でしょう。急に空々しくするわけにはいかないのよ」
+「しかし、そんなことを考えているうちに、あんたの気持ちの中へ深く入り込んできたらどうする？」
+「大丈夫よ。黙って見ていてちょうだい。わたし、正勝ちゃんの言うことはなんでも聞くつもりよ。しかし、あの人の言うことは何から何まで聞いちゃいないわ。自分の気持ちの中に線を引いておいて、そこから中へは絶対に入れないつもりよ。そして、正勝ちゃんの言うことには絶対に線を引かないわ。黙って見ていてくれたら分かると思うわ」
+「それならいいがね」
+「わたしを疑《うたぐ》ったりしちゃ駄目よ。わたし、とてもよく考えているんだから。そして、あの人がしぜんとわたしから離れていくようにするわ。わたしからばかりでなく、この牧場にもなんとなくこう、いられないようにしてやるわ。それまでは、正勝ちゃんは黙って見ていてね」
+「しかし、あいつはなんとなく癪《しゃく》に障る奴だからなあ」
+「そんなことじゃ駄目だわ。いやな奴なら、それにつけても表面ではよくしてやらないといけないのよ。わたしがあの人と話をしたり一緒に散歩したりするのは、わたしからあの人を遠ざけるためなのだから疑わないでね。わたし、正勝ちゃんの言うことなら、本当になんでも聞くのよ。しかし、あの人の言うことは決して聞かないから。表面ではいやな顔をしないでいて、そして言うことだけは聞かないつもりなの」
+「考えたもんだね」
+「分かったでしょう？　疑っちゃいやよ。わたしは考えて考えて、考え抜いているんだから」
+「しかし、あいつの顔を見ると、何かこう癪に障るね。いやな気持ちを一掃するように、これからひとつ吾助茶屋へでも行ってくるかなあ？」
+「それがいいわ。それで、お金はあるの？」
+「ないんだよ」
+「少しきり持ってきてないのよ」
+　紀久子はそう言って微笑を含みながら、服のポケットから蟇口《がまぐち》を取り出して正勝に渡した。
+「紀久ちゃん！　しかし、紀久ちゃんはいつまでもお嬢さんのつもりで敬二郎なんかと一緒に遊んでいちゃ駄目だよ。間もなくもう、森谷家の奥さまになるんだもの、出歩かないで奥のほうへでも引っ込んでいろよ。紀久ちゃん！」
+　正勝は蟇口をポケットの中へ押し込みながら言った。
+「大丈夫よ」
+　紀久子はそう言って微笑を含んだ。正勝は馬腹にぐっと拍車を入れて、傾斜地を飛び下りていった。紀久子はそれを馬の上から見送った。
+（敬二郎さん！　わたしを許してね。わたし、正勝になんか決して心を許してないのよ。わたし、あの人が怖いだけなのだわ。逆らったら、あの人はどんなことをするか分からないから）
+　紀久子はそう心の中に呟いた。そして、彼女の胸はしだいに激しく疼《うず》いてきた。彼女の両の目は、いつの間にか熱く潤んできていた。
+（敬二郎さん！　敬二郎さん！　あなただけよ。敬二郎さん！　あなただけのわたしなのよ。いまになんとかなるわ。それまで許していてね）
+　紀久子は服の袖《そで》で目を押さえながら、心の中に叫んだ。そして、彼女は傾斜地の上のほうへ目を移した。傾斜地をこっちへ向けて、敬二郎の馬が静かに静かに歩いていた。
+（敬さん！）
+　紀久子は心の中に叫んで、馬腹へぐっと拍車を入れた。馬は傾斜地の上へ向けて飛んだ。紀久子は大声に泣いてぶっつけたいような胸を、しかしぐっと引き締めるようにしながら、ふたたび馬腹へ拍車を加えた。
+
+　　　　　　　３
+
+　正勝は馬を下りると路傍の馬｜繋《つな》ぎ杭《くい》に馬を繋いで、吾助茶屋に入っていった。
+　薄暗い居酒屋の土間には、開墾地の人たちが五、六人ばかり炉を囲んでいた。彼らはいっせいに戸口のほうを振り向いた。正勝は微笑を含んで、炉のほうへ寄っていった。
+「正勝さんだで」
+「さあ、正勝さん！　ここへおかけなせえよ」
+　開墾地の人たちはそう言って、正勝のために自分の席を譲った。
+「雑穀屋へ来たのかね。今年はどんなだね？　穀類のほうは？……」
+　正勝はそう言いながら、腰を下ろした。
+「今日は雑穀屋の旦那《だんな》のとこさ、相談に来たのですがね。相談にならねえで、はあ物別れのまま帰ってきたところですが、業腹なものだからここで一本｜貰《もら》って……」
+　開墾地の彦助爺《ひこすけじい》が鼻水を押し拭《ぬぐ》いながら言った。
+「やっぱりそれじゃ、今年も値段が折り合わねえのかね？」
+「今日の相談は、こっちも少し無理かもしんねえがね。おらんちの嬶《かかあ》が目を悪くして病院さ入れたんでがすが、手術をしなくちゃ目が見えなくなってしまうっていうんで、手術をしてもらうべと思ったら、それにゃあ百五、六十円はかかるっていうんでがす。しかし、片方の目どころか両方の目が見えなくなったって、おれにはそんな大金ができねえから、村の人たちと相談してみたところ、村の人たちが全部保証人になって雑穀屋から借りてくれるって言うんで来たのですが、雑穀屋も百五十両からとなると……」
+　開墾地の稲吉《いなきち》はそこまで言って、啜《すす》り泣くようにして笑いだした。
+「おれらが保証人になって、今年は五十円だけ、そして来年も五十円だけ、そして再来年には全部｜返《けえ》させるし、利子も相当につけさせるからって言ったんですが、おれらを信用しねえでがすよ」
+　喜代治《きよじ》は炉の中へ三度ばかり唾《つば》を吐きながら、唇を突き出すようにして言った。
+「稲吉さん！　百五十円あれば、それで目が見えるようになるのかね？」
+　正勝はそう言って唇を噛《か》んだ。
+「見えるようになるというんですが、片方の目を百五十円も出しちゃ……」
+「見えるようになるのなら、おれがそれを出してやろう」
+　正勝はそう言いながら蟇口を取り出して覗《のぞ》き込んだ。しかし、蟇口の中には二、三十円きり入っていなかった。正勝はすぐ立ち上がって、土間の隅から焚《た》きつけにする白樺《しらかば》の皮を持ってきた。
+「とっつぁん！　硯箱《すずりばこ》を貸してくんなよ」
+　そして、正勝はテーブルの前に席をとった。
+「正勝さん！　おれも一つお願いがあるのでがすが……」
+　与三爺《よさじい》が低声《こごえ》に言いながら寄っていった。
+「この夏、はあ馬を殺してしまって、なんともかんとも困ってるのでがすが、おれもできれば百円ばかり貸していただきてえもんで……」
+「百円？　金はいいが、馬を買うのなら馬でやってもいいが……」
+「やっぱり、金で貸していただいて……」
+「それじゃ、いまここへ持ってこさせるから」
+　吾助爺がそこへ硯箱を持ってきた。
+「爺さん？　五、六本ばかり熱くしてくれ。それから、みんなの分を何かご馳走《ちそう》を拵《こさ》えてくれよ」
+「それじゃ、鶏《とり》でも潰《つぶ》すべえかい？」
+「鶏でいい」
+　正勝はそして、筆に墨を含ませた。
+「正勝さん！　おれのとこでもね、雑穀問屋から借金をしてるのですがね。それを今年じゅうに是が非でも返せと言うのでがすがね。雑穀問屋では雑穀で返させる算段なんですが、なにしろ今年は穀類の出来が悪いんでね。穀類で借金を返してしまえば、おれらはもうなにも食うものがねえでがすがね」
+　初三郎爺《はつさぶろうじい》がよろよろと立ってきて言った。
+「その借金というのは、いったい幾ら借りてるのかね？」
+「七十円だけ借りたのですが、利子がついて百円近くになってるのでがすがね」
+「それならおれが払ってやるから、心配しなくてもいい」
+　正勝は気安く言って、ふたたび筆に墨を含めた。
+「正勝さん！」
+　長松爺《ちょうまつじい》が首を傾《かし》げながら、怪訝《けげん》そうに言った。
+「正勝さんがそうして手紙をやると、森谷のお嬢さまは金を寄越すのかね？　冗談でなく、本当に寄越すのかね？　そんな大金をよ？」
+「寄越すから手紙をやるんじゃないか。寄越すか寄越さねえか当てのねえところへ、いくらおれだって手紙なんかやらねえさ。論より証拠だ。持ってくるかこねえか、ここにいて見てればいいや」
+「大したもんだなあ。手紙一本で森谷のお嬢さまが金を届けて寄越すなんて、夢のような話じゃねえか」
+「お嬢さまは正勝さんのほうへ、夢中になっているんだべよ」
+　喜代治が言った。
+「夢中になっているかどうか知らねえが、おれが手紙をやれば紀久ちゃんは自分で持ってきてくれる。紀久ちゃんはもう、おれの言うことならなんだって聞くんだから」
+「それじゃ、お嬢さまは敬二郎さんがいやになって、正勝さんと一緒になるつもりでねえのかね？」
+　彦助爺が言った。
+「そんなことはおれの知ったことじゃねえ。論より証拠だ、とにかく、持ってくるか持ってこねえか、見ていれば分かるさ」
+「いったい、その手紙っての、どんな風に書くんだね？」
+　喜代治がそう言ってテーブルの上の白樺の皮を覗き込むと、開墾地の人たちはいっせいに炉端を離れて、テーブルの周囲を囲んだ。
+「手紙か？　普通の手紙だよ。まず――拝啓と書いてな」
+　正勝はその文句を言いながら顫《ふる》える指先を固く握り締めて、白樺の皮の上へ無造作に書きはじめた。
+「それから――ただいま吾助茶屋にて金子入用のこと相起こり申し候――ということにして。そして――はなはだ恐縮ながら――とまあ、少し敬意を表しておいて、そして――さっそく五百円ばかりご用意なされ、おまえさまご自身にてお越しくだされたく候――。爺さん！　これをだれかに持たせてやってくれないか？」
+　正勝はそう言って、吾助爺のほうへ声をかけた。吾助爺はすると、盆に徳利を載せて炉端のテーブルへ寄ってきた。正勝は白樺の皮をくるくるとするめ［＃「するめ」に傍点］のように巻いて爺に渡した。
+「それじゃ、ひとつみんなで飲もうじゃねえか。紀久ちゃんが金を持ってくるかこねえか、酒でも飲みながら待ってみてくれよ」
+　正勝はそう言って、盃《さかずき》に酒を注《つ》いで回った。
+「正勝さん！　それじゃ遠慮なく頂きますが、この酒はまあ前祝いのようなもんでがすね」
+　喜代治爺は微笑を含みながら言って、盃を取った。
+
+　　　　　　　４
+
+　開墾地の人たちは茶呑茶碗《ちゃのみぢゃわん》で、酒をぐびりぐびりと呷《あお》った。彼らはそれですぐ酔っ払った。酷《ひど》く酔いが回ってくると、彼らは立ち上がって踊りだした。そして、徳利を叩《たた》き、卓を叩いて歌いだした。
+　突然その時、戸口が開いた。彼らは驚きをもって戸口のほうを振り向いた。戸口からは、紀久子が静かに入ってきた。
+「紀久ちゃんか？」
+　正勝は微笑を含んで立ち上がった。開墾地の人たちは急に黙りだした。紀久子は羞恥《しゅうち》の表情を含んで顔を赤らめながら、顔を伏せるようにして静かに正勝のほうへ寄っていった。開墾地の人々は驚きの目を瞠って、ただじっと紀久子の姿を見詰めた。
+「金を持ってきてくれたかい？」
+「持ってきたわ」
+　紀久子はそう言って、正勝に小さな包みを渡した。正勝はすると、煙草《たばこ》を横銜《よこぐわ》えに銜えながらその包みを解いた。十円紙幣ばかりだった。
+「稲吉さん！　それじゃ百五十円」
+　正勝はそう言って、無造作に百五十円を数えた。稲吉爺は幾度も幾度もお辞儀をして、地面を舐《な》めるほど腰を屈《かが》めながら正勝のほうへ寄っていった。初三郎爺や与三爺もお辞儀をしては腰を屈めながら、正勝のほうへ寄っていった。正勝は煙草でもくれるようにして、その金を渡した。
+「初三郎爺さんと与三爺さんは、百円ずつだったね？」
+「正勝さん！　おれらは本当に、あなたさまを神さまのように思いますよ」
+　彼らはそう言って、紙幣を押しいただいた。
+「正勝さん！　おれらにも少し貸してくだせえましよ。おれらこれ、貧乏で貧乏で……」
+　喜代治らがそう言って、頭を下げながら正勝のほうへ寄っていった。正勝は黙って彼らを見た。それから、その目を紀久子のほうへ移した。
+「紀久ちゃん！　残ってる分を、喜代治さんらに上げてもいいだろう？」
+「正勝ちゃんのいいようにしたらいいわ」
+　紀久子は顔を上げて、微笑を含みながら言った。
+「それじゃ……」
+　正勝はそう言って、残っている紙幣を五枚ずつ数えて、鼻紙でもやるようにして彼らに渡した。
+「正勝さん！　おれらは死んでもあなたのことは忘れませんよ」
+「そんなことはまあいいから、飲もうじゃないか？」
+「あなたがお嬢さまと一緒になって森谷さまの旦那さまになられたら、おれらは自分の生命《いのち》を投げ出してもあなたのためになるようなことをいたしますよ」
+「飲もうじゃないか。紀久ちゃん！　あんたも飲めよ」
+　正勝はそう言って紀久子にも盃を渡した。紀久子は微笑を含んで素直に盃を取った。開墾地の人たちはまたじっと驚きの目でそれを見た。紀久子はぐびりと盃を干した。
+「わたしもう、これで帰ってもいいでしょ？」
+　紀久子は盃を置きながら言った。
+「一緒に帰るから待てよ」
+「平吾が外で待っているのよ」
+「それじゃ、すぐ帰ろうか？　紀久ちゃん！　いまここでみんなの踊りを見せてもらったんだがね。紀久ちゃんも踊って見せないか？」
+「わたしの踊りなんか駄目だわ。それに着物がこれでは……」
+「構わないさ。簡単でいいから、何か踊って見せてくれよ」
+「できないんだけど……」
+　紀久子は微笑を含んでそう言いながらも、手を振り足を上げながら静かに踊りだした。開墾地の人たちは何事も忘れて、呆気に取られてそれを眺めていた。彼らは夢を見るようにして、そこに展開された思いがけぬ空気に驚異と喜悦との目を瞠っているのだった。
+「これでもういいでしょう？」
+　紀久子は恥ずかしくてならないように、顔を真っ赤にして言った。
+「ありがとう！　それじゃ、帰ろうか？」
+「帰りましょう。平吾を寒いところに待たしておいちゃ、かわいそうだから」
+　正勝と紀久子とは揃《そろ》って席を立った。
+「正勝さん！　おれらは本当に、あなたさまを神さまのように思っているでがすよ」
+「お嬢さま！　あなたさまも、ぜひとも正勝さんと一緒になってくだせえましよ。おれらのお願いですから」
+　開墾地の人たちはそんなことを言いながら、正勝と紀久子とを戸口へ送っていった。
+
+　　　　　　　５
+
+　開墾地の人たちは炉端へ戻ると、互いにその赤い顔を見合わせた。
+「どうも、お嬢さまは少し気が変になっているようじゃねえかな？」
+　喜代治が低声に言った。
+「それさよ。いくらなんでも、森谷家のお嬢さまが正勝の手紙一本で大金を持って駆けつけてきたり……」
+「酒を飲んで踊りを踊るなんて、気がどうかしていなけりゃ……」
+「正勝さんが偉いからだよ。それで、正勝さんの言うことなら、お嬢さまはなんでも聞くのだよ」
+　吾助爺がぼっそりと言った。
+「しかし、正勝さんも少し気がどうかしているのじゃないかなあ。理由《わけ》もなく他人さ大金を分けてくれたりしてさ」
+　与三爺が目を瞠りながら言った。
+「気が変になったのじゃなくて、おれらを騙《だま》すつもりじゃねえのか？　金をくれておいて、何か問題でも起きたときにおれたちを味方にするとかなんとか……」
+「そんなことはねえ。お嬢さまは自分の親御は殺されるし、自分は過って他人を殺したので、気が変になったのさ。正勝さんだって、妹があんなことになったんだから、やっぱり気が少しどうかしたんだよ」
+　初三郎爺が水洟《みずばな》を押し拭いながら言った。
+「どうも、少し変だなあ。正勝さんと紀久子さんとは、自分たちは一緒になりてえんだが、親父《おやじ》さんの代に、はあ、敬二郎さんという人が約束になっているので、いまさらそれができねえもんだから、敬二郎さんを殺してしまうようなことでも考えているんじゃねえのか？　それで、おれたちさ金をくれておいて、おれたちを味方にするつもりじゃねえのかな？」
+　喜代治は首を傾《かし》げながら、心配そうに言った。
+「それさなあ？」
+　彼らはそう言って顔を見合わせた。
+［＃改ページ］
+
+　　　第九章
+
+　　　　　　　１
+
+　憂鬱《ゆううつ》な曇天が、刺すような冷気を含んで広がっていた。しかし、敬二郎は火の気のないコンクリートの露台に出て、激しい憎悪と不安と憂鬱とに胸を爛《ただ》らしながら正勝の来るのを待っていた。
+（いったい、紀久ちゃんはおれと正勝との、どっちを愛しているのだろう？）
+　敬二郎はそれを考えると、じっとしてはいられなくなってくるのだった。紀久子が正勝の命のままに動いて、吾助茶屋まで金を届けに行ったことを聞いてからというもの、敬二郎の不安と憂鬱とがなおひとしお激しくなってきた。同時に、正勝に対する憎悪が敬二郎の頭には火の車のように駆け巡っていた。五臓六腑《ごぞうろっぷ》の煮え繰り返るような焦燥に駆られて、敬二郎は夜もろくろく眠ることができなかった。その不眠の焦燥がまた彼の神経をなおも酷《ひど》く衰弱させて、さらに激しい憂鬱と不安との渦巻きの中に追い込んだ。皮膚と筋肉との間を痛痒《いたがゆ》い幾百の虫が駆け巡っているような憂鬱感だった。敬二郎にとっては、もはや生命《いのち》を懸けての決心を持つべきときだった。
+（紀久ちゃんを失うことは、同時にまた森谷家の相続権をも失うことだ。紀久ちゃんと森谷家の相続権と、この二つを失ってしまったら、自分にはいったい何が残るだろう？　何物もないではないか？）
+　敬二郎はそれを考えて、憂鬱な溜息《ためいき》を繰り返さずにはいられなかった。
+（あらゆるものを失って惨めな姿で生きているくらいなら、いっそのこと死んでしまったほうがいいのだ）
+　あらゆるものを失ったとき、人間は勇敢になることもできれば捨て鉢になることもできる。
+（正勝に会って最後の談判をしてみよう。それと同時に、紀久ちゃんの気持ちも分かるに相違ない。生か？　死か？　それからだ）
+　敬二郎は固い決心をもって胸を顫《ふる》わせながら、正勝の来るのを待った。彼は顔を伏せて、露台の上をこつこつと檻《おり》の中の熊《くま》のように歩き回った。胸が爛れているばかりでなく、彼の頭の中は火の玉のように激しい憎悪の炎でいっぱいだった。
+「おれに何か用かい？」
+　突然に露台の下に来て、正勝は怒気を含んで大声に言った。敬二郎は驚きの表情で顔を上げた。正勝はその手に鞭《むち》を握っていた。
+「用があるから呼んだのだ！」
+　敬二郎の目は正勝の手の鞭に走った。怒気と恐怖とを含んだ目？　敬二郎は爛々《らんらん》と目を輝かしながら、正勝をじっと見詰めた。
+「何の用かね？」
+　正勝はとんとんと露台へ上がっていった。
+「紀久ちゃんを勝手に呼び出したりするのは、よしてくれ！」
+　敬二郎は激しく心臓が弾んで、言葉が途切れた。
+「きみにはいったい、そんなことを言う権利があるのか？」
+「権利があるから言うんだ。紀久ちゃんは、ぼくと婚約している女だ。婚約のある女を勝手に呼び出したりするのは、紳士のやるべきことじゃない。今後はよしてくれ」
+「おりゃあ紳士じゃねえよ。そんなこたあおれに言わねえで、紀久ちゃんに言ったらいいじゃねえか？　きみの女房になる女なら、何だってきみの言うことは聞くだろうから。しかし、どうも困ったことに、紀久ちゃんはおれの言うことばかり聞くんでなあ。これはどうも、きみにそれだけの威厳がないからなんだなあ」
+「なにを！」
+　敬二郎は叫ぶと同時に、傍らの腰掛けを振り上げて正勝に打ってかかっていった。正勝はぱっと身を翻して、鞭をぴしりっと敬二郎の向こう臑《ずね》に打ち込んだ。瞬間、敬二郎の投げつけた腰掛けが正勝の肩に当たって落ちた。
+「殴ったなっ！」
+「殴りゃあどうしたっ？」
+　怒鳴りながら、二人は取っ組んでいった。そして、二人は組み付いたままで露台の上を飛び回った。最後に、正勝はとうとう下に組み敷かれた。
+「何をなすっているんですか？」
+　紀久子が出てきて、驚きの目を瞠《みは》りながらそこに立った。
+「およしなさいよ」
+　紀久子は敬二郎の肩に手をかけて引《ひ》っ剥《ぱ》がした。瞬間、正勝は自分の身体《からだ》から離れていく敬二郎の鳩尾《みぞおち》に突きの一撃を当てた。急所を突かれて、敬二郎は顔を顰《しか》めながら、まったく闘争力を失った。
+「態《ざま》ったらねえ！　馬鹿野郎《ばかやろう》め！」
+　正勝は怒鳴りながら、鞭を拾って悠々と露台を下りていった。
+（酷いわ！　酷いわ！　正勝もあんまりだわ！）
+　紀久子はそう心の中に呟《つぶや》きながらも、しかしなにも言うことはできなかった。彼女は唇を噛《か》みながら、憎悪の目をもってじっと正勝の後姿を見送った。そして、正勝の姿が物陰に消えてから、紀久子は急所の重苦しい痛みに悩んでいる敬二郎を静かに部屋の中へ労《いたわ》り入れた。
+
+　　　　　　　２
+
+　紀久子はいつまでも黙りつづけた。
+（許してください。敬さん！　わたしが悪いんです。許してください。わたしがあなただけを愛しているってことを、いまは言うことができないんです。許してください）
+　紀久子はそう心の中に呟きながら、黙りつづけていた。
+　窓の外は暗鬱な曇天がしだいに暗く灰色を帯びて、ストーブが真っ赤に焼けてきた。真っ赤なストーブを前にして、敬二郎も唇を噛み締めながら言葉を切った。重苦しい沈黙が物哀《ものがな》しい空気を孕《はら》んで、二人の間へ割り込んできた。
+「ぼくは紀久ちゃんの本当の気持ちを知りたいのだ。ぼくは紀久ちゃんの愛を失うくらいなら……」
+「敬さん！」
+　紀久子はハンカチで目を押さえて咽《むせ》びだした。
+「ぼくは本当に、紀久ちゃんの愛を失うくらいなら、死んでしまったほうがいいのだ」
+「我慢していてください。きっと、きっと、いまにきっと、どうにかなりますわ。わたしの本当の気持ちの分かるときが来ますわ。それまで、じっと我慢していてちょうだい」
+「いくらでも我慢をするがね。しかし、紀久ちゃんはぼくの言うことよりも、正勝のほうの言うことを聞くのだし、さっきだって、ぼくが正勝の奴《やつ》を組み伏せているのに、紀久ちゃんが出てきて正勝の奴に加勢をするものだから……」
+「敬さん！　わたしの本当の気持ちを分かってちょうだい。わたし……わたし……わたしと敬さんとのことは、わたしたち二人だけで固く信じ合っていればいいのだわ。わたしの本当に愛しているのは敬さんだけよ」
+「それなら、これからは正勝の奴からどんなことを言ってきても、正勝の言うことだけは聞かないでくれ。ぼくはあなたの愛を信じたいのだ。正勝の言うことを聞かないでくれ」
+「わたしどうしたらいいのかしら？　それは、わたしにも口惜《くや》しいんだけれど、どうにもならないのよ。あんな男が、本当に大きな顔をして生きていられるなんて……」
+　だれかがその時、こつこつとドアを叩《たた》いた。
+「婆《ばあ》や？　お入り」
+　婆やは腰を屈《かが》めながら入ってきた。その手には、白樺《しらかば》の皮を握っていた。二人の目は驚異の表情を湛《たた》えて、その自樺の皮の上に走った。
+「正勝さんからって……」
+　婆やは気兼ねらしく低声《こごえ》に言って、紀久子の顔色を覗《のぞ》いた。紀久子は真っ青になってわなわなと顫えていた。彼女は顫えながら、泣きだしそうな顔をして静かに手を出した。
+「正勝はまた、吾助茶屋に行っているのでしょう」
+「いったいまた、何を言ってきたんだ？」
+　敬二郎は怒鳴るように言って、横から白樺の皮をひったくった。
+「また？　なんという失敬な奴だ！　行く必要があるものか」
+　敬二郎は胸を激しく波打たせながら、怒鳴った。
+「困ってしまうわ。婆や？　いますぐ行くからと言って、帰らしておくれ」
+「まいりますか？」
+　婆やはそう念を押して、怪訝《けげん》そうな顔をしながら出ていった。
+「紀久ちゃんはそれじゃ、行くんだね？」
+　敬二郎は顔を引き歪《ゆが》めながら唇を噛んだ。
+「でも、手紙には来いと書いてあるのでしょう？」
+「――ただいま吾助茶屋にて盃《さかずき》を重ねおり候。しかし、あなたなしではまったくつまらなく存じ候。ともに飲み、ともに歌って踊りたく候間、さっそくにもお越しくだされたく候――」
+「やっぱりね」
+　紀久子はそう言って、深い溜息を吐《つ》いた。
+「行くことがあるものか！」
+　敬二郎は怒鳴るように言って、白樺の皮をストーブの中に投げ込んだ。しかし、紀久子は真っ青な顔をして、微《かす》かにわななきながら腰を上げた。敬二郎の目は驚異と哀愁との表情を含んで輝きだした。
+「紀久ちゃんは行くつもりなのか？」
+「…………」
+「紀久ちゃん！　頼むから行かないでくれ。行かないでくれ」
+「…………」
+「紀久ちゃんが奴の言うことを聞かないからって、奴が何かしたらぼくがどうにでも始末をつける」
+　しかし、紀久子はじっと空間を見詰めて、夢遊病者のようにふらふらと静かに戸口のほうへ歩いていった。
+「紀久ちゃん！　お願いする。頼むから行かないでくれ」
+「…………」
+「紀久ちゃん！　ぼくはもう、本当に生きてはいられない」
+　しかし、紀久子はもう魂の脱殻《ぬけがら》のように、黙ってふらふらと静かに歩いていった。敬二郎が抱き止めようとしても、無感情な機械人間のように静かにその手から脱《ぬ》けて、ふらふらと歩いていった。敬二郎は※［＃「足へん＋宛」、第3水準1-92-36］《もが》くようにして悶《もだ》え悩みながらただその後を追うだけで、もはや機械のようにして動いている紀久子を抱き止めようとはしなかった。
+
+　　　　　　　３
+
+　紀久子はそして、無感情な機械人間のように吾助茶屋の中へふらふらと入っていった。
+「おっ！　紀久ちゃんか？　来たね」
+　正勝がぐっと立ち上がって言った。
+「お嬢さまですか？　暗いところをよくまあ。炉のほうへ、さあ寄ってくだせえ」
+　開墾地の喜代治が頭を下げながら言った。しかし、紀久子はそれには答えずに、魂の脱殼のようにただふらふらと正勝のほうへ寄っていった。開墾地の四、五人ばかりの目は、驚異の表情をもっていっせいにその姿を追った。
+「紀久ちゃん！　一緒に飲もう」
+　正勝は大きな椀《わん》に酒を注《つ》いで紀久子のほうへぐっと差し出した。紀久子はすると、無表情のままでひと息に飲んだ。正勝も怪訝そうな顔表情を含んで、じっと紀久子を見た。
+「紀久ちゃん！　一緒に踊ろうか？」
+　正勝はそう言うなり紀久子の肩に手をかけて、足を上げ手を振りながら踊りだした。開墾地の人たちはでたらめな歌を歌いながら、徳利や盃を叩き鳴らした。
+「お嬢さまは、いよいよ気が変だぞ」
+　喜代治は徳利を叩きながら、傍らの与三｜爺《じい》の耳へそっと囁《ささや》いた。
+「おれも、さっきからそう思って見てるところだ」
+　その時、紀久子がばったりと倒れた。
+「どうした？　紀久ちゃん！　どうした？」
+　正勝は狼狽《ろうばい》しながら屈み込んだ。
+「なんでもないの」
+「顔色が悪い」
+「なんでもないのよ」
+　紀久子はそう言って、すぐ起き上がった。
+「しかし、ばかに顔色が悪い。帰ろう」
+「なんでもないのだけど……」
+「どこが悪いんだ。真っ青だよ。帰ろう」
+　正勝は狼狽しながら紀久子の肩に手をかけて、静かにそこを出ていった。
+
+　　　　　　　４
+
+　奥の洋室まで、正勝は紀久子について入っていった。
+「あらっ！」
+　紀久子は驚きの声を上げて戸口に立った。
+　ストーブが赤々と燃えていて、その傍《そば》に敬二郎がばったりと倒れていた。胸のところから血が流れて、ストーブと熊の皮の敷物との間の敷板が真っ赤な血溜《ちだま》りになっていた。そして、その手には黒いピストルを固く握っていた。
+「死んでいるじゃないか？　自殺をしたんだな？　馬鹿なっ！」
+　正勝はそう言いながら、ストーブのほうへ寄っていった。ストーブの傍の小卓の上には、何か手紙のようなものが書き残されてあった。紀久子も黙ってそこへ寄っていった。
+「書置きだな？」
+　紀久子は黙って、ただその胸を顫わせながら正勝と一緒にその手紙を覗き込んだ。
+
+　最愛の紀久子さん！
+　永劫《えいごう》の結合と深遠の愛を誓いながら、流星のように別れていかねばならないことを、わたしは深く深く悲しみます。あなたの愛だけに生きているわたしとしては、もはやこれも仕方のないことです。いまにして、わたしはわたしたちの愛が、開墾地の人たちの血と肉とのうえに建てられてあったことをはっきりと知りました。わたしたちはその血の池のなかに、その肉の山に、永劫の愛を求めようとしたのです。しかし、それは決してあなたの罪でもなく、わたしの責任でもありません。あなたの父上の負うべき一切のものを負わされて、わたしたちの果敢《はか》ない宿命の愛が誤れる第一歩を踏み出したのでした。わたしたちがもしも疾《と》くにこのことに気がついて、わたしたち自身の世界に永劫の結合と深遠の愛を誓ったのであったら、かくも悲惨な袂別《べいべつ》を告げることはなかったでしょう。しかし、わたしたちは愚かにも、開墾地の人たちの血と肉と魂とのうえにその愛を築こうとしたのでした。そしてわたしたちは、あなたの父上の負うべき責めと復讐《ふくしゅう》とを、わたしたちの愛のうえに受けたのです。わたしたちがあなたの父上の遺産に執着するかぎり、当然の帰結だったと思います。そしてなお、わたしがあなたから去ってののちも、もしあなたがその呪《のろ》われている財産に執着するなら、あなたの今後の愛も決して幸福ではなかろうと思います。
+　最愛の紀久子さん！
+　わたしは最後の言葉として、あなたの今後の愛が、あなた自身の世界に建てられることを希望します。森谷家の遺産はわたしが継ぐべきものでもなく、正勝が継ぐべきものでもないのです。当然、それを受け取るべき人が沢山いるはずです。あなたはわたしがそれを継ぎそうに見えた間はわたしに愛を繋《つな》ぎ、正勝がそれを奪還しかけると急に正勝へ愛を移していきましたが、それは間違いです。財産について回るあなたの愛は間違いです。財産は当然受け取るべき人々にそれを渡し、またそして、正勝との誤りにして不真実なる愛を蹴《け》って真実の愛の世界に幸福を求むべきです。それが、わたしからあなたへの最後の言葉です。
+　最愛の紀久子さん！　法律のうえから言っても、森谷家の財産は養子としてのわたしが継ぐことになっているのですから、それを正勝になどは決して継がせずに開墾地の人たちへ返してやってください。正勝の口から言わしても、当然のこと開墾地の人たちが受け取るべきだという財産が、開墾地の人たちの手に渡らず、正勝の手に渡るようでは、わたしはとても死に切れません。それだけはくれぐれもお願いします。
+　最愛の紀久子さん！　最後まであなたを愛し、なおかつ今後のあなたの幸福を祈りながら。
+
+　黙って二人は顔を見合わせた。
+「馬鹿なことを言いやがって……」
+　正勝は侮蔑《ぶべつ》の微笑を含みながら吐き出すように言って、紀久子の肩へそっと手を回した。
+「何を言ったところで、奴が死んでしまえばおれと紀久ちゃんの世界さ」
+「それはそうだわ」
+　紀久子は低声に言いながら、遺書を畳んだ。
+「馬鹿な奴だなあ、こっちの壷《つぼ》に嵌《は》まって自殺をしてしまいやがったじゃないか。おれと紀久ちゃんとの間には、子供のときから婚約があるんだ」
+　正勝は微笑《ほほえ》みながら言って、急に紀久子の唇を求めようとした。
+「ここじゃ駄目だわ。あちらへ行きましょう」
+　紀久子は微笑をもって優しく言った。
+「あちらってどこだい？」
+「わたしの部屋へ……」
+　紀久子はそう言って、遺書を懐にしながら自分の寝室のほうへ正勝を伴った。
+
+　　　　　　　５
+
+　寝室へ入ると、正勝はすぐまた紀久子の後ろへ手を回して、彼女のわなわなと顫えている赤い唇を求めようとした。
+「待ってらっしゃいよ。わたし、着物を着替えてくるわ」
+　紀久子はそう言って、正勝の顔を自分の顔の上から除《の》けた。
+「着物を着替えてくるって」
+「だって！　あなたはベッドで寝て待ってらっしゃいよ。すぐだから」
+「それじゃ……」
+　正勝はすぐベッドへ行って横になった。
+「おれたちの世界がようやく来たんだ。おれと紀久ちゃんとの世界が来たんだ。だれももう、おれたちの愛に干渉する者は一人もねえんだ」
+　正勝は仰向《あおむ》きになって、独り言のように言った。
+「すぐだからね」
+　紀久子は微笑みながら優しく言って、部屋を出ていった。
+
+　　　　　　　６
+
+　寝室を出ると、紀久子は唇を噛みながらドアにがちゃりと錠を下ろした。
+　紀久子はそして、すぐ敬二郎の死骸《しがい》のある部屋へ飛んでいった。真っ赤に燃えているストーブ。血溜りの中に倒れている死骸。真っ青な死の手に握られているピストル。紀久子は死骸に駆け寄って、その死骸の上へ自分の身体をどっと投げかけた。
+「敬さん！　許して。許して。わたしを許してね」
+　紀久子は、息詰まるような遣《や》る瀬《せ》のない調子で言った。
+「敬さん！　わたしが悪かったのだわ。わたしが悪かったのだわ。許してね。わたしもいますぐ、すぐもうあなたのところへ行きますわ。わたしの本当の心をお目にかけますわ。敬さん！　許してね」
+　紀久子の声はしだいに啜《すす》り泣きになってきた。
+「敬さん！　わたしの本当の心が、すぐもうお目にかけられますわ。待っててね。わたし、これからあなたの遺言を実行していくわ。正勝になど、あの悪魔になど、塵《ちり》一つだって与えませんわ。あなたのお言葉どおり、みんなみんな、父が事業を始めるときに移住してきた人たちへ、何もかも分けてやりますわ。わたしも手紙にそのことを書き残しておきましょう。そして、わたしももうすぐあなたのところへ行きますわ」
+　紀久子は啜り泣きながら言って、静かに身体を起こした。そして、紀久子は咽んで肩の辺りに波打たせながら、傍らの小卓の前に坐《すわ》り直した。卓の上には、敬二郎の使い残しの紙と万年筆とがあった。紀久子は万年筆を取って、鶏が餌《え》を拾うように首を動かしながら、啜り泣きながら、涙に曇ってくる目を幾度も幾度も押し拭《ぬぐ》いながら、一字一字を植え付けるようにして手紙を書いた。
+　書き終わると、紀久子はその手紙を敬二郎の遺書と一緒に重ねて畳んで、ふたたび帯の間に差し挟んだ。
+「敬さん！」
+　紀久子はふたたび、敬二郎の死骸の上にどっと身体を投げかけた。
+「敬さん！　許してね。わたしもうすぐあなたのところへ行くわ」
+　紀久子はそして、敬二郎の死骸に顔を押し付け、その手を固く握った。紀久子はふと、敬二郎の手に握られているピストルに気がついた。紀久子はそれを取ってしばらくじっと見詰めてから、なおもそこに弾丸《たま》の残っていることを確かめると、唇を噛み締めながらそのピストルを自分の帯の間に差し込んだ。
+　紀久子はそして、ある決心の表情を浮かべながら決然として部屋を出ていった。しかし、彼女は間もなく戻ってきた。彼女の両手には二つの石油缶が提げられていた。彼女は戸口を入ると、戸口をさっと開いておいて、ストーブのところから戸口のほうへ向け、戸口から廊下のほうに向かって、ざーっと二缶の石油をぶち撒《ま》いた。
+
+　それから、紀久子はふたたびストーブの前へ駆け戻って、そこにある腰掛けを取り上げるとそれでストーブをぐいっと押し倒した。ストーブは煙突から外れて真っ赤な火をこぼしながら、床の上へがらがらと倒れた。次の瞬間、ストーブから飛び出した火の塊は床の上へ溜っている石油の池の上を、戸口のほうへ向けてちちっと走っていった。
+　紀久子はその隙《すき》に敬二郎の死骸を抱き上げて、南面している戸口のほうからバルコニーのほうへ駆け出していった。
+
+　　　　　　　７
+
+　乾燥し切っている木造の建物は、たちまちにして猛火に包まれてしまった。
+　紀久子の寝室の鉄格子の嵌まっている磨《すり》ガラスの窓に、猛火に責め立てられて※［＃「足へん＋宛」、第3水準1-92-36］《もが》き苦しんでいるらしく、両手を広げて窓に飛びかかっている正勝の姿が影絵のように映って、踊り狂っていた。
+「紀久ちゃん！　紀久ちゃん！　開けてくれ！」
+　遠くの遠くのほうから、轟々《ごうごう》と渦巻いている猛火の音の下で、そんな風に叫んでいる声が微かに聞こえた。
+「開けてくれ！　早く早く！　紀久ちゃん！」
+「寒いのでしょう？　温めて上げるわ」
+　紀久子は敬二郎の死骸を抱いて、降りかかる火の粉を浴びながらその窓の下に行って叫んだ。
+「敬さん！　わたしの本当の心がいま初めて分かってくれて？　え、敬さん！」
+　紀久子はそう言って、固く固く死骸を抱き締めた。
+「敬さん！　紀久子はやっぱり、敬さんだけの紀久子だったわ。敬さん！　分かってくれて？」
+　紀久子は踊るようにしながら、敬二郎の唇に自分の唇を押しつけた。
+「ね！　ね！　あなただけでしょう。紀久子の唇に触ったのはあなただけよ。だれも、わたし、触らせなかったのよ」
+　紀久子はふたたび、その唇を敬二郎の唇の上に置いた。次の瞬間、紀久子の唇は敬二郎の顔の上に、雨のように降った。
+　遣る瀬のない衝動がそして、敬二郎の死骸をさらに固く固く抱き締めさせた。
+「お嬢さま！　お嬢さま！　大変なことになりました」
+　だれか五、六人の人間が、ばたばたと駆けつけてきた。
+「これを！　早く！　これを！」
+　紀久子は帯の間から敬二郎と自分との二人の遺書を引き出して、狼狽している人々の前へそれを突き出した。だれかがその畳まれてある紙切れを受け取った。そして次の瞬間には、その手はすぐに紀久子の手を握った。
+「お嬢さま！　こんなところにいちゃ危ないです。火の子の降ってこないところへ！」
+「構わないで！　構わないで！　ただその手紙をなくさないでね。それには大切なことが書いてあるのだから」
+「お嬢さま！　とにかくあっちへ！」
+「おまえは平吾だね！　その手紙は確かにおまえに預けたよ。敬二郎さんとわたしとの手紙だわ」
+　紀久子はそう叫んで、次の瞬間にはぱっと身を翻して敬二郎の死骸を抱いたまま猛火の中へ飛び込んでいった。
+　真っ赤に空を焼いて火は燃え狂った。暗闇《くらやみ》の中から大勢の人間が駆け寄ってくる足音が地を揺るがした。遠くのほうで犬が吠《ほ》えだした。
+
+
+
+底本：「恐怖城　他5編」春陽文庫、春陽堂書店
+　　　1995（平成7）年8月10日初版発行
+入力：野口英司
+校正：Juki
+1999年11月8日公開
+2005年12月24日修正
+青空文庫作成ファイル：
+このファイルは、インターネットの図書館、青空文庫（http://www.aozora.gr.jp/）で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです。

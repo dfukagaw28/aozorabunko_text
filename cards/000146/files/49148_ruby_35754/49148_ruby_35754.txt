@@ -1,3719 +1,3719 @@
-�������L
-�i���j
-��c�R����
+其中日記
+（八）
+種田山頭火
 
 -------------------------------------------------------
-�y�e�L�X�g���Ɍ����L���ɂ��āz
+【テキスト中に現れる記号について】
 
-�s�t�F���r
-�i��j�x�Ɓs���X�~�t
+《》：ルビ
+（例）休業《ヤスミ》
 
-�m���n�F���͎Ғ��@��ɊO���̐�����A�T�_�̈ʒu�̎w��
-�@�@�@�i�����́AJIS X 0213�̖ʋ�_�ԍ��A�܂��͒�{�̃y�[�W�ƍs���j
-�i��j���m����d�l�p�A258-12�n
+［＃］：入力者注　主に外字の説明や、傍点の位置の指定
+　　　（数字は、JIS X 0213の面区点番号、または底本のページと行数）
+（例）※［＃二重四角、258-12］
 
-�^�_�F��{�̗x�莚�i�u���v���c�ɒ��������悤�Ȍ`�̌J��Ԃ��L���j
-�i��j�ۂ��^�_
-�����_�t���̓�{�̗x�莚�́u�^���_�v
+／＼：二倍の踊り字（「く」を縦に長くしたような形の繰り返し記号）
+（例）ぽか／＼
+＊濁点付きの二倍の踊り字は「／″＼」
 -------------------------------------------------------
 
-�m����������Q�������n
-���y�̎R�̔ޕ��ɂ��_��
-�@�@�����ɕ����΂̉��Ȃ肯��
-�m�������Ŏ������I���n
-
-
-�@�ꌎ����m���u�ꌎ����v�ɓ�d�T���n
-
-�m����������Q�������n
-�E�G���ǂ�Ă��������͂�����
-�E���֌��U�̔n������Ă���
-�E�ǂ�Č����̐��������ւĂ��ς�
-�@���ӂ͋x�Ɓs���X�~�t�̌����Q���ׂĂ�錳��
-�E�ւ����Ă�邠�ق��΍炢�Ă��
-�E�������M�ւۂ���Ԃ�
-�E�M����Ђ悢�Ɠ��̊ۂ��������Ă�����
-�E���{�̔~�̂����͂₭�炢�Ĉꌎ���
-�E��n�����ē����ƂĐ����̂�����
-�@�@�@���c����
-�E�������̂����������ӂ�܂�
-�@�@�@�N������
-�E���݂��߂�܏\�l�N�̖݂ł���
-�m�������Ŏ������I���n
-�m����������P�������A�܂�Ԃ��ĂQ�������n
-�@�@�@���������L�@�o��
-�������m���u�����v�ɖT�_�n�A�l�Ԃ͍�i�͒���肷��₤�ɂȂ�Ȃ���Αʖڂ��A�@�����܂ꂽ��A����������ꂽ����̌��A���̌�������B
-�����}�̌��m���u���}�̌��v�ɖT�_�n�A�}�R�}���A�}�R�}���A����ł�낵���B
-���m����d�l�p�A258-12�n���R���ہ\�\�������ہ\�\�R���Ό��ہm���u�R���Ό��ہv�ɖT�_�n�m���u�\�\�R���Ό��ہm���u�R���Ό��ہv�ɖT�_�n�v�͒�{�ł́u�\�\�R���Ό��m���u�\�R���Ό��v�ɖT�_�n�ہv�n�B
-���m����d�l�p�A258-13�n���Ȃ̂����Ɏ��R���ς�Ƃ��ӂ����A���R�̂����Ɏ��Ȃ��ς�m���u���R�̂����Ɏ��Ȃ��ς�v�ɖT�_�n�̂ł���i���ԓx�ɂ��āj�B
-���m����d�l�p�A258-14�n�������������ām���u�������������āv�ɖT�_�n�A�������Ȃ����͂��Ȃ��m���u�������Ȃ����͂��Ȃ��v�ɖT�_�n�\�\���ꂪ���̐���ł���M���ł���A������������邽�߂ɁA���͂������Ӑ����ɂ͂����i�͂���Ȃ���΂Ȃ�Ȃ����̂ł���j�A�����Ă������Ӑ����ɂ͂������炱���A������������邱�Ƃ��o����̂ł���A���͉����Ȃ��A�p���Ȃ��A���͕����ĂȂ��A�}�m���u�}�v�Ɂu�}�R�v�̒��L�n�K�}�}���m�Ƃ��͂�Ă��A�[�C�^�N���m�Ƃ��͂�Ă��B�c�c
-�����Ȃ̉^���ɒ����ł���m���u���Ȃ̉^���ɒ����ł���v�ɖT�_�n�A�R���΂͎R���΂炵���B
-�m����������Q�������n
-�@�@�@���ۂ����
-�E���T�̂��邶�ƂȂ炤���傳����
-�E���T���u���Ă����������w���Ȃ��
-�@�@�@�V����񖜍�
-�E���ւ���ۂ����炢���܂���
-�@������̔~������ق�Ɛl����
-�E�k�₷�قǂɓ����̂ڂ�X���Ƃ���
-�@�����A����͂����������t�炵�āi�F�Ɂj
-�E�݂�Ȃ���ł��܂ւ΂ƂՂ�ƕ���~��
-�E�ӂ��ĂЂƂ�̐��̂��܂��𕠂��ς�
-�m�������Ŏ������I���n
-
-�@�ꌎ�\����m���u�ꌎ�\����v�ɓ�d�T���n�@���A�����T�����B
-
-�ߍ��̐H���̊Â��\�\�Â��邳�͂ǂ����A���ł����X�ł��ݖ��ł��݂�ȊÂ��A�Â��Ȃ���Δ���Ȃ����������A�l�Ԃ����𗣂�č�������ԂƂ��ӂ��Ƃ͐l�Ԃ̑��̈�ʂ�����͂��Ă��Ǝv�ӂ��@���m���u�l�Ԃ����𗣂�č�������ԂƂ��ӂ��Ƃ͐l�Ԃ̑��̈�ʂ�����͂��Ă��Ǝv�ӂ��@���v�ɖT�_�n�B
-���A�l����s���֓��c�o���̎���N���w�Ɍ�����A����N��A�K���ł���B
-�O�̍ؔ��̂��邶����卪���ӁA�؊��ɂ��Ēu���A�卪�͓��{�I�ő�O�I�Ȗ�؂̐��ꂾ�B
-�悢�ӎށm���u�悢�ӎށv�ɖT�_�n�A�񍇂ł͑���Ȃ����O���ł͗]��܂��B
-�����T�ˁA�����̂��������B
-�m����������Q�������n
-�@�@�@����N�𑗂�O��
-�@���t�����T�������݂Ȃ炵�T���킩��
-�E���킩��̊���R���J�����ɂ����߂Ă��܂�
-�E���킩��̎��̂�Ō͑��ɐQ������
-�E�Â����̂��h�����̂����邾�����ׂĂЂƂ�
-�@�͑����Ă����̐���Ă����
-�E�͖؂��낪�A�����������݂܂���
-�@���d�����A�͂�������鑐
-�@���̉��^�����ӂ��͑��̏�
-�@���ԁA��ԁA���̖؂����Ɍ͂ꂽ
-�m�������Ŏ������I���n
-
-�@�ꌎ�\����m���u�ꌎ�\����v�ɓ�d�T���n
-
-������葁���A�Z���̃T�C�����ŋN����B
-���Y��m���u���Y��v�ɖT�_�n�A����͘V�l�̓��������m��Ȃ��A�������Y�ꂵ�Ă͂ЂƂ�Ŕ���΂���B
-�݂Ǝ��Ƃ𔃂ӁA�݂����܂����������܂��B
-�������A��������A�񍇂̎��ɁB�c�c
-��͂��т������������������A���������ɂ��т������̂ł��邩�͌ǓƐ����҂��悭�m�Ă��B
-�m����������Q�������n
-�E�G���悱���͂�Ȃ����������Ă��
-�E������T��k���₾�܂Ĉ�l
-�@�@�@����N�����S�w�Ɍ�����v���b�g�z�[���ɂ�
-�@�����l���݂�Ȃ������Ă��悤�Ȃ�
-�m�������Ŏ������I���n
-
-�@�ꌎ�\�O���m���u�ꌎ�\�O���v�ɓ�d�T���n�@����ĕ������B
-
-�₽���āu���v�炵���A�~�͊����̂��ق񂽂����B
-���Ɠ����m���u���Ɠ����v�ɖT�_�n�Ƃ����čK���ł���B
-�����N�����B
-������ɏo�����Ăr�����K�˂�A��y���ɂȂ�A���ꂩ��O�l�A��ŕ����A�R�[�q�[�A�r�t�e�L�A�R�����g�Q�[���A���A���A���B
-�قǂ悭�ʂ�ċA���B
-�m����������Q�������n
-�E�Ƃ�����ΌԂ��މ��̂����T���ȓ�����
-�E�G���ۂ��^�_���Ȃ��̑��z
-�E�����ʂ��^�_�ƌ{���ނ��Ă��
-�@�[���̂��n�����܂̖ڕ@�͂���
-�@���ɗ[���̂��߂�������
-�m�������Ŏ������I���n
-
-�@�ꌎ�\�l���m���u�ꌎ�\�l���v�ɓ�d�T���n�@���\�\�܁\�\�J�B
-
-���ꂵ�������A���ꂠ�邪�䂦�Ɏ��������Ă䂯��B
-���̐H�ׂ������݂����ō�������ꂵ�񂾁A��ς�T���ނׂ��͌��ł���B
-�T�܂�����������A���̍K���͂����ɂ���B
-
-�@�ꌎ�\�ܓ��m���u�ꌎ�\�ܓ��v�ɓ�d�T���n�@�J�A�܁B
-
-�I���I��A�Ǐ��v���B
-�[��̗����҂������A�������N�Ƃh�N�A�ǂ��ւ��Ă�����ɂ���Ȃ��̂ł�Ă����Ƃ��ӂ킯�A�ǂ��������Ƃ͂�߂ɂ��ĐQ�Ă�����I
-
-�@�ꌎ�\�Z���m���u�ꌎ�\�Z���v�ɓ�d�T���n�@�܁A����B
-
-�����A�����N�����ف^�_�Ƃ��Ă��ւĂ䂭�A���ς���l�Ԃ��݂��߂����A���Ђ��߂̐l�Ԃ͂���ɂ݂��߂��I
-���ꂵ�������A��t���疃�z�̒ώς𒸑Ղ����A���������̎��������āA�ጩ���m���u�ጩ���v�ɖT�_�n�Ƃ����ґ򂳁A�������܂������A�ώς͂ƂĂ������������B
-�ώςƂ��ӂ��͓̂��{�I���m���u���{�I���v�ɖT�_�n������B
-�ߍ��̎��͈��ނ��Ɓm���u���ނ��Ɓv�ɖT�_�n�����H�ׂ邱�Ɓm���u�H�ׂ邱�Ɓv�ɖT�_�n�ɌX���Ă��B
-���Ė݂��������̂ł����������A�܂Â����c�����m���u�܂Â����c�����v�ɖT�_�n���B
-�v���Ԃ�ɓ����A���Â��Ȃ邩�Ȑg���S���B
-�����͊������������������D���ɂȂ��A�������Ȃł����m���u�Ȃł����v�ɖT�_�n�̂ǂ낭�����̂��I
-�x���œǂ񂾂�l�ւ��肵�Ă�邤���ɁA�������邪�����Ă��܂��B�c�c
-�m����������Q�������n
-�E�蔞�����T���Ȃ����ɂ��Ƃ�����
-�E���c���w�̎q�������΋����܂܂�
-�@���ĂЂ���Ⴀ���茎������
-�E��������ւ����ނ��Β|�̂���
-�E��ӂ�H�ׂ镨���炤�Ă��ǂ�
-�@�@�@�_�����i�̈��
-�E�~��������œ��c���ւ�ۂ�Ƃ��ĂЂ���Ƃ���
-�@�@�@���F�P�F��
-�@�킩��ĂЂƂ�A��̂ǂ����ɗ₽����
-�m�������Ŏ������I���n
-
-�@�ꌎ�\�����m���u�ꌎ�\�����v�ɓ�d�T���n�@�Ⴊ���������A�ӂĂ͂�����B
-
-���������獡�����ጩ���A�������Ȃ��d�����ł���B
-��̂ӂ肵���钆���X�̃|�X�g�܂ŁB
-�����̔����́\�\�݁A���ǂ�A�p���A���Ȃ�鶁I
-�m����������P�������A�܂�Ԃ��ĂQ�������n
-�@�@�@���������L
-���ώςƘV���Ɠ��{�I�Ȃ��́m���u���{�I�Ȃ��́v�ɖT�_�n�B
-���؂̐����A�H�ׂāA�����ĐH�ׂ��邾���I
-���ʐ��m���u�ʐ��v�ɖT�_�n�\�\�����ʂ�Ɂ\�\�C�m�`���E�c�X�m���u�C�m�`���E�c�X�v�ɖT�_�n�B
-�����Ԃ̘b�m���u���Ԃ̘b�v�ɖT�_�n�B
-���m����d�l�p�A265-2�n�������s���R�m���u�s���R�v�ɖT�_�n���悭�Ȃ��A���Ђ��ւ�ΐ����ɖ����m���u�����v�ɖT�_�n�����Ă͂����Ȃ��A���������邩��s���m���u�s���v�ɖT�_�n������A�s���m���u�s���v�ɖT�_�n������̂ł���B
-�����Ђ��Ԃ��邫�܂�̂�邳�����A������������炩���B
-���m����d�l�p�A265-5�n�����̖���͊܂݁m���u�܂݁v�ɖT�_�n�Ƃ��ӂ��Ƃ����ӁA���͕S���S����܂�ł��̂ł���A�܂��A��Γ��΂̐����炵���T���H�m���u��H�v�ɖT�_�n�͗͋������̂����Ă��A���̂₤�Ɉ��͑S�����S�l�i����ɂ��݂ł����́m���u���͑S�����S�l�i����ɂ��݂ł����́v�ɖT�_�n�łȂ���΂Ȃ�Ȃ��B
-���m����d�l�p�A265-8�n���̈����͎��̈������ł���A���͈�����݂䂭�\���ł���B
-�m�������Ŏ������I���n
-
-�@�ꌎ�\�����m���u�ꌎ�\�����v�ɓ�d�T���n�@���A����ق珬�Ⴊ�ӂė₽���B
-
-����ΐH�ׂ����鉺�i�����m���u���i�����v�ɖT�_�n���p�Â������I�@�ǂ����݂�H�ׂ������炵���̂ō����̓p���B
-��͂ꂽ���f�̖؁A���ꂪ���̂܂ɂ��͂ꂽ�I�@���т����B
-���O���ċ�쐄�ȁc�c�B
-�����͓��c�̕ʉ��̉S�����������܂ł��������B
-�m����������Q�������n
-�E�����А�ƂȂ��ϓd���̒��p�`�i����j
-�E�����Ђł����ꂩ�炻��֔ӎވ�{
-�E�Ⴀ����̂��Â����̒N�����Ȃ��ł�낵��
-�@�@�@�q��������
-�E�킩��ĉ��������������Ⴆ���ւ錎������
-�E���̐l�����񂾂����ȁA�ӂ邳�Ƃ̊���
-�E�����͓��c�̈��A���Ă܂͂�ւ��Ԃ�
-�E���킩��̐����肠���Ă����ӊ���
-�E�Ђ����点�΂݂�������
-�E�ʂ������𓊂����Ƃ��낪�~��
-�m�������Ŏ������I���n
-
-�@�ꌎ�\����m���u�ꌎ�\����v�ɓ�d�T���n�@��֐�ӂ銦���A�u���v���ϑԓI����{�i�I�ƂȂ��B
-
-��������ԓ~�炵���₽�������A���������܂��ə}�B
-�ߌ�A�}�Ɏv�З��Ėh�{�֍s���A�^���������Ђ����l�Ɉ��ւ��A�ʂ������p�����ʂ��Ȃ����A���U�{�s�\�\����̋��m���u����̋��v�ɖT�_�n�̓y�𓥂�Ń��C�X�J���[��H�ׂċA���B
-���ɘJ�ꂽ�A���͂��Ƃ��ė]���m���u�]���v�ɖT�_�n���I�鎄�ł����Ȃ����Ƃ������B
-������Q���A�n���̂��肪�����m���u�n���̂��肪�����v�ɖT�_�n�A����͋ߍ��ɂȂ����ꂵ���߂��݂����B
-
-�@�ꌎ��\���m���u�ꌎ��\���v�ɓ�d�T���n�@���A�l�ܓ����̈É_�m���u�É_�v�ɖT�_�n��������������B
-
-�����͂c����r����j���񂪗���������ł���A���͂Ȃ��Ƃ��΂��������A�x�����ʂ��߂Ă������B
-�F����c�c�ƈ���̐S���ł���B
-�O���l���m���u�O���l���v�ɖT�_�n�Ƃ��ӁA���̈ꉷ�Ƃ��ӂ��V�C�ł���B
-�X�̃|�X�g�܂ŏo�����āA���łɓ����𔃂��Ă���B
-�݊��m���u�݊��v�ɖT�_�n�͂��܂��ȁB
-�c�c�c����͂Ƃ��^�_���Ȃ����A�r������j��������Ȃ����A�c�c���͑҂Ă͂����ǃA�e�ɂ͂��Ă�Ȃ��m���u���͑҂Ă͂����ǃA�e�ɂ͂��Ă�Ȃ��v�ɖT�_�n�i�A�e�ɂ��Ă��ƃA�e���͂Âꂽ�Ƃ��������j�B
-���ҕs���A���ҕs�ǁA���͎���l�ő��邾���̐�����m���u������v�ɖT�_�n�����Ă��B
-������悤�˂ނ�邱����悳�B
-�m����������Q�������n
-�E�����Ă��镨�݂Ȑ���Ŏ��v��������
-�E�͂Ȃꂽ�����͂��Ƃ��Ƃ��Ȃ��̊�����������
-�E�����̐�֍ŏ��̑����Ƃ��ėX�ւ₳��
-�E�Ƃځ^�_���ǂ�}�݂̂����܂���
-�@�����ɉƂ��Ă������̓�V������
-�@���܂��ܗ��t�ӂމ�������ΑN�l�̋�����
-�@�@�@�Ε��V�̈����l�����s���s���ƂȂ��ƒm�炳��ē��
-�E�~��̂ǂ���ւ��Ă��܂���
-�E�����m���u�����v�Ɂu�l�����v�̒��L�n��Ȃ��Ȃ��v�w����̓~��̃��a�I
-�m�������Ŏ������I���n
-
-�@�ꌎ������m���u�ꌎ������v�ɓ�d�T���n�@�܁A���J�A���B
-
-�ڔ��̌Q�����ƂȂ����ւ̉ԂɗV��ł��B
-�\�\���邯�Ȃ��A�̂߂Ȃ��A�����ւȂ��A���ǂ�Ȃ������g�����o���΂��肾���A�\�\�ЂƂ肵�Â��ɁA���ׂāA�ǂ�ōl�ւāA���O�Ȃ������g�����o���΂��肾���B�\�\
-���S�ɗV���C���m���u�V���C���v�ɖT�_�n����E�p�����A�A���R�[����g�����邱�Ɓm���u�A���R�[����g�����邱�Ɓv�ɖT�_�n���o�����A�\�\���͂Њy���ގ���m���u���͂Њy���ގ���v�ɖT�_�n�������̂��B
-�R���΂͑������Ɂm���u�R���΂͑������Ɂv�ɖT�_�n�A�������̎R���΂��m���u�������̎R���΂��v�ɖT�_�n�B
-�˂��A�˂��A�\�O���Ԃ˂��B�c�c
-�m����������Q�������n
-�E������������������g�̂܂͂�
-�m�������Ŏ������I���n
-
-�@�ꌎ������m���u�ꌎ������v�ɓ�d�T���n�@���A�g�S��V�A�����₩�ȓ��B
-
-�I���I��Ǐ��B
-
-�@�ꌎ���O���m���u�ꌎ���O���v�ɓ�d�T���n�@�����������̐�i�F�B
-
-���炭�Ȃ܂��Ă�A���ӂ��炢�悢��׋�����B
-��֐�̂��U�₫�A���򂩂���Ȃ��B
-�����Ɖ�A�Ǐ��O���B
-�����������₩�Ȉ�������A���X�D���̋��n�ւ͂܂��B���Ă�Ȃ�����ǁA���X�������łȂ����U�m���u���X�������łȂ����U�v�ɖT�_�n�ł͂���Ǝv�ӁB
-�m����������Q�������n
-�E��̂����T�鐅����ł��Ă��ӂ̂���
-�E�t�̐�ӂ鑐�̂��悢�悵�Â�
-�E�����Ƃ��鉹�̂����ɂ�
-�m�������Ŏ������I���n
-
-�@�ꌎ���l���m���u�ꌎ���l���v�ɓ�d�T���n�@���A���A�܁B
-
-�O���Ԃ�ɊX�֏o�������i�l�Ƙb�������O���Ԃ�j�A�����Ď��ƕĂƖ݂Ɠ����Ƃ𔃂��Ă����B
-�Ⴊ�ӂ�ΐጩ���A�����Ȃ���ΓǏ��A�x���Ɩ݂Ƃ͂��ł�����A�\�\���ꂪ���̓~���������B
-�m����������Q�������n
-�E���m���i���j�n��̂ƁU�낯�΂Ƃق�����s�@
-�E�����A�܂�����ə}�����Ĉ�@
-�E��s�@���Ƃ�ł��Ă��čႦ���ւ��
-�E���ӂ��悢���́A�����ߖ݂��񂪂�ӂ��ꂽ
-�@�@�@�Y����
-���̒��ɖ݂قǂ��܂����̂͂Ȃ�
-�@�@���������܂������݂��߂閡
-�m�������Ŏ������I���n
-
-�@�ꌎ���ܓ��m���u�ꌎ���ܓ��v�ɓ�d�T���n�@������A�̂ǂ��ȓ������B
-
-�ߑO�A�X�֏o�����āA���ւ邾�����ЁA���ւ镨�������ӁB
-�ߌ�A�܂��o�����ĉw�܂ł䂭�A����^�_�̗p�����v�Ђ����ĎR���ցA�����ė�؂����K�˂�A���ގ��͗���ŁA��y���𒸑Ղ����A�A�r���c�œ����A����ɂЂ��Ă��S���͜g�����y�����I
-�A�������̂͏\�������A�J�ꂽ�A�X�X�X�B
-���璆�ɗ��q�������A���ƍ�����ė��āA�����Ĉ���ł��H�ׂĂ��҂�����Ȃ����炵���A�\�\�ނ͎����N�łȂ���΂Ȃ�Ȃ��A�\�\����̃m�[�g�ɂ͉��̂��̂Ə����c���Ă����B
-���͍����߂��萊�サ�āA���a�l�̐����m���u���a�l�̐����v�ɖT�_�n�����Ă��A�����Ă������Ӑ������������Ăق񂽂��̎��m���u�ق񂽂��̎��v�ɖT�_�n���炵�߂Ă����I
-�m����������Q�������n
-�E�����ƂȂ��΂����Ƃ����ւď��t���̂��炷�ǂ�
-�E�邠���̕��̂��Â���΂��Ă���
-�E�������Ĕ�s�@�̂䂭�ւ̌����Ȃ��Ȃ�܂�
-�@�����ւē��Ă��_����
-�E���������Ȃ�Ζ؂����l����
-�E�͑��։��̂����̔Z��������
-�E�킩���߂��ƂłȂ��łł��锞�ӂގd��
-�E�|�̗t�̂����͂₭�����Ă���
-�@�@�@������
-�E�،͖͂�̂�ϓd���̒��p��
-�E����݂肷����́A���̂���
-�m�������Ŏ������I���n
-
-�@�ꌎ���Z���m���u�ꌎ���Z���v�ɓ�d�T���n�@�����ЁA���Ⴟ��ق�B
-
-�������邩��������ށA�����͂��܂��B
-�C�ۂ̕����m���u�C�ۂ̕����v�ɖT�_�n����낱�ԁB
-�ߌ�A�����g�K�A�����ė��K�A���������ł߂ł����ʂ��A�\�\�l���͂����݂ǂ�m���u�����݂ǂ�v�ɖT�_�n�����悯��A���B
-�m����������P�������A�܂�Ԃ��ĂQ�������n
-�@�@�@���������L
-�����R�Ǝ���Ƃ̈�@���A���׈��y�m���u���׈��y�v�ɖT�_�n�̘V���B
-�����ȏȎ@�\�\���Ȑ��i�\�\���Ȓ����m���u���Ȓ����v�ɖT�_�n�B
-�����͍����A�{�͈����A�����Čy�����ďd���A���͂��܂��Ė{�͂������낢���Ƃ͂��܂�ɖ����B
-�������邢�A�����T�����������A����𗁂тĖ����Ă�邾���ł��A�����Ă�邱�Ƃ̍K����������B
-���G���̐S�m���u�G���̐S�v�ɖT�_�n�A��������͂����Ђ����B
-�����Ǝ���m���u���Ǝ���v�ɖT�_�n�A���͑S�̂���͂�Ƃ��Ă̌A����͉�|�̌����A�|�p�ɉ��āA���͕\������Ȃ���΂Ȃ�Ȃ����A����Ɏ������Ă͂Ȃ�Ȃ��B
-�m�������Ŏ������I���n
-
-�@�ꌎ�������m���u�ꌎ�������v�ɓ�d�T���n�@���A�����ē܁B
-
-�c�c�҂Ă��m���u�҂Ă��v�ɖT�_�n�c�c�����c�c�҂Ă��c�c�܂×X�ցm���u�X�ցv�ɖT�_�n���c�c�����āc�c�F�l���B�c�c
-�̑�ꏡ�؂��A��\�����ӁB
-�ߌ�A�����N����ӂ�ŗ����A���y�Y�͖݁A�{�^�݂��Ȃ��̂��c�O�������B
-�C���悭����Ő����āA����Ȃ�B
-�����A�w�̃|�X�g�܂ŏo���������łɁA���C�X�J���[��H�ׂ��A�n�H���̂���͓��߂����x�A����ɂj�H���̂���͂��܂����A�Ƃɂ������͎��̈ݑ܁m���u���̈ݑ܁v�ɖT�_�n�ɏj�������T���܂��I
-
-�@�ꌎ�������m���u�ꌎ�������v�ɓ�d�T���n�@����Ă����T���A�����������B
-
-���d���A�����J��ă_���A��Ȃ����ȁB
-�悤�˂ނ�邱�Ƃ͉����̂�낱�т��B
-
-�@�ꌎ������m���u�ꌎ������v�ɓ�d�T���n�@�܁A�₽���A���Ⴟ����B
-
-����肢��^�_�A���ꂵ�����ꂵ���B
-�����A�I�̂����݂ň�t�B
-��������̎��̋��X���͂�邭�Ȃ��Ǝv�ӁA������m���u������v�ɖT�_�n�ł������񂾁A���̈��𖁂��Ė����Ė���������̂ł���A�����Ɏ��̐��i�����萶��������Ǝv�ӁB
-�m����������P�������n
-�@�@�@���̐������m���u���̐������v�ɔ��l�p�T�_�n�\�\�i���A�X�֒����̎��j
-���͎����s���Y�I�ł���A�B�ٓI�ł��邱�Ƃ��Ɓm���u���Ɓv�Ɂu�}�R�v�̒��L�n�̂��߂ɋꂵ�ݔY��ł�A�����Ă₤�₭�������ӐM�O�ɗ��������Ƃ��o�����\�\
-�s���m���u�s���v�ɖT�_�n�Ƃ��ӂ��Ƃ͕K���������ړI�m���u���ړI�v�ɖT�_�n�ł��邱�ƂɌ���Ȃ��Ǝv�ӁA���i�I�ɊԐړI�m���u�ԐړI�v�ɖT�_�n�ɂ����s�������Ȃ����́A�����g�����āA���̎��͂����āA�Ȃ��₩�ȑ��݁m���u�Ȃ��₩�ȑ��݁v�ɖT�_�n�Ƃ��A�Ȃ����߂̏ꏊ�m���u�Ȃ����߂̏ꏊ�v�ɖT�_�n�Ƃ��đ������񋟂���A���ꂪ���̐����̈Ӌ`�ł���A�Ǝ��͍l�ւ�B
-���͍�������X�֒����m���u�X�֒����v�ɖT�_�n���n�߂��A����\�K��ߖ񂷂�̂ł���i�o�c�g���Ȃł����ɁA���O����񍇂ɂƂ��ӕ��Ɂj�A�����Ă���͎��̎��[�����Â���m���u���[�����Â���v�ɖT�_�n�ƂȂ�̂ł���B
-�Ȃ݂��k�����Ȃ������A��V�n�l�ɒp���Ȃ������A�R�̂Ȃ������A�閧�̂Ȃ������A�\�\�����̂Ȃ������A���̂Ȃ������A�\�\�����g�̐����B
-�m�������Ŏ������I���n
-
-�@�ꌎ�O�\���m���u�ꌎ�O�\���v�ɓ�d�T���n�@�܁A�A�����Ē����I
-
-����ƊX�ցA�\�\���������B
-�����͂��炾�̂���������ۂǂ悩���B
-�g���S���~��������m���u�g���S���~��������v�ɖT�_�n�A�������ӎ��������ނׂ��B
-
-�@�ꌎ�O�\����m���u�ꌎ�O�\����v�ɓ�d�T���n�@���܁A����Ԃ�₽���B
-
-������Ɩ�������Ǝv����A���L�̂��߂Ɋ�o�߂�����ꂽ�A�����݂��ЂT�����A�������ЂT�����ނ̂��A�ޓ��̍����̎d�����A�ǂ����邱�Ƃ��ł��Ȃ��{�\���m���u�ǂ����邱�Ƃ��ł��Ȃ��{�\���v�ɖT�_�n�B
-�m����������Q�������n
-�@�@�@�������܂�
-�E���T�낽�̂����Ă�����Ŗ݂�������
-�E�X���ĂЂƂ�Ă��݂̉����ĂĂ͂ӂ����
-�E�݂��ꂷ�鑐�����̂���������
-�@������́A�ނ��ނ��Ɠy���ނ������
-�@�ӂ���ӂ��ӂ����܂ł�����
-�@�@�@����
-�@�قƗ[���̂ƁU���Ƃ���ŐԂ����̎�
-�m�������Ŏ������I���n
-
-�@�񌎍���m���u�񌎍���v�ɓ�d�T���n�@���B
-
-�����񌎂ɂȂ��B�c�c
-�Ԃ�^�_�����āA���Ƌ��Ƃ𔃂��Ė߂��B
-���ƂȂ����H���������A���Ȗ��������B
-�����͈����Ȃ����A����ł�낵���B
-
-�@�񌎓���m���u�񌎓���v�ɓ�d�T���n�@�܁A�΂�^�_�J�B
-
-�Ε��V����̎莆�܂��Ƃɂ��肪�����B
-�~�̉Ԃ�����A�����������Ƃق̂��ɓ��ӁA�ւ̉Ԃ��炫�U���Ă��������B
-�����N�ɏ�����āA�[������w�Z�̏h�����֏o������A���ƔтƂ���΂��A���������݂����ĐS���ɂ������ċꂵ�񂾂��A���΂炭���ĉ����Ȃ��A�Ƃ��Ƃ������A�������ꐇ���o���Ȃ����A�����Y�̉S�����a�I�𒮂����A����^�_�̎G����ǂ݂��炵���B
-����Ȃ��Ȃ琇���܂Ő���Ȃ��ł�낵���B
-�m����������Q�������n
-�@�����͎R�䂫�������̒��Ԃ���Ă��
-�@�������́A�������H�ׂ�����Ԃ�
-�@�Ȃ�Ƌߓ��͕��ŗ₽����
-�E���������痬��ł鐅�̂��肠����
-�E�얳�n�����Ⴆ���ւ鐯�������U�����܂�
-�E���L���A�΂̔Ԃ��A���ꂩ��邠���̗t����
-�@��ł��ӂ肳���ȁA�R������������Ȑ���
-�m�������Ŏ������I���n
-
-�@�񌎎O���m���u�񌎎O���v�ɓ�d�T���n�@�܁A�����ЁA�����₽���A���J�B
-
-�Â������ɍ��H�׎c������т�H�ׂċA���A�����x���������T�������ēǏ��B
-�܂��O��Ȃ�����͕��C���A��т���O�t�A�݂Ȃ�܂Z�͉��̎��͂Ȃ��i���͎O�����ނƈ��݂����ċꂵ���Ȃ邪�j�B
-���Ƃ��Ă͏o���邾���̌�y����������ւāA��������Ƃ��ӎ����N��҂B�c�c
-�����ǂ񂾂��̂̒��ɁA�����A���n���A���Ɋy�Ƃ��ӌ��t�������A���ӂׂ����t���Ǝv���A�n���̒�̋Ɋy���j�����m���u�n���̒�̋Ɋy���j�����v�ɖT�_�n�i���ɂ��Ă͒n���ł��炤�A�l�Ԃɒނ肠�����邩��j�B
-�������A���������ށA�����͏ď���A�ʔK�̂ʂ��A���m���u���v�Ɂu�}�R�v�̒��L�n�z�̒ώρA���Â�����Ɠ��̎藿���B
-�}�p���ł��Ď����N�͑��X�A�čs���A�����񂪂킴�^�_�}�ւɗ���ꂽ�̂ŉ��Ƃ��v�������Ȃ��B
-��A�~���N���񑩒ʂ�ɖ݂��������񎝂Ă��Ă��ꂽ�A���肪�����A�����̎��͎����ӂ����A�K���ӂ����A�݂��ӂ��Ƃ����ꂵ���A����قǎ��͖ݍD���ɂȂ�A�݂΂��肽�ׂĂ��̂ł���A�߂��܂������N�����Ă��Ă����Ƃ��ӁA���ꂵ���ȁI
-���m����d�l�p�A277-14�n�т̖��m���u�т̖��v�ɖT�_�n�A���̖��m���u���̖��v�ɖT�_�n�A���̖��m���u���̖��v�ɖT�_�n�A�����Ė݂̖��m���u�݂̖��v�ɖT�_�n�A���͒��̖��m���u���̖��v�ɖT�_�n���B�c�c
-�m����������Q�������n
-�E�ЂƂ�ł����T�����݂΂���H�ׂĂ��
-�E���������Ă��̂܁T���Ă��܂����t
-�E�����̂��͂�̃T�C�����̃��Y����
-�E���ӂ������Ђ́A����Ȃɖ݂����炤�Ă��
-�E����Ⴆ�Ă��銦�s�̑�m���u��v�Ɂu�}�R�v�̒��L�n�ۂ���������
-�m�������Ŏ������I���n
-
-�@�񌎎l���m���u�񌎎l���v�ɓ�d�T���n�@���A���X�܁B
-
-���̂������A�ߕ��ł�����A���͂������������I
-�I���ċ��A�����Ȃ�΂����T�Q�A�o�߂Ă͓Ǐ��B
-�Ƃ�҂͓Ƃ茾�����Ӂm���u�Ƃ�҂͓Ƃ茾�����Ӂv�ɖT�_�n�A������\���{�\�̂���͂�ł��炤�B
-�m����������R�������n
-���t�ӂ�œ����₳�񂪂����̂œ������i����j
-�m�������Ŏ������I���n
-
-�@�񌎌ܓ��m���u�񌎌ܓ��v�ɓ�d�T���n�@�܁A���A�X�A�J�B
-
-���͖݊��m���u�݊��v�ɖT�_�n�A�݂ƕĂƑ卪�Ƃ��ӑR�Ƃ��Ă��܂��m���u���܂��v�ɖT�_�n���̂��̂ƂȂ�B�c�c
-�ߑO���͂ƂĂ����������A�ߌ�͂����T�����A�ނ���ʂ�������J�ƂȂ��B
-�m����������Q�������n
-�E���͂�̍ؗt�����t���������Ă��J
-�E�����ł������ł�⥐D�鉹�̂����T�����J
-�m�������Ŏ������I���n
-
-�@�񌎘Z���m���u�񌎘Z���v�ɓ�d�T���n�@���A���Ⴟ���ق��B
-
-�Ƃ�T���ށm���u�Ƃ�T���ށv�ɖT�_�n�\�\�Ƃ��y���ށm���u�Ƃ��y���ށv�ɖT�_�n�\�\���ꂪ���������̎��̐����C���m���u�����C���v�ɖT�_�n�ł���B
-�m����������Q�������n
-�E�ǂꂻ�߂Ď�����t�̂����T����
-�E�������悢���̐����܂��T��
-�E�₤�₭���������̂Ƃ��̂����Ђ�
-�@�@�@�ǉ����
-�@�ӂ��낤�Ȃ��Ă��T�����̐��ꂽ�Ƃ���
-�m�������Ŏ������I���n
-
-�@�񌎎����m���u�񌎎����v�ɓ�d�T���n�@��A��A��A����Ă���^�_���������B
-
-����ӂ�Ő�ӂ�X�ցA�\�\���̔����͏ݖ��O���\�ܑK�A��\�K�\�l���A���͍K�ɗ]�ām���u�]�āv�ɖT�_�n���I
-��A���A���A�΁A�сA�c�c���Â��ȍK���m���u�Â��ȍK���v�ɖT�_�n�A�Ћ��̍K���m���u�Ћ��̍K���v�ɖT�_�n�B
-�����͐�̋傪��\�΂���o�����A�o���������₤������Ǐo������̂͂���ł悩�炤�A���̗����₤�Ȃ��̂�����A���Ă�����ǁA���̂₤�ȕ��̂₤�Ȃ��̂�����I
-�m����������P�������A�܂�Ԃ��ĂQ�������n
-�@�@�@���������L
-��������̎��m���u������̎��v�ɖT�_�n�B
-�����i������Ǝ��ɂ��Č���₤�ɂȂ��j�B
-�����E�͓�\��ɑ����A�����Č܏\��ɑ����ƈ���Љ�w�҂������Ă�A���̌܏\��m���u�܏\��v�ɖT�_�n�ɂ��Ă͍l�ւ�������B
-���m����d�l�p�A280-4�n�f�l�ƌ��l�Ƃ̖��m���u�f�l�ƌ��l�Ƃ̖��v�ɖT�_�n�B
-�@�|�p����ɉ�����A��ɋ��ɉ�����
-���m����d�l�p�A280-6�n���R�ɂ͖����͂Ȃ��m���u���R�ɂ͖����͂Ȃ��v�ɖT�_�n�A����ƍl�ւ�͖̂������炯�̐l�Ԃł���m���u����ƍl�ւ�͖̂������炯�̐l�Ԃł���v�ɖT�_�n�B
-���u�V�ԁm���u�V�ԁv�ɖT�_�n�v�Ɓu�ӂ���m���u�ӂ���v�ɖT�_�n�v
-���o������\�\���ꂽ��A�����A�n��ւ���B
-���l���\�\�����́A�����Z���������ł͂Ȃ��A�[�����󂢂��m���u�[�����󂢂��v�ɖT�_�n�ɉ��l������B
-���m����d�l�p�A280-10�n�܏\�m���m���u�܏\�m���v�ɖT�_�n�A���Ђ��ւ�Η�g���m�m���u��g���m�v�ɖT�_�n�ł͂���܂����B
-�m����������Q�������n
-�E��֐�ӂ鏬���Ȃ���Ă���
-�E�Ⴊ�ӂ�ӂ�Ύ킽�₷�܂��Ƃ���
-�E��̂Ȃ����������Ă䂫��
-�E�͖؂̐���R���炵�Ă͕S�㒹
-�E��ӂ��ӂׂ̂䂽���Ȕ��т̓��C
-�E��A�X�̎G���̐g�ɂ�����
-�@��̑卪�ʂ��Ă��Ă��낵
-�@����ӂ�ŗX�ւ₳�񂪂��ꂵ��������
-�E������ԂČ͎}��������
-�E��ӂ�ΐ�̂�ł͂����邾��
-�E���Ȃ��̎����A���Ȃ��̖݂��₫�i�����N�Ɂj
-�@��̂ӂ���邨�����������߂�
-�E�����ɂ������鉹�֐�̂��Â�����
-�E�Ԃ��Ƃ����Đ�ӂ�݂̂ނ�
-�E��܂�ł͎q���e���H��
-�@���̂Ђ���̂��肠����������Ɛ�
-�E�t��������邷����ۂ̐Ԃ��t��
-�E������ׂ��Â��Ȃ��̂��g�ʂ����߂���
-�E���Ƃ��Ƃ��񂲁m���u���v�Ɂu�}�R�v�̒��L�n�Ƃ����肫���肵�Đ�
-�E��̂����邳�̎��˂Ȃ����炾
-�@�@�@��t�M�̊z���Î�����
-�@�Ⴀ����́u������l�v�����邢�Ă��₤��
-�m�������Ŏ������I���n
-
-�@�񌎔����m���u�񌎔����v�ɓ�d�T���n�@�܁A�����c���̊����B
-
-���X���׋C���ŁA�P���o�ğ������o�邯��ǁA�񑩒ʂ�R���֍s���A��Ó��c�̉���ɐZ��A���ꂩ��s�����U������A�{����f��������A�R���ς��肵�āA�[���A���񋏂�K�˂�A���ƂȂ������ł����A�O�ւ���A�R�삳��A�����ĉ�����A�l���͏��Ȃ�����ǔM�S�������A�I��ԂŋA���A�\�񎞋߂����A���ꂩ��΂��������x���������T�߁A���𕦂����݂��Ă��āA�H�ׂāA�����Ă����Q���A�Ɛg�҂͂Ȃ��^�_�Z�������B
-�����͊������A���Ă�Ă������Ă�Ă��~���������A�������G�ߒ��ł́A�����������ł��炤�B
-�^�钆�\�\�񎞍��ɂ����T�܂����x�@�̃T�C�������肾�����A���C�|���v�̎������鉹��������A�Ύ����炤�Ǝv�����i���S�Ƃ��Ă͒��炵���j�A�J��Ă��̂ŋN���Č��錳�C���Ȃ��A���̂܁T����U�����B
-�����͂܂��Ƃɂ悢���m���u�悢���v�ɖT�_�n�ł����B
-�R���ŊO�Y�m���u�O�Y�v�ɖT�_�n���𔃂��A�����g�K���锒�D�V�ւ̓y�Y�Ƃ��āB
-�r������̉���ɂ����ꂽ�A���h�ƐM���Ƃɒl���鏗���Ƃ��āB
-���������݁^���_���������Ƃł��邪�A���������Ƃ��w����؁x�ɂȂ���Ă��܂��A���̒��Ől�Ƌ�Ƃ���ɂȂĂ��m���u���̒��Ől�Ƌ�Ƃ���ɂȂĂ��v�ɖT�_�n�A������������Ƃ��ӂ��Ƃ͋�삷�邱�Ƃł���A��𗣂�Ď��͑��݂��Ȃ��̂ł���B
-�m����������P�������A�܂�Ԃ��ĂQ�������n
-�@�@�@���������L
-���m����d�l�p�A283-3�n���ɂ��O�y�m���u�O�y�v�ɖT�_�n�Ƃ��ӂ₤�Ȃ��̂��Ȃ����Ƃ��Ȃ��A�\�\�O�y�Ƃ��ӂ����O���m���u�O���v�ɖT�_�n�Ƃ��������K�؂����m��Ȃ��B�\�\
-�m����������R�������n
-��A�킪�܂܂ł��邱�ƁA
-��A��������ł��邱�ƁA
-�O�A�₭���ł��邱�ƁA
-�m����������Q�������n
-���Ђ��ւ�΁A�������\���͂ɂ��ēƐg�ł���o�l�ł��邱�ƂɊO�Ȃ�Ȃ��I
-�m�������Ŏ������I���n
-�m����������P�������A�܂�Ԃ��ĂQ�������n
-���ւɂ��ām���u�ւɂ��āv�ɔ��O�p�T�_�n�\�\
-�m����������Q�������n
-�ւ͂��܂��m���u�ւ͂��܂��v�ɖT�_�n�\�\����ɂ͒N������͂Ȃ��B
-�����݁m���u�����݁v�ɖT�_�n�����܂�������m���u����v�ɖT�_�n�����܂��A������m���u������v�ɖT�_�n���āA�����ăR�N�m���u�R�N�v�ɖT�_�n������B
-�q�����m���u�q�����v�ɖT�_�n�Ȃ񂩂͖�����Ȃ��B
-���̐����ւ̔M�Ƃ����炾���ς��m���u���炾���ς��v�ɖT�_�n�ɂȂĂƂ�^�_����S�n�͂܂��ɉH���o��ł���A�����Ȃ񂩐ɂ����Ȃ��A�ق��ɐ����Ȃ񂩂Ȃ�����Ȃ����I
-�m�������Ŏ������I���n
-
-�@�񌎋���m���u�񌎋���v�ɓ�d�T���n�@�܁B
-
-�V�C�͗l���悭�Ȃ����A���炾�̂��������悭�Ȃ�����ǁA�v�З��Ă͎v�ЕԂ��Ȃ���������A���v���Ȃ��ċD�Ԓ���������ցA���R�֍s���B
-����ŉ��Ԃ��ĕ��邭�A�r���x�c�ŐC�ۂ𔃂ӁA�~�肾�����̂Ńo�X�ɏ��B
-���D�N�Ƃ͖w��ǈ�N�Ԃ�̑Βk�B
-��͎G�����A��ɂ�ė�̔@���B
-���D���͖����񂪑���A��ē������Ă����̂ŁA����h���ֈē����Ĕ��߂Ė�ӁA���܂Ȃ����A���������l���̃s�J�^�_����Ȃ��ŐQ��B
-����͂悭�H�ׂ��A�����Ȃ���ݑ܂̑傫���̂ɕ��ꂽ�B�c�c
-�F�͂悢���ȁA���F�͂��Ƃɂ悢���ȁB
-������ɉł̎��𗊂�ŁA���񂴃q���J���ꂽ�B
-�m����������Q�������n
-�E��ӂ�ΐ���ςĂ�鎄�ł�
-�E�ЂƂ�Ŏ�����ӂ��̂Ƃ����₭
-�E�ǓƂł��邱�Ƃ��A������݂��₽��ɂł�
-�E�Ⴊ�ӂ�ӂ�S��������
-�E�΂̔Ԃ�������Ђ����ւ��Η��L
-�E�X���Ē|�̗t�̖���A�݂̏Ă��Ăӂ�����
-�@�@�@������ǉ�
-�E�Ă��Ă��܂ւ΂��ꂾ���̊D�������̋L�^
-�@�@�@�ؘY��񐢂̒a������낱��
-�@�Ⴀ����́A�����₩�Ȍċz
-�m�������Ŏ������I���n
-
-�@�񌎏\���m���u�񌎏\���v�ɓ�d�T���n�@�J�B
-
-�悭�Q���A�J�Ŕ���̒ߌ����͑ʖځB
-�\���̋D�ԂŋA�邱�Ƃɂ���A���D�N�ɐؕ��܂Ŕ����Ė�ċC�̓ł����B
-�\�񎞋A���A�����N����Ă���A���䂳�񂪂�Ă���A�镔���񂪂�Ă���B�c�c
-���l���A�֑�M�A���߂�S�ւ�A�x���B�c�c�c�c
-�Ƃ�^�_�ǂ�^�_�A���߂��܂͂�قǂɁA�Ƃ��^�_�����Ȃ��Ȃďh���ɔ����B
-�m����������Q�������n
-�E���m�̊�����������ŉ_�������Â��
-�E�~����̎R�����܂�ƒ����g���l��
-�@�~������̔g�ɂ��U�悤�ĉ��̑D
-�@�����ɂ��Z�ސl�X�����ĕ��
-�E�Ƃ�����Γc������Ύq���⌢��
-�E�����А�ɂȂ�Ȃ��H��n�т̂��ނ�
-�@�Ђ����Ԃ�b���΁A�ʂ����J�ƂȂ��i���D�V�Ɂj
-�@���������������Ђł̉J���ӂ肩�T��o�X�Œʂ�
-�m�������Ŏ������I���n
-
-�@�񌎏\����m���u�񌎏\����v�ɓ�d�T���n�@���A�I���߁A�����ՁB
-
-���T��悢��������o�߂āA�����������т�H�ׂāA�߂Ă��āA���̐ՕЕt������B
-�ߌ�A�����N�ƈ镔�N�Ƃ������Ďc��c���ł������A�����ꂷ���Ă��ԂȂ������A��ƎU�������ł��܂����A�߂ł����^�_�B
-�������ڂ�́A���ƂȂ��t�߂����B
-
-�@�񌎏\����m���u�񌎏\����v�ɓ�d�T���n�@�܁B
-
-��O�s�o�A�Ɖ�Ǐ��B
-
-�@�񌎏\�O���m���u�񌎏\�O���v�ɓ�d�T���n
-
-���Ȃ����A���Ȃ����B
-
-�@�񌎏\�l���m���u�񌎏\�l���v�ɓ�d�T���n�@�܁B
-
-��������O�s�o�A�I���Ǐ��B
-�m����������Q�������n
-�E�Ԃ�����́A�ʂ������Ȏ��̂ʂ��Ȃ��Ȃ��
-�m�������Ŏ������I���n
-
-�@�񌎏\�ܓ��m���u�񌎏\�ܓ��v�ɓ�d�T���n�@�܁A�΂�^�_�J�B
-
-�g�Ӑ����B
-�l���Ԃ�ɊX�֏o������A�����Ď����Ԃ�ɓ�������B
-
-�@�񌎏\�Z���m���u�񌎏\�Z���v�ɓ�d�T���n�@���J�A�t�����Ă��B�c�c
-
-�߂Â炵�����A��H�������B�c�c
-�[���A�����N�����B�c�c
-�t�Տ��m���u�t�Տ��v�ɖT�_�n��ǂށB�c�c
-�m����������Q�������n
-�E�t�߂������͂₤�����H
-�m�������Ŏ������I���n
-
-�@�񌎏\�����m���u�񌎏\�����v�ɓ�d�T���n�@���A�~�����X�A�t���B
-
-�O���Ԃ�ɊX�֏o�āA����㢎؂��A���ł����܂Ȃ���΂�肫��Ȃ��Ȃ��قǁA�g�S���J��Ď�Ă��̂ł���B
-�A���R�[���̂������ŏ��̊Ԃ͂�����Q���A�钆�Ɋ�o�߂āA���̖{�m���u���̖{�v�ɖT�_�n����N�Ԃ�ɓǂ݂Ȃق��A�悢�{�͂��ǂ�ł������Ǔǂ�ł��������낢�B
-��̉J�A����͓~���������œ����Ă䂭�₤�ȁA�t���������ł���₤�ȉ��𗧂āT�~���B
-�m����������Q�������n
-�E������ق̂��ɓ��ӂ͐���
-�@�@�@�����̊���
-�E���ɂ����Ƃ��Ɏ��ʂ邪��낵���������
-�E�Q��Ƃ��Ă����t�̐��𕠂��ς�
-�E����J�ӂ邻�̉��͏t
-�m�������Ŏ������I���n
-
-�@�񌎏\�����m���u�񌎏\�����v�ɓ�d�T���n�@�t������A�J�B
-
-���ƉJ�A�t���~��₤�ȉJ�A�Ђ�ǂ肪���ꂵ�����ɚe���Ĕ�ԁB
-���邾���̕ĂƔ��Ƃ𐆂��A�Y���Ζ����Ȃ��Ȃ��A�Ȃ��Ȃ�Ƃ��ɂ͉�������������ɂȂ��Ȃ�A�l���Ƃ͂���Ȃ��̂��ȂƎv�ӁB
-�ǂނ��̂����͂���A�Ћ��̍K���m���u�Ћ��̍K���v�ɖT�_�n�͎c�Ă��B
-�m����������Q�������n
-�E�����ɂ��J�ӂ�t�߂��đ�������
-�@�߂���t�߂��ĕS�㒹���e���̂�
-�@��ӓ�̎G���ȂǏĂ��Ĉ�l
-�E�Q���ւ܂ł܂�܂邢�����܂Ƃ���
-�E�������Đ����Ă�铒�����ӂ���
-�m�������Ŏ������I���n
-
-�@�񌎏\����m���u�񌎏\����v�ɓ�d�T���n�@���A���A�t�A�t�B
-
-�₤�₭�ĂƒY�Ɩ��Ƃ��H�ʂ����A������Βʂ���Ƃ��ӂ��A���̓��O�̐����͂��������ł���B
-�����͏\�Z��̌��̂�낵���B
-
-�@�񌎓�\���m���u�񌎓�\���v�ɓ�d�T���n�@���A�����X���t�B
-
-�Ƃ�҂̒��Q�͂�낵���ȁB
-�ߌ�A�����֏o�����āA���t�E�c���З����Ă���B
-�A�r�A�_�w�Z�ɗ�����Ď����N�Ƙb���A�N�������͖��N�Ŗ������B
-���͎����D�������A�َq���D���ɂȂ��i���������D���ɂȂ����A�Ƃ��������悢�����m��Ȃ��j�A�h�����̂ɂ͐h�����̂̂悳���A�Â����̂ɂ͊Â����̂̂悳������A�E�������Ó}�h�}���X�΂ł���B
-��J�͐l�Ԃ𖁂��m���u��J�͐l�Ԃ𖁂��v�ɖT�_�n�A�p�S���ׂ��͈��C�ꂵ�Ȃ����Ƃł���m���u�p�S���ׂ��͈��C�ꂵ�Ȃ����Ƃł���v�ɖT�_�n�B
-���̓��L������������������������^�_�����Ȃ��A�����ɂ����̋ߗ��̐����C�͂�����͂�Ă��Ƃ��ւ邾�炤�B
-�m����������Q�������n
-�E���ǂ��͂Ȃ��悭�ւ̉Ԃ��Ђ炤�Ă�
-�E���񂾂�̎���t�߂����_�̂������Ƃ��Ȃ�
-�E�ւۂƂ蓤����̓J�������Â�
-�E�l�Ԃ��Ȃ�������ɂ͂悢��
-�@��ς�o�Ă�镙�̂Ƃ��̂����ЂŁi����j
-�@�@�@��t�M�z�����Î�����
-�E�u������l�v�����邭��ȏt����Ă����i����j
-�m�������Ŏ������I���n
-
-�@�񌎓�\����m���u�񌎓�\����v�ɓ�d�T���n
-
-�Ȃ��^�_�����A�����߂����A�̂Ă�������������قǂł��邪�A����Ă���T���ŁA�t�A�t�A�t�A�ߌ�͓܂āA��͂ʂ����炵���J�ƂȂ��B
-���������G�����Ă��Ă���蒋�т�H�ׂĂ���ߍ݂��U������A�t�����������ɂ�������̂ŁA�����͕����Ȃ������A���̂Ƃ��Ƌ�Ƃ��E�Ė߂��B
-���ӂ��܂��N�����Ȃ����A�N�����Ȃ��ł�낵������ǂ��A�҂����ȂƂ͎v�����Ƃł���B
-���m����d�l�p�A291-6�n���肪�������Ƃɂ́A���͍����܂��ȑO�̂₤�Ɍ�т����������H�ׂ�₤�ɂȂ��A�������K���m���u�������K���v�ɖT�_�n�����ւĂ����̂ł���A�����邱�Ƃ͖��ӂ��Ƃł��邪�m���u�����邱�Ƃ͖��ӂ��Ƃł��邪�v�ɖT�_�n�A�H�ׂ邱�Ƃ͖��ӂ��Ƃ̐؎��Ȃ���̂ł���m���u�H�ׂ邱�Ƃ͖��ӂ��Ƃ̐؎��Ȃ���̂ł���v�ɖT�_�n�i��ɘV���ɉ��ẮA�H�ׂ邱�Ƃ������邱�Ƃł���j�B
-��͖Ӗڕ���m���u�Ӗڕ���v�ɖT�_�n��ǂ�ŏ���Y�|�p�̟ӑR����ɂ����ꂽ�A�����Đl�̈ꐶ�m���u�l�̈ꐶ�v�ɖT�_�n�Ƃ��ӂ��̂��Ɋ����ꂽ�B
-�m����������Q�������n
-�E�Ȃނ��炽��̂������т̂䂰��
-�E�ЂƂ肮�炵���卪����ڂ����邱�Ƃ�
-�@�����ނ�ɎG���ȂǏĂ��Ă܂�������ӂׂ�
-�@�����������Ă��m���u���v�Ɂu�}�R�v�̒��L�n���Â���тɂ��悤
-�@�Ă��Ă͐H�ׂ�G�����䂽���Ȃ�ӌ��
-�E���̂Ƃ����A���̋傪�o���Ă���������
-�@���̂Ƃ��A���ꂩ���N�����܂����i�Ε��V�Ɂj
-�E�󂪎R�������T���Ȃ���̐����킽��
-�E�Z�݂Ȃ���M�ւȂ�ڂł��炫
-�@�����Ȃ��Ȃ��S���̎コ���ЂȂ���
-�@���̂Ƃ��݂̂ǂ�����ւĂЂƂ�̐H��
-�E�ق�ɂ������ӂ邳�Ƃłӂ��̂Ƃ�
-�@�m�˂̂����������ƕ��̂Ƃ�
-�m�������Ŏ������I���n
-
-�@�񌎓�\����m���u�񌎓�\����v�ɓ�d�T���n�@�J�A�t�����Ƃł����͂��A�悢�����ł����Ȃ����ȁH
-
-�~��A�~��A���̉J���Ղ��āi�S���C�͂��肪�����ȁA�������ȁj�X�ցA�\�\�𔃂ЂɁA�ł����A�\�\�܂����A���̒ʂ�A�ꏡ�؂�o���܂����B
-��t�@���ŁA���Ɓ^�_���Ă��Ƃ���ցA�h�V�����A�v���Ԃ�ɂe���ł��܂��������ށA���ꂩ��܂���ɂ�ē�O�������j���܂͂�A�����Ăh���قɒ����i���v�ɂ��炸�j�A�܂��Ƃɂ悢�Ƃ�^�_�m���u�Ƃ�^�_�v�ɖT�_�n�ł����I�i�ǂ�^�_�m���u�ǂ�^�_�v�ɖT�_�n�ɂ��炸�j
-�m����������Q�������n
-�E�R���琅���t�̉����Ăė��ꂾ���Ă���
-�E�G�����邪�܂܉�Ԃ��͂��߂�
-�m�������Ŏ������I���n
-
-�@�񌎓�\�O���m���u�񌎓�\�O���v�ɓ�d�T���n�@���A�܂����t�ł��ˁB
-
-��������Ȃ钩�A��I�@�ܑ��Z�D�ɂ��݂킽�钩���̂ق됌�@���ŁI
-�G�����Ă��A�����̃f���J�V�[�ɂ�����A�����ɐl�Ԃ̎c�E���l�ւȂ��ł͂���Ȃ����B
-���͐����ӎ����āA������҂��Ĉ���ł͂����Ȃ��B
-���ӂ��߂̎��m���u���ӂ��߂̎��v�ɖT�_�n�͂����Ȃ��A���ӎ��m���u���ӎ��v�ɖT�_�n�łȂ���΂Ȃ�Ȃ��B
-���Ђ������łȂ��āA���ӂقǂɐ��ӎ��m���u���ӂقǂɐ��ӎ��v�ɖT�_�n�łȂ���΂Ȃ�Ȃ��B
-���̂��܂��m���u���̂��܂��v�ɖT�_�n�A���̂��܂��m���u���̂��܂��v�ɖT�_�n�A���ꂪ�l���̂��܂��m���u�l���̂��܂��v�ɖT�_�n�ł�����B
-���Â��ɒY���������āi�Y������̂͂��ꂵ���ȁj���Â��ɒ������T��A�\�\�l�ԂƂ��Đ����Ă��K���m���u�l�ԂƂ��Đ����Ă��K���v�ɖT�_�n�B
-���A�āA���A�����A�o��\�\�悭�����{�ɐ��ꂽ��m���u�悭�����{�ɐ��ꂽ��v�ɖT�_�n�I�@���{�l�Ƃ��Ă̂�낱�сB
-�n���ɗV�ԁm���u�n���ɗV�ԁv�ɖT�_�n�A�������Ӑ������͑����B
-�R���֏o�����āA�A�r�܂������Ƃ��ĕʂꂽ�h�V��҂����A�Ȃ��^�_��ė��Ȃ��A�����N����莆������A�h���������ė��Ȃ����Ƃ��ӁA�[������o������A��̔@�����ސH�ׂ�A�b���΂ӁA�����Ĕ���A�c�c����݂͂�Ȑ��Ђ����āi�ܐl���j���ԂȂ��E������Ƃ��낾���B
-�m����������R�������n
-�@�@����l��
-���̎肪�A����ȂɂȂĂ�����
-��ӂ鏈���̎肪�e�[�u���̂��ւ�
-�炢�Ă͗�����ւ̏�M���Ђ��
-�Ⴀ������Ƃ킪���������
-�m�������Ŏ������I���n
-�m����������P�������A�܂�Ԃ��ĂQ�������n
-�@�@�@���������L
-�����݂����H�ׂ������悭�Ȃ����A�`��肷���͂��Ƃ悭�Ȃ��B
-���{��ǂނ͕���H�ׂ�Ɏ�����B
-���S�̗~����Ƃ���ɏ]���Ă��̋���������\�\�����̋ɒv�B
-�@�߂�����͋y�΂���ɔ@�����\�\�����̖����B
-�@�l����s���ēV����ւ\�\�l�Ԃ̐^���B
-�m�������Ŏ������I���n
-
-�@�񌎓�\�l���m���u�񌎓�\�l���v�ɓ�d�T���n�@���A����T���B
-
-���т���΂�Ă��璩���ւ�B
-�h�V�͂�ς藈�Ă�Ȃ��A�܂��E�����ȁA������t����������A�܂��Ⴂ����B�c�c
-�m����������P�������A�܂�Ԃ��ĂQ�������n
-�@�@�@���������L
-���A�e�ɂ��Ȃ��ő҂m���u�A�e�ɂ��Ȃ��ő҂v�ɖT�_�n�\�\���ꂪ���̐����M���Ƃł����ӂׂ����́i�F�ɗ^�ւ镶��ł���j�B
-�@���ҕs���m���u���ҕs���v�ɖT�_�n�A���ҕs�ǁm���u���ҕs�ǁv�ɖT�_�n�Ƃ��Ă��悩�炤�B
-���o�傷�邱�Ƃ��m���u�o�傷�邱�Ƃ��v�ɖT�_�n�A���ɉ��Ắm���u���ɉ��Ắv�ɖT�_�n�A�������邱�Ƃ��m���u�������邱�Ƃ��v�ɖT�_�n�B
-�@�o�傷��S���A���̐����Ă���ł���B
-���V�ԁm���u�V�ԁv�ɖT�_�n�\�\���ɗV�ԁA�|�ɗV�ԁA��ɗV�ԁA���ɗV�ԁA�\�\���S�ɂ��ĘV�S�B
-���l�A���A�݁A�сA���A���A���A�ԁB
-�@�l����Ȃ��ƁA���̂Ȃ��l�ԁA�݂Ɠ��{�l�B
-�m�������Ŏ������I���n
-
-�@�񌎓�\�ܓ��m���u�񌎓�\�ܓ��v�ɓ�d�T���n�@���B
-
-�c�c�݂���Ă��܂��A���ȓ������Ȃ����Ă��܂��A���Ă��Ȃ��������B�c�c
-
-�@�񌎓��Z���m���u�񌎓��Z���v�ɓ�d�T���n�@�J�B
-
-�g�S��J���ւ������B
-
-�@�񌎓�\�����m���u�񌎓�\�����v�ɓ�d�T���n�@�܁A���B
-
-�I���I��A�ウ�ʂ����B
-
-�@�񌎓�\�����m���u�񌎓�\�����v�ɓ�d�T���n�@���ꂽ��܂���B
-
-���Ƃ��Ă��ɂ��ւȂ��āA�X�ɏo�ďh���ɔ����A�����Ă�ƈ��Â������A�ߍݎU���B
-
-�@�O������m���u�O������v�ɓ�d�T���n�@�t���a�A���������o�Ĕ�ԁB
-
-�U���A�����Ă��Ɖ��ƂȂ��Ԃ߂���B
-�m����������Q�������n
-�E��Ώ��΂���^�_�Ƃ��ďt
-�@��I�����Ƃ�t�ł���܂�
-�E�t��͋D�Ԃ̉������鉹��
-�E�����X�ւ����邱��̗z����Ԃ��؁X
-�E�����قǂ悭�t�߂����M�����M��
-�E�t���̃��[���[�������肫����
-�E����c����ĉ�Ԃ��؂ł��T�ւ�����
-�m�������Ŏ������I���n
-
-�@�O������m���u�O������v�ɓ�d�T���n�@���B
-
-����͘C�|���ɔ��߂Ė���A�Ȃ��₩�ȉƒ�̋�C������^�_���Ă�鎄����͂炩���ށA���肪�����A�܂��Ƃɂ��肪�����B
-
-�@�O���O���m���u�O���O���v�ɓ�d�T���n�@�l���@�ܓ��@�Z��
-
-�Q�Ă�A�Q�Ă����O�Ɏd�����Ȃ��B
-
-�@�O�������m���u�O�������v�ɓ�d�T���n�@���B
-
-��ƋN�������āA��W�����B
-�锼��菓��҂Ƃ��Ăj�N�A�h�N�P���B
-
-�@�O�������m���u�O�������v�ɓ�d�T���n
-
-�t���������Ƃ����݁^���_������B
-�g�Ӑ����B
-����쉏����k���ւ����A������C���]���̈�@�ł���B
-�݂邪�܂܂ɍ݂炵�߁m���u�݂邪�܂܂ɍ݂炵�߁v�ɖT�_�n�A���邪�܂܂ɐ��炵�߂�m���u���邪�܂܂ɐ��炵�߂�v�ɖT�_�n�A���ꂪ���̐S���łȂ���΂Ȃ�Ȃ��B
-�m����������Q�������n
-�E�R�Ύ����t�炵�����ނ�Ђ낪��
-�E�ʂ����Ă��邯�Βւۂ��ۂ�
-�E���֑����A���ƂȂ��t�ɂȂ�
-�m�������Ŏ������I���n
-
-�@�O������m���u�O������v�ɓ�d�T���n�@�t���B
-
-�g�S�����B
-�R���̋��֍s���A�����Â��Ђɕ����čs���A�t�i�F�A�����Ď��͒��T�ł����A���K�˂Ă����񋏂͂��Â��ł����T���ł���A���c��������̂������Ȃɂނ��ڂꂽ�g�S���ق����Ă��ꂽ�A���������[�т������U���āA�Ⴂ�l�X�Ƙb���āA�I��ԂŖ߂��A�܂��Ƃɂ悢������ł����B
-
-�@�O���\���m���u�O���\���v�ɓ�d�T���n�@���I����O�\�N�L�O���B
-
-������t�A���䂤�^�_�Ƃ��ĕ��������B
-�z�����ň�{�A�����͂��܂��A�����ׂĂ����܂��A���͎��Ƃ��Ăɂ�������ǁB
-�^�������A�����ł���A���X���o�Ă��ĂЂ�^�_�B
-�����낽�̂������ł���B
-�m����������R�������n
-���̊ۂ��傫������t������
-�@�@�i����j����F�ɑ���
-�G��Ă߂�����Ɏ��������
-�m�������Ŏ������I���n
-
-�@�O���\����m���u�O���\����v�ɓ�d�T���n�@���A�J�A���A�����Ă܂����B
-
-�����A�t�������Ӌ�̂���ׂ��A�t���B
-���������ӁA���d�x���ė���𖡂ӁB
-���������A�Ƃ�^�_�A���ꂩ��A�ǂ�^�_�I
-�m����������Q�������n
-�E��炰�Ύ}���ӂ����ł����₤��
-�E�t�͂����͂₭�炫�����Ă����ނ炳��
-�@�g���c�N�̂����т����t�������߂���
-�m�������Ŏ������I���n
-
-�@�O���\����m���u�O���\����v�ɓ�d�T���n
-
-���X���X�Ƃ��Ē����ւ�B
-�g���r���Ȃ��Đ��ӁA�g�S���R�Ƃ��Ă���������̂Ȃ��B
-�m����������Q�������n
-�E���͈̌��̂��������Ƃ����Ȃ�
-�@����ĕ��ӂ����ɉ΂��͂Ȃ�
-�@�܂����Z�߂Ώ����̂��Ă�����
-�m�������Ŏ������I���n
-
-�@�O���\�O���m���u�O���\�O���v�ɓ�d�T���n�@���B
-
-���������߂��o�Ă��₪���B
-�����N���痈�M�A���̗F��͎��������������B
-�m����������Q�������n
-�E�R���琅������Ă��ďt�̉�
-�E�Z�݂Ȃ�ĉƂ��߂���ĂȂÂȍ炭
-�m�������Ŏ������I���n
-
-�@�O���\�l���m���u�O���\�l���v�ɓ�d�T���n�@���A���A�X�B
-
-�����N�Ɗ֖���X�V���L�Ҕg����N�Ɠ��s���ė����A����ŁA�o�����Ă܂����񂾁A�����Đ����āA���Ȏ����������B
-
-�@�O���\�ܓ��m���u�O���\�ܓ��v�ɓ�d�T���n
-
-���ꂵ���M�򂪖��B
-�㓡���񂪋A���̓r������Ă��ꂽ�A�����N�̉�����̐S�Â����\�\�\�������āB
-�m����������Q�������n
-�E�݂�Ȃ�����ɗN���Ă��ӂ�铒�̂����i��l���j
-�E�����t�߂��ČY�����̕ǂ̍���
-�m�������Ŏ������I���n
-
-�@�\�Z���@�\�����@�\����
-
-���Ȃ����A���ꂵ�����ł����Ƃ����B
-
-�@�O���\����m���u�O���\����v�ɓ�d�T���n�@�܁B
-
-�}�Ɏv�З��č���̖���K�˂�A���y�Y�͎����N�������n���A�����̂₤�ɐ��ς�Ă�����ׂ�A�����񂪖فX�Ƃ��ĘJ�����Ă�邱�Ƃ͑����A�Ȃ݂Ēp���Ȃ��ł͂���Ȃ����B
-�O�o���̎��󂪂ł��Ȃ��̂ŁA�Ô�z�𒅂čs���̂ŁA���񂴎���ꂽ�A����ޏ����h���炤���A�����鎄���h�����A�c�c�����̂悳�A�����ē����̂킸��͂����I
-�m����������R�������n
-���Ƃ������Ȃ����������T�炮�������i�G�j
-�m�������Ŏ������I���n
-
-�@�O����\���m���u�O����\���v�ɓ�d�T���n
-
-��̖�������Ȃ������ɋN���ĎU���A���g��͂����Ђł̂��Â����������ւ�����e���Ă��B
-�C�`�Ɩ��Â���ꂽ���������A�ق񂽂��ɉ����B
-�ԂƔ~���Ƃ�Ⴄ�ċA���B
-�e�Ƃ̔��ؘ@�����������A����ɂ������Ђł�����B
-
-�@�O����\����m���u�O����\����v�ɓ�d�T���n�@�܁A�Ȃ��^�_�����A�J�B
-
-���ފ݂̒����B
-�A�e�ɂ��Ȃ��ő҂����܂ւĂ���R�̘A���͗��Ă���Ȃ����A�c�c�Q����O�Ȃ����B
-�m����������R�������n
-�@�@���D�N��
-���܂���Ă�ӂׂƂȂ�Ζ؋���������
-�@�@����ǉ����
-�q�������ւΕ�������ւ΂����炿��
-�m�������Ŏ������I���n
-
-�@�O����\����m���u�O����\����v�ɓ�d�T���n�@���B
-
-�����𐶎�����m���u�����𐶎�����v�ɖT�_�n�B
-
-�@�O����\�O���m���u�O����\�O���v�ɓ�d�T���n�@��ł��ӂ肾�������ȓ܂肾�����A�ߌ�͂ʂ����J�ƂȂ��B
-
-����肢��^�_�A���肪�����A���������Ȃ��B
-�X�֏o�����āA���ӂׂ����̂𕥂ւ邾�����ӁA�s����̔@���́A���Ė�ӂ��Ƃ͗\�����Ă�Ȃ����Ƃ��Ď������ޏ������k�����I
-�G���ň�t�A�ق�^�_�����āA�Ԃ�^�_���������C���������ւĐQ���B�c�c
-�G�؎G���m���u�G�؎G���v�ɖT�_�n�A���̍K���ɂЂ����B
-�m����������Q�������n
-�E�ӂ邳�Ƃ͂����Ђł͂��ڂ�؂̉Ԃ�
-�@�Ȃ�ƒ����D�Ԃ����c�̂Ȃ���
-�E�ڂ����炢�Ăӂ邳�Ƃ̂������݂�
-�E���ӂ͂��ꂾ���񂢂��Ƃ��ӎR���̂���ق�
-�E���ɉ_�������Ă���S���̂���
-�@�@�@���̉Ƃ�K�˂ē��
-�E����͂���Γ��ӂ͂��̒�����
-�@������ɔ����ӂ錢����Ăӂ邳��
-�m�������Ŏ������I���n
-
-�@�O����\�l���m���u�O����\�l���v�ɓ�d�T���n�@�J�A����^�_����Ă����B
-
-���͗F��Ő����Ă��A����F��Ő�������Ă��B
-���͎����j������A�j�������ɂ͂���Ȃ��B
-���������A��]�̒s����ԂŁI�@�����Ď������т��~�����Ƃ��ӁB
-�����N�𑗂ĕʂ�Ă���A��l�ň��ށA�ق�^�_�Ƃ�^�_���ӁA�����Ă����̏h�ɔ����A�����薰�ꂽ�B
-�m����������Q�������n
-�E���Ȃ��ƃt���C�a���Ƃ����Ă킽�����Ɓi���鏗�F�Ɂj
-�E�����Â�̂ڂ�_���̐�
-�@�������A�����͂₭�Ђ撹��
-�E���ւ΂��݂�����؂̉葐�̉�
-�m�������Ŏ������I���n
-
-�@�O����\�ܓ��m���u�O����\�ܓ��v�ɓ�d�T���n�@���{���B
-
-���{�̏t���m���u���{�̏t���v�ɖT�_�n�A���{�l�̊��삾�B
-�ߋ������ĉߋ��𑒂炵�߂�A����͍���A�����͖����A�����͍����̐������ċz����m���u�����̐������ċz����v�ɖT�_�n�B
-�����̂₤�Ɂm���u�����̂₤�Ɂv�ɖT�_�n�A���T�����̂₤�ɂ����ցA�����Ă��ǂ�B
-�����a���o�ė��ĕ����Ă��B
-���肪�����莆�A�ق񂽂��ɂ��肪�����莆�B
-�X������A��������A�������B�c�c
-�ɓ����񂪂�Ă���A���X�N�ɂł��킷�A�ǂ�^�_�ɂȂċA���A������ɐQ��B
-�m����������R�������n
-�@�@�q��
-������{�̎��������݂܂�
-�m�������Ŏ������I���n
-
-�@�O����\�Z���m���u�O����\�Z���v�ɓ�d�T���n�@���B
-
-�����̂�낵���A�ɓ��N��������B
-�\����߁A���Ȑ��Z�ɂ������������I
-
-�@�O����\�����m���u�O����\�����v�ɓ�d�T���n�@�܁B
-
-�T�N�����ڂ^�_�炫�������B
-�����܂��������A�݂��߂Ȏ��������炯�������B
-������������M�����邱�Ƃ��ł��Ȃ��Ƃ͉��Ƃ��ӏ�Ȃ����炤�B
-�Ō�̎����̎p���܂��^�_�ƌ����B
-�m����������Q�������n
-�E�l�ւ邱�Ƃ����鑋���������ĂȂ�����
-�E���������������Ȃ���ĉԂ͂���
-�E����炩�ɂ��ċ��̒��̊�
-�E�J�́A���́A����ӂ��}�̂₷������
-�m�������Ŏ������I���n
-
-�@�O����\�����m���u�O����\�����v�ɓ�d�T���n�@�Ԏ����J�����B
-
-����^�_�Ƃ��Ă˂ނ��B
-
-�@�O����\����m���u�O����\����v�ɓ�d�T���n�@���B
-
-�O��ےf�B
-�p�m�炸�̎������p�Â������B
-�Ε���W�A���̖؁m���u���̖؁v�ɖT�_�n�͑����B
-���㖼���A�͎�̍����͗L��B
-�m����������Q�������n
-�@�@�@�i������j
-�E�����⡂��@��
-�@�@�@���������Ƃɂ�
-�@�₽��ɂ���ׂ�΃V�N�������̐Ԃ��̔�����
-�m�������Ŏ������I���n
-
-�@�O���O�\���m���u�O���O�\���v�ɓ�d�T���n�@����Ă���炩�B
-
-�䂤����Ƃ��āA��������Ƃ��āA���͂ڂ�����Ƃ��āA���ׂɂ��Ė��]�m���u���ׂɂ��Ė��]�v�ɖT�_�n�A����^�_�̈Ӗ��ŁB
-�͂�^���_�M�B���炻�Ε������A�������ܖ������B
-�s�c�ҁm���u�s�c�ҁv�ɖT�_�n�Ƃ��Ă���^���_������閲�������A����͂܂��������g�̏X�Ԃ����A�����g�����m��Ȃ��A�����g�ɂ�������Ȃ����̐��́m���u���̐��́v�ɖT�_�n�����B
-�m����������Q�������n
-�E������Ԃ�����̉��ˈ�{
-�E�d���ɒ����Ȃ��ł�����t
-�E�킩�ꂽ���Ȃ��l�I�����C�g�̖��ł�
-�m�������Ŏ������I���n
-
-�@�O���O�\����m���u�O���O�\����v�ɓ�d�T���n�@�܁A�₪�Đ��B
-
-�g�S�����m���u�g�S�����v�ɖT�_�n�B�\�\
-�]�g��H�A�����肵������ł������߁B
-��]��\�\
-�m����������Q�������n
-�t���H�J�@�@�܏\�l�N
-�@�@�@�@�@�@�@�@�@�@�@�@��
-��N�ꕚ�@�@���R����
-�m�������Ŏ������I���n
-�Ƃ��^�_�O�邵�Ă��܂��B
-�N���Ƃ�قǁA�����Ă�邱�Ƃ̂ނ�������������A�{���̖ʖڂɓO�����Ȃ�����ł���B
-�e�����F�Ɂ\�\
-�m����������Q�������n
-�c�c���͂Ƃ��������ɂ����͂肷���č���܂��A�����ăN���^�_������A�P�`�^�_�����肵�Ă�܂��A���̂₤�Ȃ��̂͐����Ă�邩����A���̋�Y����E������Ȃ��ł������A�Ƃɂ����S�S�S�g�����ɂԂ����܂Ȃ���΂Ȃ�܂���B�c�c
-�E�Ȃ�Ƃ�������̂ւ���������
-�E���邾���̎������ו��𒮂�
-�E�����邱�Ƃ΂���Ђ�ǂ�͂Ȃ��Ă���Ă�
-�m����������P�������n
-�@�@�@�\�\�i���݂̂��j�\�\
-���݂̂����䂭�\�\���݂̂����䂭���ق��Ȃ����ł���B
-����͋ꂵ���A�����Ċy�������ł���A�͂邩�ȁA�����Ă������ȁA�ׂ����������ł���B
-�����ł���A����͐������ł���A�₽�����ł͂Ȃ��B
-���͂����ӁA���������Ӂm���u���������Ӂv�ɖT�_�n�A���R�������ӁA�l�Ԃ������ӁB
-�o��͔ߖł͂Ȃ��A�ނ��{���ł͂Ȃ��A�����ł��Ȃ��A���L�ł��Ă͂Ȃ�Ȃ��A�ނ���[�ċz�m���u�[�ċz�v�ɖT�_�n�ł���B
-���͂����Â��A����ׂł���A�����тł��Ă����߂��ł��Ă͂����Ȃ��A���Ƃ��ė܂��łĂ������Ȃ���Ă��B
-���݂��߂Ė��ӁA�����͂�Ȃ��V�ԁB
-�䂽���ɁA�̂т₩�ɁA���ȂقɁB
-���т�����ǂ����������ɁB�\�\�i���ɑ�ւāj
-�m�������Ŏ������I���n
-
-�@�l������m���u�l������v�ɓ�d�T���n�@���AApril fool �Ƃ��͂����B
-
-�l���Ƃ��ӂ��̂́A���ʂ���ς�ƁAApril fool �݂����Ȃ��Ƃ������炤�B
-�F��ɊÂ���ȁm���u�F��ɊÂ���ȁv�ɖT�_�n�A�������Â₩���ȁm���u�������Â₩���ȁv�ɖT�_�n�B
-�V�n���N�A�g�S�����B
-�ߌ�A�ߍx���U������A�o������Ƃ����̋C���Ȃ��X�e�c�L�A����X�e�c�L�Ƃ��Ă͂����Ȃ��A��������̂ł���A�R���΂��V�����邩�ȂƎv�ւΔ���Ε����B
-�܂����͊����̂ŁA�l���Ԃ΂���R�������Ԃ���āA�r���A��t�Ђ����Ė߂��B
-���X���̏����؂�����|����Ă��A�����̎ז��ɂȂ邩�炾�炤����ǁA�����܂����������B
-���͂ǂ����Ă���߂��Ȃ�������ށA���߂Έ��݂�����A�����Ď𗐁m���u�𗐁v�ɖT�_�n�ɂȂ�A���炵�Ȃ��Ȃ�A���̃}�j�����A���܂Ȃ���΂Ȃ�Ȃ��Ȃǂƍl�ւĂ�邤���ɁA������Ƃ˂ނ��B
-
-�@�l������m���u�l������v�ɓ�d�T���n�@���A�t�����䂤�^�_�B
-
-���肪�������ȁA���ꂵ�����ȁA�������ЁA������������B
-�P�ƁX�X�A��ň�t�B
-��R�N�ɐM�B�̂��Ε��ƕl���̔[����������������A�������ӓ������͎���l�Ŏ����ׂ����̂ł͂Ȃ��A�݂�Ȃ�����ɂ��̗F��𖡂ӂׂ��ł���A��R�N�͂���𖡂��Ă����l�A���ӂɒl����l���B
-�������킴�Ƃ炵�����Ɓm���u�킴�Ƃ炵�����Ɓv�ɖT�_�n�͂����Ȃ��A�������͓����I�����m���u�����I�����v�ɖT�_�n���̂āT���R�I���Ám���u���R�I���Áv�ɖT�_�n�������Ă�Ȃ���΂����Ȃ��A�������A�c�c
-���̂₤�Ɂm���u���̂₤�Ɂv�ɖT�_�n�A���̗����₤�Ɂm���u���̗����₤�Ɂv�ɖT�_�n�B
-���ۂ�Ɖߋ����ʂ����m���u���ۂ�Ɖߋ����ʂ����v�ɖT�_�n�A������Y�ꂽ�m���u������Y�ꂽ�v�ɖT�_�n�A�����̂����m���u�����̂����v�ɖT�_�n�A���̐g�̂��̂܂܋Ɋy��y���m���u���̐g�̂��̂܂܋Ɋy��y���v�ɖT�_�n�B
-�i���J���^���m�E�g�������B�c�c
-�m����������Q�������n
-�E�M�����ւ������̐Ԃ�
-�E�����n�R�łӂ��̂Ƃ��₽��ɏo�Ă���
-�@���z���ė��Ėؘ@�炢��
-�E��炮�}�̉�Ԃ����Ƃ���
-�E�����̎R������U��΂���
-�@�@�@�o�����m�̉�
-�E���̊ۂ��ւ�ۂ�ƍ炢�Ă�����
-�@�@�@�����؂�
-�@����|����ď����؂͎q�����V�΂���
-�@�@�@����
-�@�Ԃ�����́A�ʂ������Ȏ��̂ʂ��Ȃ��Ȃ��
-�m�������Ŏ������I���n
-
-�@�l���O���m���u�l���O���v�ɓ�d�T���n�@�Ԍ����a�B
-
-�������ƂĂ��悭�e���A�l�\�����Ƃ��ɕ����q�Śe���Ă��A���̉S���I
-�Ε��V�֋�s�����͂��Ė�ӁB�\�\
-�m����������Q�������n
-�c�c���͍����ɐ؂ɐ��̂������Ȃ��g�̂�邹�Ȃ��������܂��A����̓I�C�{���Z���`�ɉ߂��Ȃ��Ƃ΂��肢�Ă��܂ւȂ����̂�����܂��B�c�c
-�m�������Ŏ������I���n
-�\�񎞂̃T�C�������ĊԂ��Ȃ������N�����A�܂È�t�A�ق�^�_�Ƃ��ĎR������A�����Č����։����A���������Ԍ��̎������J����Ă��A�����������ɂ���ĉԌ�������A�r�[���O�{�A����{�A������A�\�\����ŏ\�������A���ƂȂ����ʂ��A���͂����A�����āA�����Ђ�H�ׂĐQ���B
-�����̎����N�͂悩���A�ނɂ���ׂĎ��͎��̐S��p�����A�ǂ������ɔs����A���ӂƂ��Ƃ��Ă���Ȃ��Ȃ�A�����āA�c�c�����͂�邭�Ȃ������B
-�l���̓��Y�~�J���ɁA����͗���n�肾�B
-�Ԍ����������ׂĂ�邤���ɁA�ق��Ǝ����ʂ����A�ʂ������Ȏ��ł���A�ʂ���΂悢�ƍl�ւĂ���ł����A���������ς肵���B
-�ʂ������łʂ��Ȃ��������ʂ����A���ꂾ���ł���E�̋C���m���u��E�̋C���v�ɖT�_�n�𖡂ӂ��Ƃ��o�����B
-���Ȍ����m���u���Ȍ����v�ɖT�_�n�A���𔭌�����΂���ł��邪�A���̋�򂪋ߗ���T���݁m���u���݁v�ɖT�_�n�ɂȂ����Ƃ͂��ꂵ���Ǝv�ӁB
-�m����������P�������A�܂�Ԃ��ĂQ�������n
-�@�@�@���������L
-�����͂����ӁA���R��ʂ��Ď����m���u���R��ʂ��Ď����v�ɖT�_�n�����ӁB
-�����̋�͎��̔��΁m���u���΁v�ɖT�_�n�ł���A���Ƃ��ċ�΂߂������̂��Ȃ��ł�����܂����B
-�����肩�����Ă��ӁA���̍s�����́w����؁x�̊O�ɂ͂Ȃ��̂ł���B
-���o�含���ꌾ�ł����΁A���ƒ͂�łςƕ��m���u���ƒ͂�łςƕ��v�ɖT�_�n�A�Ƃ��ӂƂ���ɂ���Ǝv�ӁB
-�����̌X�\�m���u�\�v�Ɂu�}�R�v�̒��L�n�͘V���ɓ���ɂ������āA�F�̐��E�m���u�F�̐��E�v�ɖT�_�n���特�̐��E�m���u���̐��E�v�ɖT�_�n�\�\���̐��E�m���u���̐��E�v�ɖT�_�n�ւ͂��Ă䂭�B
-���o��̃��Y���́A�͂˂����Ă��U��Ӄ��Y���m���u�͂˂����Ă��U��Ӄ��Y���v�ɖT�_�n�ł���Ǝv�ӁB
-�@�i��t�́A�Z�̂��Ȃ���ĂƂق郊�Y���m���u�Z�̂��Ȃ���ĂƂق郊�Y���v�ɖT�_�n�A�o������Ƃɂ��ւ郊�Y���m���u���Ƃɂ��ւ郊�Y���v�ɖT�_�n�Ɛ����Ă��B�j
-�m�������Ŏ������I���n
-
-�@�l���l���m���u�l���l���v�ɓ�d�T���n�@�J�A�Ԃ��U�ėt���ɂ�J���B
-
-�g�Ӑ����A���Â��ɓǏ��B
-�J�̉��͎��̐_�o����͂炰�₷�߂Ă����A�J�𒮂��Ă��ƁA��������݂肵�����̂��g�ʂ����߂��ĂЂ낪��B�c�c
-���������ӓ����m���u���������ӓ����v�ɖT�_�n�A��J�Ƌx���Ƃ����߂�����B
-�[���A�ǂĂ�ŃS���C���͂��āA�܂�ŎR���̂₤�Ȃ��ł����ŉw�̃|�X�g�܂ŏo�������B
-���O���A�юO�t�A�������������U���ĐQ��B
-�m����������P�������A�܂�Ԃ��ĂQ�������n
-�@�@�@���������L
-������̔o��͐�������m���u��������v�ɖT�_�n�A�Љ��m���u�Љ��v�ɖT�_�n��\�����Ȃ���΂Ȃ�Ȃ����Ƃ͖ܘ_�����A����͈ӎ��I�m���u�ӎ��I�v�ɖT�_�n�ɍ�דI�m���u��דI�v�ɖT�_�n�ɐ����������ׂ����̂ł͂Ȃ��A�o�傪�P�ɐ����̒f�ГI�L�^�m���u�����̒f�ГI�L�^�v�ɖT�_�n�ɂȂ���A����Ȏ����̕񍐁m���u�����̕񍐁v�ɖT�_�n�ɉ߂��Ȃ����肷�錹���͂����ɂ���A�v�z���v�z�̂܂܂ɁA�ϔO���ϔO�Ƃ��Č��͂��Ȃ�΁A����͐����m���u�����v�ɖT�_�n�ł��菖�q�ł���A�o��͌��ہ\�\���R���ۂł��l�����ۂł��\�\��ʂ��Ďv�z�Ȃ�ϔO�Ȃ��`���ʂ��Ȃ���΂Ȃ�Ȃ��̂ł���A���R�l���̌��ۂ𙋓ߓI�ɐێ悵���������o��I�����Ƃ��ĕ\������Ȃ���΂Ȃ�Ȃ��̂ł���A���̋��n������āA���͎��R��ʂ��Ď��������Ӂm���u���͎��R��ʂ��Ď��������Ӂv�ɖT�_�n�A�Ƃ��ӂ̂ł���B
-�����o�m���u���o�v�ɖT�_�n�Ȃ����Č|�p�\�\�����Ƃ��o��͐���Ȃ��B
-���o�l�����w�I�m���u���w�I�v�ɖT�_�n�ɂȂ����������I�m���u�����I�v�ɖT�_�n�ɂȂ����ł���B
-�m�������Ŏ������I���n
-
-�@�l���ܓ��m���u�l���ܓ��v�ɓ�d�T���n�@���A���߂Ďւ�����B
-
-���肪��������肢��^�_�A���肪�����B
-���т�������ǂ����������A�v���Ԃ�̓����B
-�ߌ�A�������A�n����������A�U���Čh�V���A�񏡂قǈ���łق�^�_�Ƃ�^�_�A���ꂩ��o�����Ăڂ�^�_�ǂ�^�_�A�킩��^�_�ɂȂāA�������͂h���ق����T���������Ĕ����A�c�c����͂܂��ƂɁA�̂ށA�����ӁA���ǂ�A�߂ł����^�_�����B
-�m����������P�������A�܂�Ԃ��ĂQ�������n
-�@�@�@���������L
-�����o�Ȃ����Č|�p�͐���Ȃ��A�����Ɋ��o�����ł͌|�p�͐���Ȃ��A���o�ɉ��݂��� something. ���ꂪ�|�p�̂ق񂽂��̕�فm���u�ق񂽂��̕�فv�ɖT�_�n�m���u�|�p�̂ق񂽂��̕�فm���u�ق񂽂��̕�فv�ɖT�_�n�v�͒�{�ł́u�|�p�̂ق񂽂��̕�m���u�̂ق񂽂��̕�v�ɖT�_�n�فv�n�ł���B
-�@�|�p�\�\�o��|�p�͍�҂��̐l�A�l�Ԃ��̂��́m���u�l�Ԃ��̂��́v�ɖT�_�n�ł���A����˂΂Ȃ�Ȃ��B
-���l���̂��߂̌|�p�\�\�|�p�̂��߂̌|�p�B
-�@�o��̂��߂̔o�吧��m���u�o��̂��߂̔o�吧��v�ɖT�_�n�i�����̂��߂̕����C�s�̂₤�Ɂj�B
-�@�S���\�\���U�\�\�l�i�I�\���B
-�@�|�\�\���\�\�����B
-�@�@�X�Ƃ��ėV�ԁm���u�@�X�Ƃ��ėV�ԁv�ɖT�_�n�B
-�����͎G����������A�G���������ӁB
-�@��l��W�̑薼�͎G�����i�m���u�G�����i�v�ɔ��O�p�T�_�n�Ƃ������B
-�@�G�����i�͎G�����i�ł���B���͎G���̂₤�Ȑl�ԁm���u�G���̂₤�Ȑl�ԁv�ɖT�_�n�ł���B
-�@�G�������ɁA�����G���ɁA���ƎG���Ƃ͈�@�ł���B
-�m�������Ŏ������I���n
-
-�@�l���Z���m���u�l���Z���v�ɓ�d�T���n�@�܁B
-
-�Â������ɒ����ւ�A�����Ē����B
-��������ł����i���ւ�݂Ēp�Â������Ȃ����Ƃ��Ȃ�����ǁA�����Ē��ՁI�j�B
-�g�Ӑ����B
-�������A�������B
-��������̂���������̂���̕��������炤�B
-�Y���Ƃ��ӂ��Ƃ́m���u�Y���Ƃ��ӂ��Ƃ́v�ɖT�_�n�A�������ɕ������̈���i�K���m���u�������ɕ������̈���i�K���v�ɖT�_�n�B
-�������t�X�ΌN�����Ă������ł���A�����Ȃ�����ق���񑐂�E��Ő�Ђ����Ă����A�҂����˂āA�₤�₭���邱��ɂȂė��Ă��ꂽ�A���y�Y�͂��邩���Ƃ�����݈��A��������D���̂��邩���ܖ�����A���̋M���I�ȍ��C�����Ƃ����ւȂ�����Ȃ��̂����U��͂���B
-�������܂Řb���U����A�q�̂₤�ȔނƐe�̂₤�Ȏ��A�����Ĕo��̓���A�ꂾ�Ă��T�ޓ�l�̊Ԃɂ́A���U�����T�����������݂�����΂���ł���B
-�m����������P�������A�܂�Ԃ��ĂQ�������n
-�@�@�@���������L
-���l���̉����m���u�l���̉����v�ɖT�_�n�I
-�����|�̂Ȃ��Ȃ������m���u���|�̂Ȃ��Ȃ������v�ɖT�_�n�͑��z���������i�̂₤�Ȃ��̂��炤�B
-���ꂵ�����琶���Ă��̂����m��Ȃ��A�Ȃ�݂����邩�琶�b���������̂����m��Ȃ��B
-�����̂��͂������m���u���̂��͂������v�ɖT�_�n�A���̂������������͂Ȃ���΂Ȃ�Ȃ��B
-���G���I�@���͎G���������ӁA�G���̂Ȃ��ɂ��������̐����A���̂Ȃ��ɂ������G���̐����������ӂ̂ł���B
-�@�G�����G���Ƃ��Ă����Ӂm���u�G�����G���Ƃ��Ă����Ӂv�ɖT�_�n�A����ł悢�̂ł���A���ꂾ���ő���Ă��̂ł���B
-�@�G���̈Ӌ`�Ƃ����l�Ƃ��A�������ӂ��̂��A���̋��ʂ��Ė�������Ƃ��Ȃ��Ƃ͂��Ȃ��̎��R�ł���A����˂΂Ȃ�Ȃ��B
-�@���͂��U�G���������ӂ̂ł���B
-�m�������Ŏ������I���n
-
-�@�l�������m���u�l�������v�ɓ�d�T���n�@�ƂĂ��悢���V�C�A�����������X�X�B
-
-��������ł����ċA���t�X�ΌN��B
-�򂪁A�l�\�����ق��炩�ɚe���B
-�t�X�ΌN�͔����̋D�ԂŋA�Ă����A�ʂ�Ĉ�l�ƂȂ�ƂЂƂ��ق����犦���A�R���낪�o�Ă��Ă��킮�̂����ƂȂ����炳�т����B
-�����͍��N�̉Ԍ��̏��������̓��j���炤�B
-���ɂ��Ă����Ƃ��Ă���Ȃ������B
-�ǂ��Ƃ��ӂ��Ă��Ȃ��������B
-��l�Ƃ��ɂȂ������B
-������A������A���A���A�����A�����B
-�m����������Q�������n
-�E���ĂȂ����邭�ĂӂĂӂ��ƂɂȂ肳���ɂȂ�
-�E��Ԃ����̂��̂Ȃ��ɂ悱�����m���u���v�Ɂu�}�R�v�̒��L�n��
-�E�R�̂ЂȂ��́A�܂�����Ԃ��Ă��
-�E�����̕��Ă䂭�R�����炿��
-�E�������O�{�ł����ŗx�Ă��
-�@�����������낢�����t�����䂤���䂤
-�@�����炿����Ă����ւ�Ȃ��A����
-�@�Ԍ��ׂ񂽂��ق�Ǝ����ʂ���
-�m�������Ŏ������I���n
-
-�@�l�������m���u�l�������v�ɓ�d�T���n�@�J�B
-
-�Ԃ܂���s�Ӓn���͂���ɂ��̉J�ō����炤�A���͏h���ł����J�𖡂��B
-�ǂ������炾�̂�������������܂ւłȂ��A�ނ�񂠂��܂̂��������悭�Ȃ����B
-�[������A�����N�ɂ�΂�Ċw�Z�̏h�����֏o������B
-�悢������΂�āA���̂܁T���߂Ė���B
-�����̂Ȃ����m���u�����̂Ȃ����v�ɖT�_�n�A�������ӎ��łȂ���΂Ȃ�Ȃ��B
-
-�@�l������m���u�l������v�ɓ�d�T���n�@�܁A�J�A�����A���B
-
-�g�Ӑ����A�̂āT���̂āT���̂Ă���Ȃ����̂��A���ƂȂ����܂Ă���B�c�c
-�I���Ǐ��B
-��ƈ�֓��߁m���u��ƈ�֓��߁v�ɖT�_�n�A�ނ�������ւ����m���u�ނ�������ւ����v�ɖT�_�n�A�܂��Ƃɔ��_�I�X�̋��n�ł���B
-�X���ĉ����^�̐��B
-�m����������Q�������n
-�E���ɐQ�����ŉ_�Ȃ�
-�E���̎R�̖؂��΂������悤�m�Ă��
-�@�J�̏��������Ă͚e���܂�
-�E�g�ɂ������R���낪���Ă͚e���܂�
-�E�t���̓�̗t�̂����藎����
-�E������ւ��������������ЂȂ���
-�E�ЂƂ�ŐH�ׂ铒����������
-�E������炢�āA�Ȃ�قǓ��{�̏t��
-�E����Ă�����̂��邠����O���̖����
-�m�������Ŏ������I���n
-
-�@�l���\���m���u�l���\���v�ɓ�d�T���n�@�J�A���Ɓ^�_�Ƃӂ�t�J�ł���B
-
-���Ђ��Ԃ��ċꂵ���m���u���Ђ��Ԃ��ċꂵ���v�ɖT�_�n�A�ǂ������𔃂Ђ��Ԃĉ�����ȁm���u������ȁv�ɖT�_�n�B
-����̉��Ɂm���u����̉��Ɂv�ɖT�_�n��ǂށA���삳��Ƃ��Ӓ��҂̂����T�����A��͂炩���l�����悭����A���̐l�m���u���̐l�v�ɖT�_�n�ł���B
-�����Ɠ`�m���u�����Ɠ`�v�ɖT�_�n��ǂށA���ƖV�͂悢�t�F�����Ă�Ă��肪�������Ƃł���B
-��A����񂰂āA�����N�Ƃh�N�Ɨ����A��l�͐����ĉS����x���肷��A���������͐��ւȂ��A����ׂ�Ȃ��A�ǂ����ĉS�ւ���̂��A�x�����̂��A�C�̓ł�����ǁA�����A�Ă���ĐQ���B
-�m����������Q�������n
-�E�l���̂����Â��Ă���؂̉肠���邭
-�@�G�����i�A���̒����ނ������Ȃ�b
-�E�Ԃ�����̔�s�@�̔���
-�E�Ȃ񂾂����ꂵ������������ɂ��ĂȂ���
-�E�����Â肩�͂����Ă̂����Ƃ���
-�@���ق炩�ɍs��������U��
-�E������������́A���n�����܂ւ��������}
-�@�@�@�t�X�ΌN��
-�@�Ȃ������炪�Ⴓ�����Ă���
-�m�������Ŏ������I���n
-
-�@�l���\����m���u�l���\����v�ɓ�d�T���n�@�܁A�g�S�����ꂸ�B
-
-���悤���ƂȂ��Ƀ|�X�g�܂ŁA�����ĕĂƖ��Ƃ𔃂��Ė߂��B
-�������L�A���F�����̐��E�ɏZ�݂����B
-���A�݁A�����A�сB�c�c
-
-�@�l���\����m���u�l���\����v�ɓ�d�T���n�@���A�Ȃ��^�_�����B
-
-�����~�ӂ��̂͗܂������A���������Ȃ����������̂��B
-����ȕ��������A���ɂ͂��ւ��Ȃ������B
-�m����������Q�������n
-�E�V�e���ق���񑐂��炭�܂܂�
-�E������Ԃ��ė��Ă���Ĉ��F�P�F
-�E���f���͂�Ĕ��f�������ĂЂƂ肮�炵��
-�E�����ɂ�����ĕ��̂Ȃ�����
-�E����Ƃ�����������������ق�ق�
-�E�ւ��_�ɂ��č炩���ċ����炵��
-�@�@�@�������ꕨ
-�@�����Ė߂Ă��ĐQ��΂���
-�m�������Ŏ������I���n
-
-�@�l���\�O���m���u�l���\�O���v�ɓ�d�T���n�@�D���B
-
-�v���Ԃ�ɁA�ق񂽂��ɋv���Ԃ�ɔ��d���A�y���k�₵�A�����ʂ��̂āA�召�ւ������āA���ł��ӉZ��֎q��g�}�g��卪��A�A������₤�ɂ��Ēu���B
-���͂��邯��ǈ��܂Ȃ����m���u���͂��邯��ǈ��܂Ȃ����v�ɖT�_�n�A���݂����̂����܂Ȃ��̂ł͂Ȃ��A���݂����Ȃ�������܂Ȃ����̂ł���A���͍���܂ł��΁^�_���݂����Ȃ����m���u���݂����Ȃ����v�ɖT�_�n�����񂾁A���Ђ������߂Ɉ��񂾂̂ł���A�ނ��ɂ������m���u�ɂ������v�ɖT�_�n�����A�g���S���݂����������B�c�c
-�ߋ���N�Ԃ̈��s���s���G�����̂₤�ɁA�t�C�����̂₤�ɓW�J����A�\�\����͔j�����΂ȓ��邾���B�c�c
-���͉��̎��ȁT�������A���t�A�ѓc�Ŏ���ł��܂���A�Ƃ��֓x�X�l�ւ��B�c�c
-�m����������Q�������n
-��̏���������
-�F�R���n���ђs
-�]�g���ӔV����
-��؉䍡�F����
-�m�������Ŏ������I���n
-��؉䍡�F�����A�����Ď��͐V�炵�������m���u�V�炵�������v�ɔ��O�p�T�_�n�𓥂ݏo���Ȃ���΂Ȃ�Ȃ��B�\�\
-�m����������Q�������n
-�E�R���甒���Ԃ�����
-�E�t�������̂Ȃ��ň�������ʂꂽ�肵��
-�E�Ђ��肳���Ă���܂�
-�E�@���Ƃ�Ƃ������
-�E�����炿��r�����܂�
-�E�Ƃق��^�̂Ȃ��锼�̎��������ւ�݂�
-�E���ӂ��悢���̂悢�΂������āi�����N�Ɂj
-�E�L�т���炢�Ă��
-�@�@�@�t�X�ΌN��
-�@�킩�ꂵ�Ȃ̒ւ̉Ԃ͈�ւ�����
-�E�����Ă��ւ���낪���Ă
-�m�������Ŏ������I���n
-
-�@�l���\�l���m���u�l���\�l���v�ɓ�d�T���n�@�܁A�܂��J�ƂȂ蕗���o���B
-
-�g�S��ÁB
-�ЂƂ肵�Â��Ɏ��������l�߂Ă��Ƃ���ցA���J�̒������������A���΂炭���Ď����N�Ƃr����Ƃ���Ă����A�j�x�ƌӉZ�Ƃ����āB
-�܂Î����N�����ӁA�r������A���ӂ��炵���A���͐��ւȂ��A���Ђ����Ȃ��A�قǂ悭�ʂ�āA�Q���ɓ������A�ǂ����Ă��˂ނ�Ȃ��A�N���Ă܂�����ŁA�����Ă����Ђ�H�ׂ��A�������ł�����˂ނꂽ�B
-�m����������Q�������n
-�E�M�����M���̍炢�ďt��
-�E��֐ς݂�����܂�
-�E�J�����ƂȂ蕗�̂Ȃ���T��
-�E�����������Ƃق�����Ă���؂̉�
-�E�݂�ȍ炢�Ă��K������ۂۂ�
-�E�Ȃ�ł�����ł��E���Ă��邭�^�Ȃ��i�N�l���Ђ�Ёj
-�E�����t������ƂȂ�@�֎Ԃ̂��ނ�
-�E���ǂ��t�A���𑖂�D�ԕ��i��
-�E�����悷���鐶�ꂽ�΂���̂Ƃ��
-�E�R�ӂƂ���킭���̂���΂܂��܂�
-�m�������Ŏ������I���n
-
-�@�l���\�ܓ��m���u�l���\�ܓ��v�ɓ�d�T���n�@�܁A�߂���ʂ����Ȃ��B
-
-���N�̍����m���u���N�̍����v�ɖT�_�n�������ӁA�ѓc�ŕa�݂������ł���A�����̋��m���u�����̋��v�ɖT�_�n��f�r�������������ł���B
-�A���R�[���̗U�f�m���u�A���R�[���̗U�f�v�ɖT�_�n�I�@���̗U�f����̂���Ȃ���΂Ȃ�Ȃ��A����A�A���R�[���ɗU�f����Ȃ��قǂ́A�s�����Â̐g�S����肠���Ȃ���΂Ȃ�Ȃ��B
-�A���R�[���̗U�f�Ǝ��̂��܂��m���u���̂��܂��v�ɖT�_�n�Ƃ͕ʁX�ł���B
-�`�̉肪���������A���̐g�y����B
-����^�_�Ȃ���X�ւ䂭�i���̎����ł����̐�����ؖ�����A����O�x���X�֏o���������ł͂Ȃ������j�A�o���Ȃ���΂Ȃ�Ȃ��莆�����邵�A�Ζ����Ȃ��Ȃ����A��������Ȃ��ȂĂ�邩��A�\�\�Ă��Ȃ��ȂĂ�邯��ǁA���ӂ����̑K���Ȃ��̂ŁA�����͂��Ε��������ł��܂��i����͒f���ĕn�R�ł͂Ȃ��j�B
-���قǕK�v�ł����Ĉ����Ȃ��̂͂Ȃ��A�����ɁA���ق��ґ�ō����Ȃ��̂͂Ȃ��A�Ƃ��ւ�B
-���͎��ł��ς��ɂȂ��A���������ւȂ��A���Ƃ��Ӕ�������m���u��������v�ɖT�_�n���炤�A�ߎS���炤�B
-���Â��Ɉ��ށA���̂Â��琌�ӁA�R�͐����Đ��̉��A�����e���܂��A�Ԃ��U��܂��A�������B
-�m����������P�������A�܂�Ԃ��ĂQ�������n
-�@�@�@���������L
-����������A�������Y���m���u�������Y���v�ɖT�_�n�A�����C���B
-���o��ł���Ƃ��ӈȏ�͔o��̐���m���u�o��̐���v�ɖT�_�n�����Ȃ���΂Ȃ�Ȃ��B
-���o�含�Ƃ́\�\
-�m����������Q�������n
-�P�����m���u�P�����v�ɖT�_�n
-�@�@�@�@�@���ρm���u���ρv�ɖT�_�n�@�@�@�Ⴆ�\�\�����B
-���S�I�m���u���S�I�v�ɖT�_�n
-�m����������S�������n
-�������
-�Љ����Y��
-���㊴�
-�m�������Ŏ������I���n
-
-�@�l���\�Z���m���u�l���\�Z���v�ɓ�d�T���n�@�܁A�@���B
-
-�������邩��������񂾁A�т͂Ȃ�����H�ׂȂ����A���X�N�X�ł���B
-�����A����^���_�ɂ��肪�����A��̂����ɂ͈�̐��i������A�l��������B
-��ƕĂ����ւ��A�Ă��Ȃ����Ƃ͂ق񂽂��ɏ�Ȃ��B
-�\�����Ԃ�ɓ���陒�A���ς肪���肵���B
-�[���A�����N�����A���̕s�@�������̂��΂ɂ���Ȃ��قǔނ�s���ɂ����炵���A���܂Ȃ����B
-���I�@�t�͖��������A���Ƃ��Ӊ��Ȃ��ڂ������ł������B�c�c
-�m����������Q�������n
-�@�@�@���c����O��
-�E�킢�Ă��ӂ�铒�̂��������܂�
-�E��������ڂ��艎�����Ă��l�X��
-�E�����͂̂ǂ��H�ׂ镨�Ȃ�ڂł�����i�i�j
-�E�ۂ��茎���A���Ђɂ䂭
-�E����T���Ȍ�����
-�E��Ԃ��܂�́A�|�ꂳ���ȕ��
-�E���̂���T�����您�n�����܂Ɏ񂪂Ȃ��i�i�j
-�E����ȎR���ɂ��c�����Ė��^
-�E�[�����ς��ɒւ̂܂񂩂�
-�m�������Ŏ������I���n
-
-�@�l���\�����m���u�l���\�����v�ɓ�d�T���n�@�܁A�@���B
-
-�����͂��m���u���v�Ɂu�}�R�v�̒��L�n���Â�A��낱�т��̂��̂ł���₤�ɁB
-�ߌ�R���ցA�܂����c�ňꗁ�A���ꂩ��s��������܂͂āA�J�ꂽ�݂��D�֔M���ł��ł������B
-���ċA���A�����Ђ�H�ׂĂ���Ǐ��B
-����^�_�������Ă���A���{�I�ɐg�S���������鎞�@�������̂ł���B
-�m����������P�������A�܂�Ԃ��ĂQ�������n
-�@�@�@���������L
-���q���{�\�ƈ���{�\�i���n�����āj�B
-���C�i�Ƃ́A
-�@��i�A�l�i�A���U�B
-���ǓƂ͎��ւ������m���u�ǓƂ͎��ւ������v�ɖT�_�n�B�c�c
-�m�������Ŏ������I���n
-
-�@�l���\�����m���u�l���\�����v�ɓ�d�T���n�@���B
-
-����^�_�Ƃ��Ē��������A�����Ƃт��ӁA�������悮�A�����������Â�A�����Đl�Ԃ́B
-���͎U�������A�Ð�̓�[�܂łԂ�^�_�����܂͂��B
-������������قǗ��������A�R���΂��R���΂炵���ȂĂ����A�R���΂͎R���΂łȂ���΂Ȃ�Ȃ��A�R���΂͂ق񂽂��̎R���΂ɂȂ�Ȃ���΂Ȃ�Ȃ��B
-�����ւ����I�@�t�̖�̃i���Z���X�Ƃ͂��Ђ���Ȃ����̂�����₤���A���͂����ւ��v�Е��ׂĂ͓Ƃ����΂��ւ����Ȃ����B
-�m����������Q�������n
-�E�g�̂܂͂�͑����炯�݂�ȍ炢�Ă��i�i�j
-�E���ꂩ���N�����L�тĂ��`�̉�i���t��z�j
-�E���֐��̂Ȃ��ꂢ�鉹�����T����
-�E�܌��̕����Y�����̗�������
-�E����Ԃ�Ђ��邠�ӂ��Ȃ���
-�E�킢�Đɂ����Ȃ����ӂ�Ă�����
-�m�������Ŏ������I���n
-
-�@�l���\����m���u�l���\����v�ɓ�d�T���n�@�܁B
-
-�Ȃ݂Ēp���Ȃ��S���m���u�Ȃ݂Ēp���Ȃ��S���v�ɖT�_�n�A����ւ��k�����Ȃ������m���u����ւ��k�����Ȃ������v�ɖT�_�n�B
-����l�Ɂ\�\
-�m����������Q�������n
-���͎��A���͐��A����ł�낵���̂ł����A���̏ꍇ�ł͎������ɂȂ�Ȃ��Ƃ�낵���Ȃ��₤�ł��i�{�V�̍F�q�̏ꍇ�ł́A�������ɂȂ�܂������I�j�B
-�m�������Ŏ������I���n
-
-�@�l����\���m���u�l����\���v�ɓ�d�T���n�@���A���Ă�����T���ȁB
-
-�������������A�����璒�K�i�ցA�����ďH��܂ŁA����R���l���t�����Ȃ͂����B
-�����A�����ĔӎށA�ƂĂ��悩���B
-�A��̎O���\�����A���R�̊ω����͓��₩�ł���A�n���̐l�X���j�������N����q�����݂�Ȃ�����ɁA��y����������ւĐH�ׂ�̂ł���A���́U���̃s�N�j�c�N�A���̉��V��ł���B
-�������ӕ��K�͂Ȃ������A���ꂵ������ق��ł��邪�A������N�X���т�āA�s����̌l���y�ɂ��Ă䂭�A�Ȃ������Ƃ���Ŏ����̂Ȃ���͂����Ƃ߂邱�Ƃ��ł��Ȃ��B
-����������������o���Ȃ����A�o�������Ƃ��v�͂Ȃ����A���炭�Y�񂾌��ʂƂ��āA���̋勫�͑ŊJ����T����̂ł���B
-
-�@�l����\����m���u�l����\����v�ɓ�d�T���n�@���A���Ƃ����邯�Ώ��Ă�������B
-
-����͒��Q�A�����͑��N�A������悵�A������悵�A���̋��U�ł́u���݂Ȃ�낵�v�łȂ���΂Ȃ�Ȃ�����i�Ȃ��^�_���ۂ͂����ł��Ȃ�����ǁj�B
-��Ɏ���O�Ɂm���u��Ɏ���O�Ɂv�ɖT�_�n�\�\�ہA���������O�ɂ��m���u���������O�ɂ��v�ɖT�_�n�I�@���̈ꃖ�N�̊ԂɎ��͂������ɏ\�N�قǘV�����A����͕K�����������������Ȃ莕�������������΂���ł͂Ȃ��B
-���Â��Ȃ邩�ȁA�����T���Ȃ邩�ȁB
-�ߌ�A�����ĎR���֍s���A�A�r�͓��c�ňꗁ���ăo�X�A�o�X�͌���������͂ق񂽂��ɂ��ꂵ���A���ӂꂱ�ڂ��M�����ɂЂ��Ă��ƁA�����Ă���낱�сm���u�����Ă���낱�сv�ɖT�_�n��������B
-�ӎވ�{�A���܂��^�_�A�����̕Ă͂Ȃ��̂ɁB
-���͂܂������]�������A�]�������Ƃ��ӂ�����Ԃɕ������Ƃ��ӂׂ��ł��炤�A���g�S�m���u���g�S�v�ɖT�_�n�������ĕs���̐����ɓ��邱�Ƃ��o�����̂ł���B
-�m����������Q�������n
-�E�ӂ���ӂ��ӂ��킽���͂Ȃ����܂Ȃ��i�i�j
-�E�ӂ���ӂ��ӂ��������񂪂̂ڂ�
-�E�ӂ���ӂ��Ӂm���u�ӂ��Ӂv�ɖT�_�n�ƂȂ��Ă��
-�@�@�@�i�ӂ���͂��̖�������͂��ӂ��낤�̕����j
-�E�Ƃ�Ζ��ē܂�Ζ��ĎR�r�����҂�
-�E�ĂӂĂӂ���������ցi�i�j
-�m�������Ŏ������I���n
-
-�@�l��������m���u�l��������v�ɓ�d�T���n�@���ꂽ��܂���A�܂��J���B
-
-���������N�A�������Ă��Ȃ��B
-�卪�Ɠ��h�Ƃ�d���B
-���߂č�������𐳂����y�������������m���u���߂č�������𐳂����y�������������v�ɖT�_�n�B
-�Ă��Ȃ��Ă͍���̂ŁA�w�Z�Ɏ����N��K�˂āA�r���񂩂��W���Ⴄ�Ė�ӁB
-�R���܂ŕ������A�r���A���c���n�����A�ꋣ�n�����猙�ɂȂ��A�����ɂ͉�|���E�g���g���Ă��΂��肾�A�n�����ƂԂ΂��肾�A�n���ӏ܂���A����A�q���̂��̂𖡂ӂ��Ɓm���u�q���̂��̂𖡂ӂ��Ɓv�ɖT�_�n����Ȃ��̂��A�������̔ڂ����X����ʂ����Ȃ��̂��B
-�A�r�A�V���̓���̎�X�Ŗ��҈�t�̂��ڑ҂𒸑Ղ����A���ꂳ��͊Ⴊ�����A�����č��������͂���t�l�̌䖽���ł���B
-�w�Z�Ɋ�āA�[�т���y���ɂȂ��A�����Ăقǂ悭�����Ă���ׂāA�߂ĐQ���B
-�m����������Q�������n
-�@�@�@���c���n
-�E�����肨������������s�����肵��
-�@���c�Ђ�^���_�Ƃ��ȁT���͏��n��
-�@�@�@�V���n
-�E�����炿�邠���т���e���q��
-�@�B�̉��Ȃ�΂����H�ׂĂ��
-�E�������Ă��N���̂ǂ��ȕ\��
-�@�@�@�R���^����
-�E�ł̎�t�������Ђł̃{�[�����Ƃ΂�
-�@�@�@���z�H��
-�@�_���������Â�n���������̂т₩��
-�@����͂����͂��Ă͑�n����
-�E��Ԃ��Ȃ��݂̂̂ނ��Ԃ��
-�E�ӂ���̂Ȃ���䕂��炢��
-�E�R�̓��ցA���Ă̕����܂Ƃ��ɃK�\�����J�[��
-�E������t�́A������t�́A�܂Ԃ������悩���i�i�j
-�E��t�ւ킽���֕����₳�����˂ނ��������
-�E�Ȃɂ�炳�݂������ǂ��̂�����ׂ�
-�m�������Ŏ������I���n
-
-�@�l�����O���m���u�l�����O���v�ɓ�d�T���n�@�����Ȃق��Đ��B
-
-�H��̂���t�߂��肪�������̂�����ǑK������Ȃ��̂ŁA�܂����c����֍s���B
-�������Ă炵�����ł���A�����΂������������A���Â��ɂ���ΐ\���̂Ȃ��G�߂ł���B
-���ꂵ�����͖̂��������Ƃ邽���ł���A�����͎R�`���璿�炵�������݂����A���肪�������Ƃł���B
-�قǂ悢��J�Ƃ��܂��ӎނƁA�����Ă��T��悢�����B
-�m����������Q�������n
-�@�@�@���c���n�A�ǉ����
-�E���Ă܂Ԃ�����֌ċz���Ă��
-�E�N�����Ă͂���Ȃ��قق�����ۂ�
-�E�����͂Ƃق�������Ŕ�s�@
-�E�ӂ邳�Ƃ̊w�Z�̂��炽���̉�
-�E�������u���Ă����߂������ď��Ă̕�
-�E����Ĕ����̏����Ȍ�̂ڂ�
-�E���ĂȂى��������������A�J��������
-�E�ЂƂ肽���₹�΂����ӂȂ�i�i�j
-�m�������Ŏ������I���n
-
-�@�l�����l���m���u�l�����l���v�ɓ�d�T���n�@���B
-
-�ߍݎU���B
-�����N�ɕԎ��̎莆���������A�Ε����K��̓��s��f���̂ł���A����͂܂��ƂɈ�����m���u������v�ɖT�_�n�Ƃ����ӂׂ���낱�сm���u��낱�сv�ɖT�_�n�ł���A�����ɂ��Ȃ��݁m���u���Ȃ��݁v�ɖT�_�n�ł͂Ȃ����A�N�̂����T�����S�A�����Ď��̂������ȂȐS�A���͏����Ă�邤���ɗ܂��܂����Ȃ��B�c�c
-�ᕖ�̂��������A����ۂ����̂��������B
-�G�߂̏ő��A�l�Ԃ̗J�T�A���̜f�r�B
-�m����������Q�������n
-�@�����Q����Ԃɂ悵
-�@�����܂ł͉�Ђ̂����ŋ�ᵉ�
-�E���T���������̕��͂ӂ������
-�E�܂���΍؂̉ԂЂ悢�ƃo�X�ɏ��
-�E�Q����ׂΗ��l�炵���Ă���ۂ���
-�m�������Ŏ������I���n
-
-�@�l����\�ܓ��m���u�l����\�ܓ��v�ɓ�d�T���n�@���A���{�̏t�A�썑�̏t�B
-
-�Ε��V�Ɂ\�\
-�m����������Q�������n
-�c�c�����N�Ƃ�����ɂ��K�˂��邱�Ƃ��o���Ȃ��̂�߂��݂܂��A�����ɏo������Ώo�������Ȃ����Ƃ�����܂��񂯂�ǁA����͌����Ă��Ȃ������������Ȃ��΂���łȂ��A�K�炸�����ꂵ�߂܂��A�ǂ����������������B
-�c�c���́A���͏��������̂₤�ɂ����ւȂ��̂��A����I�̂₤�ɂƂׂȂ��̂��A�a�̂₤�ɂ������Ȃ��̂��A�c�c���͍��A���Ȋv���ɖʂ��Ă�܂��A��ւ܂���ցA�Ԃ��ʂ��Ԃ��ʂ��Ȃ���΂Ȃ�Ȃ����@�ɗ��Ă�܂��B
-�c�c���ȍ����A���Ђ��ւ�Ήߋ���N�Ԃ́A���܂�Ɉ��ՂȁA�����ȁA���΂Ȑg�S�𗧂Ē����Ȃ���΂Ȃ�܂���A�c�c�A���R�[���ł��֐��䂵���Ȃ������ł͂Ȃ������B�c�c
-�m�������Ŏ������I���n
-���䂪������ɖ��������A���̐��͏t�����͂��U�����Ăւ������������B
-�����A������œǏ��A�ꕶ�Ȃ��ł͓��c�֍s���Ȃ�����B�\�\
-�m����������Q�������n
-�E�����Ђ������Ђ��a������|���Ă�����
-�E�Ȃ�Ƃ悢���̕c������邱��
-�E�R�͂��Â��ȂĂӂĂӂ��܂Ђ�̂�������
-�E�R�����ӂƂ͂��߂��͌��
-�E��Ɍ��Â��鐅�̂��܂���
-�E��t�����T�鐅���݂���
-�m�������Ŏ������I���n
-
-�@�l����\�Z���m���u�l����\�Z���v�ɓ�d�T���n�@�܁B
-
-�g�Ӑ����A�ނ���S�������B
-��O�s�o�A�I���Ǐ��B
-
-�@�l����\�����m���u�l����\�����v�ɓ�d�T���n�@�܁A���J�B
-
-����Ԃ񑁂��N�������A�����Ȃ��I
-�΁I�@�悢�΂𕰂��A�����Ă悢�������߁B
-�j����K�˂āA��W��𒸑Ղ����A����ł�ƕĂ����ւ��B�c�c
-�������Ӑ����ɂ́i���̂₤�Ȑ����ɂ͂Ƃ��͂Ȃ���΂Ȃ�܂����j��Y�m���u��Y�v�ɖT�_�n�ƘQ��m���u�Q��v�ɖT�_�n�Ƃ������Ȃ��A��Y�͂��Ƃ��Î󂷂邪�A�Q��ɂ͂��ւ��Ȃ��A�Q��̂��̂����Q���S�m���u�Q���S�v�ɖT�_�n���䖝������Ȃ��Ȃ�B
-�����̘Q��A�g�S�̘Q��A�����B
-�[���A�v���Ԃ�ɂs�q���񂪗��āA���΂炭�b���ċA���A�ޏ��͂킪�܁T�ȁA�����ĕs�K�ȏ����A��Ԃ��Ȃ��Ȃ�΍K���ɂȂ��̂����A���炭�͑ʖڂ��炤�B
-�����Ԃ肩�ŁA�z���������ׂ��A�W�X�Ƃ��ĉ��Ƃ����ւȂ����͂Ђ��A���̂₤�ɁA�т̂₤�ɁB
-�l����Ă��Ă��炵���m���u�l����Ă��Ă��炵���v�ɖT�_�n�A�������ɏt���Ǝv�ӁA�ނ��₪�ċ��邾�炤�A���傪���X���邮������A�l����肫��Ȃ��Ȃ邾�炤�B
-�m����������Q�������n
-�E��t���肠�����ɂ͔�
-�E�܌��̕����A�Y�����͕߂Ă҂���
-�E����l�ƂȂ��ŏI�o�X�̂��₤
-�E���֐΂𓊂��Ă͑N�l�̂��ǂ���l
-�m�������Ŏ������I���n
-
-�@�l���������m���u�l���������v�ɓ�d�T���n�@�܁A���X�~��B
-
-������}�C�i�X���Ñ����ꂽ�A�}�C�i�X�Ƃ��ӂ��̂͂ق񂽂��ɂ�낵���Ȃ��A�v���X�͂Ȃ��Ă����T���i���ɂ̓v���X��������A�}�C�i�X�Ƃ��Ȃ�����낵���Ȃ��I�j�}�C�i�X�̂Ȃ������m���u�}�C�i�X�̂Ȃ������v�ɖT�_�n�łȂ���΂Ȃ�Ȃ��B
-�ߌ�A�����N�����A�U���A�����B
-�m����������Q�������n
-�@�@�@�����j��������
-�E�ł���߂������Ђ����Ԃ�����Ђ�
-�E��t�Ɍ����A����Ȃ͂܂��Ƃɂ�������
-�E���炢�����̎��̐Ԃ�
-�@�@�@�]�ȘV��
-�E���̋����������ΐ�Ԃ̂��ނ肪
-�m�������Ŏ������I���n
-
-�@�l����\����m���u�l����\����v�ɓ�d�T���n�@�܁B
-
-���͈��h�̖��ɂȂ��قǐ��ς���A�����Ē����i���̎��͂ǂ�����o���̂��炤�I�j�B
-�m����������Q�������n
-�E�ӂ���ӂ��ӂ��ǂ��ɂ��Ȃ�Ȃ����ł�
-�E�ӂ���ӂ��ӂ����Ƃ��Ă���Ȃ����ł�
-�E�ӂ���ӂ��ӂ����ĂȂ����邭
-�E���˂Ȃ��ł��ӂ���ӂ��ӂ�
-�m�������Ŏ������I���n
-
-�@�l���O�\���m���u�l���O�\���v�ɓ�d�T���n�@���A�܁A�J�B
-
-�m����������Q�������n
-����܂�Ύ����܂�
-�@�@�J���܂��\�\��������
-�m�������Ŏ������I���n
-����������������A�N�ɂ����͂Ȃ��A���Ђ����Ȃ��A�I���I��ڂ��^�_�΂��^�_�B
-�钆�Ɏ����N����̔@���D�����ė����A���΂炭�Q�āA�����ċA���B�c�c
-
-�@�܌�����m���u�܌�����v�ɓ�d�T���n
-
-���T�܌��Ɣ��΂������B
-���A��B�̗���̐����N���痈�d�A�ꎞ�̋D�ԂɌ}�ւċ��ɋA���A���������Ɉ��񂾂�b�����肵���A�ق񂽂��ɋv���Ԃ肾���B
-�܂���呺���񂪂��Ղ̌�y�������Ă��ĉ������A���ꂵ�����B
-�����ĘZ���̋D�Ԃɑ��āA�������ē������ĎU�����āA�����Ă��݂����߂ĐQ���B
-��ς�ЂƂ�͂��݂����m���u��ς�ЂƂ�͂��݂����v�ɖT�_�n�B
-�m����������Q�������n
-�E���T�됟�߂Ό����̂ق̂��ɂЂ炭
-�E�ĂӂĂӂƂ܂�Ԃ�����
-�E��֎�|�̂Ȃ�݂Ȃ�
-�E���Ђ��߂̐��̂��܂������ӂ��t
-�E�����낷�����Ƀl�I���T�C���̍X���Ă����邭
-�m�������Ŏ������I���n
-
-�@�܌�����m���u�܌�����v�ɓ�d�T���n�@���B
-
-�ǂ��ɂ������ɂ���肫��Ȃ��ȂāA��c�̌h�N��K�˂�B�c�c
-���A���A���B�c�c
-
-�@�܌��O���m���u�܌��O���v�ɓ�d�T���n�@���A�܂��Ƃɓ��{���B
-
-�؍݁A�Ǐ��A�U���B
-
-�@�܌��l���m���u�܌��l���v�ɓ�d�T���n�@���B
-
-�����ē��c�ցA�����Ĉꗁ���ċA���B
-
-�@�܌��ܓ��m���u�܌��ܓ��v�ɓ�d�T���n�@���B
-
-���c�ցi�o�X�㓒�K���Ȃ�����{�𔄂āI�j�B
-
-�@�܌��Z���m���u�܌��Z���v�ɓ�d�T���n�@�܁B
-
-�g�Ӑ����A�������Ă�����������Ȃ����̂�����B
-������x�A�s��̗��ɏo�Ȃ���΂Ȃ�܂��B
-�m����������P�������A�܂�Ԃ��ĂQ�������n
-�@�@�@���������L
-���o��͊Ԉ�Ȃ��R��ł���A����˂΂Ȃ�Ȃ��B
-���G�����i�A����͑��������i�ł���A�����ĎR���Ε��i�m���u�R���Ε��i�v�ɖT�_�n�ł���B
-�@���i�������ƂȂ�Ȃ���΂Ȃ�Ȃ��m���u���i�������ƂȂ�Ȃ���΂Ȃ�Ȃ��v�ɖT�_�n�A�������ƂȂ�A���������������ƂȂ�₤�ɁB
-���T�@�̎t�Ƃ��S�S�S�g���X���m���u���v�Ɂu�}�R�v�̒��L�n���Ĉ�Ӕ��ӂ�ŏo����@���A���͎��̈�؂�s���āA��唼���ŏo�������A���Ȃ��ł͂���Ȃ��A�\�\���ꂪ���̗B��̔O��ł���o��ł���B
-�m�������Ŏ������I���n
-
-�@�܌������m���u�܌������v�ɓ�d�T���n�\�\�܌����O���m���u�܌����O���v�ɓ�d�T���n
-
-���Ǝ��Ƃ̊Ԃ�f�r�����B
-�R���\�\�O�J�\�\���\�\
-���勬�̎�t�������Ԃ߂邱�Ƃ͏o���Ȃ����A������̓��₩�������ɂ͉��̊y���݂ł��Ȃ����B
-�������������ł����m���u�������������ł����v�ɖT�_�n�B
-�����Ă���Ȃ��A���ʂ���O�Ȃ��ł͂Ȃ����B
-�����򂪁A�t�����������̑O�ɂ���΂��肾���B
-
-�@�܌����l���m���u�܌����l���v�ɓ�d�T���n
-
-���񂽂�Ƃ��ĉ��炵�Ă��Ƃ���ցA�h�N�������ɗ��Ă��ꂽ���A���͉��ڂ��邱�Ƃ���o���Ȃ��قǁA�d�ꂵ���C�����ǂ����邱�Ƃ��o���Ȃ����B
-���l��₤�ȕ��͋C�Ɋ��֐؂�Ȃ��Ōh�N�͊X�֏o�����Ă����B
-�s���O��B
-�m����������Q�������n
-�@����ۂۂ̂��肱�ނ΂���N�����Ȃ�
-�@�^����^�_�c�͐L�т鐅�͂��ӂ��
-�@�t�������Đ������ǂ���A��Ă���
-�@�t�́A�^���́A�T�C�����̂Ȃ�����
-�@�@�@������
-�E���ӂ͈��߂镗������K�\�����J�[�Łi�R���ցj
-�E���֑����Ȃ�ƂȂ��t�߂���
-�m�������Ŏ������I���n
-
-�@�܌����ܓ��m���u�܌����ܓ��v�ɓ�d�T���n
-
-�h�N����Ԑl���ďo�̎莆�����Ă������A�ƂĂ��o��������₤�Ȑg�S�ł͂Ȃ��B
-�h�N��A�����ĉ������B
-������s���O��B
-
-�@�܌����Z���m���u�܌����Z���v�ɓ�d�T���n�@���B
-
-�g�S��T���ÁB
-�v�З��āA�N����āA�|���A����A���X�B
-�����N�����Ă��ꂽ�A�h�N�E���̂��ƂȂǘb���Ă��ƁA�v�Ђ����Ȃ��t�X�ΌN�������A�O�l�ň�t���A�F�͂��ꂵ���Ȏ��͂��܂��ȁB
-�t�N�A��A�U���Ď��N���A��A���͌U���������o���āA����Ɉ��񂾁B
-��肫��Ȃ��̂ł���A����ł���肫��Ȃ�����ǁA���ł����܂��ɂ͂���Ȃ��̂ł���A�����ĂƂ������h���ɔ����B
-�m����������Q�������n
-�E�R����R�֑��d�������肠����݂ǂ�
-�@�R�̐��������ւĐ��͐��݂���
-�@�������芞�̕�̂Ђ����
-�E�̂ڂ��肳������[�w偂͈ꂷ���̎���
-�E���Ђ��߂̈łɂ���壂��܂��
-�@�@�@�ߍX
-�E�ق���т�D�ӎ��̂���邱��
-�m�������Ŏ������I���n
-
-�@�܌��������m���u�܌��������v�ɓ�d�T���n�@�܁A�����ĉJ�B
-
-�C�R�L�O���A����������ւ�ۂ�Ƃ��Ă��������B
-��������ł����Ƃ����ɂƂ܂�A�\�\���͂ЂƂ����΂����B
-���Ƃֈ�Ӕ��ӂł��A���͎��̋��ŏo�������B
-�ߌ�A�ڂ��肵�Ă��ƁA�����N�����䂳��Ɠ������ė����A�Ԃ��Ȃ����ƍ�Ƃ����������ꂽ���A���ƂȂ��N�������ɂȂ�Ȃ����A���͂₽��Ɉ�����`����B
-������葁�����U�����A���͌o�{�������o���āA���ݒ������ɂ͂���Ȃ����A�����Đ��ЂԂ�āA�����̏h���ւ��낰���񂾂̂ł���B
-�����A�����A�����B
-�m����������Q�������n
-�@�@�@����
-�E�����Q����ׂΌ܌��̋�
-�E�t�̉��֓����Ȃ��Ȃ�Ε�n
-�E���������T������������Δ�������
-�@�@�@���⎩��
-�E������悩�炤�����炢�Ă��
-�m�������Ŏ������I���n
-
-�@�܌��������m���u�܌��������v�ɓ�d�T���n�@�J�B
-
-�I���I��A��������΂��肾���B
-
-�@�܌�������m���u�܌�������v�ɓ�d�T���n�@�܁A����Ă���B
-
-�D���A�D���A�Ε��V�̎莆���A�j�̎莆���������C�Â��Ă��ꂽ�B
-�g�Ӑ����B
-��̓V�l�}�����A�����Ă��ƂȂ����A�����Ă����₩�Ȑ����B
-�m����������P�������A�܂�Ԃ��ĂQ�������n
-�@�@�@���������L
-���G���X�g���S�X�Ƃ̕��i�m���u�G���X�g���S�X�Ƃ̕��i�v�ɖT�_�n�I
-�����������Ȃ����Ɓm���u���������Ȃ����Ɓv�ɖT�_�n�A���ꂱ��I
-�����R���o���҂Ƃ��Ă̎��ɂ͋��m���u���v�ɖT�_�n�͂Ȃ��A��S�m���u��S�v�ɖT�_�n�͂��邯��ǁB
-���o��́A���̔o��͔ߖm���u�ߖv�ɖT�_�n����Ȃ��A�{���m���u�{���v�ɖT�_�n����Ȃ��A���L�m���u���L�v�ɖT�_�n�ł��Ȃ���Η����m���u�����v�ɖT�_�n�ł��Ȃ��A����͂����₩�Ȍċz�m���u�����₩�Ȍċz�v�ɖT�_�n�ł���A�����₩�������m���u�����₩�������v�ɖT�_�n�ł���B
-�m�������Ŏ������I���n
-
-�@�܌��O�\���m���u�܌��O�\���v�ɓ�d�T���n�@���B
-
-�߂��菋���Ȃ��A�U��������������Ȃ��̂ŁA�����؂苛�𗿗����āA�����N�̗�����҂������Ԃ�āA�₤�₭���ݍ����B
-������D���i�Ō�̓D���m���u�Ō�̓D���v�ɖT�_�n�ł���j�A�����Ă��Ă��Ȃ��f�r���āA�����̏h�œ|�ꂽ�B
-
-�@�܌��O�\����m���u�܌��O�\����v�ɓ�d�T���n
-
-�I���I��A���Ȓ����B
-�哹����A�獷�L�H�A�������ցA�����ƕ��B
-���ϑz�A�O��ےf�B
-�m����������Q�������n
-�@�@�����m���u�����v�͌r�͂݁n
-�@�@�@�@�@�@���ɂ��ām���u���ɂ��āv�͌r�͂݁n
-���͖��ӂׂ����̂��A���܂����m���u���܂����v�ɖT�_�n�����ނׂ����B
-�m����������R�������n
-��A�Ē��i�Ύ�ށj�����܂Ȃ�����
-��A�������Ȃ�����
-��A�K�ʂƂ��ĎO���ȏ���܂Ȃ�����
-��A�������Ă��Â��ɁA���߂����ǎ�����������u�ň��ނ���
-��A�����Ŏ~�߂ēD��������邱��
-��A�C���̗ǂ����ł��邱�ƁA���̂Â��琌�ӎ��ł��邱��
-��A��Ɏc��₤�Ȏ������܂Ȃ�����
-�m�������Ŏ������I���n
-
-�@�Z������m���u�Z������v�ɓ�d�T���n�@���B
-
-�₤�₭�ɂ��ĕ��Â��Ƃ���ǂ����A�R���΂��R���΂̎R���΁m���u�R���΂̎R���΁v�ɖT�_�n�ɂ��ւ��̂ł���B
-��R�N����A�v�F�V�t�u�b�W�u�哹���s���v���ՁA�������ǂށB
-�{�����ꕨ�m���u�{�����ꕨ�v�ɖT�_�n�A���̖{�S�ɐ�������B
-����^�_�܂��^�_��쓹���i�̊o��m���u��쓹���i�̊o��v�ɖT�_�n�������߂�A���̓����s�����O�Ȃ����ł���I
-
-�@�Z������m���u�Z������v�ɓ�d�T���n
-
-�ߑO�͎R�����邭�A�R�쑐�؂��̂܁T�ł݂Ȃ�낵�B
-�ߌ�͗����̒ʂ�Ɏ����N�����A���Ƌ��Ƃ����Q���āA�����Ăقǂ悭�����Ęb���ĐQ�āA���T��悭����Ȃ�A�߂ł����^�_�B
-���ȊϏƁm���u���ȊϏƁv�ɖT�_�n�A���Ȕᔻ�m���u���Ȕᔻ�v�ɖT�_�n�B
-�����̂Ȃ������m���u�����̂Ȃ������v�ɔ��O�p�T�_�n�A�������Ӑ����̍����͑f���ȐS�m���u�f���ȐS�v�ɖT�_�n�ł���B
-�ȑf�A�����A���ӁA�[���A���S�B
-�m����������Q�������n
-�E��ӂׂ���������炬�炭�i�����j
-�E���݂₰�͎��Ƃ����ȂƂ����Ĕ��i�����N�Ɂj
-�E�������߂镗�̒��䂭
-�E��t�����邢�����Ђ炢�Ăقǂ悢�H�|
-�@�t�̂ނ������炤�����Ă���͎�������
-�@���ӂ��|��炮���̖���
-�@���̖�̍X���Ă䂭�����������Ƃ���
-�m�������Ŏ������I���n
-
-�@�Z���O���m���u�Z���O���v�ɓ�d�T���n�@�܁B
-
-���������N�B
-�ߌ�͕��J�������Ȃ��A�������ւ��������̂�����A�c�c���J���Ղ��ĊX�֏o������B
-�e�Ŏ����N�ɉ�Ĉ��ށA�c�c���ꂩ��D�����Ăh�ɔ����B�c�c
-
-�@�Z���l���m���u�Z���l���v�ɓ�d�T���n�@���B
-
-��ς���͂�낵���Ȃ��Ǝv�ӁA���ꂪ���܂��������ꂾ����낵���Ȃ��Ǝv�ӁB
-�U���A�㋽�����{�̎Гa�œǏ��A�A�r�����A�A���̗J�T�����������B
-
-�@�Z���ܓ��m���u�Z���ܓ��v�ɓ�d�T���n�@�܁B
-
-���̒[�߁A�ǉ��̌��������ւ�ۂ�Ƃ��ĉj���ł��B
-�������ߍx�U���B
-�m����������Q�������n
-�@���������߂�̎G������������
-�E����ĕ��̎G���̉J�ƂȂ�
-�E���ւ��ӂׂ̐��ɂ����Ă܂���Ήe
-�E�����݂̉Ԃɓ��̂����΂ĂӂĂ�
-�E�����̓�̕\��𕏂ł�
-�E�����Ђł��������悮�^����i�̋��[�߁j
-�m�������Ŏ������I���n
-
-�@�Z���Z���m���u�Z���Z���v�ɓ�d�T���n�@���B
-
-�v���Ԃ�ɂ���蒩�Q�����B
-�ߍݎU���A�H����Q�q�B
-������A���t�͎��̈����m���u���̈����v�ɖT�_�n���Â����̂ŁA�֎q���ӉZ���g�}�g���A�����قǂ̈��Â������Ȃ����B�c�c
-�m����������P�������A�܂�Ԃ��ĂQ�������n
-�@�@�@���������L
-�G���G���B
-�����\�\�S�\�\���t�\�\��
-�q�ς��@��ʂ��Ǝ�ςɂԂ���A�ނ���ƂȂ�̂ł���B
-���\�\�S�A���R�\�\����
-���ɂ����͂�Ȃ��A������킸��͂���Ȃ����n�B
-�������Ē�؂��Ȃ����n�B
-��񃖎l�̐��E�m���u��񃖎l�̐��E�v�ɖT�_�n�I
-�m�������Ŏ������I���n
-
-�@�Z�������m���u�Z�������v�ɓ�d�T���n�@�܁A�J�A�����Đ��B
-
-�ŏ���⡂������ĐH�ׂ�A���������Ċ��݂��߂邱�Ƃ��o���Ȃ�����A�ق񂽂��̖��͖��ւȂ�����ǁA��ς肤�܂��B
-�����A���ƂȂ��ʂꂽ�l���Ȃ������点��A������I�C�{���Z���`�̈�[���B
-��s�@������Ȃ��Ē���ʉ߂���A���̔����͌�������ǂ��̎p�͈����Ȃ��B
-
-�@�Z�������m���u�Z�������v�ɓ�d�T���n�@���B
-
-�M�B�������𖡂ӁA���������̂��̂̂��܂������邪�A�F��̂��������������ꂵ���B
-�т��Ȃ��A�Ă��Ȃ��A�K���Ȃ��B�\�\
-�R������A�R�������������B
-�m����������P�������A�܂�Ԃ��ĂQ�������n
-�@�@�@���������L
-���������^�m���u�������^�v�ɖT�_�n�A����������̉��m���u�̉��v�ɖT�_�n����B
-�����ȂقȂ킪�܂܁m���u���ȂقȂ킪�܂܁v�ɖT�_�n�I
-�����́i�����Ƃ����ɂ́j���ȖY�p�̐��m���u���ȖY�p�̐��v�ɖT�_�n�ł���A�s���̖�ӂ��Ĉ��ރA�_�����̂₤�ɁI
-�����͗^�ւ邱�Ɓm���u�^�ւ邱�Ɓv�ɖT�_�n���R�����A������󂯂邱�Ɓm���u�󂯂邱�Ɓv�ɖT�_�n�̖R�����ő���Ă�Ȃ���΂Ȃ�Ȃ��B
-�����|��i�̉��l�͓�ɕ����Ċς邱�Ƃ��o����B
-�m����������R�������n
-��A��i���̂��́T���l�i�����|�I�m���u�����|�I�v�ɖT�_�n�j
-��A��i������֓��炫���������l�i�j�I�Ӌ`�j
-�m����������Q�������n
-���̓�̉��l�𕹂��L�����i�Ƃ��Ă͔m�ԁA��؁A�O�҂̗�͉���A�q���A��҂̂���͎q�K���B
-�m�������Ŏ������I���n
-
-�@�Z������m���u�Z������v�ɓ�d�T���n�@�����B
-
-�H�ׂ邱�Ə������Ďv�ӂ��Ɛ[���B
-�w�Z�Ɏ����N��K�˂āA�ĂƉ����K�Ƃ�Ⴄ�Ă���A���̏\�K�����ݓ�������ɗL���ɔ�����\�\
-�m����������Q�������n
-��K�@�n�K�L�Z��
-�l�K�@�Ȃł�����܁@�@�c���l�K�͖����̉�����Ƃ���
-�O�K�@���C�K
-�m�������Ŏ������I���n
-�Ƒt�m���u�Ƒt�v�ɖT�_�n�\�\�����͂���ȋC�������A�����g���A���X���G�����B
-
-�@�Z���\���m���u�Z���\���v�ɓ�d�T���n�@���B
-
-���ƂȂ��J�̋߂����Ƃ�������A�~�J�̑O�̑�C�Ƃł����ӂ̂ł��炤�B
-���Â��Ȃ邩�ȁA�R���낪���͂�ۂ����Śe���A�\�\���A�}�A�m�J�A���X�E���^�A�_�q�g���B
-�g�Ӑ����A�Ƃ��ӂ����g�������B
-���Օn�y�m���u���Օn�y�v�ɖT�_�n�Ƃ����ӂׂ���������B
-�m����������Q�������n
-�@�@�@���}����𒮂���
-�E�����΂͂邩�Ȃ邩�ȕ���̂�����
-�E����肪��q�ɕ���Ɨ��̏�ʂ����
-�E�����ւ����̂���^�_�͋����͂˂�
-�E�`�̎�t�ɉ_�̂Ȃ�������Y�ւ�
-�E�������Ƃ��邻�̎�ւƂ܂炤�Ƃ��锈�Łi�G�j
-�m�������Ŏ������I���n
-
-�@�Z���\����m���u�Z���\����v�ɓ�d�T���n�@���B
-
-���ގ��͂Ȃ����ǂޖ{�͂���A���Ƃ��Ă���邾���̐H�ׂ镨������B�c�c
-�~�J���O�炵�������܂č~���B
-�݂���̂𖡂Ӂm���u�݂���̂𖡂Ӂv�ɖT�_�n�B
-
-�@�Z���\����m���u�Z���\����v�ɓ�d�T���n�@���A���~�B
-
-�悫�H�|�A�悫�����i�����Ă悫���|�j�A�\�\���ꂪ�l���̍K������b�Â���B
-�ƂĂ��D�����V�C�A���������͂��邪�A��V�_�Ȃ��ŁA��̐��񂾐[���F�͉��Ƃ����ւȂ����������ł���B
-�Ǐ��ɂ�����ł�������U���A�h���񂩂�݋��S���\��K�؂��A����������t�Ђ�����A�����𔃂������Ƃ͂��ӂ܂ł��Ȃ��B
-����ȕ����ӂ��A���͂ق񂽂��ɂ��т������̂ł���B
-�炵�������m���u�炵�������v�ɖT�_�n�A����͖��_���`�I��O�`�I�Ȃ��̂ł��邪�A������������Ă䂭�����ɑ��`�I�Ɍ��シ�邱�Ƃ��o����̂ł͂���܂����B
-�V�l�͘V�l�炵���m���u�V�l�͘V�l�炵���v�ɖT�_�n�A�n�R�l�͕n�R�l�炵������A���Ђ��ւ�΁A�C��炸�ɐ�������A���Ȃقɐ����ɐU���ցB
-�n�R�͂�낵���A������������ȁA�^�ʖڂ͌��\�A���悭�悵�Ă͂����Ȃ����B
-�m����������Q�������n
-�E�`�̎�t���A�H�ׂ���̂��Ȃ��Ȃ�
-�E�󕠁A���ӂ̃T�C�����̂��܂ł���
-�E���Ă�������Ă����͑V�̂��΁i�G�j
-�E�����ł��������ꂵ���t�̕�
-�E�Ă���钎�̉����ĂĎ��ʂ�
-�E����Ƃ��ڂމԑ��łĂӂĂӂ̖�
-�E�ԂɉԂ��A�Ăӂ��悪�Ăӂ����
-�E�~�J�߂��_�łʂ������Ȃʂ��Ȃ�����
-�E�G���ق����܁T�Ȃ�Ԃɂ���
-�@�G��������؋��ӂ���΂���
-�E��ӕ��䂤����Ƃ��Ēw偂͑҂�
-�E��t�����t�ւ�ӂׂ̒w偂͂���������
-�E�ӂƊႪ���߂ĕ��ӂ�
-�@�@�@����
-�E�Ђ����⡂ۂ���ʂ��ꂽ
-�m�������Ŏ������I���n
-
-�@�Z���\�O���m���u�Z���\�O���v�ɓ�d�T���n�@���A��m���i���j�n�~�J�炵���B
-
-���N�m���u���N�v�ɖT�_�n�A������V�̓������炤�A����Ȃɑ��N���悤�Ƃ͎v�͂Ȃ�����ǁA�Ⴊ�o�߂�ƐQ�Ă͂���Ȃ��̂ł���B
-����т�H�ׂĂ��Ƃ��A�ق��Ǝ����ʂ����A�ʂ������łʂ��Ȃ������ł���A�Ԃ�^�_�������Ď��̐_�o������^�_�����Ă���ł���A�����Ō�̂���ɂ��������ł���A���̎����ʂ����̂����炳�ς肵���A���ς肵���Ɠ����ɁA���ƂȂ����т���������A���̋󋕂�������̂ł���B
-�ߑO���Ǐ��A���Â��Ȃ��낱�сB
-�ߌ�U���A�A������ƒ��q���҂Ă�A���O�O�N���ˑR�������Ă��ꂽ�̂ł���A�����N�������Ĉ��ށA�����ĕ����A�����ĂƂ�Ƃ�ǂ�ǂ�A�A��Ė߂ĖႤ�āA������ɐQ��A�ߗ��߂Â炵���ւׂꂯ�Ԃ肾���A���ꂾ���������̂�т肵���̂ł�����I
-�m����������Q�������n
-�E��m���i���j�n�~�J�̕��̂ӂ������ʂ���
-�@�ʂ������𓊂��̂ĂĎG���̕�
-�E�ʂ��邾���͂ʂ��Ă��܂��Ď��̂Ȃ�����
-�E�Ԃ��Ђ炢�ē����ƂĂ����ԂĂӂĂ�
-�E�߂Â炵���N������G���̌���������
-�E�����ӂ��ƂȂ����̕�̂���
-�E���T����炵��⡂�������
-�E���̂ʂ������́A��ӂ�������
-�m�������Ŏ������I���n
-
-�@�Z���\�l���m���u�Z���\�l���v�ɓ�d�T���n�@���B
-
-�ƂĂ������N����B
-���O�O�N�Ɠ������ē��R�ցA�v���Ԃ�ɔ��D�N�Ɖ�k�A�����ē��֐��ւ��ʂ�B
-���͈ꎞ�̋D�Ԃɏ���A�r���O�c�K���ԁA�ɓ��N��K�ˁA���ꂩ��O�c�N��K�˂Ă܂����񂾁A��̎h�g�̂����炵���A���܂��͑f�G�����A����Ɠ��l�ɎO�c�N�̐l�Ԃ̂悳���i�Ɛl�ꓯ�̂悳���j�f�G�����A���Ă��Ɍ�āA�U�����āA�V�l�}���ςāA�𐂎R�̌����܂��āA�閾���̋D�Ԃł�ƋA�������B
-�߂Â炵�����R�Ōς����Ă�B
-�m����������Q�������n
-�E�G���ɖ閾���̌������邵�Â���
-�E���̂��悬���~�J�炵���J���ӂ肾����
-�@�����T�������������Ƃ���悢�΂�����
-�E�܌��̊C�͖����ĒX�ւđ傫�ȑD
-�@�@�@�̋��ɂ�
-�E壂���ق炨���Ђ������Ƃ�
-�m�������Ŏ������I���n
-
-�@�Z���\�ܓ��m���u�Z���\�ܓ��v�ɓ�d�T���n�@���ꂽ��܂���A�~�J�炵���B
-
-�V�т������̂ł����肵���A��������Ԃė�������ق��̂ŁA�j���̔��͂Ă��߂�Őg�S�����Â��₤�ł���B
-���c�֏o�����ĔM������ɐZ��A���T�Ɋy�A�[���A�����Ĉ�t����ł����Q���A�n���A�������Ȃ������炩�������B
-�\�\��@�͂������ɉ߂������m���u��@�͂������ɉ߂������v�ɖT�_�n�\�\
-�A�C�X�L�����f�[���s�ɂ͋��Q����A�ʍs�l�̗������Ղ��₤�ȏꏊ�ɂ͓񌬂��O��������œX�𒣂ċ������Ă��A�ʉَq���A�X���͑勰�Q���A����ޓ��̓A�C�X�L�����f�[����ɓ]�Ƃ��T����A����A�������T�߂��ĐH�ׂĂ݂����A���s���邾���̒l�ł��͂���Ǝv���A�������������A�����Ċ����ɂ��܂�����A�戵���ȒP������A���A�X�A�X�B
-�����A�r��ŁA�ƂĂ����������삳��m���u���������삳��v�ɖT�_�n�������A�������Ƃ��ėm���̒��g���A�X�t�A���g�𓥂�ł��A�����ē����ɁA�ƂĂ��X��������m���u�X��������v�ɖT�_�n�������A�ޏ��͓��P�Ŋ���B���āA�ǂ͂�ē�����₤�ɁA���̕���ʂ�B�c�c
-���͂��񂺂�Ƃ��ė����������B
-�m����������Q�������n
-�E�������悰�΂Ђ���͐t����t�֒w偂̂��ƂȂ�
-�E�������тĂ͂�݂Ƃ�ڂ̏�M
-�E����Ă����͂�����c��
-�E���������A�����ɏZ�݂��Ďl�N
-�E���݂���T��킪�̏L�̂��U���
-�m�������Ŏ������I���n
-
-�@�Z���\�Z���m���u�Z���\�Z���v�ɓ�d�T���n�@���A���A�J�B
-
-���A���A���A���قǂ���Ȃ��̂͂Ȃ��B
-�[���A�����N�����A�����A��B
-���ɔs���Ĕ�т������A��ɂ͔O������Ă��A��������Â��Ăs���񂩂班���؂��A�����Đ��ЂԂ�āA�h�قɔ���B�c�c
-�m����������S�������n
-�@�@�@�@�~
-���Ƃ̐Ձm���u���Ƃ̐Ձv�ɔ��O�p�T�_�n
-�@�@�\�\�i�\�l���̖�j�\�\
-�m�������Ŏ������I���n
-
-�@�Z���\�����m���u�Z���\�����v�ɓ�d�T���n�@�܁B
-
-���̍��J�������̐��܂�����Ȃ��قǈ���ň���ŁA�����ē|�ꂽ�B
-
-�@�Z���\�����m���u�Z���\�����v�ɓ�d�T���n�@���B
-�@�Z���\����@�܁B
-�@�Z�������@�J�B
-
-���Ƃ��ēǏ��B
-�ڂ��^�_�΂��^�_�I
-�����������A���̐��͐g�ɂ��݂�A���̂��̂��A���̂����B�c�c
-�m����������R�������n
-�@�@�@�@�~
-���̎��m���u���̎��v�ɔ��O�p�T�_�n
-�m�������Ŏ������I���n
-
-�@�Z����\����m���u�Z����\����v�ɓ�d�T���n�@�J�A�~�J�炵���B
-
-���N�����Đg�Ӑ����B
-���ӂ����Ƃ��ēǏ��������삵����B
-���Ƃ��ӌ��Ȗ��m���u���Ȗ��v�ɖT�_�n�����炤�A����̓����ł��O���ł��Ȃ��A���܂�ɂȂ܁^�_���������I�����B
-���͂�������Ƃ��Ď������Ȃ݂��A�����Ēp�����A���Ƃ��ӏX�����m���u�X�����v�ɖT�_�n�����炤�B
-�m����������Q�������n
-�E����������䕂̂Ђ����Ȃ邢��
-�E�����Ă��܂ւ΋a�n���̋a�ł���
-�E�G���ɂ܂�Ă����Ȃ��̉Ԃ�
-�E�Ԃ��̂͂�����̉Ԃ̂��݂����
-�E�ƂĂ����Ȗj�������̂Ă؂�
-�E�����炩���Ă������ĂĂӂ���������΂���
-�@�Ԋ^���т����Ƃ�Łi���j
-�@���Ђ��߂̕����ӂ�⡁i���̗����j
-�@���Ђ��߂́A��V�̉Ԃ����ڂ�邱�ڂ��
-�m�������Ŏ������I���n
-
-�@�Z��������m���u�Z��������v�ɓ�d�T���n�@�܁B
-
-�c�A�̂������������i�B
-�c�c�����E���A�������E���A�S�����E���A�w偂��E���A�c�c�����Ă����܂Ђɂ͎����g���E�����炤�I�c�c
-���܂�\�����Ă�Ȃ��������������������ꂽ�i�����A�K�ւɑ�āA�R�c����l�Ɏ��Ƌ����؂肽���Ƃ��ӎ莆�������Ă������̂ł��邪�j�A���������񂾁i�ܓ��Ԃ�̎��ł��苛�ł����j�A�����C���ɂȂāA�w�Z�Ɏ����N��K�˂ė����𑣂����i�����ĕĂƖ�؂Ƃ��āj�A���ꂩ��܂����񂾁A����ŊX�֏o���A�Ђ��Ђ��ɂȂ�܂ň��񂾁A���悤�ǎ��̕s�ݒ��K�˂ė��āA����T�������Ă��h�N�Ɉ����āB�c�c
-�񎞂����āA��Ɩ߂��A�����Q���B
-
-�@�Z�����O���m���u�Z�����O���v�ɓ�d�T���n�@������B
-
-�����h���I�@����������΂炭�U���B
-�����A�S�~�D�ŎR���΂����ǂ��I
-����͍���̏o�����ł����A�ߗ��ɂȂ����X�N�X���钿���ۂł����I
-�x���̂l���񂪗�̔@����Ă��Ęb���A�X�֕�������B
-�I���҂��A�҂��ڂ������A�h�N�����Ȃ���Ύ��N�����Ȃ����B
-�m����������Q�������n
-�E�G���̂��������͈�l���̂���
-�E�~�J�̐����̂��ӂ��Ƃ���ǂ����Ƃ��ǂ���
-�E�ق̂��ɔ~�J���肵�Ē|�̎q�̔�
-�E�ւ�ۂ�Ƃ��đ������̊����A�I���K����������
-�@���f�̂��������ޏ��͏΂͂Ȃ�
-�E���ꂩ���N�̑���������΂���
-�m�������Ŏ������I���n
-
-�@�Z����\�l���m���u�Z����\�l���v�ɓ�d�T���n�@�~��A�~��A�~��A�~��B
-
-�I�����A�Ǐ��O���B
-�������l���񂪗����A�����ċ������߂��B
-��������Ő��ӂ��Ƃ͈����Ȃ����A���Ђ����C���Ŏ����邱�Ƃ͂�낵���Ȃ��B
-���𑸏d����A�����̐����𑸏d��������I
-�m����������P�������A�܂�Ԃ��ĂQ�������n
-�@�@�@���������L
-���ȂقɁm���u���ȂقɁv�ɖT�_�n�B�\�\
-�s�Z����A���ł��A�ǂ��ł����ȂقɁB
-�P���A�����A���ׂĂɑ΂��Ă��ȂقɁB
-���Ȃ�M��m���u���Ȃ�M��v�ɖT�_�n�A�B��O�m���u�B��O�v�ɖT�_�n�������āB
-�|���m���u�|���v�ɖT�_�n�Ƃ��ӂ��Ƃɂ��āB�\�\
-�����m���u�����v�ɖT�_�n������A�������傩��A�����g����B
-���ȂقɎ󂯓����S�m���u�󂯓����S�v�ɖT�_�n���狭�����炫������͂��o�Ă���B
-����Ƃ��͐��݁m���u����Ƃ��͐��݁v�ɖT�_�n�A����Ƃ��͑���m���u����Ƃ��͑���v�ɖT�_�n�A�����ė��ꓮ���Ȃ��ł͂���Ȃ��\�\���ꂪ���̐���B
-�X�ւĐ��ށ\�\�s�Ђ��܂����Ƃ́A���ɂ͕s�\���B
-�m�������Ŏ������I���n
-
-�@�Z����\�ܓ��m���u�Z����\�ܓ��v�ɓ�d�T���n�@���B
-
-���d���B�\�\
-�卪�ӂƂ�A�g�}�g�Ȃ�A�@��L�т�A���h��h���Ȃ�B
-�O�A����Ēu�����n�鏒���O�\�΂���ɐB���Ă�B
-�y�̕��i�Ɠ����̈����m���u�y�̕��i�Ɠ����̈����v�ɖT�_�n�B
-�Q���A�Q���A�����璩�܂ł�����Q���A�����v���Ƃ������ƂȂ��ɁB
-
-�@�Z�����Z���m���u�Z�����Z���v�ɓ�d�T���n�@���A�����ē܁A�J�B
-
-�q��A�X�X�A�X�X�I
-�c�c�Ō�̔ӎ`�m���u�Ō�̔ӎ`�v�ɖT�_�n�I�@���A���A���A���B
-
-�@�Z���������m���u�Z���������v�ɓ�d�T���n�@�܁A���ꂩ��J�B
-
-�ڂ�����A���񂺂�A�����Ă䂤����A�Ƃ�����B
-�m����������R�������n
-�@�@墕ߎ��i�A�앗�Ɂj
-���͔��̎��r�����
-���ɂ���Ȃ����̖��Ă������ǂ�
-��Ɨ������������A�r���ʂ��Ȃ����Ŗ�
-�Ђ悢�ƂƂ܂Ă��̂܁T����ł��܂��m���u���v�Ɂu�}�R�v�̒��L�n��
-���A�Ƃ�ł��Ď���ł䂭
-�m�������Ŏ������I���n
-
-�@�Z���������m���u�Z���������v�ɓ�d�T���n�@�J�A�ƂĂ��~���B
-
-�J�͓V�n���ʂ���قǍ~�����A���͐g�S������قǐQ���B�c�c
-
-�@�Z��������m���u�Z��������v�ɓ�d�T���n�@�܁A�܂��~�肾�����B
-
-�ߌ�A�h�N�ɏ�����Ăe�֍s���A�啎P�������������ɂg�����ς�ӂ߂��Ă���A�����̗����͂���������Ǖs���������A�����؂肠���ċA�������B
-
-�@�Z���O�\���m���u�Z���O�\���v�ɓ�d�T���n�@�悭�~����̂��A�~���~���B
-
-�����N�A������̂��炾�����Ă��܂��ė����A�����Ĉ���Q�ċA���B
-���������^�_�A����m�点��T�C�������A�ɂ����Ė肾�����B�c�c
-�m����������Q�������n
-�@�����Ə������̓��[�������
-�E�₽��ɂĂӂ��悪�Ƃ�ł���~�J����
-�E�~��Â��鐅�����g�̂܂͂�
-�E�g�̂܂͂�͑����炯�}�C�i�X���炯
-�E�����ɂ����ӂ����𒮂�����
-�u���ޏ��ƃV�l�}�v
-
-�@�@�V���̋L�m���u�V���̋L�v�ɔ��O�p�T�_�n
-�@�@�@�@�@�~
-�m�������Ŏ������I���n
-�m����������P�������A�܂�Ԃ��ĂQ�������n
-�@�@�@���������L
-�H�ɂ��H�̉Ԃ��炭�A�H�ɂ��H�̉Ԃ��炩���Ă����B�i���}���]�̌��t�j
-�m����������Q�������n
-�@�@�@�@�@�~
-�E�ǂ�����ǂꂳ���ȑ��̗t�̂��悮���悮
-�E�͂����ĂӂĂӂ͉Ԃ̂������
-�E�ʂ�ĂĂӂĂӂ̂������Ԃ͂���
-�E�͂��ƂĂӂ��悪�����₳�񂪂�Ă���
-�E�����邪�܂܂̑�����⡂̂т�����
-�E�R�݂̂ǂ�̐���䂭�_�̂���䂭
-�@�@�@�@�@�~
-�@�@�Ȃ��ɗ܂��ł�̂���m���u�Ȃ��ɗ܂��ł�̂���v�ɔ��O�p�T�_�n
-�@�@�@�@�@�@�\�\�i���̏��S�j�\�\
-�@�@�@�@�@�~
-�@�@�@�~�J�o��
-�E�����܂��������d���֍~�肵����
-�@���݂���̂ނ�������l�����͎��₳��
-�@�@�@�@�@�~
-�m����������P�������n
-���M��
-���l
-������
-�m�������Ŏ������I���n
-�@�@�@�@�@�@�~
-�E��S�I�A��M�m���u��M�v�ɖT�_�n�A���d���ǁA�����m���u�����v�ɖT�_�n�B
-�@���͂��ʐ��m���u�ʐ��v�ɖT�_�n�Ƃ��ӂ��́B
-�@�����ӂ��̂Ƃ����͂����̂Ƃ̂Ȃ���B
-�E�����������������B
-�@�����^�_�@�҂��^�_�@�݂Á^�_�������́B
-�E�����ڂ�A������ƁB�i����I�Ӌ`�m���u����I�Ӌ`�v�ɖT�_�n�j
-�@�����A�`�ʁA�����Ӂm���u�����Ӂv�ɖT�_�n�Ƃ��ӂ��ƁB
-�E���}�Ə퓅�B
-�m�����y�[�W�n
-
-�m����������Q�������n
-�������^�@��������
-
-���X�@�X
-
-�t�L�S�ԏH�L��
-�ėL�����~�L��
-�ᖳ�Վ��k�S��
-�֐��l�ԍD����
-�m�������Ŏ������I���n
-
-
-�@��������m���u��������v�ɓ�d�T���n�@�܁A�܂��~�肾�����B
-
-�g�S��V�A����ɐV�炵�������m���u�V�炵�������v�ɖT�_�n����B
-���ȂقȁA�Ƃ�͂�Ȃ��s���B
-�ߑO����Ƃ��悤���ƂȂ��ɊX�̃|�X�g�܂ŁA�o���̐Ղ������܂����B
-�����̕ȂŁA�������Ȃ܂����A���e�������Ȃ������A�������͂Ȃ����A�����ׂ��莆�������Ȃ����B�c�c
-��̏o�����������A����͎��̕s���ӂ������D�Ⴞ���A�����Ō�Z�̂܂܂ɗ��q�𕥂Ђ����������ƁA�����Ă����肵�Ă�ĕS����嬂��ꂽ���ƁB
-�������Ă����������Ƃ��Ƃ����Ă��Ă���Ȃ����A���O�������߂��A�M�p���Ȃ����߂��A�c�c�ǂ���ł���낵���A�c�c���Ɏ��͂��ȁB
-���������ɗ������Ă���A�����čs��Ȃ��ȂĂ���A���ƂȂ����͉����m���u�����v�ɖT�_�n�ɂȂ��₤���A�����ɑ΂��Č����ȐS���܂ցm���u�����ȐS���܂ցv�ɖT�_�n���Ȃ����Ă��܂��₤�ł���A�����܂����������A���͔��Ȃ��T�A�ЂƂ�⊾���������B
-���ƂȂ��Q�ꂵ�����A�y�[�^�[�̃��l�c�T���X�ɓǂ݂ӂ����B
-
-�@��������m���u��������v�ɓ�d�T���n�@���ӂ��܂��~�Ă��B
-
-�����낵�Â��ɂ��Ă����Ђ킸��ӂ��ƂȂ��m���u�����낵�Â��ɂ��Ă����Ђ킸��ӂ��ƂȂ��v�ɖT�_�n�B
-�J�͈����Ȃ��A���݁^���_�Ƃ������̂�����A���͂�낵���Ȃ��A����^�_������B�c�c
-�J�����o�P�c�ɂ��܂Đ������܂Ȃ��Ă����ށA���ꂽ��⒃�q��A�݂�ȉJ����Ă����B
-��Ə����������Â���B
-���������\�\
-�m����������Q�������n
-��t�����Ȃ�
-��t�Í��Ȃ�
-�O�t�����Ȃ��c�c
-�m�������Ŏ������I���n
-���������A�����N�������A���ꂩ��A�ق�^�_�Ƃ�^�_�ǂ�^�_�ڂ�^�_����^�_�B
-�@�@�@�@�@�@�@�c�c�c�c�c�c�c�c�c�c�c�c�c�c�c�c�c�c�c�c�c�c�c�c�c�c�c
-
-�@�����O���m���u�����O���v�ɓ�d�T���n�@�J�B
-
-�����A�����̈����B
-���ȎR���΁m���u���ȎR���΁v�ɖT�_�n��ʂ�z���ďX���ȎR���΁m���u�X���ȎR���΁v�ɖT�_�n�����B
-�p��m��A�p��m��A�p��m��A�p�m�炸�߁A�p�m�炸�߁A�p�m�炸�߁B
-
-�@�����l���m���u�����l���v�ɓ�d�T���n�@�ܓ��m���u�ܓ��v�ɓ�d�T���n�@�܂���A�~����A���ꂽ��B
-
-�����g�����Ȃ����B
-�m����������Q�������n
-�E���T��ӂ������䂪��������
-�@�@�@���N���@�F�{��������
-�E���̂Ȃ����������݂��߂鎕���ʂ��Ă��܂���
-�E��ӂ�݂ق���ƍ炢����
-�m�������Ŏ������I���n
-
-�@�����Z���m���u�����Z���v�ɓ�d�T���n�@�J�B
-
-�A���R�[���̋t���B
-�~�J���ǂ���炠���肳���ȗ��B
-
-�@���������m���u���������v�ɓ�d�T���n�@�����@����@���A�܁B
-
-�g�S�s���A孋����ǁA���Ȏv���B
-
-�@�����\���m���u�����\���v�ɓ�d�T���n�@�܁B
-
-���T�낵�Â��ɂ��т������݂킽��B
-��܂����̉�m���u��܂����̉�v�ɖT���n�֏o������A�r��A�V��H�Ɉ��ӁA�ނƎ��Ƃ͌܏\���S�����A�����̂₤�ɓ��c�œ����A��������͂��肪�����A�r����̂���ł�΂��A���܂����A���ꂩ����A�j����A�g����A�`����̐t����낱�ԁB
-�I��Ԃɂ͊Ԃɂ��͂Ȃ����A���ށA���݂�������D�����Ȃ���΂����܂�Ȃ����̈��Ȃ��A�Ƃ��^�_�x���قւ��낰���񂾁B
-�m����������Q�������n
-�E�����Ԃ܂�����ɉ��V
-�E�؂����͗������������闷�l�ǂ���
-�@��t�̒�����A���e�i���Ă߂�
-�E����͂���Ƃ��đ��̂�����₤��
-�@�@�@���c����
-�@�ĎR�̂����Ȃ�Ή���s���t�̂킭�Ƃ���
-�E�����Ђł̗t������̂��T�炮
-�E���т������Ƃ��ău�g�ɂ��͂�Ă�܂�
-�m�������Ŏ������I���n
-
-�@�����\����m���u�����\����v�ɓ�d�T���n�@�܁A���ׂƂ��āB
-
-�܂��r����̂����b�ɂȂ��A�����B�c�c
-�������܂ŁA���A�V�l�}�A���A�V�l�}�B
-�₤�₭�ɂ��ďI��ԂŋA���B
-
-�@�����\����m���u�����\����v�ɓ�d�T���n�@�\�O���m���u�\�O���v�ɓ�d�T���n
-
-�Q�Ă��ق��Ȃ��A������l��ق��Ȃ��B
-
-�@�����\�l���m���u�����\�l���v�ɓ�d�T���n�@���ꂽ���A�܂����B�\�\
-
-�ڂ��肵�Ă��Ƃ���ցA�t�X�ΌN�����ʂ��ɗ����A���������Ė�āA�����āA���ƍ�Ƃ���Ė�ӁB
-�ʂ�Ă���܂����񂾁A����̎��͂ق�Ƃ��ɒp�Â��������m���u�p�Â��������v�ɖT�_�n�A�������̎��m���u�������̎��v�ɖT�_�n�����B
-�m����������P�������A�܂�Ԃ��ĂQ�������n
-�@�@�@���������L
-�������\�\����ԏƁ\�\���n�I�m���u���n�I�v�ɖT�_�n�B
-���|�p�I��S�A��ƓI��M�B
-�������̂��̂𖡂͂Њy���ސS���m���u�����̂��̂𖡂͂Њy���ސS���v�ɖT�_�n�B
-�������Ɛ^�� actuality reality.
-�����́\�\�����B
-�@��p�\�\�@�\�B
-���l�Ԑ��A�Љ�B
-�@�v�z���A�|�p��
-���o�傷��m���u�o�傷��v�ɖT�_�n�A���̂��Ƃ����̏ꍇ�ł͐�������̂ł���m���u���̂��Ƃ����̏ꍇ�ł͐�������̂ł���v�ɖT�_�n�B
-�@�o��̂��߂̔o��m���u�o��̂��߂̔o��v�ɖT�_�n�i�|�p�����`�ł���j�A�����̂��߂̕����Ɠ��l�ɁB
-�m�������Ŏ������I���n
-
-�@�����\�ܓ��m���u�����\�ܓ��v�ɓ�d�T���n�@�\�Z���m���u�\�Z���v�ɓ�d�T���n�@�\�����m���u�\�����v�ɓ�d�T���n�@�ǂ����~�J���������B
-
-���͖����Q�Ă�A�c�c�J�����`�����_�C�i�}�C�g���B�c�c
-���ȏȎ@�́A���T�A�������B
-
-�@�����\�����m���u�����\�����v�ɓ�d�T���n�@�������܁B
-
-�g�Ӑ����A�\�\�|���A����A�ώρA���A���B
-�V�n��؂����₩�ȕ����m���u�����v�ɖT�_�n�B�\�\
-��A���肬�肷�A�^�A�����A���A�؁A�_�A���A�a�A�����Ď��B
-���͂Ƃ��Ă���߂��Ȃ��Ƃ���΁A�ߎ��m���u�ߎ��v�ɖT�_�n���āA�����Đ����Ă䂭���O�Ȃ����ł���B
-���悭�悷��ȁA���Ȃقɂ��ق炩�ɁA������������ȁB
-���Â��Ȉ���A�������Ȉ���A�����炸����܂��������A���̈�������̐����ł���A���̐����ł���B
-�m����������Q�������n
-�@�@�@���N��
-�E�҂�����Ȃ��ł�����܂ŗ[�Ă����
-�E�����ۂ���̂ڂ������a�̂܂��ɂ�
-�E�Ђ�˂̖����悱���ĐƂ����̂��������i���j
-�@�@�@����
-�E�ЂƂ�Ƃ�ł͐Ԋ^�i���j
-�@�@�@����
-�E����Ƃ���肪��q�ɗ��̂��͂ނ�
-�m�������Ŏ������I���n
-
-�@�����\����m���u�����\����v�ɓ�d�T���n�@���܁B
-
-�g�S���Á\�\����Ƃ��Ă��悩�炤�B
-�j�[������炢���B
-�A���R�[�������̐g�S���ǂ񂼂��ւ܂Ŋׂꂽ�A���͋N������A�������S�����̂ł���B�c�c
-�m����������Q�������n
-�E����킽���������Ȃ���Ă䂭��
-�E�͂Ȃ�ĂЂƂ�݂̂ނ����ЂƂ�
-�@�@�@��������ꂽ�t�X�ΌN��
-�E���͂����邪�܂܂́A�������݂̏H�c��
-�E�ނ̂��Ɣޏ��̂��ƕ��̒ώς��ς�
-�E���������������邭�Ȃ�΂��肬�肷�i�G���j
-�E���ꂩ�炻��֍l�ւ邱�Ƃ́A�ӂ��낤�̂Ȃ�����
-�@��ӂׂ����������R���Ă��΂̂Ȃ������i�r��j
-�m�������Ŏ������I���n
-
-�@������\���m���u������\���v�ɓ�d�T���n�@�܁A���߂₩�ȉJ�ƂȂ��B
-
-�[������A������Ċw�Z�֍s���A�����N�h���ł���A��ɂ�Č�y���ɂȂ�A�Z���Ԃ�̎���ł���A�������Ȃ��̂ŁA���߂���܁T�ɔ����A�H�ׂ����ĐQ�ꂵ�����B
-
-���̂ʂ�������䥏͋���H�׃r�t�e�L��H�ׂ�̂����玩���Ȃ�������A�ނ�񊚂݂��߂邱�Ƃ͏o���Ȃ�����ق񂽂��ɂ͖��ւȂ��B
-�m����������Q�������n
-�E�^�Ȃ�������͉p����K�Ӑ�
-�E�Ō�̈�C�Ƃ��ĎE����锈�Ƃ���
-�@�E�����M��́A����͂킽���̌�
-�@����݂蕗�ɐ�����Ă�镗��͖�
-�E��Ƃ͂�Ă킽���������ӂ͂����񂽂��i�G�j
-�@�ǂ����Ń��a�I���A�ӂ��낤��������
-�@������̓J�����������тɂ��悤
-�@�����ꂽ����A����������Ǝq�ƔG���
-�m�������Ŏ������I���n
-
-�@����������m���u����������v�ɓ�d�T���n�@�܁A�������A�J�B
-
-�����A���A�g�Ӑ����B
-�\�\�Ă��Ȃ��Ȃ��i�K�͖��_�Ȃ��j�A��H���悩�炤�i�悭�Ȃ��Ă��F���Ȃ��j�A�ƊϔO���Ă��A�����N������̌��t�ʂ�ɏ��X���Ă����A����ł��΂炭�͈��S�A���̂����ɂ͂j����̑��������邾�炤�B
-�������l�m���u�������l�v�ɖT�_�n�Ɣ~���V��m���u�~���V��v�ɖT�_�n�I�@������l�ւĂЂƂ��΂���A���ꂪ�����ł��邾�����ꂾ���A�΂Ђ����₤�ŏ΂ւȂ��B
-�F�|����H�|�ցm���u�F�|����H�|�ցv�ɖT�_�n�\�\���ꂪ�����̐��ڌX���ł���B
-���I�@���͎��Ȃ���̎��ȁm���u���̎��ȁv�ɖT�_�n�Ƃ��ĕ\�����Č����Ă������̂��A���͋ߍ��悭��������A����̖��������̎����l�ւ�����B
-�m����������P�������A�܂�Ԃ��ĂQ�������n
-�@�@�@���������L
-���̋��i�V���Ắj�i�a�݂Ắj�i����Ԃ�Ắj�B
-�����F�i�����y���̊��S�j�B
-���ݕ����l�𒴉z�������́m���u�ݕ����l�𒴉z�������́v�ɖT�_�n�i���΂̔@���j�B
-���u�����Ȃ�m���u�����Ȃ�v�ɖT�_�n�v
-�@�K���Ȃ��Ȃ�A�Ă��Ȃ��Ȃ�A�������Ȃ��Ȃ�I
-���߂��䂭���́m���u�߂��䂭���́v�ɖT�_�n�i����O�Ɂj�B
-�������\�\
-�@�A�ˁ\�\���Ӂ\�\�����\�\�񉶁B
-���� carma �\�\
-�@���\�\���\�\���߂Έ����Ȃ�A���܂Ȃ���Έ����Ȃ�B�\�\
-���⏑�m���u�⏑�v�ɖT�_�n�ɂ��āB
-�m�������Ŏ������I���n
-
-�@����������m���u����������v�ɓ�d�T���n�@�܁B
-
-�R�͖̌؂��E�ӁA�S���̎キ�ȂĂ��̂ɋ������A�ア�S���������Ȃ���B�c�c
-���������͍D���ɂȂ�Ȃ��B
-�ߌ�A�����N�����A�ߐ��A���ꂩ�瓒�c�̈ԘJ��֍s���Ƃ��ӁA����ƑA�܂����ȁB
-�\�\�������Ȃ��Ȃ��A���΂炭�≌������悩�炤�A�\�\�悩�A�悩�B
-�m����������Q�������n
-�E�đ�����l���̂Ȃ������ʂ肷���Ă��܂��m���u���v�Ɂu�}�R�v�̒��L�n�i���j
-�E�����͉��ƂȂ����̕�̂��邳��
-�E�������肿��낿���Ƃ����̎U���i���j
-�E���������|�̗t���̕���̂�낵���i�G�j
-�E�����̉���₭
-�E�����ł��ǂ����ŗx���m���u��v�Ɂu�}�R�v�̒��L�n�ۂ̂ЁU������
-�@�@�@�����N��
-�E���Ȃ������Ă���邱��̕��邵�����
-�m�������Ŏ������I���n
-
-�@�������O���m���u�������O���v�ɓ�d�T���n�@�܁\�\���B
-
-�ƂĂ��悭�Q���A�����璩�܂ŁA�����v�����Ȃ��ŁA��q�������͂Ȃ��܁T�ŁA�\�\����ŘA��̕s�����Ƃ���ǂ����B
-�O�ׂ̂r����̑��q�����đ������Ă��ꂽ�A�������ނ��Ƃ��A�������ŁA�y�s���N�t�ɂȂ�܂����B
-����ēy�p�炵���Ƃ����A���N�ŏ��́A�ō��̏��������B
-�₤�₭�k�C�������W�㒅���A�������X�֏o�����Ĕ����\�\
-�m����������Q�������n
-��\�K�@�n�K�L�؎�
-�O�\�K�@���O��
-�O�\��K�@�Ȃł���
-�\�K�@�I���
-��\�K�@��
-���K�@���X
-�\���K�@�C���R
-�m�������Ŏ������I���n
-���z�ɂ͂܂��đオ�c���Ă���A���Ƒ�R���������Ƃ�A�L���ɔ�����Ƃ�B
-�ߌ�A�����N�����A���Ɠ����ƃg�}�g���Q�A���񂾂�H�ׂ��肵�����A���⏋�������A�����Ă���܂���Ȃ����B
-���S�X�X�A���S�X�X�B
-�����͊X�֎O�x�o�������A�X�֋ǂցA�w�̃|�X�g�ցA��ՂցA�\�\�߂Â炵���������āA�\�\���΁��m�����Q���O�A15-13�n
-�����ސT�A�g�S���������Ȃ���΂Ȃ�Ȃ��A�ߋ��𐴎Z���Ȃ���΂Ȃ�Ȃ��A�����ā\�\�����Ă��ꂩ��ł���B
-�m����������Q�������n
-�@�@�@�����Ђǂ�͂�����
-�@�@�@�\�\�i�A�������҂̋咟����j�\�\
-�E���Ђ��߂̉Ԃ����ڂ�邱�ڂ��
-�@�ނ��ޏ��ɂ��܂��ꂽ���̂܂�������
-�E�����낤�Ƃ��Đ��Ђǂ�͂����Ӊ��V
-�E�ӂƐ��Ђ��߂̊炪����o�P�c�̐�
-�@�A���R�[�������E�E�c���킽�������܂��
-�E������悱���͂�A�X�t�A���g�̂قƂڂ��
-�@�����������邭�����Â��Ă��鑾�z
-�E���Ђ���Ȃ��_�̕􂭂Â�Ă��܂�
-�m�������Ŏ������I���n
-
-�@������\�l���m���u������\�l���v�ɓ�d�T���n�@���A�܁m���u�܁v�Ɂu�}�R�v�̒��L�n�����B
-
-�܂��O�邾�A�l�ԂƂ��āi�ނ��o���Ă��l�ԁm���u�o���Ă��l�ԁv�ɖT�_�n�Ȃ�΁j�A�H�ׂ���̂��܂Â��Ƃ��A�閰��Ȃ��Ƃ����ӂ��Ƃ�����ׂ����͂Ȃ��A���͔������m���u�������v�ɖT�_�n�Ă��̂��B
-�~���N���v���Ԃ�ɍH��ɖK�˂�A�v�w���҂��̌��i�ł���A�ޓ��͕���ƒ���Ђ��ĕʋ����Ă��A���T�ɂ��l���ߌ��̏�ʂ��W�J����Ă��̂ł���B
-����̎������܂Ă��̂ŁA���𒋎������ĔӎށA���肪�������Ƃ��B
-�l�̂Ȃ����m���u�l�̂Ȃ����v�ɖT�_�n�������邱�Ɠ�x�B
-�Ԓ��m���u�Ԓ��v�ɖT�_�n�𖡂ӁA�g�}�g�𖡂ӁB
-�����͓y�p�N�̓��A�Ƃ��Ƃ��V�ɂ͉����Ȃ����A�V��������H�ׂ����̂����B
-�H�֎q�O�{�A�H�ӉZ�O�{��A���A���̉��ܑK�A����܂��������B
-�m����������P�������A�܂�Ԃ��ĂQ�������n
-�@�@�@���������L
-�����߂Ȃ������m���u���߂Ȃ������v�ɖT�_�n�\�\���̐����m���u���̐����v�ɖT�_�n�ɂ��āB
-���n������΂����m���u�n������΂����v�ɖT�_�n�\�\
-�@�قǂ悢�n�R�B
-�@���������܂Ő����Ă����͕̂n�R�̂������m���u�R�̂������v�ɖT�_�n���B
-�����a�m���u���a�v�ɖT�_�n�B
-�@�قǂ悢���a�m���u�قǂ悢���a�v�ɖT�_�n�i���̏ꍇ�ɂ́j
-�����m���u���v�ɔ��O�p�T�_�n�̂���ƂȂ��Ɓ\�\
-�@���D�V�Ƃ̉�H�A�|���̘b�B
-�m�������Ŏ������I���n
-
-�@������\�ܓ��m���u������\�ܓ��v�ɓ�d�T���n�@�����A�y�p���a�B
-
-����^�_�Ƃ����̂ň���ł��A�S�������ł��A�������ł��A�݂�Ȋ��ł��B
-���������������A�֎q�������A�g�}�g�������A���ɂ͂��肪�������邠�肪�����ł���B
-���̖{�m���u���̖{�v�ɖT�_�n�i���q�V�S�j��ǂ݂��ւ����A�ЁX���鏬���q������Ǔ��e�L�x�ŁA���ւ��邱�Ƃ��ɂ߂đ����{�ł���B
-�������l�m���u�������l�v�ɖT�_�n�i�X���O��j���ʔ����A�N���V�c�N�̂悳���A�A���f���[���̂悳���A���O�̂悳���������������߂�B
-���͋�z�Ɓm���u��z�Ɓv�ɖT�_�n���A����ϑz�Ɓm���u�ϑz�Ɓv�ɖT�_�n���Ǝv�����Ƃł���A�����ɂ͂��܂����Ƃł͂Ȃ����B
-����哂������A���ꂵ�����A����������_�o����ɂ���A���炵���B
-�܂��O�邵�Ă��܂��A�S�����ɂ��ȂāA���̂܁T���ʂ�̂ł͂Ȃ����Ǝv�ӂ����A�債�����Ƃ͂Ȃ����A�����Ď��̊o��m���u���̊o��v�ɖT�_�n�͏\���łȂ��A���Ƃ��Ӑl�Ԃ͏o���Ă�Ȃ����Ƃ��l�ւ�����ꂽ�B�c�c
-�l���m���u�l���v�ɖT�_�n�\�\�����m���u�����v�ɖT�_�n�\�\�^�����͏h���m���u�^�����͏h���v�ɖT�_�n�ɂ��Ďv�����U�������A���̎��ɂ͂܂��������Ȃ��I
-�ߌ�A�l���l�\���̏��ō���ցB�\�\
-�̋��̌̋��A�����̓����A�����ɂ悢�Ƃ��������΂悭�Ȃ��Ƃ��������A���́U�����T�����������m���u�����T�����������v�ɖT�_�n�I
-�R�Ƃ̌�y���ɂȂ�A�̋��̉�m���u�̋��̉�v�ɖT�_�n�Ƃ��ւΉ��������������ǁA�������y���̈���炤�B
-�����Ċǂ������A���ՂȋC�����B
-�m����������Q�������n
-�@�@�@���i���������ւ锒�_�Z�Ɂj
-�E��ӕ��̉đ��̂��悮����
-�@�@�@�i�������Ȃ����F�Ɂj�@�@�R���΍���
-
-�E��ӂׂ��U���������ӂ͌x�@���̃��a�I
-�E���V�̖����͎���ł
-�E�^��킽�����Q�Ȃ��ōl�ւĂ��
-�E���܂Ő�����|�̎q��|�Ɂi����j
-�E���V�A�ϓd���̓S���������蒼�p�`�i����j
-�E�������ӎ��������ɂ͂�����Ƃ鎙�̂ʂ�������������
-�E�������͂܂�䐟�݂킽���l
-�E��ӂׂ͂�݂��ւ�t�ɐ������
-�E�R�͂�ӂȂ��̊X�͗z�̂�������
-�E���V�܂�����Ƀp���N�����i�����ԁj
-�@�@�@��Y�N��
-�E�S�����j�[�Ɋ������ւđ҂���
-�E���Ƃ��˂ނ�Ȃ��������̂Ƃ���₤
-�E�邠���̕��̂Ђ��^���_�Ƃ��Č����Ђ炭
-�m�������Ŏ������I���n
-
-�@������\�����m���u������\�����v�ɓ�d�T���n�@�܁B
-
-���N�A�����A�㎞�̉���ŋ�B�ցB�\�\
-���߂ċD�Ԃ̐H���ɂăr�[����{�����Ȉ�M�B
-��i�w��񓙑ҍ����ɂ��t�X�ΌN��҂������A�����N����т悹�Ă���āA�A�C�X�N���[����H�ׂT��k�B
-�֖啗�i�m���u�֖啗�i�v�ɖT�_�n�͂����킭�m���u���v�Ɂu�}�R�v�̒��L�n�邭�Ȃ��B
-���ꂩ�甪���ցA�\�\���q�N�A��コ��A����q�N�Ƃ�����ɁA�H�ׂ�����񂾂�A�b������B
-�����A���̑̏d�\�l�Y��S�A�܂�������̋ʔK�Ɋ��Z����΂܂��Ɉ�~�l�\��K�̎s���i�񓙕i�ň�Y�\�K������I�j�B
-�ۋv�H���̗אȂ͂��ƌ��������A���̌����s�����Ɗς��͕Ɩڂ��A���̕����j�����Â��^�_�������B
-���Ȃ���m���u���Ȃ���v�ɖT�_�n�̋��q���ɂ��Ȃ��ƐQ���ɂЂƂ蔑��B
-�����͉��˂������A�H�ׂ��̂₪�����A���������A�E�\���J�l���������炤�I
-�m����������Q�������n
-�@�@�@���S�w�ҍ���
-�@�D�Ԃ������肫������Ƃ��Ă�Ȃ��q�̏�������
-�E�ӂ邳�Ƃ̈�����͎R�I�Ƃ����Ԃ��Ƃ�����
-�@���߂邾������łӂ邳��
-�E�����Ăӂ邳�ƂŊo�߂Ăӂ邳�Ƃ�
-�E�ӂ邳�Ƃ�֎q���ӉZ��䪉ׂ��g�}�g��
-�E�}�s�͂Ƃ܂�܂�����܂͂�̉Ԃ�����w
-�E���͊C����₽�����݂��̂��Ȃ���
-�m�������Ŏ������I���n
-
-�@������\�����m���u������\�����v�ɓ�d�T���n�@����ď����B
-
-���_���m���u���_���v�ɖT�_�n�̒��͂������A�\�ꎞ�߂��ȂĎl�l�A��Ńo�X�ŏ��̎��ցB�\�\
-���͈�コ��̉����񂩂璸�Ղ������W�̉ĉH�D����䂤�m���u��䂤�v�ɖT�_�n�ƒ������Ă��A���ꂪ�r�a�������삹���߂��B
-�������Ȃ����{���̍L���������Ƃ���ŉ�H�A���A�r�[���A�Ă�Ղ�A�����݁A���߉ނ�����т���Ȃ����炤�A�ω����܂͂����₳�����B
-�����߁A�����тƂ��Ӌ��A�����������������B
-�C�������i�A�������ӕ��i�Ǝ��Ƃ͂��͂≏�����Ȃ��B
-�l���N�A�ꖼ�����肨���ƁA����������ďr�a�����A���Ђ낰�Ă��B
-���̋��i���݂͂Ȏ}����ē얳�ϐ����j�̑O�ŎB�e�A�����v���Ԃ�ɖ@�߂����m���u���v�Ɂu�}�R�v�̒��L�n�Ƃ����B
-����l�؍݁A���̖�͂��Â������B
-�m����������P�������A�܂�Ԃ��ĂQ�������n
-�@�@�@���������L
-�����ԑ̂�|�ŉc�܂�鐢�E�͂��܂�ɔ��؂炾�B
-�@�`����l��œ������E���܂��^�_�ʖڂ��A�l�Ԃ̂ق񂽂��̐��E�͂��̉��ɂ���A��������A�ق񂽂��̌|�p����ꗬ��Ă���̂ł���B
-�������̌N�́A�����ւ���Δ��͂����̂𔃂ӂ̂���邭����܂��A�n�R�Ȏ��͋��ł͔��ւȂ����̂����߂�̂��悩�炤�ł͂Ȃ����B
-�m�������Ŏ������I���n
-
-�@������\����m���u������\����v�ɓ�d�T���n�@���B
-
-�����A���ꂩ��a������і삳��A���ۂ��񂽂��ɑ����āA�o�X����芷�֏�芷�֔ђ˂ցB
-�����̓o�X����o�X�ցA�g�N������g�N���̈�������B
-�g�Ō��Ɖ���A�����ԑ����Č��C���Ȃ����玶�Ă���A��N��x�̕��q����B
-�҂��|�҂ƒ����Ƃ���������ւĞH���A�e�q�ŗV�΂����͔ђ˂ɂ��߂��ɂ������܂���A�\�\����͂������J�߂�ꂽ�̂��Ȃ��ꂽ�̂��B
-�w�O�̏h���֎����Ԃŉ������߂��Ă��܂��A���T�̈�ۂ͂悭�Ȃ����B
-�m����������Q�������n
-�E�^�Ă̐^���̃{�^�R�̂���Ƃ���
-�@���V�̃{�^�R���Ȃ��ł��
-�@�@�@������
-�@�͂ꂽ���T���ɓ����Ƃ�ΒN�����Ă��ꂳ����
-�m�������Ŏ������I���n
-
-�@�����O�\���m���u�����O�\���v�ɓ�d�T���n�@�������ƁA�������ƁB
-
-�Ε����ցA���ꂵ���ȁA�F�̒��̗F�B
-����A��y���A�����A���a�I�B�c�c
-�m����������Q�������n
-�@�@�@�Ε���
-�E�t�����炪�Ђ��^���_���͂��Ă��ꂽ����
-�E�݂�Ȃ�����ɂ���ԑ�ւ܂��ĂӂĂ�
-�m�������Ŏ������I���n
-
-�@�����O�\����m���u�����O�\����v�ɓ�d�T���n�@����₩�ɁB
-
-�����Ő���q�N�̃j�R�j�R��Ɉ��ЁA�ʂ�Ă���V�l�}�����A��͌˔��̑��X�O�N�Ɠ������Ďᏼ�̍r�������g�K�A���̂�����̖�i�͂��������A���S�������͂��Ƃɂ����������B
-
-�@��������m���u��������v�ɓ�d�T���n
-
-�Ăъ֖�ցB�\�\
-�t�X�ΌN�Ƌ��ɛ������ŉ�k����B
-�t�N�ɎႢ���{�l�Ƃ��Ă̏�����A���N�ɋߑ�s��l�炵���f���J�V�[������B
-���������A�Ղ̉��A�^�̐��A�`�̓��B
-�����ς��V�l�}�͖ʔ������A�T�g�E�n�`���[�̗��X�̌����y�m���u���X�̌����y�v�ɖT�_�n�ɂ͐V���͂Ȃ��������������B
-���ꂵ���Q�ꂵ�����B
-�m����������Q�������n
-�@�@�@������
-�@�������������ăr�[���A����
-�@�@�@���鋌�F�Ɖ��
-�E�Q��Ȃ����������Ȋ炪����
-�@��������C�֏o�Ă䂭�����_
-�m�������Ŏ������I���n
-
-�@��������m���u��������v�ɓ�d�T���n
-
-�����͂��肪�����A�������Ȃ��B
-�����N�ɑ����ĉ��ւցB�\�\
-�����g�p���鑗���ām���u�����āv�ɖT�_�n�Ƃ��ӌ��t�͐H���A�ؕ��A���X��^�ւ��邱�Ƃ����Ӗ����Ă��A���T�������Ȃ��B
-���ւł͈��ݕ������A�`���U�炵���A�Ƃ��^�_�t�X�ΌN�̖��ɂȂ��B
-�V�l�}�͖ʔ������B
-�������������Ȃ��Ȃ��̂ŁA�w�̑ҍ����ň��𖾂������B
-
-�@�����O���m���u�����O���v�ɓ�d�T���n
-
-�����A���B
-�����ȗ��̈�T�Ԃ����A�F�͂Ȃ������A���͂��������A�r�[������낵���A�����D���A�c�c�J��āA���炯�āA����Ƃ�Ƃ��Ė����B
-
-�@�����l���m���u�����l���v�ɓ�d�T���n
-
-�ڂ��^�_�΂��^�_�B
-�֓��̔g���N�����w�Z�̐搶��l�𓯔����ė����A�A�C�X�L�����f�[��������Ȃ���b���G�k�A�����͎��̎G���N�w�m���u�G���N�w�v�ɖT�_�n��������C���Ȃ����B
-�m����������P�������A�܂�Ԃ��ĂQ�������n
-�@�@�@���������L
-�����\�\���ȒE�p�i���Ȓ��z�j�\�\���͈��B
-�@���̈��͌Â�����E�����̂ł���B
-�@���͈��̐g�S�E���ł���m���u���͈��̐g�S�E���ł���v�ɖT�_�n�B
-�@����̗g���A�����̒a���B
-�����ȋs�ҁm���u���ȋs�ҁv�ɖT�_�n�A�}�]�q�Y���B
-�@�ߑ�l�̕s���ő����h�f�r�A�����B
-���o�傷��\�\��������\�\�l������B
-�m�������Ŏ������I���n
-
-�@�����ܓ��m���u�����ܓ��v�ɓ�d�T���n�@����Ă���A�܂Ă���B
-
-���˂ē����̍֓����񂩂�ʒm�̂����������q���j�����A���΂炭�b�����A�����������Ȃ��ł��y�Y�������U���Ă��܂Ȃ����A��W�𔃂��ĉ������̂͗L����A�����������̎G�����i�m���u�G�����i�v�ɖT�_�n�͊ςĉ������A���j�Ɍh�ӂ�\����B
-�ǂ����ނ��₭����m���u�ނ��₭����v�ɖT�_�n���Ă����Ȃ��A�ĉH�D���������Ĉ��񂾂��A�܂�����Ȃ��̂ŁA����Ɉ��݂Ȃق����A�x����ɗ��ււĖ�āA�ǂ�^�_�̐g�S����ƈ��܂ŉ^�񂾁B�c�c
-�p�m�炸�߁A��������߁B
-�m����������P�������A�܂�Ԃ��ĂQ�������n
-�@�@�@���������L
-���̐g�m���u�̐g�v�ɖT�_�n�ɂȂ�Εs���g�m���u�s���g�v�ɖT�_�n�ɂȂ�B
-���s���R�ȕn�R�m���u�s���R�ȕn�R�v�ɖT�_�n�B
-�m����������R�������n
-��͎Љ�I�m���u�Љ�I�v�ɖT�_�n�ɁA��͌l�I�m���u�l�I�v�ɖT�_�n�Ɂi���ꂪ���̏ꍇ�j�B
-�m�������Ŏ������I���n
-
-�@�����Z���m���u�����Z���v�ɓ�d�T���n�\�\����m���u����v�ɓ�d�T���n
-
-����Ă�낵�A�~�Ă�낵�A���������݂Ȃ�낵�B
-
-�@�����\���m���u�����\���v�͓�d�r�͂݁n�@���a�����m���u���a�����v�ɖT�_�n�A����ԏƁm���u����ԏƁv�ɖT�_�n�B
-
-������@�m���u������@�v�ɖT�_�n�A���R�Ǝ���Ƃ̗Z���m���u���R�Ǝ���Ƃ̗Z���v�ɖT�_�n�B
-�c�c���͂Ƃ��Ƃ����|�����A�K���s�K���A�J���ӂĂ�̂ŉJ�ɂ�����āA���R�I�Ɉӎ����񕜂������A������]���藎���ĎG���̒��ւ������ɂȂĂ�A�����������C�蔍�����A�������s���g�ɋ߂����������ԓ����Ȃ����A���΂������ŁA���Ǝ�����Ɋ��������̋���f�r�����B�c�c
-����͒m�F�ɗ^�ւ��񍐏��̈�߂ł���B
-�m����������Q�������n
-���������ւ΁A���|�łȂ����Ď��E�����m���u���E�����v�ɖT�_�n�ł����B
-���͂r�ւ̎莆�A�j�ւ̎莆�̒��ɃE�\���������A�����Ă���A�Ȃ�ڎ��ł����E����O�ɁA�s�`���Ȏ؋��̈ꕔ�������Ȃ�Ƃ������g�Ő��Z����������A��낵�������𗊂ށA�Ƃ͏������Ȃ����̂ł���B
-�Ƃɂ������������Ȃ��Ȃ��A���ʉ߂����J�����`���ɐ��ς�āA���͖��ӎ����ɂ��΂�A�����f���������̂ł���B
-�m�������Ŏ������I���n
-�f�R�ɏՂ��������������A�����Ď���T�m���u�T�v�Ɂu�}�R�v�̒��L�n���Đ��ɑh���������B
-
-�m����������Q�������n
-�@�@���ɒ��ʂ��ām���u���ɒ��ʂ��āv�͌r�͂݁n
-�@�@�@�@�u���������Ӂm���u���������Ӂv�ɖT�_�n�v�Ƒ肵�đO���𕍂��A�����j�m���u�����j�v�ɖT�_�n�֊�e�B
-�E����ł��܂ւ΁A�G���J�ӂ�
-�E���ʂ������ɁA���U�₭�t
-�E�������܂Ă��鉊�V
-�E�����܂ւɂ��ė�������
-�E����̖邳�֎��͂��̂т��
-�E�ӂƎ��̗U�f�������܂�����
-�E���̂������̂܂��܂������ēV�̐�
-�E���s�L�Y�t�������䂭�H�߂������ƂȂĐ���
-�E�����Ђ������Ƃ͂Ȃ���ӂ׈��̗t�Ђ�Ђ�
-�E���ɂ悱���͂鋹�ӂ��������������Ė��₤��
-�E�J�ɂ�����Ă�݂��ւ����l������
-�m�������Ŏ������I���n
-
-�@�����\�ܓ��m���u�����\�ܓ��v�ɓ�d�T���n�@���A�������A�V�H�����B
-
-�O��܂��O��A�₤�₭�ɂ��Đg�Ӑ������͂��߂邱�Ƃ��ł����B
-�܏\�l�˂ɂ��Č܏\�l�N�̔��m��m���u�܏\�l�˂ɂ��Č܏\�l�N�̔��m��v�ɖT�_�n�B
-�ܜ��͞ǂ��鎩�Ȃ��ς�B
-����哂����B
-���������A��䩂Ƃ��ĕ���B
-���풎�����������B
-�����؂Ȃ��i�x���̎��͒ɂ����j�A���S�ǂ̔���ł��邳���ȁA�����ĐS���Ⴢ̑O���ł����邳���ȁi���͔]�쌌���Ӌ����Ă�邪�A�����͂Ȃ��^�_����ł���j�B
-�������̂͂Ȃ��Ȃ����A���������邢�B
-�m����������Q�������n
-�@�@�@�O��s��
-�E�قƖ閾���̕��邪�肾����
-�@���Ɛt�̕�ꂩ�T��X�̓��Ƃ���
-�E�����l�̂��Ђ����Ė��̖�
-�E�x��ۂ�����ł��錎�̂܂�܂��
-�E���̂����邳������������Ă����肬�肷
-�E�������肪���̂���ɐ�₫�肬�肷��
-�@�@�@�ēc�Y�Y���ɁA�a�����
-�E��͓ǂ�ł͕��s���Ȃ��t�ɕ�����u�V�l�v�̊��G
-�m�������Ŏ������I���n
-
-�@�����\�Z���m���u�����\�Z���v�ɓ�d�T���n�@����ė������B
-
-�������g�Ӑ����A�莆�������Â���B
-�����܂��ꐇ�����Ȃ����A�����_�o����ɂȂĂ��炵���A����Ȏコ�ł͂����Ȃ��B
-�ߌ�A�����N�A�h���N�����A���ƋD�ԙ����𔃂��āA�O�l�y��������ŐH�ׂĘb�����A�[�����炢����ɊX�֏o�����ăV�l�}���ς��i�g�[�L�[�łȂ��̂ŁA�������̃��m�P�����ʖڂ����j�A���ꂩ�班�������āA�߂ł����ʂꂽ�B
-�\����Ԃ�̃A���R�[���A����T�P�͂ƂĂ����܂����B
-���ɂ͂������|�m���u���|�v�ɖT�_�n�͂Ȃ��A�H�|�m���u�H�|�v�ɖT�_�n�����邾�����A���ӂ��Ƃ������邱�Ƃ��m���u���ӂ��Ƃ������邱�Ƃ��v�ɖT�_�n�B
-�m����������Q�������n
-�E�������������I�����X���ʂ�ʂ���
-�E�������݂ł���Ă͂�����Ȃ߂ł�
-�E�g�̂܂͂肢����Ƃ��Ȃ��͂ꂻ�߂���
-�@�˂ނ�Ȃ������������邴����̉�
-�@���銱���Ă�����̂̔�����炢��
-�m�������Ŏ������I���n
-
-�@�O���\�����m���u�O���\�����v�ɓ�d�T���n�m���u�O���\�����m���u�O���\�����v�ɓ�d�T���n�v�̓}�}�n
-
-�Q���A�Q���A������Ɛ��ꂽ�B
-�����N�ɘA����āA�����K�ŕ��ތ��K�B
-
-�@�����\�����m���u�����\�����v�ɓ�d�T���n�@�V�H�����B
-
-���߂Ă��^�_�ڂ����������B
-�m����������Q�������n
-�@�t�������n�����܂Ƒ҂Ă��
-�@�a�̍s��������ւ��肵�đ҂g�͏���
-�@�o�X�̂ق���̕��ɂӂ���Ē���̉�
-�E���V���̕����Ƃ��Ă܂����ȕܓ�
-�@�s�R�̕�������ł���Ƃ����Ȃ�
-�E�ނ肠�����ė������Ђ���
-�E����̑��z����ނ肠����Ђ���
-�E��ӂȂ��������Ă܂��ނꂽ
-�m�������Ŏ������I���n
-
-�@�����\����m���u�����\����v�ɓ�d�T���n�@���A���ӂ̗�������A��͗₦��B
-
-�g�Ӑ����B
-�������莆�������U����i�⏑�����߂Ē��������������Ђ��Ђ��߂�j�A�j�ւ̎莆�͏����܂��o���B
-����Ɗw�Z�ցA�₤�₭�Ȃł�����܂���ɓ����B
-���̂�����ȂɎキ�Ắ\�\���_�͂���ȂɎア�Ƃ͎v�͂Ȃ����\�\�d���͏o���Ȃ��B
-�l���͖����ł���m���u�l���͖����ł���v�ɖT�_�n�A�l���𖡉�����΋���y�ƂȂ�̂��B
-�悫�q�m���u�悫�q�v�ɖT�_�n�ł���A�悫�v�m���u�悫�v�v�ɖT�_�n�i���͍ȁj�ł���A�悫���m���u�悫���v�ɖT�_�n�ł���A����ȊO�ɂ悫�l�ԁm���u�悫�l�ԁv�ɖT�_�n�ƂȂ�퓹�͂Ȃ��B
-������炸��Ԃ�莆���������A���̂ǂ�ɂ����̏͋�������Y�ւ邱�Ƃ͖Y��Ȃ����\�\
-�m����������Q�������n
-�]�������΂��A���͑S�g�S�S�����ɂԂ����݁m���u�S�g�S�S�����ɂԂ����݁v�ɖT�_�n�܂����B
-�m�������Ŏ������I���n
-���ꂱ�����̖{���ł���B
-�\�����Ԃ�ɓ����A���T���C�͂��肪�����A����͕ی��Ƌ��y�m���u�ی��Ƌ��y�v�ɖT�_�n�Ƃ����˂āA�����Ĉ����Ď�y�ł���B
-���^�ɐ�����m���u���^�ɐ�����v�ɖT�_�n�\�\����������O�Ɏ��������Ă䂭���͂Ȃ��Ȃ��m���u����������O�Ɏ��������Ă䂭���͂Ȃ��Ȃ��v�ɖT�_�n�A�\�\���̈�O��M���s����m���u���̈�O��M���s����v�ɖT�_�n�B
-���炾�����^�_����A���������T��͂����肵�Ă�邼�A�����߁A���܂ւȂ񂼂ɐ_�o�𐊎コ�����Ă��܂邩�A���T���E�����A���݂Ԃ����B
-�܂��s���ǂɂ����͂ꂽ�₤���A�˂ނ��Ȃ�܂œǂ񂾂�l�ւ��肷��A�c�c�������������ȂāA����Ƃ܂ǂ�񂾁B
-�@�@�@�@�@�@�@�~�@�@�@�@�@�@�@�@�~�@�@�@�@�@�@�@�@�~
-�s���ǂ͔��ł���m���u�s���ǂ͔��ł���v�ɖT�_�n�A���͂������̔��ɔY�܂���Ă��A�\�Z���̖�͎O���Ԃ�ɂ�����ƐQ�āA�����Ă�邱�Ƃ̂�낱�сm���u�����Ă�邱�Ƃ̂�낱�сv�ɖT�_�n���������A�悫�H�|�m���u�悫�H�|�v�ɖT�_�n�͂߂��܂�Ă�鎄�ł��邪�A�悫�����m���u�悫�����v�ɖT�_�n�͒D�͂�Ă��A�����ɖ��������邩�炾�A���̖������̂����Ȃ���΂Ȃ�Ȃ��B
-�s��͈��̘J�����m���u�s��͈��̘J�����v�ɖT�_�n�A��Ɏ��̂₤�Ȍ�H�V��ɂ͊��ւ�������Y���A����������͔��ȁm���u���ȁv�ɖT�_�n�Ɠw�́m���u�w�́v�ɖT�_�n�Ƃ������炷�A���͍s��Ȃ��ł��ƁA���ƂȂ��m�炸���炸�̊ԂɈ��Ղƕ����Ƃɑ݂���A���̘J���͋����ɌX�����p�Ɋׂ�g�S�����Ē����Ă����A�\�\���̈Ӗ��ɉ��āA���͍Ăэs����ɗ������ւ炤�ƌ��S�����̂ł���B
-�\�����͒���������Ð�s��ɏo��������肾���i�������̓��̕Ă��Ȃ��ȂĂ�j�A�����֊w�Z�̋��d���񂪎����N�̎莆�����ė����A�\�\�����͑�Ȃ���Ƃ̂��Ƃł������A�Ă͎������{���܂�����A�ߌ�A��K�ւ�����ɕ��ނɍs���܂����A�\�\�Ƃ��ӂ̂ł���A�����Ŏ��͓S�������ās�r�N�t�Ɏ������ւ��A�l���͎��ɉ������ɐ����Ă����͂�Ȃ��̂���낵���B
-�ނ͓����s�̏�X�Ȃ���̂��m���u�ނ͓����s�̏�X�Ȃ���̂��v�ɖT�_�n�A���͒ނ�Ȃ��Ƃ���͒ނ��A����ނ�Ȃ��ł悢�A��Ƃ̕����͓V�n�I�v�̐��X�@�X�ł���m���u��Ƃ̕����͓V�n�I�v�̐��X�@�X�ł���v�ɖT�_�n�A��A���A���A���z�A���؁A�����ēy�΁A�����A�c�c�l�Ԃ����̊Ԃɍ݂Ė��䖳�S�ƂȂ�̂ł���B
-���͒ނ��͂��߂₤�Ǝv�ӁA�s��Ƌ��ނƋ��Ƃ̎O�����m���u�s��Ƌ��ނƋ��Ƃ̎O�����v�ɖT�_�n�ɖv���������Ǝv�ӁB
-�����������͂��̑����̏��蒲�ׂł����A�����N�͋���ނ莄�͋��ނ��A�����ɕĂ��ނ��̂ł���B
-�R�r陁m���u�R�r陁v�ɖT�_�n�I�@����陂����͗��Ă͂��߂��̂ł���A�Đ��L�O�m���u�Đ��L�O�v�ɖT�_�n�A�ߎ��L�O�m���u�ߎ��L�O�v�ɖT�_�n�A���^�����L�O�m���u���^�����L�O�v�ɖT�_�n�Ƃ��āB
-�����\���m���u�����\���v�ɖT�_�n��]�@�Ƃ��āA���悢��ߎ������s����@�����n�����i��΋֎��́A���̂₤�Ȃ��̂ɂ́A�����I�ɂ��s�\�ł���j�A���x�����͎��ɉ����鎄�������g�Ő��Z���邱�Ƃ��o����̂ł���B
-�������ɂ͎��Ɏ������m��Ȃ��m���u�������ɂ͎��Ɏ������m��Ȃ��v�ɖT�_�n�A���͒������������Ȃ����A�}���Ŏ��ɂ������Ȃ��A�������邾���͐����ām���u�������邾���͐����āv�ɖT�_�n�A���ʂ�Ƃ��ɂ͎��ʂ�m���u���ʂ�Ƃ��ɂ͎��ʂ�v�ɖT�_�n�A�\�\���ꂪ�悢�ł͂Ȃ����B
-�A���R�[�����ŁA�����ċ��S�ǁA�ǂ������ꂪ���̎��a�炵���A�]�쌌�ł����g���������̂����̔O��ł��邪�A��������v����͉̂�Ԃ��A���܂��ґ�͐\���ʂ��̂ł���B
-�E����߁m���u�E����߁v�ɖT�_�n�A������R�Ƃ��đ��݂��m���u������R�Ƃ��đ��݂��v�ɖT�_�n�A���ꂪ���̎��̐S���ł���B
-���|�����̃f�J�_���𕥂Ђ̂��Ă��ꂽ�A�܂��Ƃɑ��|��F�m���u���|��F�v�ɖT�_�n�ł���B
-�ЂƂ�͂�낵�A�ЂƂ�͂��т��B
-������A���O�𑞂�ŎE�����ɂ�Ȃ����̓��菟��͂����܂����A���͂��O�ɑ΂��Ēp����B
-�@�@�@�@�@�@�@�~�@�@�@�@�@�@�@�@�~�@�@�@�@�@�@�@�@�~
-�m����������Q�������n
-�@���ӂ��}�́A�Ȃ�Ƃ���������̂Ȃ�
-�@�����̌��ւ̂����寂�
-�E�����̖�̉Ԃ������Ėk�N�̚�̐�����
-�@���U�����S�������T���ߑO�Z���̃T�C����
-�E���邫�����������邢�ē��ɑ܂ӂ��ꂽ�[��
-�E���̂��悰�Ή��ƂȂ��l��҂Ă��
-�@�@�@���i���S����������q�N�Ɂj
-�E���ƂȂ��H�߂����t������̂�����
-�@�R���畗������ցA�����Ă���Ƃ�����
-�E��������ЁU���͕U��D�Ă�鉹
-�@���Ȃ����莆���|�X�g�ɁA���V�̂ق���Ђ낪��
-�E�؂����������킽�����̂���
-�E���V�̕B���ʂ��i�G�j
-�m�������Ŏ������I���n
-�m����������P�������A�܂�Ԃ��ĂQ�������n
-�@�@�@���������L
-���͂��̂��΂���B
-���͌����q�̖��B
-�����z�̔M�ƌ��Ƃ������Ă��g�}�g��H�ׂ�B
-�����͐��ɁA���͎��ɁA�����͋����ɁA�����̂��̂ɔC�������S���B
-�m�������Ŏ������I���n
-
-�@������\���m���u������\���v�ɓ�d�T���n�@�܁B
-
-���[�̉����ɂ���ׂāA�����̏��ꂵ���͂ǂ����B
-���ɂЂ��Â��A�F�ɂ��T�����A��ɂ݂��т���āA���T�܂ŗ������ł���A���͍��X�̂₤�Ɏ��ɂ��čl�ցA��ɂ��čl�ցA�����ėF�̂��肪�������i����Ɠ����Ɏq�̂��肪���������j�A�����Ȃ��ł͂���Ȃ��B�c�c
-�҂Ă��W�㗎��A���������Ɖ����ƃn�K�L�ƐΖ��𔃂ӁB
-�ÎG���𕰂��āA���𕦂������Ƃ́i���Ƃ��Ă͌�т𐆂����Ƃ�����j�A��������т����m���u��т����v�ɖT�_�n���̂ł��ˁi�������ӌo�������Ă��l�������Ȃ����炤�j�B
-�䂪���炾���������Â���A�������������炢�炷��A�����Ȃ��^�_�A�������^�_�B
-���^�_�ڂ����̐������݁^���_�悢�Ǝv�ӁA���m�I�A���{�I�A�o��I�A�����ĎR���ΓI�B
-�m����������Q�������n
-�E������Ă�ӂ����̔n�ɂ��܂����i�u�j
-�E�Ђ�Ђ�Ђ邪�ւ�t�́A����t�̂���������
-�@���Ђɂ䂭�Ԃ������̂Ă�
-�E�N������΂悢�������������₪����i�����₪����͂��풎�j
-�@�@�@�a��
-�E�Q�Ă��ق��Ȃ����^�_�ڂ������^�_�ڂ����i��j
-�E�g�}�g���ŐH�ׂ�g�}�g�̂������鑾�z
-�E�����ڂ��������������Ė��ċ��Ă��܂��m���u���v�Ɂu�}�R�v�̒��L�n
-�m�������Ŏ������I���n
-
-�@����������m���u����������v�ɓ�d�T���n�@���B
-
-���H�̒��̕����͂ƂĂ����K���A�g�S���Ђ����܂�₤���B
-�ǂ���玄�̐�������]�����A�����Ȃ���]�g��H�̂����₩���Ɋ����Ă��A�������ċ勫����]���Ȃ���΂Ȃ�Ȃ��A�V�n�ꖇ�A������@�̏��^���\������Ȃ���΂Ȃ�Ȃ��B
-���������������Ȃ肷���Ă��₤���A���Ƃ���肵�Ȃ���΂Ȃ�܂��A�I�R�Ƃ��Ď��𖡂ЂR�����ς�m���u�I�R�Ƃ��Ď��𖡂ЂR�����ς�v�ɖT�_�n�A�Ƃ����₤�ȋC���ł��肽���B
-�����y���ށm���u�����y���ށv�ɖT�_�n�A����͑����ԓx���A���������ނ��A�����ċ������ׂĂ����̊���ł���B
-�F��A�R��A����A����A�Ƃ�т������ɂ���Ȃ����B
-�����\���̑��|��F�m���u�����\���̑��|��F�v�ɖT�_�n�͎�����ߋ��̈Ée�m���u�ߋ��̈Ée�v�ɖT�_�n�𕥐@���Ă��ꂽ�A���т�����A���a�A�͂ɂ��݁A�ő��A����A��z��J�A���X���炫�ꂢ���ς�Ǝ���������Ă��ꂽ�B�c�c
-�m����������Q�������n
-�E�삦�Ă����Ⴊ�Ƃ܂���E���ꂽ
-�E���ɂ���ē�l�����������ǂ��牌�ǂ�
-�E�����Ɠd�M�_���c��
-�E�ڂ��肵�Ă����炩��H�߂������i�ዾ�������āj
-�E��������ɂłĔ߂��������܂������Â�
-�E�䂤�������T�܂ł����ւĂ͂ԑ��̉�
-�E��������ΏH�߂��C�ł����ւĂ��
-�@�@�@����
-�E�����͂����ŁA���������^�_�܂�����������
-�E�Q����Ԃ�m��Ȃ��y�n�̂�ӂׂ̑�
-�E���͕�ꂢ�����d�M�_�̂��^�_�ڂ���
-�E���킩��̓����̐Ԃ�����
-�m�������Ŏ������I���n
-
-�@����������m���u����������v�ɓ�d�T���n�@�܁A����^�_����ď����Ȃ��B
-
-�������g�Ӑ����A�������ʂ��B
-����̓����ɘ@���̗t��������A�����ւ��낵���A���̗t�Ɠ����ƎR���΁m���u���̗t�Ɠ����ƎR���΁v�ɖT�_�n�Ƃ͟ӑR�Ƃ��đ������̒��a���Ȃ��Ă��B
-���X���猩����A���肪�����^�_�B
-�V�������n�Ђ낵�m���u�V�������n�Ђ낵�v�ɖT�_�n�A�R���т����Ȃ���T���m���u�R���т����Ȃ���T���v�ɖT�_�n�B
-�j�X����������Ē��Q������B
-�Ԕ��V�l�����ĎȊ������]����A���\�O�˂��Ƃ��ӁA�q�͂Ȃ��̂��A���͂Ȃ��̂��A�ނ��y�B���ɂ��Ă��������B
-������������X�Q�ꂵ���A���X���S�ǓI�Ȍy������A�Ǐ����Ȃ��Ŏv�����U�����B
-�l���炤���\�\�l�͂�Ȃ��������\�\���d�������т����΂�āA�Ƃ��Ƃ��ω������Ђ��肩�ւ����A�l�Ƃ���΁\�\�����ɂ͂���قǂ̗͂͂Ȃ�����\�\�H�ׂ鉽�����Ȃ��̂ŁA���𗧂Ă��̂ł����炤���B
-�m����������Q�������n
-�E�l�ւÂ��Ă��傫�Ȓ�������Ă���
-�E�a���Ђς�傫���l���̂������ď�����
-�@�@�@�n����
-�E���V�̂����ւ��̂��߂��ď�����
-�@�@�@�t�X�ΌN�ɁA�a��
-�E�͂�^���_�Ƃ��ċ���ł��ꂽ���𖡂Ӂi��j
-�E���Ȃ����莆���|�X�g�ɂ��Ƃ����̂�ӈŁi����j
-�m�������Ŏ������I���n
-
-�@�������O���m���u�������O���v�ɓ�d�T���n�@���A�܂ĉJ�̋߂����Ƃ��v�͂���_�s���B
-
-������ƂȂ��A����寂����ďZ��ł��A�ނƂ͂����F�B�ɂȂꂳ�����A���ɂ͎����̗F�B���B
-������甞�с\�\�Ĕ����X�\�\�ɂ����̂ŕ��H�������ɂ�낵���A�����y���������߂ɁA�ݑ܂��傫���A����𖞂����Ȃ��ƋC�����܂Ȃ��₤�ɂȂĂ�邩��A�����ĉ^���s���ŁA�������^���炵���^���͏o���Ȃ����̂ɂȂĂ��܂����ɂ́A���т����K�����Ă��A���̈Ӗ��ł܂��A�얳���ѕ�F�m���u�얳���ѕ�F�v�ɖT�_�n�ł���B
-���|���Ă��炱���Ɛ����C�������͂��A���݂̎��́A�܂��߂ŁA�����邭�āA���ȂقŁA�܂����āA��������������ŒX�ւām���u����ŒX�ւāv�ɖT�_�n���A���肪�����Ǝv�ӁB
-�����났���͂��肤���Ђ������B
-�m����������P�������A�܂�Ԃ��ĂQ�������n
-�@�@�@���������L
-���l���I�|�p��`�m���u�l���I�|�p��`�v�ɖT�_�n
-�@�|�p�I�l����`
-���o�傪�A���Ƃ���łςƂ͂Ȃ��Ɓm���u���Ƃ���łςƂ͂Ȃ��Ɓv�ɖT�_�n����F�Ƃ���Ȃ�΁A�Z�̂́A���Ƃ����ւĂ��ڂ肾�����Ɓm���u���Ƃ����ւĂ��ڂ肾�����Ɓv�ɖT�_�n����F�Ƃ��邾�炤�B
-�m�������Ŏ������I���n
-
-�@�������l���m���u�������l���v�ɓ�d�T���n�@���͓܂Ė���O�̋�͗l�������A���Ё^�_���ꂽ�B
-
-���N�A�Ƃ��ӂ����Q�Ȃ����B
-�o���邾���ȑf�Ɂm���u�ȑf�Ɂv�ɖT�_�n�\�\��������ӂ����ׂāB
-�܂��g�Ӑ������Еt���Ȃ��A����A�ٖD�A���M�A�⏑�A���|�A���A���A���B
-�_�w�Z�Ɏ����N��K�˂āA�؎���n�K�L�ɑ�ւĖ�ӁB
-�g�S�䂽���ɂ��ām���u�g�S�䂽���ɂ��āv�ɖT�_�n�A���т����܂��m���u���т����܂��v�ɖT�_�n�A���܂��m���u���܂��v�ɖT�_�n�B
-�����k���č؂�d�����������Ēu���A�y�̂�낵���Ǝ����̂�킳�Ƃ�������B
-�[���A�����N����Ă��āA����̐e�ʂւ����݂ɍs������A������ɍs�����Ƃ��ӁA�n�j�A�w�֍s���A�Z���̓d�Ԃ��o��܂łɂ͂܂��O�\������A�x���ň�t�Ђ�����A���R�ł͎葁���p�������܂��āA�◯��܂Ŗ߂Ă���ƁA�ꎞ�Ԃ΂��葁���A�����ł܂��w�O�̈��H�X�ň�{��{�A���S�֋A�������̂��㎞�A������x���ނ���ŁA�Ԃ�^�_�����܂͂����A�C�ɓ����ꏊ��������Ȃ��̂ŁA�����悭�A���̂܁T�ʂ�Ė߂��A�߂ł����A�߂ł����B
-�v���Ԃ�̎��ƎU���Ƃ������萇�点�Ă��ꂽ�B
-�m����������P�������A�܂�Ԃ��ĂQ�������n
-�@�@�@���������L
-���ߋ����m���u�ߋ����v�ɖT�_�n�\�\
-�@�@�N��̗␅�łȂ����ğ����m���u�����v�ɖT�_�n�B
-���V�n�����o�m���u�V�n�����o�v�ɖT�_�n�B
-�@�@���R�A�Y�p�B
-�����Ղ����Ӓސl�B
-�@���Ղ������Ȃ��ސl�B
-���������\�\�P�����\�\�����B
-�m�������Ŏ������I���n
-
-�@�������ܓ��m���u�������ܓ��v�ɓ�d�T���n�@���B
-
-�܂��Â������ɃT�C�����������A�͂āA�����炤�A�\�\���ꂾ���������𗣂�Ă��B
-�����͂ƂĂ����N�A�邪������̂�҂����˂��A�܂�Ŏl�܍˂̏����̂₤�ɁB
-���|�ȗ��A�S�n�ڂɑu���A�����͓��ɖ��N�����B
-�R���낪����������Ă��Ěe�����킮�A�ԏ�̎q��S�������Ђ����Ƃ΂���ɁA�\�\�������A�����Ђ����ď����ł������A���ƃZ���`�ȃI�a�C�T���I
-����͍��A���R�n�����ꡂ��Ċ������̂ł��邪�\�\
-�����炠����ɂ͎���̉��m���u����̉��v�ɖT�_�n�͕����邯��ǁA�܂��^�_����̔g�m���u����̔g�v�ɖT�_�n�͉����񂹂Ă͂�Ȃ��B
-��ƗX�ւ������A�F�̂��肪�����m���u�F�̂��肪�����v�ɖT�_�n�A�q�̂��肪�����m���u�q�̂��肪�����v�ɖT�_�n�����݁^���_�����Ȃ��ł͂���Ȃ����B
-�ߌ�A�ڂ��肵�Ă��Ƃ���ցA�Ђ�����t�V�����Ă��ꂽ�A���ꂵ�����A���Î���T���Ď����͂����������m���u�����v�ɖT�_�n���ĕ��X�̐e�����l�X�֊񏑂�������Ȃǂ��āA����݂�Ɨ[���܂ŗV�񂾁B
-�₤�₭�A�ዾ�𔃂ӂ��Ƃ��o�����A�Â��ዾ�͓x���キ�ĉ��̒��ɂ��₤�������A����Ŗ�̖������₤�ɖ��邭�Ȃ��B
-���̂���܂������_�o����̋C���A�p�Âׂ��A�p�Âׂ��B
-�m����������P�������A�܂�Ԃ��ĂQ�������n
-�@�@�@���������L
-�o��\�\
-�@�@���I�{��
-�@�@���ِ�
-�@�@�@�@�G��A�G���A�G��̍Č���
-�@�@�@�@���G�ߓI�@����ۓI
-�@�@�@�@�������I�@�������I
-�@�@�ϔO�ے�
-
-�@�@�@���������L
-�J�͂��݂��݂���A���ƂɏH�̉J�́B
-�m�������Ŏ������I���n
-
-�@�������Z���m���u�������Z���v�ɓ�d�T���n�@���A�c�����Ȃ��^�_���т����B
-
-���A�R���̈�}��܂Ă��Ċ�����������B
-�ߑO�A�X�֍s���A���ւ邾���؋��𕥂ӁA�؋��͑�O�҂ɂ͉���Ȃ��d�ׂł��邾���A���ꂾ�����ӂĂ���̋C���͌y���ĉ������̂ł���B
-����^�_�V���ӎD���󂯂��A���ꂩ��R���΂̒ނ̂͂��܂�^�_�I
-�A�C���Ђ����邩�A�R�q��ނ肠���邩�B
-�R���؂��ꐤ�قǔd���B
-���Â��ɂ��āA���Ȃقɂ܂����B
-���h�̒ώς�������ւ�B
-���N�͔x���A���N�͋��S�ǁA���N�͔]�쌌���A�\�\�󂭂͂����g���m���u�����g���v�ɖT�_�n�ł���񂱂Ƃ��B
-�ߌ�͂ƂĂ����������A�Ĕ��ЂɁA�������ЂɁA�Ē����ЂɁA�X�ւ܂��o�������B
-�[������Ă������������A�������o���^�_�ƍ~�����A�Ƃ��Ƃ������Ă��܂��B
-�ǂ����Q�ꂵ���A���Ȍ��Ȗ�������B�c�c
-�m����������P�������n
-�@�@�@���������L
-�ސS�m���u�ސS�v�ɖT�_�n�A��S�A���S�B
-�u���S�̒��ɈߐH����m���u���S�̒��ɈߐH����v�ɖT�_�n�v�����������A�p�Â������ƐS�����ƂŊ������ꂽ�A���̏ꍇ�ł͓��S�m���u���S�v�ɖT�_�n����S�ƒu�����ւĂ��悩�炤�B
-�ɉԏt�N���A�����H���x�A�������ӋC���������Ȃ��B
-�m�������Ŏ������I���n
-
-�@�����������m���u�����������v�ɓ�d�T���n�@���A�H�ƂȂ���ɂ�����_�B
-
-�V�n�I�v�̊��A���X���G�A�O�X���΂̋��n�B
-�ٚ�N����̗��M�A���̒��ɂ͗F��������܂�Ă����B�c�c
-�������A���c�̉���ɗV�Ԃ��Ƃɂ���B
-�����A�K������A��������i������Ă��ꂽ���A�j�������̕����₳�����ĔO���ŁA������ɂ��T�͂�Ȃ����ɂ͂��ꂵ�����j�A�o�X������肵�Ă��B�c�c
-����͔M���ĖL�x�ŁA�L���āA�������Ȃ��āA�����āA��y�ŁA�ق񂽂��ɂ�낵���B
-��������āA���Ƃ��C�̂����Ƃ̓L�����f�[����m���u�L�����f�[����v�ɖT�_�n���Ƃ��ӂ��Ƃ��A���T�ɂ������ɂ��L�����f�[���X�A�����Ă��̎������̐l���L�����f�[������ԂĂ��B
-��������^�_�A����񍇔����Ė߂邱�Ƃ��Y��Ȃ����B
-���r�[�������܂����A�����͂��ƁA���Ƃ��܂��B
-�E�ܑK�̃����`�����ɂ͌�y�����B
-�l���̋D�ԂŋA���A�[�M�̎x�x�����Ă��ƁA�����N���痈�M�A�h���������ł���A�n�j�A�҂Ă�܂����Ƃ΂���w�Z�ցA�\�\��ɂ�Đ��r�[���ƍ����Ƃ𒸑Ղ����A�ޓ���A�a�t�m�Ȃǂ𕪂��Ė�ӁB
-�X���ċA���A���������������ʂ���B
-�m����������Q�������n
-�@��̔����������������͂��
-�E�M���Ƃق��Đ󂪏H
-�E���邵�݁^���_����̂�������
-�E��������ЂȂ��Ō��͂��ł��
-�E�ǂȂ���������́A�������̂�������
-�E��������̋�������Ȃɏd���ׂ�
-�@�@�@�ǉ��A�s��
-�E�ǂ��Ŕ��炤���ꂵ���������Ă���
-�@壁A���T���炪���̒��i�X�j�̑勴�����i����j
-�m�������Ŏ������I���n
-
-�@�����������m���u�����������v�ɓ�d�T���n�@�܁A���A�J�B
-
-��������^�_�����Ȃ�A�ǂ����͖\���J���炤�B
-���ɂ܂Ō������ޑ����m���u���ޑ����v�ɖT�_�n�̗\��͋��Ă��܂��A�ǂ��ւ��o�����Ȃ��œǏ��B
-�����̏��m���񂪋�r�Ƃ�ɂ��āA�������s�������c���Ă����B
-���̒��̂��肬�肷�A��A���ق났���Ƃ���^�_�ɖ��A�������̒��̈�C���炤�B
-����Ȃ���ւΈ���̉����܂��m���u����Ȃ���ւΈ���̉����܂��v�ɖT�_�n�A�\�\�����\���܂ł̎��͂������ɂ������Ӑ����C�������A���������̎��͐��������V���ɂ��邱�Ƃ��o�����B
-�����A�����A��������A���T�ɂ������ɂ�����^�_�A����^�_�A���͖���������Ƃ��Ƃ���A���������A�����Ďア���I
-�R�r陂������Ԓ����Ȃ��A���[���A���Ղ�ł���A���ꂪ�^���ɂȂ���悩�炤�A���ł͌Ӗ����A�������ڂ����B
-�M�q�������Ĉ�����A���C�ӂ������Ƃ��Đg�ɂ��݂�A�������~�����ȁB
-���Ƃ��Â��ȁA�����������B
-�[�Ă̐F���s�������A����߂��Ƃ��ӓV��B
-�m����������Q�������n
-�E���͂ق����܁T�ɐ`�ۂƂ�ۂƂ�
-�E�����킽����|�̗t���₷�܂��Ȃ�
-�E�������Β��ӂ������܂̉Ԃ���
-�E���Â��Ƃ̂Ђ����ɂ��Â��Ђ��炵�i�u�ցj
-�E�悵����Ȃ��ފƓ�O�͂�����
-�E��ꂢ���������邳�̂Ȃ��Œނꂾ����
-�@�@�@�V���n
-�E�����͂���炩�H�ׂ���̂Ȃ�ڂł��i����j
-�E��ӂׂ�����������Ă����G�������Y�i�u�ցj
-�E�΂𖍂ɂ��񂶂Q�Ă���H
-�E�N��������Ȑ��͖I������
-�E�����ɂ����䂸���܂̎��̂����Ђ�
-�E�����낢�ꂩ�ւ����h����Â�
-�@����̔m�Ԃ�݂��ւ肠���炵���t��
-�@�N����҂Ă��X������
-�m�������Ŏ������I���n
-
-�@����������m���u����������v�ɓ�d�T���n�@�܁A���J�A�����Đ��B
-
-�J�͂��݁^���_����A�F������Ă��Ȃ��ł悩���A�ǂ����債�����Ƃ͂Ȃ����炵���A�߂ł����^�_�B
-�����g�ł��ނɍs�����肾�����A�����N������U�͂ꂽ�̂ŁA���߂̃T�C�����𕷂��ďo������A�����K�̘Z���Ƃ��ӏꏊ�ցA�����Ď����N�Ƃ��o���ӁA��͒ނ�Ȃ�������֍s���A�ڂ^�_�ނ��A�����X���č�����ނ��Ƃ��Ӎ��A�������悫�ɋA��A�r���ŘZ���̃T�C���������A�A�Ă��������A�����ƏĒ��̎c��𖡂ЁA����ӂ����т�H�ׂ��B
-�ޏ�֜g���񗢂��܂�A�l���Ԃ��܂�ނ��̂ŁA�قǂ悭�J��Đ��邱�Ƃ��o�����B
-�����̊l���i�����N���甼���͖���̂����j�\�\
-�m����������Q�������n
-�����O�A�������i�����͎h�g�ɂ������͏Ă��j�B
-�o���i�����͋��Փ������܂芴���Ȃ����j�B
-�m�������Ŏ������I���n
-�ނ͓����s�m���u�����s�v�ɖT�_�n�̈��Ƃ��Đ\���Ȃ��A�����Ēނ����鎄�͍D�X��m���u�D�X��v�ɖT�_�n�ɂȂ����₤���A���肪�����B
-�m����������Q�������n
-�E�Ȃ������������H���ӂ�ł���i�����N�Ɂj
-�E�ǂ̌�����̂����Ė���
-�@�@�@�h���N�ɎO��
-�@���ւΖقĂ��΂��߂₩�ȎG���̉J
-�E�H�߂����J������l�������Ă����
-�@�X���Ă��ւ邻�̂����̗���������
-�@�@�@�ǉ����
-�E���Ղ̊Î��̂��܂����Ƃ�
-�@�@�@�ǉ����
-�E���̂����^�_�͂�^���_�Ƃ��ē؂̎e�������Ă��
-�m�������Ŏ������I���n
-
-�@�����O�\���m���u�����O�\���v�ɓ�d�T���n�@�܁A���A�����Ă���Ɨ[���B
-
-�����X�Ƃj�X��������A��㐿���ł���A���z���������܂ɂ��Ă�Ǝx���ӁA�ނ͍D�l���ŁA����̏��l�Ƃ��Ă͂��܂�ɍD�l���ł���B
-�����̂��Â������߂₩���B
-�ēc�Y�Y�Z�̐V�l�m���u�V�l�v�ɖT�_�n�ǌ㊴�����������đ���B
-�e�����F�ւ̂����Ɂ\�\
-�m����������Q�������n
-�c�c���|�ȗ��ڂɐS�n�����A�ߎ����o����₤�ɂȂāA�Ƃ��ӂ������ւ̎������������ȂāA�������ɖ������Ȃ��Ȃ��m���u�������ɖ������Ȃ��Ȃ��v�ɖT�_�n�̂ŁA�g�S���ɂ₷�炩�ł��i�܂��A�����₩�Ƃ͂��Ђ���܂��񂪁j�A�Ƃɂ����A�������邾���͐����āA���ʂ�Ƃ��͎��ʂ�̂��悢�ł͂���܂��񂩁B�c�c
-�m�������Ŏ������I���n
-�������ߌ�͘Z���ޏ�֏o�������A��q��l�A�Ȃ��^�_���ɒނĂ��A���������\�ւ��񂾂��A�����ɂނ��A���ꂵ�����A���̏�A�ߍ݂͓̉����m�A�������񂹂Ă��邳���̂ŁA���X�؂肠���Ė߂��B
-�m����������Q�������n
-�l���́A�\�\����A����A�����ċ��B
-�m�������Ŏ������I���n
-����ł����̔ӎނ̉����Ƃ��Ă͑����A���̉c�{�s����₤�ė]�肠�邾�炤�B
-����M�A����{�A���ꂾ���ł܂��Ƃɂ����Ƃ����C���ł���B
-�J�̉��������ꂵ�ٗ��������Ă����A�J�ɐS���������Ă��Ɖ��Ƃ����ւȂ��C���ɂȂ�B
-���璆�ɒN�������₤���A������肾���Ă���A�����Â��̂āT����A�����ď�q���߂����Ă���i���̏�q���߂����Ă��邱�Ƃ��A����s���ɂ��A���̐l���y�̂����߂��I�j�A���Ƃ������c���Ă͂Ȃ����B
-�钎�����������A���O�͂T�܂����̎肾��B
-�m����������P�������A�܂�Ԃ��ĂQ�������n
-�@�@�@���������L
-������
-�@�����\�\���t�\�\�C���B
-�m�������Ŏ������I���n
-
-�@�����O�\����m���u�����O�\����v�ɓ�d�T���n�@�܁A���J�B
-
-�����҉������A������Q�Ċ�̂��߂��̂����߂����B
-����肢��^�_�A���݁^���_���肪�����B
-�|�̗t�ɂ΂�^�_�J�̂�낵���B
-�����A���́\�\��w�̐S���������B
-���̂���A��т̂��������m���u��т̂��������v�ɖT�_�n�A���܂��m���u���܂��v�ɖT�_�n�A���肪�����m���u���肪�����v�ɖT�_�n�B
-�w�̃|�X�g�܂ŏo�������A�r�ŁA�O��ʑ��������āA��s���Ė߂āA����̓����Ɂ��m���u���v�ł���̏c�_�����ɓ˂������Ă���A��4����2-13-28�n���A�c�N����̒ǉ����N�����B
-�Ε���O���𔫐A�ɂ���A���̍D���ȑ��̈�ł���A���̐H������Ă���邾�炤�B
-�[���ɂȂ�Ɣӎނ̗U�f�m���u�ӎނ̗U�f�v�ɖT�_�n������A�Ƃ��^�_����ւ���Ȃ��ŁA�Ȃ��Ȃ��̑K�ŏĒ��ꍇ�����Ă����B�c�c
-�m����������P�������A�܂�Ԃ��ĂQ�������n
-�@�@�@���������L
-���l�ւ�Ɓ\�\
-�@���̉ߋ��̈��s�\�\�������V������؂����݂̎�����肠����̐΂̂₤�Ȃ��̂����i�Ƃ�������ƂāA���͉ߋ��𐥔F���悤�Ƃ���̂ł͂Ȃ����j�B
-�@���ւ��Ղ��j��Ȃ���Α��ւɓ��蓾�Ȃ��̂��A���ւ�˔j���Ȃ���Α�O�ւɂԂ���Ȃ��̂��B
-�@�����āA��l�ցA��܊ցA��Z�ցA�掵�ցA�c�c�֖�͂����ł�����B
-�@���ꂪ�l���Ȃ̂��B
-�m�������Ŏ������I���n
-
-�@�㌎����m���u�㌎����v�ɓ�d�T���n�@�J�B
-
-�Ђ��^���_�Ƃ��āA�P�߈ꖇ�ł͂��������̂��@�ق������˂��A��͊��c�������Ē����B
-�ۉΔ��̊D�̒��ł����^�_�����Ă����̂�����I�@�悭�ς�΁A�����◎�����񂾖��������A�����Ď�Ă��A�O���R�̉΍B�ɗ����Ď��˂Ȃ��l�Ԃ̂₤���A��������������ǁ\�\���͂ǂ����Ă����������͌��������\�\�����������炵���đ��߂Ȃ����B
-��R�N���������҂Ă�̂����A�d���̓s���Ōܓ��̒��K�˂�Ƃ��Ӄn�K�L�������̂ŁA�����肵���A�ܓ��̒���A��������A�����ܓ��̒��ƂȂ�B
-�h�����Ď����̗��q�𕥂ӁB
-�卪��{�O�K��B
-�M�q�̍��C���ꂵ�B
-���Ɠ��₩�Ȓ��̍��t���炤�B
-�悭�Ȃ����ł����ł��D������܂ř�炸�ɂ͂�Ȃ��������A�������ӎ��������\���Ȍ�́A�悢����������邾�����ւΏ\�������₤�ɂȂ��A�ꏡ�̎����񍇎O���ƂȂ��̂ł���A���Ђ��������疡�ӎ��֓]�����̂ł���m���u���Ђ��������疡�ӎ��֓]�����̂ł���v�ɖT�_�n�A���݁^���_���͖��ӂׂ��ł���m���u���݁^���_���͖��ӂׂ��ł���v�ɖT�_�n�B
-���ȁA���Ȗ����������Č����A�c�c�Q�ꂵ�����A�c�c�X�������������Œp�����B�c�c
-�@�@�@�@�@�@�@���@�@�@�@�@�@�@�@���@�@�@�@�@�@�@�@��
-�����͊֓���k�Ђ̋L�O���ł���B
-���̓��̂��Ƃ��l�ւ�ƁA�����̂��炵�Ȃ����͂������B�c�c
-���̏ꍇ�A�����ق񂽂��ɂ����肵�Ă�Ȃ�΁A���͕����X�����Ă�Ȃ���΂Ȃ�Ȃ����̂ł���B
-���ꂩ��\�O�N�A���͂����Â�ɕ��Q����Y���������Ă�ɉ߂��Ȃ��ł͂Ȃ����B
-�㌎����A���͂��T�ŁA�Ō�̐����������m���u�Ō�̐����������v�ɖT�_�n�𓥂ݏo���Ȃ���΂Ȃ�Ȃ��B
-�m����������Q�������n
-��̏������f��
-�F�R���n�����
-�]�g���ӔV����
-��؉䍡�F�����@�@�@����
-�m�������Ŏ������I���n
-�m����������P�������A�܂�Ԃ��ĂQ�������n
-�@�@�@���������L
-�����͓�����͐���m���u���͓�����͐���v�ɖT�_�n�B
-�@���ꂪ�l�Ԃ̌��S�ȏ�Ԃł���A�l���̍K���ł���B
-���~���m���u�~���v�ɖT�_�n�͂܂��Ƃɑ������̂����A���{�l�ɂƂẮB
-�����m�l�͏b�ɋ߂��A���{�l�͒��ɋ߂��m���u���{�l�͒��ɋ߂��v�ɖT�_�n�B
-�����A�F�A��B
-���s��s��̋��n�A�󂶋󂶋󂶂Ă䂭�S���B
-�����͈�S����Ɉ�擹�ɐ��i����A��擹�Ƃ͑�����쓹�ł���B
-�@�@�@���������L
-�����́A���ɂ��ẮA��E�m���u��E�v�ɖT�_�n�ł��邪�A��ʂ̋��҂ɂ��Ă��A���̍�i�͉�E�I�łȂ���΂Ȃ�Ȃ��Ǝv�ӁB
-�@�@�@���������L
-�����͂�������e���ɂ��Ȃ��₤�ɐS�����Ă�邪�A��ɁA�ām���u�āv�ɖT�_�n�A���m���u���v�ɖT�_�n�A���m���u���v�ɖT�_�n�ɂ��Ă͍אS�ł���A������e���Ɏ戵���Ă��l�X������ƕ������i���āT�͂Ȃ�Ȃ������I�j�B
-�m�������Ŏ������I���n
-
-�@�㌎����m���u�㌎����v�ɓ�d�T���n�@�܁A�����Đ��B
-
-�ߌ�A���܂�h�C�������̂ŏo������A����Ɣ_�w�Z�Ɋ�āA�����N�Ƙb������V����ǂ񂾂肷��A���ꂩ��㋽�̒ޏ���@�����A���܂芆�D�ȏꏊ�ł��Ȃ��A�������ċA���A����������܂����A�ނ�đʖڂ����B
-��̑��Ԃ͂��ꂵ�����̂ł���B
-��͂߂Â炵��A���ǂ����痈���̂��A�l���V������΂�܂͂�A�l����Ȃ������������B
-�����͓�S�\�������A�܂��Ƃɂ����₩�Ȗ���ł����A�߂ł����߂ł����B
-�m����������P�������A�܂�Ԃ��ĂQ�������n
-�@�@�@���������L
-������ԏƁm���u����ԏƁv�ɖT�_�n�̓��B
-�������𒴂��D����₷�A�P���Ȃ������Ȃ��B
-�@�w���݂ȉ��ɉm���u���݂ȉ��ɉv�ɖT�_�n���m���u���v�Ɂu�}�R�v�̒��L�n�炴��Ȃ��m���u�炴��Ȃ��v�ɖT�_�n�x
-�m�������Ŏ������I���n
-
-�@�㌎�O���m���u�㌎�O���v�ɓ�d�T���n�@�܁A�������ɖ���O��炵���V��B
-
-�H�ׂ镨���Ȃ��Ȃ��A�����͐�H���Đg�S���򉻂���m���u�g�S���򉻂���v�ɖT�_�n����ŁA���͔~���O�t�B
-�O�͂̔��\�\����t�A�t�V�Ƃӂ���ŎR����ڐA�������́\�\�����悭�L�тāA�ۂ^�_�Ԃ��Ђ炫�͂��߂��A���͍D���ȉԁA�ǂ��Ƃ��Č��ǂ���͂Ȃ�����ǁA�t�ɂ��Ԃɂ��}�Ԃ�ɂ��̂Ă��������́A����S���Ђ����Ƃ��낪����B
-�I���̈������A��������̊���ɂ͂ӂ��͂����B
-���̂���̉�̉s���A�����Ĕ��̂͂��Ȃ��B
-�ߑO�͗X�ւ₳���҂��Ǐ��B
-�ߌ�͋󕠂ɔs���ċߍݍs��A���ƂȂ����������ɂ݂������̂ŁA�񎞊Ԃ��܂�Ŏ~�߂��A�Ĕ������܂蒸�Ղ����̂͂��ꂵ���A���������̕Ă𐆂��ĐH�ׂ�A�܂��܂����قǂ����������A�܂��ƂɈꔫ��ƔсA���X�h����ł���A����𖡂͂ЂA���ӂƔ��ȂƂ�V���ɂ���Ƃ���ɂ��s��̌����m���u�s��̌����v�ɖT�_�n������i���͍s��Ȃ��ł��ƁA���ƂȂ��䂪�܁T�ɂȂ�A�������݁^���_�s��Ă悩���Ǝv�����Ƃł���j�B
-�����̍s��m���u�s��v�ɖT�_�n�͂�������X����������X�����A���Ƃ��Ă͖��_�ɋ߂����B
-���Ǝ������Ȃ݂čl�ւĂ��ƁA�ߋ����܂�ŉ��������̂₤�ł���A�����̎��͍l�ւȂ��A���͍����̎��𐶂�������΁m���u�����̎��𐶂�������΁v�ɖT�_�n�悢�̂ł���B
-�{���̗X�֕��́\�\
-�m����������P�������n
-�t�X�ΌN����A�\�ԉԌN����B
-�a�H�e���N����ŏ��̗��M�A����͂��ꂵ�����Ȃ������т������̂����B
-�Y�Y�a�����烑�n�K�L�Ǝ��́m���u���́v�ɖT�_�n�������B
-���Ջ�W�A�t���m���u�t���v�ɖT�_�n�A����͖S���L�O�Ƃ��Ă̋�W�ŁA�p���͑�Łm���u�Łv�Ɂu�}�R�v�̒��L�n�ዷ���A��ςȂ��̂ł��邪�A��A����r�I�ɑ����̂͐ɂ������B
-�m�������Ŏ������I���n
-�[���A���̂܂͂���Ԃ�^�_�����Ă��ƁA�w偂̈͂ɑ傫�ȍ������X���Ђ��T�āA�΂��^�_�������ł�A�悭��l���������������ӂ��̂�������ƁA���Y�S�✺�B�S����A���̒��X�𓦂����Ă����̂ł���A���X�͏����邪�w偂͎��]����A���͂������ӏꍇ�ɂ͖T�ϓI�ԓx�m���u�T�ϓI�ԓx�v�ɖT�_�n���Ƃ�A�������ӓ����͎��R�m���u�����͎��R�v�ɖT�_�n������ł���A���̕s�^�m���u���̕s�^�v�ɖT�_�n�A�����Ēw偂̍D�^�m���u�w偂̍D�^�v�ɖT�_�n�A���F�Ƃ��ꂪ���������̉^���ł���A�c�c�������㍏������x�A���̒��X�ɋ߂Â��āA�悭����ƒw偂͂�Ȃ��A���X�������Â�ɋꂵ��ł��̂ł���A���͎���؂��Ă���A���͂��Ɠ������A�G���̒��ւЂ��񂾁A�v�ւΉ^���͊�����̂ł���A�ޏ��̍K���͂ǂ�Ȃ��炤�B
-�m����������P�������A�܂�Ԃ��ĂQ�������n
-�@�@�@���������L
-�����R�@���m���u���R�@���v�ɖT�_�n�\�\�����������Ƃ���͂�ς肱�������B
-���g�S����ɂ��Đg�S���ׂȂ�A�\�\����͎��̎����ł���B
-�m����������T�������n
-�@�@�~
-���@�@�i�O����A���̌��t�j
-�@�@�@�@�@�@�@�i�߂���Ŗ@�@���Ȃ����ނ����j
-�S���Ƌ��ՂƁ@�@�@�i�w�_�ցj
-�@�@�\�\�������L�Ƃ���ǂ���\�\
-�@�@�~
-���S�@�@�i�ւ֊�e�j
-�m�������Ŏ������I���n
-
-�@�㌎�l���m���u�㌎�l���v�ɓ�d�T���n�@�܁A�\�\�J�ƂȂ�B
-
-�����炮����m���u������v�ɖT�_�n�Q���̂ő����Ⴊ�o�߂āA��̖�����̂��҂����������A������V�l�̈꓾�ꎸ���炤�B
-�j�[�̖��Ԃ𓿗��Ɂ��m���u���v�ł���̏c�_�����ɓ˂������Ă���A��4����2-13-28�n���A���ꂪ�R�j�[���Ƃ����̂����B
-�@�����Ɋ�����A������������Ƃ��ꂵ���̂�����ǁB
-���J���ӂ�i�܂����H�J���j�A�����̑�̓_�����ȁA���q����ɂ������т��Ȃ��̂����B
-�΂�R�₵�A���ł��΂Ƃ��ӂ��̂��l�ւ�A��H�͂悭�΂𕰂��Ƃ��ӁA�΂͂��肪�����A���΂͂��܂�Ȃ��Ȃ��������̂��B
-���ɂ͑K�͂Ȃ��Ȃ肪��������ǁA���Ԃ͂������Ղ肠��A�������Ă͖��[�Ȃ��I
-���Ȃقɂ܂����m���u���Ȃقɂ܂����v�ɔ��O�p�T�_�n�A�\�\���ꂪ�A����݂̂����̐������ł���A�������łȂ���΂Ȃ�Ȃ��B
-�X�̎q�����āA�Ȃ߂��������B
-�卪��d���A�����͂܂��ƂɎ펪���a���B
-��߂��A�h���N�Ђ���藈���A�a�������T��Ȃ���b���b���A���Ă���A�U�͂�āi���܂�C�͂��T�܂Ȃ����A�h���N�ɂ͂��܂Ȃ����j�A������ɂe�֍s�Ĉ��ށA�قǂ悭�����āA�X���Ė߂��B
-�u���̋�������Ȃ��m���u���̋�������Ȃ��v�ɖT�_�n�v���ł������Ƃ͉��������ꂵ���m���u���ł������Ƃ͉��������ꂵ���v�ɖT�_�n�A���͂Ƃ��Ƃ������g�ɗ������ւ邱�Ƃ��o�����̂��m���u���͂Ƃ��Ƃ������g�ɗ������ւ邱�Ƃ��o�����̂��v�ɖT�_�n�A���͂₤�₤�{�R�̎�����肩�ւ����̂��m���u���͂₤�₤�{�R�̎�����肩�ւ����̂��v�ɖT�_�n�B
-�R���΂��R���΂��j������m���u�R���΂��R���΂��j������v�ɖT�_�n�I
-�m����������Q�������n
-�E�����͂�鑐�̗t�̉J�ƂȂ�i�u�ցj
-�E�����炫�����Ă��܂��ܐl�̂���a�ւ܂Łi��j
-�E�n�����s�N�\�_�P�t���G���̉J�̂��߂₩�ȁi��j
-�@�@�@�u���������Ӂv�ǉ�
-�E���������Â��΂��̂�̑̏L�i��j
-�m�������Ŏ������I���n
-
-�@�㌎�ܓ��m���u�㌎�ܓ��v�ɓ�d�T���n�@�J�\�\����Ă䂭�B
-
-���̋󂪔��ނ̂�҂����˂ċN����B
-�����͑�R���񂪗��Ă������B
-���߈ꖇ�ł͔������A�肪�������Δ��ւ��Ă��B
-�҂g�͂炢�ȁA�����荿����A������܂ŏo�Č�����A�c�c���߂̃T�C���������A���������炢�炵�Ă��Ƃ���ցA�������񂪎��Ɛ|�Ƃ����Ă����A�����ĊԂ��Ȃ���R�N���A�Ɠ����񂪂ɂ��^�_�������͂����A�c�c�܃����Ԃ肾����ǁA��������������Ă�₤�����B�c�c
-�����͂����̂₤�ɑ�R����݂Â��炳���Ă�������ǁA���͑����������ꕨ�A�Ă��ݖ������X�������������������ȂĂ�邱�Ƃ��Ԃ��܂���i��R����Ȃ�΂����ł���j�A��R����g�y�ɗ��������Ă܂��X�֏o������A�����ĕĂƏݖ��ƃV���E�K�ƉZ�Ɖ֎q�ƊC�ۂƂ𔃂Ă��Ă��ꂽ�A��������������m���u��������v�ɖT�_�n���͂��܂�A���܂��^�_�A���肪�����^�_�i�Ɠ�����͍ŏ�������A��������Ă��₤�����j�A���͂���A����������A�b�͘b���Ă��b���Ă��s���Ȃ��A�F����̎��̂₤�ɂ��炾�ɂ��݂킽��A�����ς��ɂ��U��ӁA�܂����K�����B
-�����͕����ʂ�̐��i�����A�����ĂƂĂ������������B
-�G���̒���⥂������āA��l�Q����񂾂Ƃ�����Ɠ����񂪃p�`���ƃJ�����ɂ����߂��B
-�Ɠ����񂩂�́A�|�̗t�̒��m���u�|�̗t�̒��v�ɖT�_�n�̂��Ƃ����ւĂ�����i�����m���u�����v�ɖT�_�n�Ɩ��Â�����悢�Ǝv�Ӂj�B
-�Ԃ��Ȃ��[��ƂȂ�A������܂Ō�����A�킩��͂�ς肩�Ȃ����A�킩��Ă��ւ邳�т����B
-���ւāA���Ƃ����Â��āA��т𐆂��āA�܂���{���āA�ЂƂ肵�݁^���_�l���𖡂Ӂm���u�ЂƂ肵�݁^���_�l���𖡂Ӂv�ɖT�_�n�A�����Ă�����Ƃ˂ނ��B
-��R����S�Â����̈�r�A����͔��y�����Ȃ������t�ł���A���{�L�x�A���C�񕜂̖��򂾂����ł���A���̈�r�ŎR���΂͂�݂��ւ邾�炤���ƂɊԈ�͂Ȃ��A���X�D��������ǁA�����͍D���̍D���m���u�D���̍D���v�ɖT�_�n�����A�����B
-�����ꍀ���L���Ēu���������Ƃ�����A���Ƃ��Ă̌�y���͉����Ȃ������A�G�������Ė�����ƁA�ꔫ��Ɣсm���u�ꔫ��Ɣсv�ɖT�_�n��H�ׂĖ�����Ƃ́A���Ƃ��Ă܂��Ƃɂ��ꂵ�����Ƃł����̂ł���B
-�m����������Q�������n
-�@�@�@�t�X�ΌN��
-�E���ցA�Ȋ��̕�̐L�т₤
-�@�@�@�����N��
-�E�҂�����Ȃ��G���ւ����邢�J
-�@�L�т����ĘI���炢�Ă��҂Ă��
-�@�����܂ő���[�Ă����̐����
-�E���񂽂����悤�Ǌ⍑������̒��𒮂��Q��
-�@�@�@����
-�E�H���́A�����́A�΂��݂����i�u�j
-�E�@�֌ɂ̂��Â���Β����̂Ȃ�
-�E���ꂪ�R���������̂Ԃ�Ȃ���������ł͂��ׁi��j
-�E���ӂ����́A���̂钎�́A���͒m��Ȃ�
-�E���^�_�ڂ������炾�T������ӂׂ̃T�C����
-�E������Ƃ����̕��݂Ȃ���������
-�m�������Ŏ������I���n
-
-�@�㌎�Z���m���u�㌎�Z���v�ɓ�d�T���n�@���B
-
-���т�������ǂ��Â₩�ŁB�\�\
-�ߌ�͑����߂ċ��ނɍs���A�s�����Ƃ͍s�����A�Ȃ��^�_�ނ�Ȃ����A�a���Ȃ��Ȃ����A�J��Ă����̂ŁA���X�A���A�����Ă��̎G������ɍ���̂����܂�𒸑Ղ������Ƃł���B
-�m����������Q�������n
-�����O�A���B
-�m�������Ŏ������I���n
-�m����������P�������A�܂�Ԃ��ĂQ�������n
-�@�@�@���������L
-���E�ӂɒl������́m���u�E�ӂɒl������́v�ɖT�_�n
-�@�s��āA�������Ȃ��āA���̓o�c�g�̋z�k���E���ċi�񂾁A�����Ă��^���_�������Ȃ݂����Ƃł���A���͎̂Ă�ꂽ���̂��E���Đ����Ă䂭�l�Ԃł���΂悢�I
-�����܂��ɒl������́m���u���܂��ɒl������́v�ɖT�_�n
-�@������s��Ɋ��������Ƃł��邪�A�����Ȃ��f����̂�������܂ւ��m���u������܂ւ��v�ɖT�_�n�A�Ăł��K�ł��^�ւ���̂́A�U���Ɩ@�߂Ƃɑ΂��Ă��A���͋��܂��ɑ�������l�Ԃł���B
-�m�������Ŏ������I���n
-
-�@�㌎�����m���u�㌎�����v�ɓ�d�T���n�@���\�\�܁\�\���B
-
-�ߑO���Ǐ��B
-�ߌ�͑�A�Ð������A�񎞊ԗ]�B
-�m����������Q�������n
-�����̌����@�@�@�āA�ꏡ�O���@�@�K�A�\�l�K�B
-�m�������Ŏ������I���n
-�����̍s����悩���A���₯��m���u���₯��v�ɖT�_�n�Ɏ���ӂ鏗������΁A�킴�^�_���]�Ԃ��牺��ĉ�����j������A���͂��܁^���_�A�l�͂���^�_�ł���A���͎�R�s���m���u��R�s���v�ɖT�_�n�ł��邪�B
-������Q���i�Ζ������Ȃ�����ł�����j�B
-�m����������Q�������n
-�@�@�@�ǂ񂾂��̂̒�����
-�i�ؑ]�߁j�@���̏o���Ɩ񑩂�����
-�@�@�@�@�@�@���͎R�[�ɂ킵�₱����
-�i�ɓߐ߁j�@�t�ނ�Ⴂ�O�悤���Ă��ꂽ
-�@�@�@�@�@�@������G��瓤�̗t��
-�m�������Ŏ������I���n
-
-�@�㌎�����m���u�㌎�����v�ɓ�d�T���n�@���A���A���B
-
-���Â��ɓǏ����A�h�N��҂B
-����Ɣ_�w�Z�֍s���A�����N�͏o���s�݁A�n����ɁA�h�N�����̖񑩂����āA�����߂�A���łɐV����ǂ܂��Ė���B
-�V���m���u�V���v�ɖT�_�n�Ƃ��ӂ��̂͌��㐶������͗���Ȃ����̂ɂȂĂ��A���ꂩ������͗���Ă��܂Ă��A���X�ǂ݂����Ȃ�̂́A�\�\�@��ւ���΁A�ǂ܂��ɂ͂���Ȃ��̂́A���܂�ɂ�����܂ցm���u������܂ցv�ɖT�_�n���炤�B
-������ƂȂ���l����ė��Ă��炵�����A�H�ׂ镨���Ȃ��̂ŁA���͐V�炵�����ւ����O�̂��Ԃ�H�ׂĂ��܂��Ă��A���́i�����ĕ����܂��j����΂���O�Ȃ����B
-�������ē��l���A�H�ׂ镨���Ȃ����̂�����A�}�c�`�̃y�[�p�[���r�߂Ă��A����ɂ͌Ђ̏L������Ƃ݂��āB
-�҂Ă��҂Ă��A�h�N�͗��Ȃ��A�҂������т�āA���󂵂���A���ɔ엿�������B
-�[�H��A�Ζ����Ȃ�����A�ᒠ�̒��ɐQ�����ł��ƁA��ƁA�����ʂ��ɁA�h�N�����A����㣋l�������A����l������ŐH�ׂāA�h�N�͘b���Â��āA�����Ă����Ԃ������Ȃ�����ǁA�܂�������ɂe�ցA�\�\�܂�������`��āA�����ċx�݋x�݂�����ɖ߂ė����A������Q���A�悢���������B
-�m����������P�������A�܂�Ԃ��ĂQ�������n
-�@�@�@���������L
-���@�߂����ĒފƂ������ŏo��������ʔ����炤�Ǝ����N���Ђ₩�������A���͓S�������ՂƂ����Ȃ�΂��Ɩʔ������炤�ƍl�ւĂ��B
-�����̐��������΁\�\
-�m����������R�������n
-�G���A�ώρB
-�ǓƁA�P���B
-�m�������Ŏ������I���n
-
-�@�㌎����m���u�㌎����v�ɓ�d�T���n�@�J�A�������ɖ���O��ŉ_�s�s���B
-
-�悭����ł悭�Q�����ł���A���V�C�͈������A�������͉��K�ł����B
-���т̂��܂��A����A�����̂��܂��B
-�h�N�̎R���s���w�܂Ō����āA���ꂩ�甃����������A�\�\�ؗt�A�Ζ��A�����A�n�K�L�\�\�������O�\�l�K��B
-�����A���Â����A���Â��ȉJ���B
-�ߌ�A�j�̓X�����A���Ɠ����Ə���Ƃ����Ă��āA�莆�������������A�����N���܎����������邩��d�x�����Ă����Ă���Ƃ̂��Ƃł���A�悵�����Ƃ΂���A�����̓��c�R�ɁA���͏Ă��āA�����ă`�r���^�_��Ă��ƁA�����N����������ꂽ�₤�Ȋ������͂����A�������T��h�N��҂����A�Ƃ��^�_�ʖڂ����A�����Ď����N�͕�ꂫ��Ȃ������ɋA����B
-�߂ł����킩�ꂾ������ǁA���X�҂����ʂ�ł������B
-�����A����̕��ƍ����̕��Ƃ������āA�ꏡ�΂���c�Ă��A���Ă����͂�΂��͂���̂ł���킢�I
-�m����������P�������A�܂�Ԃ��ĂQ�������n
-�@�@�@���������L
-���Ɗy�m���u�Ɗy�v�ɖT�_�n�ł͂Ȃ��A�y�Ɓm���u�y�Ɓv�ɖT�_�n�ł���B
-�m�������Ŏ������I���n
-
-�@�㌎�\���m���u�㌎�\���v�ɓ�d�T���n�@�܁A����^�_�J�A�ǂ���琰�ꂳ���ȁB
-
-���U�늦���A���͓ǂ݁A���͍l�ցA���͒��߁A�����Đ��Ղ��y���ށB
-���𐟂܂��ƁA�ǂ����ŏނ������i�H�j�����Ă��B
-�ӎނ�������Ă���ߍݎU���B
-��������܂Ă��Ċ�����A�����͍D�����B
-�����Ȃ��A���邳���A�����ȕS���Ƃ�������ǁA����̖����_���ɔ��͂����Ƃ͖Y��Ă�Ȃ��B
-�邪�X����Ɖ_���U�Č������₯���Ƃ��A���̍���������ł���A���̐S������ł���B
-�m����������Q�������n
-�@�X�ւ����Ȃ����̂����ڂ���
-�E�����J�ƂȂ�ĎR�q�����ɏo������
-�E�d���Ƃق��R�ӂ����z���Ă䂭�t
-�E�|�̗t�̂��Ȃقɂ��悮���T������߂�
-�@���ӂ������Ȃ����̌͂�₤�Ƃ���
-�E�ĂӂĂӂ�������ЂȂ��i��j
-�E���邵�����N������₤��
-�m�������Ŏ������I���n
-
-�@�㌎�\����m���u�㌎�\����v�ɓ�d�T���n�@�H���A�v���Ԃ�̐󂾂��B
-
-����₱���Ɨ��d�x������i�������X���̗���\�z���āj�A���������ЂA���̗p�ӂ��ƂƂ̂ւ邱�Ƃ͂܂��ƂɊy�������̂ł���A���l�ɂ͉���Ȃ��ŁA������l�̖��ӋC���ł���B
-����Ђ����ؒЂ̂��܂��A�n�����H�삪���������Ƃ���B
-��ƗX�ւ₳�񂪗��Ă��ꂽ�A����^�_�������A�Ƃ�킯�Ă��ꂵ�����̂́\�\
-�m����������P�������n
-�����N�̎莆�i�؎�Ɛ���̎ʐ^�Ƃ��������Ă����j�B
-���[���L�i���Җ��؂��̐l�ɉ���₤�Ȋ����j�B
-�m�������Ŏ������I���n
-��ӂׁA�w�̃|�X�g�܂ŁB
-����ق�ފ݉Ԃ��炫�����Ă��A�Ȃ�قǔފ݂��߂Â��Ă����B
-�S�㒹���o�Ă����A�ނ̐����܂��s���Ȃ��B
-�g�S�������Ăق��炩�m���u�g�S�������Ăق��炩�v�ɖT�_�n�ł���A�@�߂̌��ɒފƂ��̂��Ă��A���̖����������Ȃ��قǂł���B
-�\�l���̌��������������A�Q���ł܂Ƃ��ɂ��̌��𗁂т����B
-�m����������S�������n
-�������M
-�m����������U�������n
-������l�Ƃ��āA���R�Ƃ��čl�ցA���R�Ƃ��ď������������̂ł���B
-�m����������P�������n
-�l�Ԃ͐l�Ԃł��A�_�l�ł��Ȃ���Έ����ł�����܂���A�V�ɂ�����Ȃ����A�n�ɂ�����܂���A�V�ƒn�Ƃ̊ԂŁA��������΂��肷�铮���ł��B�c�c
-�m�������Ŏ������I���n
-
-�@�㌎�\����m���u�㌎�\����v�ɓ�d�T���n�@���A�܁A���H�A��S��\���B
-
-�����̂₤�ɑ��N������A�����Ă����̂₤�ɐ������񂾂�A��т𐆂�����A�|��������A�{��ǂ񂾂�A�Q����N������B�c�c
-���̂���������A�|�̗t�𓧂��Č������̐���A������_�������^�_�Ƃ��ėV�ԁB
-���[���L�m���u���[���L�v�ɖT�_�n��ǂށA���̖��͖��؂��̐l�̖����B
-��e�����A�����˂΂Ȃ�Ȃ����e�������B
-�\�\���h�ւ�\�\�Ƃ��ӑT�ꂪ����A���̑��|�͎��𕜊��������̂ł���B
-�ߌ�A儊L�ł��@�����Ő�K�֍s���i���ނ��悤�ɂ��ꂪ�Ȃ����t�m�����ւȂ�����j�A�ꎞ�Ԃ΂��萅���ɂ��₪��Ō܍��΂���@���A����ȏ�͓��p���Ȃ��̂ŁA�y��̐��������āA�n�ꕗ�i�𒭂߂�A�m���r���������̂ł���B
-儊L�Ƃ��ӂ��̂͂ƂĂ���R������̂��Ǝv�ӁA�����m���u���v�Ɂu�}�R�v�̒��L�n�l����l�A���ԓ���ł������Ă���A�����ŎO�l�ʂ̊l�������邳�����A���Â�ǂ����L�ނ��߂Â炵����n���֑���̂��炤�A�A�r�A���˂Č��Ă������݂��͂��m���u�݂��͂��v�ɖT�_�n�����Ă��ւĊ�����A��̉Ԃ͂��������B
-�������ɂ��Ă����Ă�����ςĂ�Ȃ��A�o���Ƃ��̂܁T�ł���A�����͊`�̗t���ꖇ�U�荞��ł�邾���I
-儊L�`��������ւT�A���͎��̗⍓�A����A�l�Ԃ̎c�E�Ƃ��ӂ��Ƃ��l�ւ��ɂ͂���Ȃ����B
-���H�����ł͂���܂�����ǁA�_�������͎̂c�O���A�v�͂��ӎނ��߂��āA�ق񂽂��ɋv���Ԃ�ɁA��̊X���ꡂ���A��̔@���x���񂩂班���؂��A������ň�t�A������ň�t�A����ɍ������������Ė�ė^���b�ɋ������肷��A���̂����ɍK���s�K���g�N�ɉ�ӁA�l�H���֗U�͂�Ĕ�����A���������h�g�����܂����I�@�����܂񂳂�Ƃ��Ė߂��͎̂O�������A�A���R�[���̂������őO��s�o�B
-�c�c�����Ă�����Ȃ��m���u�����Ă�����Ȃ��v�ɖT�_�n�c�c�R���Ζ��΁I
-�_���������Ȃ��ȂČ����Ⴆ�Ă���Ƃ͌������Ȃ����A���H�炵�������ɏƂ炳��āA���͘J��Ă����ǍK�������B
-�m����������Q�������n
-�E�Ƃ��ӂ₳��̓J���A�����X�ւ₳�񂪂��邱��̏H��
-�E�������������قق����钎�̂��߂₩��
-�@���@��ΐ����߂΂Ȃ�ڂł�儊L
-�@�H�ׂ₤�Ƃ���儊L�݂�Ȍ������Ă�邩
-�@�H�̉�̂���ǂ����݂��������ꂽ
-�@�������瓿���֏H�̖�̎���
-�E�ЂƂ肢���ɂ��傫���؂�҂�
-�@���ƂȂ��肪�Δ��֔������Ă��
-�@��ӂׂ̂���Ƃ�Ă������ŐH�ׂ���̂��Ȃ�
-�E�H�J�ӂ��ď������Ȃ������炪������
-�E��������Ȃɂ˂ނ点�Ȃ�����̋����̉�
-�E���T�됟�܂��΂݂�Ȗ����͂��Ă�钎
-�E���̂�ɂ�����΂܂ւ���������܂���䂳��
-�@�o��Έ����߂�Έ����q���炪��
-�E�ЂƂ�ƂЂƂ�Œ��͗��M�ŏނ�����
-�@�����������V�����̃A�C�X�L�����f�[�̊�
-�E�l�̂Ƃ߂͉ʂ������炵�́A����������������Ȃ点�Ă��
-�@�����߂�̈��g�����Ղ̏�����������
-�@������Ƃ����̉_�̂䂫���́A�o�H�s�S�~�t���������ނ�
-�m�������Ŏ������I���n
-
-�@�㌎�\�O���m���u�㌎�\�O���v�ɓ�d�T���n�@���A�܁A�J�B
-
-���X�����d���A�݂������A���̍����m���u���̍����v�ɖT�_�n������d�����Ȃ��A��߂Ă������R�c�v�������́A�\�\�Ǝ����Ŏ����ɂ��Ђ������Ĕ���΂���B
-�R�̐搶���A�R���납�A���������Ε����B
-�[�������Ƃ��ċC������V���Ă��ꂽ�A�����Ƃ��ӂ�����C���g�ɂ��݂�B
-�V�H�̕����́A�؂������R������l�������^�_�����B
-�����ɓ��Ă��珉�߂Đ����𔃂ӁA�G���\�K�i�挎�͈�x�����̐ؐg���\��K�Ŕ����U�������j�B
-��q�������Ă͂���Ȃ��قǏH���������A�@�̗t�̗��Ԃ��F�ɂ��H�̎v�Ђ��Z����炮�B
-�O�̂v���񂩂�{���������Ă��āA�O��̂��T�����ɐA���A���T�ɂ��H���F�Z������͂�邾�炤�B
-�邨�����A�������N����Ă����A������O���z���ċA�Ă����A�N�̐S���͉���A�������܂��ɂ͂���Ȃ��S���A���߂ΐ��͂��ɂ͂���Ȃ��S���A�����Đ��ւΗ��ꂸ�ɂ͂�Ȃ��S���\�\���̐S���͉��肷����قǉ���A���ꂾ�����͌N��߂����v�ЁA�݂��߂Ɋ�����B
-�L�����܏Z�m���u�L�����܏Z�v�ɖT�_�n�A���������߁m���u���������߁v�ɖT�_�n�A�ł���A�����N�B
-�m����������Q�������n
-�E�킩��ĉ��������邠���̖���
-�E���ӂ����B���炢�Ă��܂�����
-�@�A�����I�����X�����ĂƂ܂��
-�E�����ڂ��͔����Ƃ�ڂ��݂�Ȃ������
-�E�X����Ɛ��݂킽�錎�̌ϖ�
-�E���������邢���ŕĂƂ�
-�m�������Ŏ������I���n
-
-�@�㌎�\�l���m���u�㌎�\�l���v�ɓ�d�T���n�@�܁A�Ђ�T���B
-
-���͑�}���ŁA���e�����������āA�w�_�Ђ֑����A�w�̃|�X�g�܂ōs���B
-�K���炰�m���u�K���炰�v�ɖT�_�n�I�@���͂�����ƂȂ��A�K���炰����Ȃ����₤�ɂȂ��A�K�����炰�邱�Ƃ͂�낵���A�K���܂��邱�Ɓm���u�K���܂��邱�Ɓv�ɖT�_�n�͂�낵���Ȃ����B
-�֎썹�؂�����Ɋ�����A�����������Ƃ͂�����������ǁA�������d�w�ɑ΂��Ă��₤�ȁB
-�ߌ�͋ߍx�U��A���ꂩ��͂Ԃ��Ԃ��Ƃ��ĂȂ������̂��y���݂��B
-�������͏㋽�����{�̌�՗�A����������͂܂����̔����l�̂��ՁA�񓔂�݂�������T���A��y����������ցA�悢���������āA�\�\�H�Օ��i�͂������^�_�B
-�߂�ƁA�����Ă�������q�����߂Ă���A���Ă͍��̎����ė����ȂƁA�͂��Ă݂�ƈĂ̒�A���������Q�Ă��A��������т�H�ׂȂ������齂��������񎝎Q���Ă��A���������m���u���v�Ɂu�}�R�v�̒��L�n�������A��ꂩ���Ă���A���ƂȂ����ʂ��B�c�c
-�Ē��ꍇ��齘Z�Ƃŕ����ς��S���ς��ɂȂāA�ᒠ���݂�Ȃ��Ŗ��Ă��܂��A�钆�Ɋ�o�߂Č����ς��B
-�H�ׂ������ɐH�ׁm���u�H�ׂ������ɐH�ׁv�ɖT�_�n�A�Q�������ɐQ��m���u�Q�������ɐQ��v�ɖT�_�n�A���ꂪ�������ɉ�����R���΂̍s�����B
-�m����������Q�������n
-�E�����͂����������Ĉ𒎂��U������
-�E���͘I���̉Ԃ̂������
-�E�g�ɂ�������̂Ȃ��΂Ȃ�ƂȂ�
-�E�����肵�Â����`�̗t�̂��鉹��
-�E�������Ăł͂���݂̂�ȐG��Ă䂭
-�@�ۂ��Ƃ�Ƃĉƌ��Ă�ƂĐ΂��^�Ԃ�H
-�@�H��ӂ����������A��s�@�͌�����Ȃ�
-�m�������Ŏ������I���n
-
-�@�㌎�\�ܓ��m���u�㌎�\�ܓ��v�ɓ�d�T���n�@���A�܂��ƓV�����B
-
-�g�Ӑ����A�������Ă��A�������Ă������������Ȃ����̂�����B
-�҂Ƃ��Ȃ��҂Ă�R�N�g�I�����m���u�R�N�g�I�����v�ɖT�_�n�������������ė����A�L���O�㌎����A��āB
-�ߌ�͋ߍx�U��B
-���̂�����͂��ׂĂ��Ղł���A�ƁX�l�X����^���_�ɂӂ��͂�����y����������ւĐH�ׂ��ӁA���ꂵ���ł͂Ȃ����B
-��ӂ׉��ƂȂ����т����̂ŊX�֏o�������A�R�c���ŃR�c�v���t��\�K�A���؉��ŌÓT�����\�K�A���͈����Ȃ����A�{�͂��܂�Ɉ������B
-�R�c�v���̂������ŁA�A������ƒ����Ɋy�֍s���₤�ɏn���ɗ��������A�o�߂Ĉ݂��悭�Ȃ��̂͐�����Ȃ��A��߂Ă������R�c�v���\�\�ƁA�ǂ����řꂭ����������₤�����B
-�a��ł��N���^�_���Ȃ��m���u�a��ł��N���^�_���Ȃ��v�ɖT�_�n�A�n�R���Ă��P�`�^�_���Ȃ��m���u�n�R���Ă��P�`�^�_���Ȃ��v�ɖT�_�n�A�������Ӌ��U�Ɏ��͓��肽���̂��B
-�m����������Q�������n
-�E�H�ׂ���̂͂���g�}�g���̃g�}�g���Ԃ�
-�E���̂䂽���ɂ����߂����̂̂���
-�E��̐������̐��֐Βn����
-�E�H����݂̂̂ނ������̂܂�Ȃ���
-�@�@�@�s�䎖�m���u�s�䎖�v�ɖT�_�n��������
-�E�ގ��Ԃ������ޏ������֎썹��
-�@�H�̖�ӂ��ď������Ȃ������炪�����Ӂi����j
-�E�Ȃ�Ƒ傫�ȕ����A�X�t�A���g�̏���
-�m�������Ŏ������I���n
-
-�@�㌎�\�Z���m���u�㌎�\�Z���v�ɓ�d�T���n�@���͏H���H�₾�����A���ꂩ��܁B
-
-�����̌�т͐\���̂Ȃ��o�������i�ډ��[����������A�Ă��̂��̂͂��܂�悭�Ȃ��j�A�g�S���������قǌ�т��قǂ悭������m���u�g�S���������قǌ�т��قǂ悭������v�ɖT�_�n�B
-�����Ă��Ȃ��Ȃ�����i�K�͂ނ�񖳂��j�A�����͑���Ȃ���΂Ȃ�Ȃ��̂�����ǁA�ǂ����C�����T�܂Ȃ��A�Ƃ��Ӗ�ŁA���ڂɒ��т����܂��Ğ����K�ɋ��ނƏo������A�ނ�l���ԑłl������Ԃ񑽂��A���]�Ԃ������ɂ����T�ɂ����̂āT����A���̒ނ͒Z�����A�񎞊Ԃ΂���ŋA�ė����A�^�����Ă�́A������ȏ�ł��ȊO�ł��Ȃ��̂�����B
-�m����������Q�������n
-�����̊l���́A������A�����܁B
-�m�������Ŏ������I���n
-�r���A�̔L�̎e���܂͂���ɂ͕������A���������Ȃ��̂�����A�A��Ė߂Ď��ӂ̂�����ǁB
-�����炮����ƐQ���A�����v���_���Ȃ����B
-�钆�ɊႪ�o�߂āA�J�������̊K�m���u�K�v�Ɂu�}�R�v�̒��L�n�����X�������B
-�m����������Q�������n
-�E�����Ȃ��������ƌ��Ă�钎�̂������Ȃ�
-�E������߂����R����̏o�Ă��Ă��킮
-�E�ĂӂĂӂЂ�Ђ�Ƃ�ł��Ĕ��̍炢�Ă��
-�E�����ɂ��J�ӂ�y�Ɏ�q���������
-�m����������P�������n
-�@�@�@�������M
-�s��Ƌ��ށA�S�������ՂƂ��āB
-�E����@�m���u�E����@�v�ɖT�_�n�@�^�D��́B
-�𓿗��Ɏ�������Ȃ�΁A�ğC�ɕĂ�����Ȃ�΁B
-�m�������Ŏ������I���n
-
-�@�㌎�\�����m���u�㌎�\�����v�ɓ�d�T���n�@�J�A����~��ʂ����B
-
-�J�R��͂�т������̂ł���A�H�J�͂܂��悭�R����̂��Ǝv�ӁB
-�邪�����Ȃē����Z�����Ȃ��A���ӂ̃T�C�����𕷂�������������B
-�J�͂ق񂽂��Ɏ��𗎂�������A�����̕Ă͂Ȃ�����ǁA���Â��ɓǏ��B
-�I��قƂ�Ǖs���A�閾���O�ɂƂ�^�_�Ƃ����B
-��\���������邩���B
-�I�����Ȃ��m���u�I�����Ȃ��v�ɖT�_�n�\�\����Ŏ��͂��������B
-�m����������P�������n
-�@�@�@�������M
-�|�p�͏n���Ă���ƁA
-���сm���u���сv�ɖT�_�n���o�Ă���A�Ⴆ�m���u�Ⴆ�v�ɖT�_�n���o�Ă���A
-�����m���u�����v�ɖT�_�n���o�Ă���A
-�����܂ł䂩�Ȃ���΃E�\���A
-���{�̌|�p�ł́A��Ɏ������̕��|�ł́B
-�m�������Ŏ������I���n
-
-�@�㌎�\�����m���u�㌎�\�����v�ɓ�d�T���n�@���B
-
-�H���ɁA���͂܂��ɏH���B
-�h�󉉏K�̓��B
-����Ȃ���΂Ȃ�Ȃ��̂ł��邪�A�ǂ����C�����T�܂Ȃ��A�l�X�ŃR�c�v����t�Ђ����āA�g�X�ň��齏\�΂���؂�ė��ċx�{�A�Ǐ��A�v���B
-��s�@�̔���������A�C�����ƁU�낭�A����m�̃T�C������������c�c��펞���i�̈�f�ʂ��B
-�ߌ�A�����k�₷�A���^���_�����̘�m���u��v�Ɂu�}�R�v�̒��L�n�b��Ȃ�������A���h���̂Ēώςɂ���B
-��������̂₤�ɉᒠ��݂�Ȃ����A�������A���Ίǐ��œ_�����Ȃ��B
-���������L�����邾���A�ς������B
-�m����������Q�������n
-�E���ꂫ�Đ��h��̃T�C�������Ȃ�
-�@������Ɍ����܂��鐯���҂��҂�
-�E���Ίǐ��́A�����o�Ē������̂�
-�@�@�@���Ίǐ�
-�E�܂����݂Ŏς��Ă鉹�͒ώ�
-�E�҂��肯����������������
-�m�������Ŏ������I���n
-
-�@�㌎�\����m���u�㌎�\����v�ɓ�d�T���n�@�����B
-
-�q�K���m���u�q�K���v�ɖT�_�n�A�q�K�����Ă���O�\�l�N�̍����ł���A�o�d�̐��ړW�J���l�ւ�B�\�\
-�₤�₭���S�m���u���S�v�ɖT�_�n�����������Ēցm���u�ցv�ɖT�_�n�֑����A���S�B
-�g���񂩂炤�ꂵ���莆�������A�ʎᓒ�オ����Ă����A���������c�֍s���A�R��������A���ސH�ׂ�A�c�c�F�̂��肪�����A���̂��肪�����A���̂��肪�����A�т̂��肪�����c�c�����������肪�������A�����Ĕ������낢�낳�܂��܁A��������ɂ��āA�A�r�A�_�w�Z�֊�āA�����͎����ꏡ�����A���悤�Ǐh���̎����N�Ƃh�N�ƎO�l�Œ{�ɂ̏h�����ň��񂾂��A����m���u����v�ɖT�_�n�����܂����A�A�������̂͏\�������A���X���݂����ċꂵ�����B
-�߂���m���u�߂���v�ɖT�_�n�͑���Ȃ��m���u����Ȃ��v�ɖT�_�n���������Ȃ��B
-�m����������Q�������n
-�E�΂���Ɗ`�̗t�̂��Â���
-�@�߂����J�̂ӂ肻�T�������ƂȂ�
-�m�������Ŏ������I���n
-
-�@�㌎��\���m���u�㌎��\���v�ɓ�d�T���n�@�܁A�J�ƂȂ�B
-
-���̍��������畠�H������낵���Ȃ��A���Ǝ����A�ϔO����O�͂Ȃ��B
-�a��Ό����o��m���u�a��Ό����o��v�ɖT�_�n�A�\�\�܂͏o�Ȃ��ȂĂ��A���͏o����̂ł���A�����Ă�邩����́A�\�\����͍��A�������ʂ̏���������Ƃđ����߂ď������Ƃ��̊��z�ł���B
-�_���̑y�Q���m���A�킴�^�_���̂��߂ɔʎ�S�o�u�`�i���_�o���m���u���v�Ɂu�}�R�v�̒��L�n�t�j����񂹂āA���ĉ������A���ӈȏ�̂��̂ł���B
-���ق났�̐�������^�_�s���Ȃ�B�c�c
-�ߌ�A�X�֏o�āA�함�A�����A�`�a�Ȃǂ𔃂ӁB
-�������x�����̂r����񂪂�Ă����i��������璆�ɗ��������ł���j�A�Ⴂ�l�ɂ͎Ⴂ�l�Ƃ��Ă̂悳������A�������肽�܂ցB
-�m����������P�������n
-�@�@�@�������M
-�@�@�@�K�R���i���j�I�j
-�����@�@�@�@�@�@�@�@�@�@�@�@���w
-�@�@�@�\���i�Љ�Ȋw�I�j
-�m�������Ŏ������I���n
-
-�@�㌎������m���u�㌎������v�ɓ�d�T���n�@�J�A�ފ݁B
-
-���킽���ƁA�`�������ԐF�Â����A�`������Ă���قǏH�͂ӂ����Ȃ�̂��B
-�H���́A����A���̐_�o�ߕq�ɔ���΂���B
-�����ڂ����̐�����X�����ȂāA���Ƃ��Ȃ��������Ă䂭�B
-�����̔����́A�\�\�I����\�K�A�ӉZ��O�K�A�����ďĒ��ꍇ�\�K��B
-�����̍K���m���u�����̍K���v�ɖT�_�n��A�\�\�ʎ�S�o�u�`��ǂ񂾂��ƁA�ӎނ����܂������ƁB
-�[���A�����Ȃ��l�������Ǝv����A���������̉����������A���̂₤�Ȃ��̂ł��A������{�l�̈�l�ł���ɑ���Ȃ��B
-���܂��肪�A����^���_�����A���~�ւ����Ă���A�₪�Ă����났�������Ă��邾�炤�B
-�m����������P�������n
-�@�@�@�������M
-�Ǝނ̖��B
-�Ύނ̖��B
-
-
-��A�\�\���ȁA�\�\���\�\���̖؁B
-�q�A�\�\��K�A�\�\�R�\�\�^���B
-�c�ɂ��܂͂�̂Ȃ���̔��i�@�t�m���u���i�@�t�v�ɖT�_�n�B
-���̃f�p�[�g�m���u���̃f�p�[�g�v�ɖT�_�n�B
-�m�������Ŏ������I���n
-
-�@�㌎������m���u�㌎������v�ɓ�d�T���n�@�܁B
-
-��S�O�m���u�O�v�Ɂu�}�R�v�̒��L�n�\�����܂Ö����Œ��d�X�X�B
-�S�㒹�̐������ɂ��₤�ɂȂ��B
-�q�����|�������ę֎썹�؂��΂���^�_�ƕ��a�肵�Ă��A���ɂ��������Ӓǉ�������A�U���͂��Ǝc��������ǁA�ޓ��̐S���ɂ͂فT��܂������̂�����B
-�S�����C������āA�o�P�c��񂰂āA�������Ђɏo������A�����Ȃ���D�X��m���u�D�X��v�ɖT�_�n�炵��������B
-���ӂ͔ӎނȂ��A��肽���Ȃ��̂���Ȃ��A��肽���̂�����ǂ��Ȃ��̂��A�ނ�ɂ��ɂ͋y�΂Ȃ��B
-�₤�₭�_������ė[�����˂��Ă����B
-�m����������P�������n
-�@�@�@�������M
-�������ׂĂ����������m���u�������ׂĂ����������v�ɖT�_�n�A�����ׂĂ��������낭�m���u�����ׂĂ��������낭�v�ɖT�_�n�A�������Ă����̂����m���u�������Ă����̂����v�ɖT�_�n�A���𕷂��Ă����̂����m���u���𕷂��Ă����̂����v�ɖT�_�n�B
-�m�������Ŏ������I���n
-
-�@�㌎���O���m���u�㌎���O���v�ɓ�d�T���n�@�܁A�H��A�앪�炵�������B
-
-������Q�����Ŗ��ǂƂ̓[�C�^�N�ȁI
-�ߌ�͋��ނƂ͂܂��[�C�^�N�ȁB
-�������Z�A�S���܂A�����̂₤�ɂ��܂�ނ�Ȃ��A���܂�ނ炤�Ƃ��v�͂Ȃ����B
-���X�A�����āA�s�^�Ȕޓ���������ɂ��āi���Ƃ��Ă�䶔��ɕ����āA�Ƃ��������悩�炤�j�A��t����B
-�����͂��ꂵ��ӎނ�����m���u�����͂��ꂵ��ӎނ�����v�ɖT�_�n�A�\�\���Ƒ������̎R���΂ɂӂ��͂����K���ł͂Ȃ����B
-���ꂩ��i���̂��ꂩ��m���u���ꂩ��v�ɖT�_�n�����Ƃ΂���悭�Ȃ������j�A�w�̃|�X�g�܂ŁA���ꂩ��x���ցA�l�X�ցA�e���ցA���X�ň��݉߂����i�܂�A���X�O�N�̉�������񂾖�ł���A�ݕ��Ƃ��Ĕ��\�K�I�j�B
-���݉߂��ĕ����Ȃ�����A�����z�e���i�w�̑ҍ����j�̃x���`�ŋx�������A�߂��͖̂閾�߂����B
-�R���Ζ��΁I
-
-�@�㌎���l���m���u�㌎���l���v�ɓ�d�T���n�@�\���J�B
-
-�����͔ފ݂̒��������A����ł͂����Q����o���܂��A���̉��͂�����Ė邪�B
-����A���ނ̋A�r�A�̂Ė߂������j�m���u�j�v�Ɂu�}�R�v�̒��L�n�Y�Ԃ�������A��ς�H�̑��ԁm���u�H�̑��ԁv�ɖT�_�n���ȁB
-�ߌ�A���J�̒����r���񗈖K�A�����Q�ŁA�U���Ď����N�����A�����Ɩ�؂Ƌ��Ƃ����Q���āA��y���A��y���A����m���u����v�ɖT�_�n�͂��܂��ȁA�قǂ悭�����ė[�����U�B
-���X���݉߂��H�׉߂����₤���B
-�m����������Q�������n
-�E���ӂ����͂��炢��
-�E�M���ӂ��̂鑋�̖��Ái�ցj
-�E���𒮂�����߂Ȃ����͂��
-�@�J�ӂ�Ȃ�ڏ�q�����T���Ă��͂�m���u��v�Ɂu�}�R�v�̒��L�n��Ȃ�����
-�@�@�@�a��
-�@������܂ł��ďނ��T��
-�m�������Ŏ������I���n
-
-�@�㌎���ܓ��m���u�㌎���ܓ��v�ɓ�d�T���n�@�܁A�J�A���B
-
-���肪���⒩��������i����̂����܂�j�B
-�ق됌�̊�ɁA�炫���ڂꂽ������ɂ��������B
-��������^�_�\�\
-�āi����͎؁j�A�Ζ��\�K�A�ݏ\�K�A���\�K�B
-�₤�₭�ɂ��Đ��ꂽ������A�g�S�̂��Ƃ�ւ��o�����A����ł͍s��̗����o���Ȃ��B
-�[���A�m����Ƃ��ӐN���K�A���΂炭���k�����A�����␌���e�i���X�ŏo�����l�ł���B
-�Q�ꂵ�����A���Ȗ��������B
-�m����������Q�������n
-�E�Ԃ̂��ڂ�T�����������Ă��
-�E�앪�������ǂ����ŉƂ����Ă鉹
-�E�����Ɛ���ĔB�̉Ԃɂ��ĂӂĂ�
-�E�����邾�����������̉����߂�
-�E�R���������邱�T�낳�т����֎썹��
-�m�������Ŏ������I���n
-
-�@�㌎���Z���m���u�㌎���Z���v�ɓ�d�T���n�@���A���X�܂Ă͂������B
-
-���Q�����A�Q������o�Ȃ������ɘZ���̃T�C���������B
-�ߌ�A�ߍ݂��U������A�O�������͕������炤�A�r���ŁA�y�����S�ǓI���삪�N���B
-�A�Ă���ƁA�N��痈�Ă��A����̒����N���A�����ŕ��|�k�A���X�B
-�Ԃ߂����m���u�Ԃ߂����v�ɖT�_�n�i�H�j���ŏ��̉Ԃ������A�܂��Ƃɐ��^�Ȃ������ł���A������킴�^�_���Ă��ĐA��Ă��ꂽ�t�V�ɕ񍐂��Ċ�΂��Ȃ���΂Ȃ�܂��i����t�j�B
-�C���ȁm���u�C���ȁv�ɖT�_�n�A�C�\�ւ��̂Ă�m���u�C�\�ւ��̂Ă�v�ɖT�_�n�I
-�钆�A�s������~�����Ƃ肾���Ƃ��A�������C�قǂ��T���E�����A�����Ă��ꂪ�C�ɂȂāA�Ƃ�Ƃ߂��Ȃ������l�ւU�����A���Ƃ��ӎ㒎���A���͖��������ア�B
-�m����������Q�������n
-�E�炫�Â��ފ݉Ԃ݂�Ȏ���a���Ă��
-�@�������������������Ȃ�׏H����
-�E�S�㒹���s���ȂăA���e�i�̂Ă؂�
-�E���̂߂������炪�ւ鑐�̗t
-�E�H����đ��̗t�̂���
-�m�������Ŏ������I���n
-
-�@�㌎�������m���u�㌎�������v�ɓ�d�T���n�@���B
-
-�����A�Ė���������T�߂����A���݂����鐅���ق̂��ɂ����T�����B
-�ĕ������܂��ē~���������A�Ƃ����Ƃ���Ń{����O�������B
-�������ߌ�͋ߍݎU��B
-�ߋ������ĉߋ��𑒂炵�߂�m���u�ߋ������ĉߋ��𑒂炵�߂�v�ɖT�_�n�A�\�\���ꂪ�ϔO�Ƃ��ĂłȂ��̌��Ƃ��Ă���͂�Ă����m���u���ꂪ�ϔO�Ƃ��ĂłȂ��̌��Ƃ��Ă���͂�Ă����v�ɖT�_�n�B
-�[���A�����N�����ƍ�Ƃ���邱�ƂɂȂėp�ӂ��Ă��ƁA�h�N���܂����ƍ�Ƃ����ė����A�O�l�y�������݊����A�ߋ��̕��ꂪ�����A�\���߂��Ȃĉ����U��A�ߗ����ꂵ��������A������O��s�o�̐������߂��܂ꂽ�B
-�m����������P�������A�܂�Ԃ��ĂQ�������n
-�@�@�@�������M
-������ɂ₭�m���u����ɂ₭�v�ɖT�_�n�Ƃ��ӂ���
-�@�@�@�@�@�i�����ɑΔ䂵�āj
-���������A�e�ɂ��邱�Ƃ́A����܂�悭�Ȃ����A�A�e���Ȃ��Ă͐����͏o���Ȃ����A�A�e���O��Ă�����Ȃ��S���܂ցm���u�A�e���O��Ă�����Ȃ��S���܂ցv�ɖT�_�n�͎��Ă�Ȃ���΂Ȃ�܂��B
-�m�������Ŏ������I���n
-
-�@�㌎��\�����m���u�㌎��\�����v�ɓ�d�T���n�@�܂��ƂɏH���B
-
-���̍����ł��g�S�ق��炩�B
-�����߁A��X�����ȂĂ��A���^�_���Ă��A�����莟��A���T���E�����͂������\�N���B
-�҂Ă���j����̎莆�����Ȃ��A���c�s��ƐS�����߂āA�㎞������o������B
-�����y��Â��Ђɂڂ�^�_�ƕ����A�R�̐F�����̉������ׂďH�B
-���c���n�ւ������|���A��������^�_�B
-���c�s��l���ԁB
-�m����������Q�������n
-�����̌����A�@�@�āA�ꏡ����
-�@�@�@�@�@�@�@�@�K�A�l�\�l�K
-�@�@�@�@�@�@�@�@��A����
-�m�������Ŏ������I���n
-�s��͏Ȃ݂Ēp�Â���������ǁA�C���`�L��������������悢�Ǝv�Ӂi���̓C���`�L�͂�炤�Ǝv���Ă��Ȃ�����ǁj�B
-�m����������Q�������n
-���т̑��Ƃ��āA�Ē����t�A�Z�K
-�@�@�@�@�@�@�@�@�@���\���O�A�ܑK
-�m�������Ŏ������I���n
-���ꂩ���l���m���u��l���v�ɖT�_�n�ɂ���Ԃ�A�������肪�����B
-�l���߂��Ď��񋏖K��A�����̂₤�ɖ{���؂��y���ɂȂ�A�����ċ��B
-�܂��Ƃɂ悢���ł����A�r�v�l�̂ւ��ĂȂ��A�j�N�̎Ⴓ�A�g��̂T�܂����B
-�U����̂͏\�������A�����̕Ȃł��ł��ň��ݑ����i��؂���A���݂܂���j�A�����Ă����D�Ԃ��o�X���Ȃ��Ȃ��̂ŁA�w�̃x���`�ŐQ��B
-�m����������P�������A�܂�Ԃ��ĂQ�������n
-�@�@�@�������k
-�@�@�@�@�@��m���u��v�Ɂu�}�R�v�̒��L�n���������̍s��̓���\�\
-�������̂��삳��ɋ��̎���b�����Ǝv�ė������A�������񂪂��͂āT�M�ɕĂ𐷂Ă��ꂽ�B
-����΂̈���ƂŁA�֓�����̑�Ƃ͒m�炸���āA������ɖ������������B
-���A�C�X�L�����f�[�̓X�ŃA�C�X�L�����f�[�̐��̂���{���{���Ă��ꂽ�B
-�����錋�����ŁA�����ɂ�V�W���Ɨ��Ă��āA�\�K�����݂�S���֓��ꂽ�B
-�����Y���̘V��l���Ԉ�Č܏\�K��݂����ꂽ�A�����Ԃ��Ɗ��ŉ��߂Ĉ�K���ݓ񖇂��ꂽ�B
-�m�������Ŏ������I���n
-
-�@�㌎������m���u�㌎������v�ɓ�d�T���n�@���A����^�_�H�B
-
-���̋󂪔��ނ̂�҂ē��c�ցA�����͂�낵���Ȃ��A���Ƃ䂽���ȉ���B
-�o�X�ŏ㋽�܂ŁA�����A���A�A�����Ď������邱�Ƃ́A�ق񂽂��ɂ��ꂵ���B
-�o�X���i�\�\
-�m����������Q�������n
-�ƂĂ������ȏ�������
-����Ȓސl�ǂ���
-�m�������Ŏ������I���n
-�V���E�K�l�ň�K�Ƃ́I�@���΂�����A���݂܂���ˁB
-�V�������n�Ђ낵�A�H�A�H�A�H�B
-�܂��ɔ��̉Ԃ�����B
-�����͗X�ւ����Ȃ��A�j���炢������莆�����Ȃ��̂ŁA���ƂȂ��s���ȋC������B�c�c
-��Ɖw�̃|�X�g�܂ŏo�����āA�����߂��B
-�Ǐ��O���B
-�m����������P�������n
-�@�@�@�������M
-�c�c�����Ђ킸��ӂƂ��낳��ɂȂ��B�c�c
-���̎R�r陁m���u���̎R�r陁v�ɖT�_�n�B
-�m����������Q�������n
-�E�����������̉Ԃ���
-�E�����̗���䂭�H�̂���
-�E���Ђ낭���������΂�������ł��
-�E�ƂȂ��m���u�Ȃ��v�Ɂu�}�R�v�̒��L�n������ŌӖ��̎��͂�����
-�E�S���̏H����A�ꂠ�邭
-�E�H�����S���ŁA���Ă����ς�
-�@�@�@���ł��
-�E�X����ƐH���́A���̂Ȃ��e�[�u��
-�E�H�͂��ꂵ�����̎R�R
-�m�������Ŏ������I���n
-
-�@�㌎�O�\���m���u�㌎�O�\���v�ɓ�d�T���n�@���{���A���X�܂���~���肵������ǁB
-
-�g�Ӑ����B
-���ӂ��X�ւ����Ȃ��A�R���낪�����߂��Ěe�����킮�A�������C�ɂȂ�A���ƂȂ��J�T�ɂȂ�B
-�҂��́\�\�莆�\�\�͗��Ȃ��ŁA�҂��Ȃ��l�\�\�|��\�\�������A�Ƃ������̒��͂����������́I
-������O�E�O�E�i�����v�ɖ����Ȃ��̂Łj�A�钆�ɊႪ���߂āA�l�̈���\�\�ǂ��������U�����鉹�\�\�𕷂����B
-�m����������Q�������n
-�E�����Ȃ�ׂĂ����Ђł̈ߏւ��Ԃ���
-�@�R���炯�ӂ͊X�̐l���݂ɂ܂��炤
-�E�n�ׂ��ƂԂĂӂĂӂƂȂ�H��
-�E�N����Ă��鑫�������t
-�E�H�̂�ӂׂ̂قǂ悤�R����ق̂�
-�m�������Ŏ������I���n
-
-�@�\������m���u�\������v�ɓ�d�T���n�@���B
-
-�����������A�������̈ꖇ�ɋL�������B
-���N���]���Ƃ���͂����O�����B
-�Ԃ߂��������ӁA���S���قǋ����Ȃ��āA�܂��Ƃɉ�������������ł���B
-���ӂ��낪�g�ɂ������e���B
-��ƗX�ւ������A�j����莆�������̂ŁA�قƈ��S�����B
-���ւ邾�����ЁA���ւ邾�����ӁA�c���͈̂�K���ݓ�I
-�����N�����҂���A�\�\����m���u����v�ɖT�_�n�ň�t�B
-�m����������Q�������n
-���ꏡ�A�@�@��~
-����O���A�E��K�@�����͎̂����N���Q
-�����O���@�@��K
-�m�������Ŏ������I���n
-�قǂ悭����ŁA�قǂ悭���ӂ����A�ʂ�ۂ�����Ƃ��ԂȂ����A�K���X�X�B
-���̂܂ɂ��A�C�X�L�����f�[�X���Ĉ����ɂ��͂Ă��A�G�߂̂��肩�͂肪�͂������B
-����͂����萇�ꂽ�B�c�c
-�m����������Q�������n
-�E�����Ƃ���ĂӂĂӂ����̂₤��
-�@�@�@�Ԃ߂���
-�E��̂ӂ������ĉԂ̂��悢�����
-�@�M������낵�܂����낵�܂�H��
-�E�H�̉J�ӂ�ق�ɂقǂ悤��������т�
-�m�������Ŏ������I���n
-
-�@�\������m���u�\������v�ɓ�d�T���n�@�܁A�Ƃ��^�_�J�B
-
-�ߏ��̐l�����āA�������点�Ă���Ƃ��ӁA����قǂڂ��ڂ����鑐�����B
-�J�ɂȂ��̂ŁA�ނ͂�߂ɂ��ēǏ��B
-����̂����܂�����ށA�V�e�͂��������ȁB
-�m����������Q�������n
-�E���Ȃ�傫�ȖI�����Ă��Ђ���
-�E�ЂȂ��U�肻�߂��t�̓�O��
-�E���Ђ̂��߂䂭�����̉Ԃ��낵
-�E�`��A��������܂��ɏn�ꂽ
-�E�`�̗t�̂����邷�����̂��ꂵ�����[
-�E���܂��肪�������悪���̐Q���܂�
-�m�������Ŏ������I���n
-
-�@�\���O���m���u�\���O���v�ɓ�d�T���n�@���J�A��Ɛ��ꂽ�B
-
-�����炠����𒭂߂�ƁA�����������T���t���Ă��A�`�̗t���΂���^�_�Ɨ�����B
-���S�̏����ՁA�|���^�_�ԉ΂���A�ޓ��ɕ��a����B
-���d���A�V�e��d���Y�ցA�R���؂�d�������A�d���Ƃ��ӂ��Ƃ͂��ꂵ���m���u�d���Ƃ��ӂ��Ƃ͂��ꂵ���v�ɖT�_�n�B
-�X�̃|�X�g�܂ŏo������A�����Ď��ƍ�Ƃ𑗂Ė�ӂ₤�ɂx���֗��ށB
-���̉Ԃ������炫�����Ă��A������ӏ܂��Ă�Č�т̏ł���̂��m��Ȃ����A�������ł�����т́A����ł���܂Ő�����������т͂����������̂ł���B
-��т̐������ɂ��ē��b�m���u���b�v�ɖT�_�n�ꑥ�\�\
-�ł��������\�\�]���ƂȂ������ƁA�n�����������\�\�悭�����������Ƃ̊֌W�B�c�c
-���������炳�ꂽ�A����㣋l���\�\�����Ď��͂�������Ƃ��Ĉ��݂͂��߂��̂ł��邪�A�������ڂ�����Ƃ��ďo�������A�x���񂩂炢���̂₤�ɏ����؂�āA�e�A�x�A�m�A�l�A�j�ƈ��ݕ������A�c�c�Ƃ��^�_�w�̃x���`�Ŗ�𖾂����Ă��܂��c�c����ł��A�邱�Ƃ͋A���B
-�v���Ԃ�́A�ق񂽂��ɋv���Ԃ�́A�������m���u�������v�ɖT�_�n�A�������E���m���u�������E���v�ɖT�_�n�����B
-���X�͒E�����ׂ��m���u���X�͒E�����ׂ��v�ɖT�_�n�A�P�`�^�_���ׂ��炸�A�N���^�_���ׂ��炸�B
-�m����������P�������n
-�@�@�@�i�������M�j
-�@�@�@�@�@�����S
-�D���̐��E��������̋��n��
-
-�����@������I�@���|�p
-���@�@�@���@�@�@�@�����|
-���@�@�@���@�@�@�@���Z��
-���Љ�����ՓI�@���o��
-
-���{���m���u���{���v�ɖT�_�n
-
-�@�@�@�@�@�@�������@����^
-����̐����@���ӑz�@���G��
-�@�@�@�@�@�@�������@���؎�
-�m�������Ŏ������I���n
-
-�@�\���l���m���u�\���l���v�ɓ�d�T���n�@�H���B
-
-�߂Â炵�������Q�A�Q���֓����������ނ܂ŁB
-�V�n�ꖇ�m���u�V�n�ꖇ�v�ɖT�_�n�Ƃ��ӊ����A�ق񂽂��ɍD���G�߂ł���B
-���ɂ����w�_�m���u�w�_�v�ɖT�_�n�����Ȃ��A���ƂȂ��҂����B
-���̍����ŁA���T�낤��̂₤�ȁB
-����̖���K�˂悤���Ƃ��v�����A�����̎��󂪏o���Ȃ��̂ŉʂ��Ȃ��A�����ŋC�������ς肳���Ė�ӁB
-�ؗt��c�O�K��A�V�ЂƂ��Ė����̐H�V���䂽���ɂ��Ă����B
-���邱��A�����N�����A���y�Y�͎��Ƌ��ƁA�����Č��e���B
-�����ɒk�΂��ď\�����ɂ���Ȃ炳��Ȃ�B
-���������̂₤�Ɉ��߂Ȃ��ċC�̓ł����A��т�H�ׂĂ����B
-��������m���u��������v�ɖT�_�n���H�ׂ����ȁA�ď����͍�邽������H�ׂ�����ǁB�\�\
-�m����������Q�������n
-�@�@�@�i�Ƀ����ɊJ��j
-�E�H�󂽂������O��ǂ݂����Ă͑���
-�E���������T�����������ʂ锈�ƂȂ�
-�E�����̊`�̗t�̂����邩��
-�E����݂݂̂��݂�ȓ����Ă��܂��i�މa�j
-�E���܋���ł������ɂ����`���t
-�E�R����������֎썹�؂��݂����i����j
-�m�������Ŏ������I���n
-
-�@�\���ܓ��m���u�\���ܓ��v�ɓ�d�T���n�@�H���B
-
-���R���l�Ԃ������₩�ɁB�\�\
-�����i���̂����܂�Łj�A�[�C�^�N������B
-�`�������l������ق�A�i������`�����ɂ����A�����ďn�`�m���u�n�`�v�ɖT�_�n�����ꂽ�A���T�n�`�I�@�V�c��̈������ǉ����܂���݂��ւĎ���܂��܂���B
-�܂������܂肪���ĔӎށA�����Ă��̂܁T������B
-�m����������Q�������n
-�E�l�ւĂ��g�ɂ��m���u�ɂ��v�Ɂu�}�R�v�̒��L�n���S�㒹�̂���ǂ�
-�E���z�̂ʂ�����̏n�`�̂��܂������T��
-�E�ĂӂĂӂ������͂ƂׂȂ��Ȃ����̕�
-�E�������Ȃ��N��҂Ƃ��Ȃ��҂�
-�m�������Ŏ������I���n
-
-�@�\���Z���m���u�\���Z���v�ɓ�d�T���n�@���A�����B
-
-�����������܂�Œ����B
-�V����^�_�����n�܂��^�_�L���B
-�t�X�ΌN���w�_�m���u�w�_�v�ɖT�_�n�A�Ε��V�����m���u���v�ɖT�_�n�𑗂Ă��ꂽ�B
-�������Ĕт����ām���u�������Ĕт����āv�ɖT�_�n�A�����ĐQ�������ām���u�����ĐQ�������āv�ɖT�_�n�A�����K���X�X�m���u�����K���X�X�v�ɖT�_�n�B
-
-�@�\�������m���u�\�������v�ɓ�d�T���n�@�܂����H���a�B
-
-���Q�A�Q���̒��ŘZ���̃T�C�����𒮂����B
-�������������C�A�����Ă܂���C�E�����A�����ޓ��͕v�w�����炤�A�E���Ă���\�\�E�����ɂ͂���Ȃ�����E�������\�\�C���̈������ƁB
-�����̉��Ŗ{��ǂ�ł��ƁA���������p���\�����߂Â��Ă���A�n�e�i�Ǝv�Ă��ƁA�������Ƃ��ĎR���̏G�q���񂪂���͂ꂽ�A���S�w�܂ŗ����̂ŁA����Ƃ��f�Ђ����Ƃ��ӁA�����������Ȃ�ʐF�ʂŏ���ꂽ�A���΂炭�Βk�A�F�B��K�˂�Ƃ��ӂ̂Łi���̗F�B�͔_�w�Z�̐搶�̂��삳��ŁA�����Ă��̑�͔_�w�Z�̗��ɂ���̂Łj�A�_�w�Z�܂œ������āA�����N�Ɉē��𗊂�Ŗ߂��A��������A�l�X�������Ă��A�����뎄���Ⴂ�����������ƘA�ꗧ�Ă����̂�����I
-�s��Ȃ���΂Ȃ�Ȃ��̂����i�����Ă��Ȃ��̂����j�A�ǂ����Ă��s���C�ɂȂ�Ȃ��B
-�卪���R���؂����Q�őS�ŁI�@�����B
-�H�C���̂܂ڂ낵�m���u�H�C���̂܂ڂ낵�v�ɖT�_�n�I�@����͎��̍D���ȑ��ԁA�����āA���ꂵ�����Ȃ����F�{�����̂����ЂŁB
-���Ă���A�����N���w�Z�̎d�������ė����A�����o���ꂽ�܏\�K��ݓ񖇂����āA���͊X�֏o�����Ĕ����\�\�T�P�i����̓}�C�i�X�Łj�A�g�E�t�A�}�c�^�P�A�T�J�i�A�V���M�N�A�o���`���B
-���܂�����m���u����v�ɖT�_�n�����A���܂������m���u�����v�ɖT�_�n�����A���ƂȂ������T��悭�����āA�ӂ���Ƃ������^�_�A�����^�_�B
-�m����������Q�������n
-�@�@�@�~�X�g�q�������ӓ��
-�E�H���̂ނ�������p���\���̂�����������
-�E�H��̂����邳�ɏ����̂�������
-�E�ގ��̒��肫�Đ���ŏH��i���ށj
-�E�H�󂽂����₤�₭�o������r���f���O
-�E���܂��z�𗁂тĂƂ�Ƃ�
-�E�ߓ������������͂₭���݂Â��
-�E�Ȃ�łƂт������났��
-�E�����߂�Ɏ��肽�邩�Ȑ���̍�
-�@���߂₩�ɂӂ肾���ď����̂ӂƂ�J
-�m�������Ŏ������I���n
-
-�@�\�������m���u�\�������v�ɓ�d�T���n�@���B
-
-���N�A�܂Ò������͕̂S�㒹�̐��A�����̂͋����̉ԁB
-�����A�ق��^�_�Ɗ`�̗t��������B
-�ƂĂ��D�����V�C�A���Ƃ��Ă͂���Ȃ��̂ŏo�Ă��邭�B
-�Ă͔��ւȂ�����i�ꏡ�O�\��K�j�H�p���𔃂Ӂi��ҏ\�l�K�j�A�����čs��͂��Ȃ��̂��A���T�ɂ����̃��K�}�}�����邯��ǁA���ꂪ���̃E�}���c�L������A�F�����Ȃ��B
-�����͖������x�Ƃ��E�������Ȃ��A�����܂Ŗ����������Ƃ͏�Ȃ��Ȃ�B
-�m���񗈈��A�����k�𕷂������A�������Әb�����X�͈����Ȃ��i�x�X�ł͍��邯��ǁI�j�B
-��ƔԒ������ւ��̂ŁA��������T��Ȃ���b���U�����B
-�H�p�����ߗ����݂����H�ׂ����̈ݒ����ƁT�̂ւĂ����Ƃ́B�c�c
-����͎����N�h���Ȃ̂ŁA�Z���̃T�C�������Ă���K�˂�A�����̂₤�Ɍ�y���ɂȂ�A�v�͂����݂����Đ��ς���A�܂����ɖ߂�΂悢�̂ɉ����ɂ���Ă��܂��A�߂邱�Ƃ͖߂�����ǁA���Ȏ��������Ă��܂����I
-�m����������S�������n
-�������M
-
-�m����������Q�������n
-�@�@�����Y����
-���Ȃ��@�h�E�e�C
-�킽�����@�V���a����
-���������邢���̂���
-�m�������Ŏ������I���n
-
-�m����������P�������A�܂�Ԃ��ĂQ�������n
-�@�@�@�������M
-�����o��m���u���o��v�ɖT�_�n�Ƃ́\�\
-�����A���Y�����_
-�@�@���R�A�����A�C���m���u���v�Ɂu�}�R�v�̒��L�n�B
-�m�������Ŏ������I���n
-
-�@�\������m���u�\������v�ɓ�d�T���n�@�܁A�����B
-
-���Ă������������B
-���̎����𔽏Ȃ��āA���O�ɂ����т����B�c�c
-�����肵��R���΁I�@����܂艺��Ȃ����I
-�ϔY���s����f�B
-���o����΁A�X���ɂ��ւȂ��₤�Ȏ��������o�����Ƃ͂��܂�ɂ����܂����A�����̂悳�m���u�����̂悳�v�ɖT�_�n�������o���Ȃ���ΉR���i�l�ɂ͒N�ł��悳�m���u�悳�v�ɖT�_�n������A����Ȃ���΂Ȃ�Ȃ��j�B
-�܂ĕ��������A�܂��ɏH�����B
-�f�H�i��H�Ƃ͈Ӗ���Ӂj�ƓǏ��Ǝv���B
-�\�\����̉ߎ����J��Ԃ����Ƃ���Ȃ��A���͂Ȃ����͂��Ȃ����Ɓ\�\�������Ȃ����Ƃ𐌒����Ă��邩�猙�ɂȂ�A���ȓ����m���u���ȓ����v�ɖT�_�n���m���u���ɂȂ�A���ȓ����m���u���ȓ����v�ɖT�_�n���v�͒�{�ł́u���ɂȂ�A���ȓ��m���u�A���ȓ��v�ɖT�_�n�����v�n���ӂ̂ł���A���ɑ����Ď��Ȃ�ᔻ����΁A��������ł�邤���Ɏ��Ɉ��܂��̂��߂����̂ł���B�\�\
-�m����������P�������n
-�@�@�@�������M
-�����Ȃ̐����F��
-���Љ�̌����F��
-�@�@�@�@�@�@�@�@�@�@���m��
-�@�@�@�@�@�@�@�@�@�@���ӎ�
-���������
-�����㊴�o
-�m�������Ŏ������I���n
-
-�@�\���\���m���u�\���\���v�ɓ�d�T���n�@�܁A��ς�J�����B
-
-����蒩�Q�B
-���������~���i�H�ׂ����Ă��H�ׂ���̂��Ȃ��j�B
-�ߌ�͋ߍݍs��A�܎��Ԃ΂���Ð���ʂ������A���Ĉꏡ�������ՁB
-�[�т͂܂��Ƃɂ����������肪�������B
-���̍D���ȐΕ��̉Ԃ��炫�����Ă��A�������܂Ė߂Ċ������B
-�s��͂��肪�����A���̐g�S�����炩�ɂ���B
-�m����������Q�������n
-�E���Ƃ��������ɐΕ��̉Ԃ�����
-�@�����̉Ԃ�������������ƂȂ�
-�m�������Ŏ������I���n
-
-�@�\���\����m���u�\���\����v�ɓ�d�T���n�@�J�A����ď�V�C�ɂȂ��B
-
-�C�|���񗈈��A�����ʂ�̐��k���΂炭�B
-�㐅�������n�U���A�ւ���������ŉj���܂͂Ă��A�������Ђ����邱�Ƃ͏o���܂��A�܂��܂��͂��������Ɖj���ł��B
-�A�r�A�̍؁m���u�̍؁v�ɖT�_�n���E���Ă��ĒЂ���B
-�����A���͈����m���u���͈����v�ɖT�_�n�A��������B
-���܂茎���悢�̂ŁA������܂ŕ����Ĉ�t�B
-�m����������Q�������n
-�@�@�@�d�M�H��
-�E�H���̎d�����������������
-�@�@�@�㐅�������n
-�E���ꑾ�z�̂��U�₢�Đ����܂�
-�m�������Ŏ������I���n
-
-�@�\���\����m���u�\���\����v�ɓ�d�T���n�@���A���H�A���͂悩�炤�B
-
-�`�����ɂi����̍ȌN���q����A��āA�ߏ��̂����݂���Ƃ�����ɗ����B
-�����n�`��H�ׂ�A���܂��^�_�B
-�w�Z�܂ŏo�����āA�V����ǂ܂��Ė�ӁB
-�g�S���ƂȂ��s���A���ƂȂ������������Ȃ��₤�ȋC������B�c�c
-�����܂��A�N���^�_�P�`�^�_����₤���B
-�������������т̏o������낵���Ȃ��A�Ă��̂��̂��悭�Ȃ��̂����A���̋C�����悭�Ȃ����炾�炤�B
-���͂悩�����A���̂Ȃ��̂��A�b����̂Ȃ��̂�������Ȃ����B
-�Q�ꂵ�����B
-�m����������Q�������n
-�E���͂����ւĎR�R�̓|�e���܂��ɏH
-�E���������݂����鐅�̗��t�Ƃ������
-�E�܂�܂邢�����ӂ邳�Ƃ̂₤�ȎR����i�����j
-�E�̂ڂ錎�́A�|�̗t�̂������ɂ�炮
-�m�������Ŏ������I���n
-
-�@�\���\�O���m���u�\���\�O���v�ɓ�d�T���n�\�\�\�ꌎ����m���u�\�ꌎ����v�ɓ�d�T���n
-
-�ڂ��ڂ�����A�΂��΂�����B
-�Ђ��萶���Ȃ���ւĂ�ē��h���Ԃ��B
-�ǂ��ɂ��Ȃ�Ȃ����ł����B�c�c
-
-�@�\�ꌎ�O���m���u�\�ꌎ�O���v�ɓ�d�T���n
-
-���呧�B�\�\
-
-�@�\�ꌎ�l���m���u�\�ꌎ�l���v�ɓ�d�T���n
-
-�������B
-�Ζ����Ȃ��Ȃ��B
-
-�@�\�ꌎ�ܓ��m���u�\�ꌎ�ܓ��v�ɓ�d�T���n
-
-�Ă��Ȃ��Ȃ��B
-
-�@�\�ꌎ�Z���m���u�\�ꌎ�Z���v�ɓ�d�T���n
-
-�����������̂₤�ɁB
-
-�@�\�ꌎ�����m���u�\�ꌎ�����v�ɓ�d�T���n
-
-�������A���Ƌ��Ƃ��肪�����B
-�m����������Q�������n
-�E�ق�ɏH���a�́A���ł���
-�E�ĐՂɓ����˂��Ă��炭��
-�E���悬���͂�鐅��
-�m�������Ŏ������I���n
-
-�@�\�ꌎ�����m���u�\�ꌎ�����v�ɓ�d�T���n�@����m���u����v�ɓ�d�T���n
-
-��l�A�����悩���B
-���̉Ԃ��炢�Ă��A�Ȃ�ł��Ȃ����̂��B
-�n�`��H�ׂ�B
-
-�@�\�ꌎ�\���m���u�\�ꌎ�\���v�ɓ�d�T���n
-
-�a���V����\�\
-�m����������R�������n
-�͂Ђ��邭�H���̂킽����
-�m�������Ŏ������I���n
-�`���񗈈��A���y�Y�Ƃ��Ď��悽������B
-���c�֘A��čs�Ė���A�قǂ悭�����Ăl���قɂ�����ɔ��߂Ė���B
-
-�@�\�ꌎ�\����m���u�\�ꌎ�\����v�ɓ�d�T���n�@���{���B
-
-�`����̌���Ɋ��ӂ��Ȃ��ł͂���Ȃ��B
-�R���U��B
-��񂾂��A��e�A�H�������������B
-��͎������ďh�����̎����N��K�ӁB
-
-�@�\�ꌎ�\����m���u�\�ꌎ�\����v�ɓ�d�T���n�@�܁B
-
-�����Ȃ��A�����͂��΂���B
-�z���g�E���E�\�ɂȂ���A�E�\���z���g�E�ɂȂ���A���񂾂������B�\�\
-
-�@�\�ꌎ�\�O���m���u�\�ꌎ�\�O���v�ɓ�d�T���n�\�\������m���u������v�ɓ�d�T���n
-
-���ȂȂ��ł�邾�������I
-
-�@�\�ꌎ������m���u�\�ꌎ������v�ɓ�d�T���n�@�܁B
-
-�~������^�_�ߊ�ė����B
-�R�����ցB
-�g�Ӑ����A���� dead rock �����z���邱�Ƃ��o�����U�炤���B
-
-�@�\�ꌎ���O���m���u�\�ꌎ���O���v�ɓ�d�T���n�@���\�\�܁B
-
-���t���������`�̖؁A�g�t���Ă�锥�̖؁B
-���A��A�c��A�o�A��A�c�c�݂�ȏ����Ă��܂��A�����͂��Ƃ͂�������ǖY�ꂪ�����A�����͂��������͂Ȃ�Ȃ���΂Ȃ�Ȃ��B�c�c
-
-�@�\�ꌎ���l���m���u�\�ꌎ���l���v�ɓ�d�T���n�@�܁B
-
-������A�~�炵�������A�����̎d�x������B
-�����ς����т�H�ׂ��B
-�Ћ��̍K���m���u�Ћ��̍K���v�ɖT�_�n���[�������Ă��ł͂Ȃ����B
-�s���񂾂��ʂ��ɗ����A�����ӁA��W�𔃂ĉ������B
-�X�֏o�����ĕ��ւ邾�����ӁB
-
-�@�\�ꌎ���ܓ��m���u�\�ꌎ���ܓ��v�ɓ�d�T���n�@���B
-
-�����͍�����Ղ����e��������B
-�h�N�v���Ԃ�ɗ��K�A��t�Ђ����Ă���A�Ԃ�^�_�ǂ�^�_�A���񂾈��񂾁A�H�ׂ��H�ׂ��A�����Ă߂ł������U�B
-������A������ɂʂ�Ă��ւĂ����B
-
-�@�\�ꌎ���Z���m���u�\�ꌎ���Z���v�ɓ�d�T���n�@���B
-
-���t���a�̂��ꂵ���A���c�֏o������B
-����Ɍh�N����ė��������ȁA���܂Ȃ����B
-
-�@�\�ꌎ�������m���u�\�ꌎ�������v�ɓ�d�T���n�\�\�O�\���m���u�O�\���v�ɓ�d�T���n
-
-���`���N�`�������A���̎����I�g�S�����炯�������B�c�c
-
-�@�\�񌎈���m���u�\�񌎈���v�ɓ�d�T���n�@�J�B
-
-����^�_�Ƃ��Ė����A������O�Ȃ��������B
-
-�@�\�񌎓���m���u�\�񌎓���v�ɓ�d�T���n�\�\�ܓ��m���u�ܓ��v�ɓ�d�T���n
-
-���A����Ƃ����c�c all or nothing
-
-�@�\�񌎘Z���m���u�\�񌎘Z���v�ɓ�d�T���n
-
-���ɏo���A�ǂ��ցA�䂫�������ցA�䂯��Ƃ���܂ŁB
-���l�R���΁A���ꏊ�m���u���ꏊ�v�ɖT�_�n���������T���͍s���I�@�����s�m���u�����s�v�ɖT�_�n�̊O�̉����ł��Ȃ��B
-
-
-
-��{�F�u�R���ΑS�W�@��Z���v�t�z�����X
-�@�@�@1987�i���a62�j�N1��25����1�����s
-�@�@�@�u�R���ΑS�W�@�掵���v�t�z�����X
-�@�@�@1987�i���a62�j�N5��25����1�����s
-����{�́A���𐔂���ۂ�n���Ȃǂɗp����u���v�i��_�ԍ�5-86�j���A��U��ɂ����Ă��܂��B
-�������s�ɂ����钆���ʂɂ́A�������f�Ђ����Ă܂����B
-���́F���єɗY
-�Z���F�同��т�
-2009�N9��9���쐬
-�󕶌ɍ쐬�t�@�C���F
-���̃t�@�C���́A�C���^�[�l�b�g�̐}���فA�󕶌Ɂihttp://www.aozora.gr.jp/�j�ō���܂����B���́A�Z���A����ɂ��������̂́A�{�����e�B�A�̊F����ł��B
+［＃ここから２字下げ］
+唐土の山の彼方にたつ雲は
+　　ここに焚く火の煙なりけり
+［＃ここで字下げ終わり］
+
+
+　一月一日［＃「一月一日」に二重傍線］
+
+［＃ここから２字下げ］
+・雑草霽れてきた今日はお正月
+・草へ元旦の馬を放していつた
+・霽れて元日の水がたたへていつぱい
+　けふは休業《ヤスミ》の犬が寝そべつてゐる元日
+・椿おちてゐるあほげば咲いてゐる
+・元日の藪椿ぽつちり赤く
+・藪からひよいと日の丸をかかげてお正月
+・お宮の梅のいちはやく咲いて一月一日
+・空地があつて日が照つて正月のあそび
+　　　湯田温泉
+・お正月のあつい湯があふれます
+　　　年頭所感
+・噛みしめる五十四年の餅である
+［＃ここで字下げ終わり］
+［＃ここから１字下げ、折り返して２字下げ］
+　　　ぐうたら手記　覚書
+□底光り［＃「底光り」に傍点］、人間は作品は底光りするやうにならなければ駄目だ、拭きこまれたる、磨きあげられたる板座の光、その光を見よ。
+□平凡の光［＃「平凡の光」に傍点］、凡山凡水、凡山凡境、それでよろしい。
+※［＃二重四角、258-12］自然現象――生命現象――山頭火現象［＃「山頭火現象」に傍点］［＃「――山頭火現象［＃「山頭火現象」に傍点］」は底本では「――山頭火現［＃「―山頭火現」に傍点］象」］。
+※［＃二重四角、258-13］自己のうちに自然を観るといふよりも、自然のうちに自己を観る［＃「自然のうちに自己を観る」に傍点］のである（句作態度について）。
+※［＃二重四角、258-14］したい事をして［＃「したい事をして」に傍点］、したくない事はしない［＃「したくない事はしない」に傍点］――これが私の性情であり信条である、それを実現するために、私はかういふ生活にはいつた（はいらなければならなかつたのである）、そしてかういふ生活にはいつたからこそ、それを実現することが出来るのである、私は悔いない、恥ぢない、私は腹立てない、マ［＃「マ」に「マヽ」の注記］ガママモノといはれても、ゼイタクモノといはれても。……
+□自己の運命に忠実であれ［＃「自己の運命に忠実であれ」に傍点］、山頭火は山頭火らしく。
+［＃ここから２字下げ］
+　　　清丸さんに
+・こゝのあるじとならう水仙さいた
+・こゝに舫うてお正月する舳をならべ
+　　　坊ちやん万歳
+・霜へちんぽこからいさましく
+　霜晴れの梅がちらほらと人かげ
+・耕やすほどに日がのぼり氷がとける
+　足音、それはしたしい落葉鳴らして（友に）
+・みんないんでしまへばとつぷりと暮れる冬木
+・ふけてひとりの水のうまさを腹いつぱい
+［＃ここで字下げ終わり］
+
+　一月十一日［＃「一月十一日」に二重傍線］　晴、あたゝかい。
+
+近頃の食物の甘さ――甘つたるさはどうだ、酒でも味噌でも醤油でもみんな甘い、甘くなければ売れないさうだが、人間が塩を離れて砂糖を喜ぶといふことは人間の堕落の一面をあらはしてゐると思ふが如何［＃「人間が塩を離れて砂糖を喜ぶといふことは人間の堕落の一面をあらはしてゐると思ふが如何」に傍点］。
+朝、浜松飛行隊へ入営出発の周二君を駅に見送る、周二君よ、幸福であれ。
+前の菜畑のあるじから大根を貰ふ、切干にして置く、大根は日本的で大衆的な野菜の随一だ。
+よい晩酌［＃「よい晩酌」に傍点］、二合では足りないが三合では余ります。
+うたゝね、宵月のうつくしさ。
+［＃ここから２字下げ］
+　　　周二君を送る三句
+　落葉あたゝかう踏みならしつゝおわかれ
+・おわかれの顔も山もカメラにおさめてしまつた
+・おわかれの酒のんで枯草に寝ころんで
+・甘いものも辛いものもあるだけたべてひとり
+　枯草を焼く音の晴れてくる空
+・枯木に鴉が、お正月もすみました
+　送電塔が、枯れつくしたる草
+　私の懐疑がけふも枯草の上
+　時間、空間、この木ここに枯れた
+［＃ここで字下げ終わり］
+
+　一月十二日［＃「一月十二日」に二重傍線］
+
+いつもより早く、六時のサイレンで起きる。
+物忘れ［＃「物忘れ」に傍点］、それは老人の特権かも知れない、私も物忘れしてはひとりで微苦笑する。
+餅と酒とを買ふ、餅もうまいし酒もうまい。
+酔うた、酔うたよ、二合の酒に。……
+夜はさびしい風が吹きだした、風がいかにさびしいものであるかは孤独生活者がよく知つてゐる。
+［＃ここから２字下げ］
+・雑草よこだはりなく私も生きてゐる
+・しぐるゝや耕すやだまつて一人
+　　　周二君を小郡駅に見送るプラットホームにて
+　窓が人がみんなうごいてさようなら
+［＃ここで字下げ終わり］
+
+　一月十三日［＃「一月十三日」に二重傍線］　晴れて風吹く。
+
+冷たくて「寒」らしい、冬は寒いのがほんたうだ。
+酒と豆腐［＃「酒と豆腐」に傍点］とがあつて幸福である。
+樹明君来庵。
+いつしよに出かけてＳさんを訪ねる、御馳走になる、それから三人連れで歩く、コーヒー、ビフテキ、コリントゲーム、等、等、等。
+ほどよく別れて帰庵。
+［＃ここから２字下げ］
+・家があれば菰あむ音のあたゝかな日ざし
+・雑草ぽか／＼せなかの太陽
+・日向ぬく／＼と鶏をむしつてゐる
+　夕日のお地蔵さまの目鼻はつきり
+　水に夕日のゆらめくかげは
+［＃ここで字下げ終わり］
+
+　一月十四日［＃「一月十四日」に二重傍線］　晴――曇――雨。
+
+うれしいたより、これあるがゆえに私も生きてゆける。
+昨夜の食べすぎ飲みすぎで今日一日苦しんだ、やつぱりつゝしむべきは口である。
+つゝましく生活せよ、私の幸福はそこにある。
+
+　一月十五日［＃「一月十五日」に二重傍線］　雨、曇。
+
+終日終夜、読書思索。
+深夜の来庵者があつた、酔樹明君とＩ君、どこへいつても相手にされないのでやつてきたといふわけ、管を巻くことはやめにして寝てもらつた！
+
+　一月十六日［＃「一月十六日」に二重傍線］　曇、初雪。
+
+早朝、樹明君がしほ／＼としてかへつてゆく、酔つぱらつた人間もみじめだが、酔ひざめの人間はさらにみじめだ！
+うれしいたより、井師から麻布の佃煮を頂戴した、さつそく昨夜の酒を燗して、雪見酒［＃「雪見酒」に傍点］といふ贅沢さ、酒もうまかつたが、佃煮はとてもおいしかつた。
+佃煮といふものは日本的情趣［＃「日本的情趣」に傍点］がある。
+近頃の私は飲むこと［＃「飲むこと」に傍点］よりも食べること［＃「食べること」に傍点］に傾いてゐる。
+小米餅が見つかつたのでさつそく買つた、まづしい田園味［＃「まづしい田園味」に傍点］だ。
+久しぶりに入浴、しづかなるかな身も心も。
+此頃は巻煙草よりも刻煙草が好きになつた、しかもなでしこ［＃「なでしこ」に傍点］のどろくさいのが！
+炬燵で読んだり考へたりしてゐるうちに、いつしか夜が明けてしまつた。……
+［＃ここから２字下げ］
+・芽麦あたゝかなここにも家が建つ
+・麦田うつ背の子が泣けば泣くままに
+　暮れてひつそり雪あかり月あかり
+・月がうらへかたむけば竹のかげ
+・雪ふる食べる物もらうてもどる
+　　　農村風景の一つ
+・梅がさかりで入営旗へんぽんとしてひつそりとして
+　　　悪友善友に
+　わかれてひとり、空のどこかに冷たい眼
+［＃ここで字下げ終わり］
+
+　一月十七日［＃「一月十七日」に二重傍線］　雪がうつくしい、ふつてはきえる。
+
+朝早くから今日も雪見酒、もつたいない仕合せである。
+雪のふりしきる中を街のポストまで。
+今日の買物は――餅、うどん、パン、いなり鮓！
+［＃ここから１字下げ、折り返して２字下げ］
+　　　ぐうたら手記
+□佃煮と老境と日本的なもの［＃「日本的なもの」に傍点］。
+□豚の生活、食べて、そして食べられるだけ！
+□写生［＃「写生」に傍点］――文字通りに――イノチヲウツス［＃「イノチヲウツス」に傍点］。
+□忌花の話［＃「忌花の話」に傍点］。
+※［＃二重四角、265-2］何よりも不自然［＃「不自然」に傍点］がよくない、いひかへれば生活に無理［＃「無理」に傍点］があつてはいけない、無理があるから不快［＃「不快」に傍点］があり、不安［＃「不安」に傍点］があるのである。
+□買ひかぶられるきまりのわるさよりも、見下げられる安らかさ。
+※［＃二重四角、265-5］将棋の名手は含み［＃「含み」に傍点］といふことをいふ、一手は百手二百手を含んでゐるのである、また、千石二千石の水からしたゝる一滴［＃「一滴」に傍点］は力強いものを持つてゐる、そのやうに一句は全生活全人格からにじみでたもの［＃「一句は全生活全人格からにじみでたもの」に傍点］でなければならない。
+※［＃二重四角、265-8］私の一句一句は私の一歩一歩である、一句は一歩踏みゆく表現である。
+［＃ここで字下げ終わり］
+
+　一月十八日［＃「一月十八日」に二重傍線］　晴、ちらほら小雪がふつて冷たい。
+
+あれば食べすぎる下司根性［＃「下司根性」に傍点］が恥づかしい！　どうやら餅を食べすぎたらしいので今日はパン。
+呪はれた枇杷の木、それがいつのまにやら枯れた！　さびしい。
+夜を徹して句作推敲……。
+明日は入営の別宴の唄声がおそくまできこえた。
+［＃ここから２字下げ］
+・雪もよひ雪となつた変電所の直角形（改作）
+・おもひでがそれからそれへ晩酌一本
+・雪あかりのしづけさの誰もこないでよろしい
+　　　子をおもふ
+・わかれて遠いおもかげが冴えかへる月あかり
+・あの人も死んださうな、ふるさとの寒空
+・あすは入営の挨拶してまはる椿が赤い
+・おわかれの声張りあげてうたふ寒空
+・ひつそり暮らせばみそさざい
+・ぬけた歯を投げたところが冬草
+［＃ここで字下げ終わり］
+
+　一月十九日［＃「一月十九日」に二重傍線］　雪へ雪ふる寒さ、「寒」も変態的から本格的となつた。
+
+今日が一番冬らしい冷たさだつた、吹く風もまさに凩。
+午後、急に思ひ立つて防府へ行く、運悪くも逢ひたい人に逢へず、果したい用事も果さなかつた、たゞ宮市――生れ故郷［＃「生れ故郷」に傍点］の土を踏んでライスカレーを食べて帰つた。
+非常に労れた、私はぢつとして余生［＃「余生」に傍点］を終る私でしかないことが解つた。
+ぐつすり寝た、熟睡のありがたさ［＃「熟睡のありがたさ」に傍点］、それは近頃にないうれしいめぐみだつた。
+
+　一月二十日［＃「一月二十日」に二重傍線］　晴、四五日来の暗雲［＃「暗雲」に傍点］がすつかり消えた。
+
+今日はＤさんＳさんＫさんが来庵する日である、何はなくとも火をおこし、炬燵をぬくめておかう。
+友あり……と庵主の心境である。
+三寒四温［＃「三寒四温」に傍点］といふ、その一温といふお天気である。
+街のポストまで出かけて、ついでに豆腐を買うてくる。
+餅粥［＃「餅粥」に傍点］はうまいな。
+……Ｄさんはとう／＼来なかつた、ＳさんもＫさんも来なかつた、……私は待つてはゐたけれどアテにはしてゐない［＃「私は待つてはゐたけれどアテにはしてゐない」に傍点］（アテにしてゐるとアテがはづれたとき腹が立つ）。
+来者不拒、去者不追、私は私一人で足るだけの生活情調［＃「生活情調」に傍点］を持つてゐる。
+今夜もようねむれるこころよさ。
+［＃ここから２字下げ］
+・明けてくる物みな澄んで時計ちくたく
+・はなれたかげはをとことをなごの寒い月あかり
+・けさの雪へ最初の足あとつけて郵便やさん
+・とぼ／＼もどる凩のみちがまつすぐ
+　ここに家してお正月の南天あかし
+　たまたま落葉ふむ音がすれば鮮人の屑買ひ
+　　　緑平老の愛犬ネロが行方不明となつたと知らされて二句
+・冬空のどちらへいつてしまつたか
+・犬も［＃「犬も」に「ネロも」の注記］ゐなくなつた夫婦ぎりの冬夜のラヂオ
+［＃ここで字下げ終わり］
+
+　一月廿一日［＃「一月廿一日」に二重傍線］　曇、時雨、晴。
+
+目白の群がおとなしく椿の花に遊んでゐる。
+――あるけない、のめない、うたへない、をどれない私自身を見出すばかりだつた、――ひとりしづかに、たべて、読んで考へて、作る外ない私自身を見出すばかりだつた。――
+完全に遊興気分［＃「遊興気分」に傍点］から脱却した、アルコールを揚棄すること［＃「アルコールを揚棄すること」に傍点］が出来た、――味はひ楽しむ時代［＃「味はひ楽しむ時代」に傍点］が来たのだ。
+山頭火は其中庵に［＃「山頭火は其中庵に」に傍点］、其中庵の山頭火だ［＃「其中庵の山頭火だ」に傍点］。
+ねた、ねた、十三時間ねた。……
+［＃ここから２字下げ］
+・しぐれつつうつくしい草が身のまはり
+［＃ここで字下げ終わり］
+
+　一月廿二日［＃「一月廿二日」に二重傍線］　晴、身心一新、おだやかな日。
+
+終日終夜読書。
+
+　一月廿三日［＃「一月廿三日」に二重傍線］　白がいがいの雪景色。
+
+長らくなまけてゐた、けふからいよいよ勉強する。
+雪へ雪のかゞやき、清浄かぎりなし。
+庵中独臥、読書三昧。
+今日もおだやかな一日だつた、日々好日の境地へはまだ達してゐないけれど、日々が悪日でない境涯［＃「日々が悪日でない境涯」に傍点］ではあると思ふ。
+［＃ここから２字下げ］
+・雪のしたゝる水くんできてけふのお粥
+・春の雪ふる草のいよいよしづか
+・わらや雪とくる音のいちにち
+［＃ここで字下げ終わり］
+
+　一月廿四日［＃「一月廿四日」に二重傍線］　晴、寒、曇。
+
+三日ぶりに街へ出かけた（人と話したも三日ぶり）、そして酒と米と餅と豆腐とを買うてきた。
+雪がふれば雪見酒、酒がなければ読書、炬燵と餅とはいつでもある、――これが私の冬ごもり情調だ。
+［＃ここから２字下げ］
+・寒［＃（ン）］空のとゞろけばとほくより飛行機
+・爆音、まつしぐらに凩をついて一機
+・飛行機がとんできていつて冴えかへる空
+・けふもよい日の、こごめ餅こんがりふくれた
+　　　戯作一首
+世の中に餅ほどうまいものはない
+　　すいもあまいも噛みしめる味
+［＃ここで字下げ終わり］
+
+　一月廿五日［＃「一月廿五日」に二重傍線］　霜晴れ、のどかな日かげ。
+
+午前、街へ出かけて、払へるだけ払ひ、買へる物だけ買ふ。
+午後、また出かけて駅までゆく、いろ／＼の用事を思ひだして山口へ、そして鈴木さんを訪ねる、頼む事は頼んで、御馳走を頂戴した、帰途湯田で入浴、温泉にひたつてゐる心持は徃生安楽国だ！
+帰庵したのは十時だつた、労れた、々々々。
+留守中に来客があつた、酒と肴を持つて来て、そして飲んでも食べても待ちきれなかつたらしい、――彼は樹明君でなければならない、――机上のノートには何のかのと書き残してあつた。
+私は此頃めつきり衰弱して、半病人の生活［＃「半病人の生活」に傍点］をしてゐる、そしてさういふ生活が私をしてほんたうの私［＃「ほんたうの私」に傍点］たらしめてくれる！
+［＃ここから２字下げ］
+・かあとなけばかあとこたへて小春日のからすども
+・夜あけの風のしづもればつもつてゐる雪
+・見あげて飛行機のゆくへの見えなくなるまで
+　たたへて凍つてゐる雲かげ
+・あたたかなれば木かげ人かげ
+・枯草へ煙のかげの濃くうすく
+・わかいめをとでならんでできる麦ふむ仕事
+・竹の葉のいちはやく音たてて霰
+　　　改作二句
+・木枯は鳴りつのる変電所の直角線
+・しんみりする日の、草のかげ
+［＃ここで字下げ終わり］
+
+　一月廿六日［＃「一月廿六日」に二重傍線］　雪もよひ、小雪ちらほら。
+
+酒があるから酒を飲む、朝酒はうまい。
+青海苔の風味［＃「青海苔の風味」に傍点］をよろこぶ。
+午後、樹明徃訪、そして来訪、あつさり飲んでめでたく別れる、――人生はうすみどり［＃「うすみどり」に傍点］こそよけれ、だ。
+［＃ここから１字下げ、折り返して２字下げ］
+　　　ぐうたら手記
+□自然と自我との一如境、無為安楽［＃「無為安楽」に傍点］の老境。
+□自己省察――自己精進――自己超克［＃「自己超克」に傍点］。
+□酒は高い、本は安い、酔うて軽く持つて重い、酒はうまくて本はおもしろいことはあまりに明白。
+□あかるい、あたゝかい日ざし、それを浴びて味うてゐるだけでも、生きてゐることの幸福を感じる。
+□雑草の心［＃「雑草の心」に傍点］、それを私はうたひたい。
+□個性と自我［＃「個性と自我」に傍点］、個性は全のあらはれとしての個、自我は我慾の結晶、芸術に於て、個性は表現されなければならないが、自我に執着してはならない。
+［＃ここで字下げ終わり］
+
+　一月廿七日［＃「一月廿七日」に二重傍線］　晴、そして曇。
+
+……待つてゐる［＃「待つてゐる」に傍点］……何を……待つてゐる……まづ郵便［＃「郵便」に傍点］を……そして……友人を。……
+偉大一升借りる、鰯十尾買ふ。
+午後、樹明君約をふんで来庵、お土産は餅、ボタ餅がないのが残念だつたが。
+気持よく飲んで酔うて、さよなら。
+今日、駅のポストまで出かけたついでに、ライスカレーを食べた、Ｏ食堂のそれは肉めし程度、さらにＫ食堂のそれはうまかつた、とにかく私は私の胃袋［＃「私の胃袋」に傍点］に祝福をさゝげます！
+
+　一月廿八日［＃「一月廿八日」に二重傍線］　晴れてあたゝか、すこし歩く。
+
+畑仕事、すぐ労れてダメ、情ないかな。
+ようねむれることは何よりのよろこびだ。
+
+　一月廿九日［＃「一月廿九日」に二重傍線］　曇、冷たい、小雪ちらつく。
+
+たよりいろ／＼、うれしいうれしい。
+寒い、鯖のさしみで一杯。
+ちかごろの私の句作傾向はわるくないと思ふ、一日一句［＃「一日一句」に傍点］でたくさんだ、その一句を磨いて磨いて磨きあげるのである、そこに私の性格があり生活があると思ふ。
+［＃ここから１字下げ］
+　　　私の生き方［＃「私の生き方」に白四角傍点］――（附、郵便貯金の事）
+私は私が不生産的であり、隠遁的であることこと［＃「こと」に「マヽ」の注記］のために苦しみ悩んでゐた、そしてやうやくかういふ信念に落ちつくことが出来た――
+行動［＃「行動」に傍点］といふことは必ずしも直接的［＃「直接的」に傍点］であることに限らないと思ふ、性格的に間接的［＃「間接的」に傍点］にしか行動し得ない私は、私自身をして、私の周囲をして、なごやかな存在［＃「なごやかな存在」に傍点］とし、なぐさめの場所［＃「なぐさめの場所」に傍点］として荘厳し提供する、それが私の生活の意義である、と私は考へる。
+私は今日から郵便貯金［＃「郵便貯金」に傍点］を始めた、一日十銭を節約するのである（バツトをなでしこに、酒三合を二合にといふ風に）、そしてそれは私の死骸かたづけ代［＃「死骸かたづけ代」に傍点］となるのである。
+省みて疚しくない生活、俯仰天地人に恥ぢない生活、嘘のない生活、秘密のない生活、――無理のない生活、悔のない生活、――私自身の生活。
+［＃ここで字下げ終わり］
+
+　一月三十日［＃「一月三十日」に二重傍線］　曇、霙、そして朝酒！
+
+ちよつと街へ、――理髪入浴。
+今日はからだのぐあいがよつぽどよかつた。
+身も心も欲しがる酒［＃「身も心も欲しがる酒」に傍点］、さういふ酒だけ飲むべし。
+
+　一月三十一日［＃「一月三十一日」に二重傍線］　晴曇、ずゐぶん冷たい。
+
+明方やつと眠りついたと思つたら、恋猫のために眼覚めさせられた、いがみあひつゝ愛し、愛しあひつゝいがむのが、彼等の此頃の仕事だ、どうすることもできない本能だ［＃「どうすることもできない本能だ」に傍点］。
+［＃ここから２字下げ］
+　　　旧正月まへ
+・こゝろたのしくてそこらで餅をつく音も
+・更けてひとり焼く餅の音たててはふくれる
+・みぞれする草屋根のしたしさは
+　霜晴れの、むくむくと土をむぐらもち
+　ふるつくふうふういつまでうたふ
+　　　改作
+　ほつと夕日のとゞくところで赤い草の実
+［＃ここで字下げ終わり］
+
+　二月朔日［＃「二月朔日」に二重傍線］　晴。
+
+もう二月になつた。……
+ぶら／＼歩いて、酒と魚とを買うて戻つた。
+何となく腹工合が悪い、嫌な夢を見た。
+今日は一句もなかつた、それでよろしい。
+
+　二月二日［＃「二月二日」に二重傍線］　曇、ばら／＼雨。
+
+緑平老からの手紙まことにありがたし。
+梅の花ざかり、そこらを歩くとほのかに匂ふ、椿の花も咲きつゞけてうつくしい。
+樹明君に招かれて、夕方から学校の宿直室へ出かける、酒と飯とをよばれる、すこし飲みすぎて心臓にこたえて苦しんだが、しばらくして快くなつた、とうとう泊つた、しかし一睡も出来なかつた、勝太郎の唄をラヂオを聴いた、いろ／＼の雑誌を読みちらした。
+睡れないなら睡れるまで睡らないでよろしい。
+［＃ここから２字下げ］
+　高声は山ゆきすがたの着ぶくれてゐる
+　寒い朝の、小鳥が食べる実が赤い
+　曲ると近道は墓場で冷たい風
+・寒い裏から流れでる水のちりあくた
+・南無地蔵尊冴えかへる星をいたゞきたまふ
+・恋猫が、火の番が、それから夜あけの葉が鳴る
+　雪でもふりさうな、山の鴉も寒さうな声で
+［＃ここで字下げ終わり］
+
+　二月三日［＃「二月三日」に二重傍線］　曇、雪もよひ、寒い冷たい、時雨。
+
+暗いうちに昨夜食べ残した御飯を食べて帰庵、すぐ炬燵をあたゝかくして読書。
+まだ徹夜なら一夜二夜は平気だ、御飯も二三杯、餅なら五つ六つは何の事はない（酒は三合飲むと飲みすぎて苦しくなるが）。
+私としては出来るだけの御馳走をこしらへて、来庵するといふ樹明君を待つ。……
+今日読んだものの中に、渇魚、渇地獄、渇極楽といふ言葉があつた、味ふべき言葉だと思つた、地獄の底の極楽を泳ぐ魚［＃「地獄の底の極楽を泳ぐ魚」に傍点］（魚にあつては地獄であらう、人間に釣りあげられるから）。
+樹明来、さつそく飲む、下物は焼小鯛、玉葱のぬた、黒［＃「黒」に「マヽ」の注記］布の佃煮、いづれも庵独特の手料理。
+急用ができて樹明君は早々帰つて行つた、奥さんがわざ／＼迎へに来られたので何とも致し方がない。
+夜、冬村君が約束通りに餅をたくさん持つてきてくれた、ありがたい、此頃の私は酒を貰ふよりも、銭を貰ふよりも、餅を貰ふことがうれしい、それほど私は餅好きになり、餅ばかりたべてゐるのである、近くまた樹明君も持つてきてくれるといふ、うれしいな！
+※［＃二重四角、277-14］飯の味［＃「飯の味」に傍点］、酒の味［＃「酒の味」に傍点］、水の味［＃「水の味」に傍点］、そして餅の味［＃「餅の味」に傍点］、つぎは茶の味［＃「茶の味」に傍点］か。……
+［＃ここから２字下げ］
+・ひとりであたゝかく餅ばかり食べてゐる
+・足音が来てそのまゝ去つてしまつた落葉
+・今日のをはりのサイレンのリズムで
+・けふも雪もよひの、こんなに餅をもらうてゐる
+・星空冴えてくる寒行の大［＃「大」に「マヽ」の注記］鼓うちだした
+［＃ここで字下げ終わり］
+
+　二月四日［＃「二月四日」に二重傍線］　晴、時々曇。
+
+旧のお正月、節分でもある、私はいつもお正月だ！
+終日籠居、睡くなればうたゝ寝、覚めては読書。
+独り者は独り言をいふ［＃「独り者は独り言をいふ」に傍点］、これも表現本能のあらはれであらう。
+［＃ここから３字下げ］
+落葉ふんで豆腐やさんがきたので豆腐を（改作）
+［＃ここで字下げ終わり］
+
+　二月五日［＃「二月五日」に二重傍線］　曇、霜、氷、雨。
+
+朝は餅粥［＃「餅粥」に傍点］、餅と米と大根とが渾然としてうまさ［＃「うまさ」に傍点］そのものとなる。……
+午前中はとても寒かつたが、午後はあたゝかい、むしろぬくすぎる雨となつた。
+［＃ここから２字下げ］
+・霜枯れの菜葉畑も春がうごいてゐる雨
+・ここでもそこでも筵織る音のあたゝかい雨
+［＃ここで字下げ終わり］
+
+　二月六日［＃「二月六日」に二重傍線］　晴、小雪ちらりほらり。
+
+独を慎しむ［＃「独を慎しむ」に傍点］――独を楽しむ［＃「独を楽しむ」に傍点］――これが今日此頃の私の生活気分［＃「生活気分」に傍点］である。
+［＃ここから２字下げ］
+・霽れそめて雫する葉のあたゝかな
+・あすもよい日の星がまたゝく
+・やうやく見つけた蕗のとうのおもひで
+　　　追加一句
+　ふくろうないてこゝが私の生れたところ
+［＃ここで字下げ終わり］
+
+　二月七日［＃「二月七日」に二重傍線］　雪、雪、雪、晴れていよ／＼うつくしい。
+
+雪をふんで雪ふる街へ、――その買物は醤油三合十五銭、鰯十銭十四尾、酒は幸に余つて［＃「余つて」に傍点］ゐる！
+雪、酒、魚、火、飯、……しづかな幸福［＃「づかな幸福」に傍点］、片隅の幸福［＃「片隅の幸福」に傍点］。
+今日は雪の句が二十ばかり出来た、出来すぎたやうだけれど出来るものはそれでよからう、水の流れるやうなものだから、尾籠だけれど、屁のやうな糞のやうなものだから！
+［＃ここから１字下げ、折り返して２字下げ］
+　　　ぐうたら手記
+□或る日の私［＃「或る日の私」に傍点］。
+□酒（私もやつと酒について語れるやうになつた）。
+□自殺は二十代に多く、そして五十代に多いと或る社会学者が説いてゐた、この五十代［＃「五十代」に傍点］については考へさせられる。
+※［＃二重四角、280-4］素人と玄人との問題［＃「素人と玄人との問題」に傍点］。
+　芸術制作に於ける、殊に句作に於ける
+※［＃二重四角、280-6］自然には矛盾はない［＃「自然には矛盾はない」に傍点］、あると考へるのは矛盾だらけの人間である［＃「あると考へるのは矛盾だらけの人間である」に傍点］。
+□「遊ぶ［＃「遊ぶ」に傍点］」と「怠ける［＃「怠ける」に傍点］」
+□出来た句――生れた句、作つた句、拵らへた句。
+□人生――生活は、長い短かいが問題ではない、深いか浅いか［＃「深いか浅いか」に傍点］に価値がある。
+※［＃二重四角、280-10］五十知命［＃「五十知命」に傍点］、いひかへれば冷暖自知［＃「冷暖自知」に傍点］ではあるまいか。
+［＃ここから２字下げ］
+・雪へ雪ふる小鳥なきつれてくる
+・雪がふるふる火種たやすまいとする
+・雪のなか高声あげてゆきき
+・枯木の雪を蹴ちらしては百舌鳥
+・雪ふるゆふべのゆたかな麦飯の湯気
+・雪、街の雑音の身にちかく
+　雪の大根ぬいてきておろし
+　雪をふんで郵便やさんがうれしいたよりを
+・雪をかぶつて枯枝も蓑虫も
+・雪ふれば雪のつんではおちるだけ
+・あなたの事を、あなたの餅をやきつつ（樹明君に）
+　雪のふりつもるお粥をあたためる
+・いちにち胸が鳴る音へ雪のしづくして
+・ぶらりとさがつて雪ふるみのむし
+・雪つまんでは子も親も食べ
+　朝のひかりのちりあくたうつすりと雪
+・春がちかよるすかんぽの赤い葉で
+・雪をたべつつしづかなものが身ぬちをめぐり
+・をとことをんご［＃「ご」に「マヽ」の注記］といつたりきたりして雪
+・雪のあかるさの死ねないからだ
+　　　井師筆の額を凝視して
+　雪あかりの「其中一人」があるいてゐるやうな
+［＃ここで字下げ終わり］
+
+　二月八日［＃「二月八日」に二重傍線］　曇、消え残る雪の寒さ。
+
+少々風邪気味で、咳が出て洟水が出るけれど、約束通り山口へ行く、先づ湯田の温泉に浸る、それから市中を散歩する、本屋を素見したり、山を観たりして、夕方、周二居を訪ねる、おとなしい句会であつた、三輪さん、山廷さん、そして奥さん、人数は少ないけれど熱心があつた、終列車で帰庵、十二時近かつた、それから火をおこし炬燵をあたゝめ、湯を沸かし餅を焼いて、食べて、そしてゆつくり寝た、独身者はなか／＼忙しかつた。
+今日は寒かつた、坐つてゐても歩いてゐても冬を感じた、多分此季節中では、今日が厳寒であらう。
+真夜中――二時頃にけたゝましく警察のサイレンが鳴りだした、蒸気ポンプの疾走する音も聞える、火事だらうと思つたが（小郡としては珍らしい）、労れてゐるので起きて見る元気もなく、そのまゝ睡りつゞけた。
+今日はまことによい日［＃「よい日」に傍点］であつた。
+山口で外郎［＃「外郎」に傍点］一包を買つた、明日徃訪する白船老への土産として。
+Ｓ奥さんの温情にうたれた、尊敬と信頼とに値する女性として。
+今日もしみ／″＼感じたことであるが、私もたうとう『此一筋』につながれてしまつた、私の中で人と句とが一つになつてゐる［＃「私の中で人と句とが一つになつてゐる」に傍点］、私が生活するといふことは句作することである、句を離れて私は存在しないのである。
+［＃ここから１字下げ、折り返して２字下げ］
+　　　ぐうたら手記
+※［＃二重四角、283-3］私にも三楽［＃「三楽」に傍点］といふやうなものがないこともない、――三楽といふよりも三福［＃「三福」に傍点］といつた方が適切かも知れない。――
+［＃ここから３字下げ］
+一、わがままであること、
+二、ぐうたらであること、
+三、やくざであること、
+［＃ここから２字下げ］
+いひかへれば、私が無能無力にして独身であり俳人であることに外ならない！
+［＃ここで字下げ終わり］
+［＃ここから１字下げ、折り返して２字下げ］
+□鰒について［＃「鰒について」に白三角傍点］――
+［＃ここから２字下げ］
+鰒はうまい［＃「鰒はうまい」に傍点］――これには誰も文句はない。
+さしみ［＃「さしみ」に傍点］もうまいがちり［＃「ちり」に傍点］もうまい、あつさり［＃「あつさり」に傍点］して、そしてコク［＃「コク」に傍点］がある。
+ヒレ酒［＃「ヒレ酒」に傍点］なんかは問題ぢやない。
+酒の酔と鰒の熱とがからだいつぱい［＃「からだいつぱい」に傍点］になつてとろ／＼する心地はまさに羽化登仙である、生命なんか惜しくない、ほかに生命なんかないぢやないか！
+［＃ここで字下げ終わり］
+
+　二月九日［＃「二月九日」に二重傍線］　曇。
+
+天気模様もよくないし、からだのぐあいもよくないけれど、思ひ立つては思ひ返さない私だから、時計を曲げて汽車賃をこしらへ、徳山へ行く。
+福川で下車して歩るく、途中富田で青海苔を買ふ、降りだしたのでバスに乗る。
+白船君とは殆んど一年ぶりの対談。
+夜は雑草句会、例によつて例の如し。
+白船居は娘さんが孫を連れて同居してゐられるので、或る宿屋へ案内して泊めて貰ふ、すまなかつた、何もかも人絹のピカ／＼するなかで寝る。
+今夜はよく食べた、自分ながら胃袋の大きいのに呆れた。……
+友はよいかな、旧友はことによいかな。
+奥さんに嫁の事を頼んで、さんざヒヤカされた。
+［＃ここから２字下げ］
+・雪ふれば雪を観てゐる私です
+・ひとりで事足るふきのとうをやく
+・孤独であることが、くしやみがやたらにでる
+・雪がふるふる鉄をうつうつ
+・火の番そこからひきかへせば恋猫
+・更けて竹の葉の鳴るを、餅の焼けてふくれるを
+　　　改作一句追加
+・焼いてしまへばこれだけの灰が半生の記録
+　　　木郎第二世の誕生をよろこぶ
+　雪あかりの、すこやかな呼吸
+［＃ここで字下げ終わり］
+
+　二月十日［＃「二月十日」に二重傍線］　雨。
+
+よく寝た、雨で八代の鶴見物は駄目。
+十時の汽車で帰ることにする、白船君に切符まで買うて貰つて気の毒だつた。
+十二時帰庵、樹明君がやつてくる、酒井さんがやつてくる、磯部さんがやつてくる。……
+酒四升、鰒大皿、飲めや唄へや、踊れや。…………
+とろ／＼どろ／＼、よろめきまはるほどに、とう／＼動けなくなつて宿屋に泊つた。
+［＃ここから２字下げ］
+・芽麥の寒さもそこらで雲雀さえづれば
+・冬ざれの山がせまると長いトンネル
+　冬ぐもりの波にたゞようて何の船
+　ここにも住む人々があつて墓場
+・家があれば田があれば子供や犬や
+・雪もよひ雪にならない工場地帯のけむり
+　ひさしぶり話せば、ぬくい雨となつた（白船老に）
+　あれもこれもおもひでの雨がふりかゝるバスで通る
+［＃ここで字下げ終わり］
+
+　二月十一日［＃「二月十一日」に二重傍線］　晴、紀元節、建国祭。
+
+こゝろよい睡眠から覚めて、おいしい朝飯を食べて、戻つてきて、昨夜の跡片付をする。
+午後、樹明君と磯部君とを招いて残肴残酒でうかれる、うかれすぎてあぶなかつたが、やつと散歩だけですました、めでたし／＼。
+月もおぼろの、何となく春めいた。
+
+　二月十二日［＃「二月十二日」に二重傍線］　曇。
+
+門外不出、独臥読書。
+
+　二月十三日［＃「二月十三日」に二重傍線］
+
+おなじく、おなじく。
+
+　二月十四日［＃「二月十四日」に二重傍線］　曇。
+
+今日も門外不出、終日読書。
+［＃ここから２字下げ］
+・花ぐもりの、ぬけさうな歯のぬけないなやみ
+［＃ここで字下げ終わり］
+
+　二月十五日［＃「二月十五日」に二重傍線］　曇、ばら／＼雨。
+
+身辺整理。
+四日ぶりに街へ出かける、そして七日ぶりに入浴する。
+
+　二月十六日［＃「二月十六日」に二重傍線］　時雨、春が来てゐる。……
+
+めづらしくも、乞食がきた。……
+夕方、樹明君来庵。……
+春琴抄［＃「春琴抄」に傍点］を読む。……
+［＃ここから２字下げ］
+・春めいた朝はやうから乞食
+［＃ここで字下げ終わり］
+
+　二月十七日［＃「二月十七日」に二重傍線］　晴、降霜結氷、春寒。
+
+三日ぶりに街へ出て、酒一罎借りる、酒でも飲まなければやりきれなくなつたほど、身心が労れて弱つてゐるのである。
+アルコールのおかげで宵の間はぐつすり寝た、夜中に眼覚めて、茶の本［＃「茶の本」に傍点］を一年ぶりに読みなほす、よい本はいつ読んでもいくど読んでもおもしろい。
+夜の雨、それは冬がいそいで逃げてゆくやうな、春がいそいでくるやうな音を立てゝ降つた。
+［＃ここから２字下げ］
+・霜晴れほのかに匂ふは水仙
+　　　或る夜の感懐
+・死にたいときに死ぬるがよろしい水仙匂ふ
+・寝るとしてもう春の水を腹いつぱい
+・月夜雨ふるその音は春
+［＃ここで字下げ終わり］
+
+　二月十八日［＃「二月十八日」に二重傍線］　春ぐもり、雨。
+
+日照雨、春が降るやうな雨、ひよどりがうれしさうに啼いて飛ぶ。
+あるだけの米と麦とを炊く、炭も石油もなくなつた、なくなるときには何もかもいつしよになくなる、人生とはこんなものだなと思ふ。
+読むものだけはある、片隅の幸福［＃「片隅の幸福」に傍点］は残つてゐる。
+［＃ここから２字下げ］
+・いちにち雨ふり春めいて草も私も
+　めつきり春めいて百舌鳥が啼くのも
+　ゆふ凪の雑魚など焼いて一人
+・寝床へまでまんまるい月がまともに
+・かうして生きてゐる湯豆腐ふいた
+［＃ここで字下げ終わり］
+
+　二月十九日［＃「二月十九日」に二重傍線］　晴、晴、春、春。
+
+やうやく米と炭と油とを工面した、窮すれば通ずるといふが、私の内外の生活はいつもさうである。
+今宵は十六夜の月のよろしさ。
+
+　二月二十日［＃「二月二十日」に二重傍線］　晴、霜も氷も春。
+
+独り者の朝寝はよろしいな。
+午後、湯屋へ出かけて、ユフウツを洗ひ流してくる。
+帰途、農学校に立ち寄つて樹明君と話す、君も此頃は明朗で愉快だ。
+私は酒も好きだが、菓子も好きになつた（何もかも好きになりつつある、といつた方がよいかも知れない）、辛いものには辛いもののよさが、甘いものには甘いもののよさがある、右も左も甘党辛党万々歳である。
+苦労は人間を磨く［＃「苦労は人間を磨く」に傍点］、用心すべきは悪擦れしないことである［＃「用心すべきは悪擦れしないことである」に傍点］。
+私の日記も書く事書きたい事がだん／＼少くなつた、ここにも私の近来の生活気力があらはれてゐるといへるだらう。
+［＃ここから２字下げ］
+・こどもはなかよく椿の花をひらうては
+・せんだんの実や春めいた雲のうごくともなく
+・椿ぽとり豆腐やの笛がちかづく
+・人間がなつかしい空にはよい月
+　やつぱり出てゐる蕗のとうのおもひで（改作）
+　　　井師筆額字を凝視しつつ
+・「其中一人」があるくよな春がやつてきた（改作）
+［＃ここで字下げ終わり］
+
+　二月二十一日［＃「二月二十一日」に二重傍線］
+
+なか／＼寒い、霜がつめたい、捨てた水がすぐ凍るほどであるが、晴れてうらゝかで、春、春、春、午後は曇つて、夜はぬくたらしい雨となつた。
+おいしい雑魚を焼いてゆつくり昼飯を食べてから近在を散歩する、春寒い風が胸にこたえるので、長くは歩けなかつたが、蕗のとうと句とを拾つて戻つた。
+けふもまた誰も来なかつた、誰も来ないでよろしいけれども、淋しいなとは思つたことである。
+※［＃二重四角、291-6］ありがたいことには、私は此頃また以前のやうに御飯をおいしく食べるやうになつた、逃げた幸福［＃「逃げた幸福」に傍点］がかへつてきたのである、生きることは味ふことであるが［＃「生きることは味ふことであるが」に傍点］、食べることは味ふことの切実なるものである［＃「食べることは味ふことの切実なるものである」に傍点］（殊に老境に於ては、食べることが生きることである）。
+夜は盲目物語［＃「盲目物語」に傍点］を読んで潤一郎芸術の渾然たるにうたれた、そして人の一生［＃「人の一生」に傍点］といふものが痛感された。
+［＃ここから２字下げ］
+・なむからたんのうお仏飯のゆげも
+・ひとりぐらしも大根きりぼしすることも
+　おもむろに雑魚など焼いてまだ寒いゆふべは
+　窓ちかくきてた［＃「た」に「マヽ」の注記］えづるや御飯にしよう
+　焼いては食べる雑魚もゆたかなゆふ御飯
+・蕗のとうが、その句が出来てたよりを書く
+　蕗のとう、あれから一年たちました（緑平老に）
+・空が山があたゝかないろの水をわたる
+・住みなれて藪椿なんぼでも咲き
+　歩けなくなつた心臓の弱さをひなたに
+　蕗のとうのみどりもそへてひとりの食卓
+・ほろにがさもふるさとでふきのとう
+　藁塚のかげからもやつと蕗のとう
+［＃ここで字下げ終わり］
+
+　二月二十二日［＃「二月二十二日」に二重傍線］　雨、春時化とでもいはう、よいたよりでも来ないかな？
+
+降る、降る、その雨を衝いて（ゴム靴はありがたいな、おもいな）街へ、――酒買ひに、でせう、――まつたく、その通り、一升借り出しました。
+一杯機嫌で、うと／＼してゐるところへ、敬坊来庵、久しぶりにＦ屋でうまい酒を飲む、それからまた例によつて二三ヶ所を泳ぎまはる、そしてＩ旅館に碇泊（沈没にあらず）、まことによいとろ／＼［＃「とろ／＼」に傍点］であつた！（どろ／＼［＃「どろ／＼」に傍点］にあらず）
+［＃ここから２字下げ］
+・山から水が春の音たてて流れだしてきた
+・雑草あるがまま芽ぶきはじめた
+［＃ここで字下げ終わり］
+
+　二月二十三日［＃「二月二十三日」に二重傍線］　晴、まつたく春ですね。
+
+公明正大なる朝帰り！　五臓六腑にしみわたる朝酒のほろ酔機嫌で！
+雑魚を焼きつつ、造化のデリカシーにうたれ、同時に人間の残忍を考へないではゐられなかつた。
+酒は酔を意識して、いや期待して飲んではいけない。
+酔ふための酒［＃「酔ふための酒」に傍点］はいけない、味ふ酒［＃「味ふ酒」に傍点］でなければならない。
+酔ひたい酒でなくて、味ふほどに酔ふ酒［＃「味ふほどに酔ふ酒」に傍点］でなければならない。
+酒のうまさ［＃「酒のうまさ」に傍点］、水のうまさ［＃「水のうまさ」に傍点］、それが人生のうまさ［＃「人生のうまさ」に傍点］でもある。
+しづかに炭をおこして（炭があるのはうれしいな）しづかに茶をすゝる、――人間として生きてゐる幸福［＃「人間として生きてゐる幸福」に傍点］。
+水、米、酒、豆腐、俳句――よくぞ日本に生れたる［＃「よくぞ日本に生れたる」に傍点］！　日本人としてのよろこび。
+地獄に遊ぶ［＃「地獄に遊ぶ」に傍点］、かういふ生き方は尊い。
+山口へ出張して、帰途また立寄るといつて別れた敬坊を待つたが、なか／＼やつて来ない、樹明君から手紙がくる、宿直だからやつて来なさいといふ、夕方から出かける、例の如く飲む食べる、話す笑ふ、そして泊る、……今夜はみんな酔ひすぎて（五人共）あぶなく脱線するところだつた。
+［＃ここから３字下げ］
+　　試作四句
+その手が、をんなになつてゐる肉体
+雪ふる処女の手がテーブルのうへに
+咲いては落ちる椿の情熱をひらふ
+雪あかりわれとわが死相をゑがく
+［＃ここで字下げ終わり］
+［＃ここから１字下げ、折り返して２字下げ］
+　　　ぐうたら手記
+□飲みすぎ食べすぎもよくないが、饒舌りすぎはもつとよくない。
+□本を読むは物を食べるに似たり。
+□心の欲するところに従うてその矩を踰えず――生活の極致。
+　過ぎたるは及ばざるに如かず――処世の妙諦。
+　人事を尽して天命を俟つ――人間の真髄。
+［＃ここで字下げ終わり］
+
+　二月二十四日［＃「二月二十四日」に二重傍線］　晴、うらゝか。
+
+朝飯をよばれてから朝がへり。
+敬坊はやつぱり来てゐない、また脱線かな、何しろ春がきたから、まだ若いから。……
+［＃ここから１字下げ、折り返して２字下げ］
+　　　ぐうたら手記
+□アテにしないで待つ［＃「アテにしないで待つ」に傍点］――これが私の生活信条とでもいふべきもの（友に与へる文句である）。
+　来者不拒［＃「来者不拒」に傍点］、去者不追［＃「去者不追」に傍点］といつてもよからう。
+□俳句することが［＃「俳句することが」に傍点］、私に於ては［＃「私に於ては」に傍点］、生活することだ［＃「生活することだ」に傍点］。
+　俳句する心が、私の生きてゐる泉である。
+□遊ぶ［＃「遊ぶ」に傍点］――道に遊ぶ、芸に遊ぶ、句に遊ぶ、酒に遊ぶ、――童心にして老心。
+□鼠、歯、餅、飯、水、酒、虫、花。
+　鼠もゐない家、歯のない人間、餅と日本人。
+［＃ここで字下げ終わり］
+
+　二月二十五日［＃「二月二十五日」に二重傍線］　晴。
+
+……みだれてしまつた、自己統制をなくしてしまつた、あてもなく歩いた。……
+
+　二月廿六日［＃「二月廿六日」に二重傍線］　雨。
+
+身心疲労たへがたし。
+
+　二月二十七日［＃「二月二十七日」に二重傍線］　曇、晴。
+
+終日終夜、悶え通した。
+
+　二月二十八日［＃「二月二十八日」に二重傍線］　晴れたり曇つたり。
+
+ぢつとしてゐるにたへなくて、街に出て宿屋に泊つた、そしてやつと安静をえた、近在散歩。
+
+　三月一日［＃「三月一日」に二重傍線］　春日和、もう虫が出て飛ぶ。
+
+散歩、歩いてゐると何となく慰められる。
+［＃ここから２字下げ］
+・大石小石ごろ／＼として春
+　夜露もしつとり春であります
+・春夜は汽車の遠ざかる音も
+・もう郵便がくるころの陽が芽ぶく木々
+・風がほどよく春めいた藪から藪へ
+・春風のローラーがいつたりきたり
+・伐り残されて芽ぶく木でたゝへた水へ
+［＃ここで字下げ終わり］
+
+　三月二日［＃「三月二日」に二重傍線］　晴。
+
+今夜は呂竹居に泊めて貰つた、なごやかな家庭の空気がいら／＼してゐる私をやはらかくつつむ、ありがたい、まことにありがたい。
+
+　三月三日［＃「三月三日」に二重傍線］　四日　五日　六日
+
+寝てゐた、寝てゐるより外に仕方がない。
+
+　三月七日［＃「三月七日」に二重傍線］　晴。
+
+やつと起きあがつて、句集発送。
+夜半の闖入者としてＫ君、Ｉ君襲来。
+
+　三月八日［＃「三月八日」に二重傍線］
+
+春が来たことをしみ／″＼感じる。
+身辺整理。
+机を南縁から北窓へうつす、これも気分転換の一法である。
+在るがままに在らしめ［＃「在るがままに在らしめ」に傍点］、成るがままに成らしめる［＃「成るがままに成らしめる」に傍点］、それが私の心境でなければならない。
+［＃ここから２字下げ］
+・山火事も春らしいけむりひろがる
+・ぬくうてあるけば椿ぽたぽた
+・草へ草が、いつとなく春になつて
+［＃ここで字下げ終わり］
+
+　三月九日［＃「三月九日」に二重傍線］　春寒。
+
+身心平安。
+山口の句会へ行く、椹野川づたひに歩いて行つた、春景色、そして私は沈欝であつた、いつ訪ねても周二居はしづかであたゝかである、湯田温泉も私のかたくなにむすぼれた身心をほぐしてくれた、おいしい夕飯をいたゞいて、若い人々と話して、終列車で戻つた、まことによい一日一夜であつた。
+
+　三月十日［＃「三月十日」に二重傍線］　日露戦役三十年記念日。
+
+すつかり春、しゆう／＼として風が吹く。
+奴豆腐で一本、豆腐はうまい、いつたべてもうまい、酒は時としてにがいけれど。
+蛙が鳴いた、初声である、蝶々も出てきてひら／＼。
+こころたのしい日である。
+［＃ここから３字下げ］
+日の丸が大きくゆれる春寒い風
+　　（試作）或る友に代りて
+触れてつめたい手に手をかさね
+［＃ここで字下げ終わり］
+
+　三月十一日［＃「三月十一日」に二重傍線］　晴、雨、風、そしてまた晴。
+
+初雷、春をうたふ空のしらべだ、春雷。
+旅をおもふ、旅仕度して旅情を味ふ。
+樹明来庵、とろ／＼、それから、どろ／＼！
+［＃ここから２字下げ］
+・ゆらげば枝もふくらんできたやうな
+・春はいちはやく咲きだしてうすむらさき
+　トラツクのがたびしも春けしきめいて
+［＃ここで字下げ終わり］
+
+　三月十二日［＃「三月十二日」に二重傍線］
+
+正々堂々として朝がへり。
+トンビを曲げて酔ふ、身心洞然としてさえぎるものなし。
+［＃ここから２字下げ］
+・風の枯葦のおちつかうともしない
+　晴れて風ふく草に火をはなつ
+　つつましく住めば小鳥のきてあそぶ
+［＃ここで字下げ終わり］
+
+　三月十三日［＃「三月十三日」に二重傍線］　晴。
+
+もう油虫めが出てきやがつた。
+澄太君から来信、その友情は私を感泣さした。
+［＃ここから２字下げ］
+・山から水が流れてきて春の音
+・住みなれて家をめぐりてなづな咲く
+［＃ここで字下げ終わり］
+
+　三月十四日［＃「三月十四日」に二重傍線］　晴、霜、氷。
+
+樹明君と関門日々新聞記者波多野君と同行して来庵、飲んで、出かけてまた飲んだ、そして酔うて、嫌な事件があつた。
+
+　三月十五日［＃「三月十五日」に二重傍線］
+
+うれしい藪鶯が鳴く。
+後藤さんが帰郷の途次を寄つてくれた、澄太君の奥さんの心づくし――饅頭を持つて。
+［＃ここから２字下げ］
+・みんないつしよに湧いてあふれる湯のあつさ（千人湯）
+・風も春めいて刑務所の壁の高さ
+［＃ここで字下げ終わり］
+
+　十六日　十七日　十八日
+
+かなしい、うれしい日であつたとだけ。
+
+　三月十九日［＃「三月十九日」に二重傍線］　曇。
+
+急に思ひ立つて佐野の妹を訪ねる、お土産は樹明君から貰つたハム、いつものやうに酔つぱらつておしやべり、寿さんが黙々として労働してゐることは尊い、省みて恥ぢないではゐられなかつた。
+外出着の質受ができないので、古被布を着て行つたので、さんざ叱られた、叱る彼女も辛からうが、叱られる私も辛かつた、……肉縁のよさ、そして肉縁のわずらはしさ！
+［＃ここから３字下げ］
+をとこがをなごが水がせゝらぐ灯かげ（雑）
+［＃ここで字下げ終わり］
+
+　三月二十日［＃「三月二十日」に二重傍線］
+
+夜の明けきらないうちに起きて散歩、佐波川はおもひでのしづけさをたたへて鶯も啼いてゐる。
+イチと名づけられた犬が可愛い、ほんたうに可愛い。
+花と梅干とを貰うて帰庵。
+Ｆ家の白木蓮がうつくしい、それにもおもひでがある。
+
+　三月二十一日［＃「三月二十一日」に二重傍線］　曇、なか／＼寒い、雨。
+
+お彼岸の中日。
+アテにしないで待ちかまへてゐた徳山の連中は来てくれなかつた、……寝るより外なかつた。
+［＃ここから３字下げ］
+　　白船君に
+だまされてゆふべとなれば木魚をたたく
+　　改作追加一句
+子がうたへば母もうたへばさくらちる
+［＃ここで字下げ終わり］
+
+　三月二十二日［＃「三月二十二日」に二重傍線］　晴。
+
+生死を生死せよ［＃「生死を生死せよ」に傍点］。
+
+　三月二十三日［＃「三月二十三日」に二重傍線］　雪でもふりだしさうな曇りだつたが、午後はぬくい雨となつた。
+
+たよりいろ／＼、ありがたし、かたじけなし。
+街へ出かけて、払ふべきものを払へるだけ払ふ、Ｔさんの如きは、払つて貰ふことは予期してゐなかつたといつて私よりも彼女が恐縮した！
+雑魚で一杯、ほろ／＼酔うて、ぶら／＼歩きたい気分をおさへて寝た。……
+雑木雑草［＃「雑木雑草」に傍点］、その幸福にひたつた。
+［＃ここから２字下げ］
+・ふるさとはおもひではこぼれ菜の花も
+　なんと長い汽車が麦田のなかを
+・ぼけが咲いてふるさとのかたすみに
+・けふはこれだけ拓いたといふ山肌のうるほひ
+・水に雲が明けてくる鉄橋のかげ
+　　　妹の家を訪ねて二句
+・門をはいれば匂ふはその沈丁花
+　しきりに尾をふる犬がゐてふるさと
+［＃ここで字下げ終わり］
+
+　三月二十四日［＃「三月二十四日」に二重傍線］　雨、だん／＼晴れてきた。
+
+私は友情で生きてゐる、いや友情で生かされてゐる。
+私は私を祝福する、祝福せずにはゐられない。
+樹明来庵、酒余の痴呆状態で！　そして酒よりも飯が欲しいといふ。
+樹明君を送つて別れてから、一人で飲む、ほろ／＼とろ／＼酔ふ、そしていつもの宿に泊つた、ぐつすり眠れた。
+［＃ここから２字下げ］
+・あなたとフリイヂヤとそしてわたくしと（或る女友に）
+・さえづりつつのぼりつつ雲雀の青空
+　朝月が、いちはやくひよ鳥が
+・酔へばさみしがる木の芽草の芽
+［＃ここで字下げ終わり］
+
+　三月二十五日［＃「三月二十五日」に二重傍線］　日本晴。
+
+日本の春だ［＃「日本の春だ」に傍点］、日本人の歓喜だ。
+過去をして過去を葬らしめよ、昨日は昨日、明日は明日、今日は今日の生命を呼吸せよ［＃「今日の生命を呼吸せよ」に傍点］。
+小鳥のやうに［＃「小鳥のやうに」に傍点］、あゝ小鳥のやうにうたへ、そしてをどれ。
+もう蟻が出て来て歩いてゐる。
+ありがたい手紙、ほんたうにありがたい手紙。
+街を歩く、酒がある、女がゐる。……
+伊東さんがやつてくる、国森君にでくわす、どろ／＼になつて帰庵、いつしよに寝る。
+［＃ここから３字下げ］
+　　述懐
+たつた一本の歯がいたみます
+［＃ここで字下げ終わり］
+
+　三月二十六日［＃「三月二十六日」に二重傍線］　晴。
+
+朝酒のよろしさ、伊東君を見送る。
+暴風一過、自己清算にいそがしかつた！
+
+　三月二十七日［＃「三月二十七日」に二重傍線］　曇。
+
+サクラがぼつ／＼咲きだした。
+あさましい自分、みじめな自分をさらけだした。
+自分が自分を信頼することができないとは何といふ情なさだらう。
+最後の自分の姿をまざ／＼と見た。
+［＃ここから２字下げ］
+・考へることがある窓ちかくきてなくは鴉
+・日向おもたくうなだれて花はちる
+・うららかにして鏡の中の顔
+・雨の、風の、芽をふく枝のやすけさは
+［＃ここで字下げ終わり］
+
+　三月二十八日［＃「三月二十八日」に二重傍線］　花時風雨多し。
+
+こん／＼としてねむつた。
+
+　三月二十九日［＃「三月二十九日」に二重傍線］　晴。
+
+前後際断。
+恥知らずの自分が恥づかしい。
+緑平句集、松の木［＃「松の木」に傍点］は尊い。
+村上名物、堆朱の香入は有難い。
+［＃ここから２字下げ］
+　　　（改作一句）
+・月夜の筍を掘る
+　　　或る日或る家にて
+　やたらにしやべればシクラメンの赤いの白いの
+［＃ここで字下げ終わり］
+
+　三月三十日［＃「三月三十日」に二重傍線］　晴れてうららか。
+
+ゆうぜんとして、だうぜんとして、或はぼうぜんとして、無為にして無余［＃「無為にして無余」に傍点］、いろ／＼の意味で。
+はる／″＼信州からそば粉到来、さつそく賞味した。
+敗残者［＃「敗残者」に傍点］としてさん／″＼やつつけられる夢を見た、それはまつたく私自身の醜態だつた、私自身しか知らない、私自身にしか解らない私の正体［＃「私の正体」に傍点］だつた。
+［＃ここから２字下げ］
+・窓から花ぐもりの煙突一本
+・電線に鳥がならんですつかり春
+・わかれたくないネオンライトの明滅で
+［＃ここで字下げ終わり］
+
+　三月三十一日［＃「三月三十一日」に二重傍線］　曇、やがて晴。
+
+身心整理［＃「身心整理」に傍点］。――
+転身一路、しつかりした足取でゆつくり歩め。
+一転語――
+［＃ここから２字下げ］
+春風秋雨　　五十四年
+　　　　　　　　　　　　喝
+一起一伏　　総山頭火
+［＃ここで字下げ終わり］
+とう／＼徹夜してしまつた。
+年をとるほど、生きてゐることのむつかしさを感じる、本来の面目に徹しえないからである。
+親しい友に――
+［＃ここから２字下げ］
+……私はとかく物事にこだはりすぎて困ります、そしてクヨ／＼したり、ケチ／＼したりしてゐます、私のやうなものは生きてゐるかぎり、この苦悩から脱しきれないでせうが、とにかく全心全身を句作にぶちこまなければなりません。……
+・なんとけさの鶯のへたくそうた
+・あるだけの酒をたべ風を聴き
+・悔いることばかりひよどりはないてくれても
+［＃ここから１字下げ］
+　　　――（このみち）――
+このみちをゆく――このみちをゆくよりほかない私である。
+それは苦しい、そして楽しい道である、はるかな、そしてたしかな、細い険しい道である。
+白道である、それは凄い道である、冷たい道ではない。
+私はうたふ、私をうたふ［＃「私をうたふ」に傍点］、自然をうたふ、人間をうたふ。
+俳句は悲鳴ではない、むろん怒号ではない、溜息でもない、欠伸であつてはならない、むしろ深呼吸［＃「深呼吸」に傍点］である。
+詩はいきづき、しらべである、さけびであつてもうめきであつてはいけない、時として涙がでても汗がながれても。
+噛みしめて味ふ、こだはりなく遊ぶ。
+ゆたかに、のびやかに、すなほに。
+さびしけれどもあたたかに。――（序に代へて）
+［＃ここで字下げ終わり］
+
+　四月一日［＃「四月一日」に二重傍線］　晴、April fool といはれる日。
+
+人生といふものは、結果から観ると、April fool みたいなことが多からう。
+友情に甘えるな［＃「友情に甘えるな」に傍点］、自分を甘やかすな［＃「自分を甘やかすな」に傍点］。
+天地明朗、身心清澄。
+午後、近郊を散歩する、出かけるとき何の気もなくステツキ、いやステツキといつてはいけない、杖をついたのである、山頭火も老いたるかなと思へば微苦笑物だ。
+まだ風は寒いので、四時間ばかり山から野をぶらついて、途中、一杯ひつかけて戻つた。
+旧街道の松並木が伐り倒されてゐる、往来の邪魔になるからだらうけれど、いたましく感じた。
+酒はどうしてもやめられないから飲む、飲めば飲みすぎる、そして酒乱［＃「酒乱」に傍点］になる、だらしなくなる、一種のマニヤだ、つつしまなければならないなどと考へてゐるうちに、ぐつすりとねむつた。
+
+　四月二日［＃「四月二日」に二重傍線］　晴、春風しゆう／＼。
+
+ありがたいかな、うれしいかな、たよりを貰ひ、たよりをあげる。
+善哉々々、鰯で一杯。
+大山君に信州のそば粉と浜松の納豆をお裾分けする、かういふ到来物は私一人で私すべきものではない、みんないつしよにその友情を味ふべきである、大山君はそれを味うてくれる人、味ふに値する人だ。
+何よりもわざとらしいこと［＃「わざとらしいこと」に傍点］はいけない、私たちは動物的興奮［＃「動物的興奮」に傍点］を捨てゝ自然的平静［＃「自然的平静」に傍点］を持してゐなければいけない、しかし、……
+水のやうに［＃「水のやうに」に傍点］、水の流れるやうに［＃「水の流れるやうに」に傍点］。
+すぽりと過去をぬいだ［＃「すぽりと過去をぬいだ」に傍点］、未来を忘れた［＃「未来を忘れた」に傍点］、今日のここ［＃「今日のここ」に傍点］、この身のこのまま極楽浄土だ［＃「この身のこのまま極楽浄土だ」に傍点］。
+ナムカラタンノウトラヤヤ。……
+［＃ここから２字下げ］
+・藪かげ椿いちりんの赤さ
+・いつも貧乏でふきのとうやたらに出てくる
+　引越して来て木蓮咲いた
+・ゆらぐ枝の芽ぶかうとして
+・水音の山ざくら散るばかり
+　　　出征兵士の家
+・日の丸がへんぽんと咲いてゐるもの
+　　　松並木よ
+　伐り倒されて松並木は子供らを遊ばせて
+　　　改作
+　花ぐもりの、ぬけさうな歯のぬけないなやみ
+［＃ここで字下げ終わり］
+
+　四月三日［＃「四月三日」に二重傍線］　花見日和。
+
+小鳥がとてもよく啼く、四十雀がとくに浮調子で啼いてゐる、恋の唄だ！
+緑平老へ愚痴をいはせて貰ふ。――
+［＃ここから２字下げ］
+……私は此頃痛切に世のあぢきなさ身のやるせなさを感じます、それはオイボレセンチに過ぎないとばかりいつてしまへないものがあります。……
+［＃ここで字下げ終わり］
+十二時のサイレンが鳴つて間もなく樹明君来庵、まづ一杯、ほろ／＼として山を歩く、そして公園へ下りる、そこここ花見の酒宴が開かれてゐる、私たちも草にすわつて花見をする、ビール三本、酒一本、辨当一つ、――それで十分だつた、おとなしく別れる、私はすぐ帰庵して、お茶漬を食べて寝た。
+今日の樹明君はよかつた、彼にくらべて私は私の心を恥ぢた、どうも酒に敗ける、酔ふとぢつとしてゐられなくなる、そして、……今日はわるくなかつたが。
+人生はリズミカルに、大井川は流れ渡りだ。
+花見辨当をたべてゐるうちに、ほろりと歯がぬけた、ぬけさうな歯であり、ぬければよいと考へてゐた歯であつた、何だかさつぱりした。
+ぬけさうでぬけなかつた歯がぬけた、これだけでも解脱の気分［＃「解脱の気分」に傍点］を味ふことが出来た。
+自己検討［＃「自己検討」に傍点］、愚劣を発見するばかりであるが、その愚劣が近来やゝ自在［＃「自在」に傍点］になつたことはうれしいと思ふ。
+［＃ここから１字下げ、折り返して２字下げ］
+　　　ぐうたら手記
+□私はうたふ、自然を通して私を［＃「自然を通して私を」に傍点］うたふ。
+□私の句は私の微笑［＃「微笑」に傍点］である、時として苦笑めいたものがないでもあるまいが。
+□くりかえしていふ、私の行く道は『此一筋』の外にはないのである。
+□俳句性を一言でつくせば、ぐつと掴んでぱつと放つ［＃「ぐつと掴んでぱつと放つ」に傍点］、といふところにあると思ふ。
+□私の傾能［＃「能」に「マヽ」の注記］は老境に入るにしたがつて、色の世界［＃「色の世界」に傍点］から音の世界［＃「音の世界」に傍点］――声の世界［＃「声の世界」に傍点］へはいつてゆく。
+□俳句のリズムは、はねあがつてたゞよふリズム［＃「はねあがつてたゞよふリズム」に傍点］であると思ふ。
+　（井師は、短歌をながれてとほるリズム［＃「短歌をながれてとほるリズム」に傍点］、俳句をあとにかへるリズム［＃「あとにかへるリズム」に傍点］と説いてゐる。）
+［＃ここで字下げ終わり］
+
+　四月四日［＃「四月四日」に二重傍線］　雨、花が散つて葉が繁る雨だ。
+
+身辺整理、しづかに読書。
+雨の音は私の神経をやはらげやすめてくれる、雨を聴いてゐると、何かしんみりしたものが身ぬちをめぐつてひろがる。……
+死をおもふ日だ［＃「死をおもふ日だ」に傍点］、疲労と休息とを求める日だ。
+夕方、どてらでゴム靴をはいて、まるで山賊のやうないでたちで駅のポストまで出かけた。
+酒三合、飯三杯、おいしくいたゞいて寝る。
+［＃ここから１字下げ、折り返して２字下げ］
+　　　ぐうたら手記
+□現代の俳句は生活感情［＃「生活感情」に傍点］、社会感情［＃「社会感情」に傍点］を表現しなければならないことは勿論だが、それは意識的［＃「意識的」に傍点］に作為的［＃「作為的」に傍点］に成し遂げらるべきものではない、俳句が単に生活の断片的記録［＃「生活の断片的記録」に傍点］になつたり、煩瑣な事件の報告［＃「事件の報告」に傍点］に過ぎなかつたりする源因はそこにある、思想を思想のままに、観念を観念として現はすならば、それは説明［＃「説明」に傍点］であり叙述である、俳句は現象――自然現象でも人事現象でも――を通して思想なり観念なりを描き写さなければならないのである、自然人事の現象を刹那的に摂取した感動が俳句的律動として表現されなければならないのである、この境地を説いて、私は自然を通して私をうたふ［＃「私は自然を通して私をうたふ」に傍点］、といふのである。
+□感覚［＃「感覚」に傍点］なくして芸術――少くとも俳句は生れない。
+□俳人が道学的［＃「道学的」に傍点］になつた時が月並的［＃「月並的」に傍点］になつた時である。
+［＃ここで字下げ終わり］
+
+　四月五日［＃「四月五日」に二重傍線］　晴、初めて蛇を見る。
+
+ありがたいたよりいろ／＼、ありがたし。
+さびしいけれどおちついた日、久しぶりの入浴。
+午後、樹明来、Ｏさんも来庵、つゞいて敬坊来、二升ほど飲んでほろ／＼とろ／＼、それから出かけてぼろ／＼どろ／＼、わかれ／＼になつて、私だけはＩ旅館をたゝきおこして泊つた、……今夜はまことに、のむ、うたふ、をどる、めでたし／＼だつた。
+［＃ここから１字下げ、折り返して２字下げ］
+　　　ぐうたら手記
+□感覚なくして芸術は生れない、同時に感覚だけでは芸術は生れない、感覚に奥在する something. それが芸術のほんたうの母胎［＃「ほんたうの母胎」に傍点］［＃「芸術のほんたうの母胎［＃「ほんたうの母胎」に傍点］」は底本では「芸術のほんたうの母［＃「のほんたうの母」に傍点］胎」］である。
+　芸術――俳句芸術は作者その人、人間そのもの［＃「人間そのもの」に傍点］である、あらねばならない。
+□人生のための芸術――芸術のための芸術。
+　俳句のための俳句制作［＃「俳句のための俳句制作」に傍点］（仏道のための仏道修行のやうに）。
+　心境――境涯――人格的表現。
+　芸――道――生命。
+　如々として遊ぶ［＃「如々として遊ぶ」に傍点］。
+□私は雑草を愛する、雑草をうたふ。
+　第四句集の題名は雑草風景［＃「雑草風景」に白三角傍点］としたい。
+　雑草風景は雑草風景である。私は雑草のやうな人間［＃「雑草のやうな人間」に傍点］である。
+　雑草が私に、私が雑草に、私と雑草とは一如である。
+［＃ここで字下げ終わり］
+
+　四月六日［＃「四月六日」に二重傍線］　曇。
+
+暗いうちに朝がへり、そして朝酒。
+公明正大であつた（かへりみて恥づかしくないこともないけれど、許して頂戴！）。
+身辺整理。
+放下着、放下着。
+入浴するのも旅をするのも一つの放下着だらう。
+忘れるといふことは［＃「忘れるといふことは」に傍点］、たしかに放下着の或る段階だ［＃「たしかに放下着の或る段階だ」に傍点］。
+今日は黎々火君が来てくれる日である、何もないからほうれん草を摘んで洗ひあげておく、待ちかねて、やうやく暮れるころになつて来てくれた、お土産はうるか一壺とさくら餅一包、さつそく大好物のうるかを賞味する、鮎の貴族的な香気が何ともいへない高雅なものをたゞよはせる。
+おそくまで話しつゞける、子のやうな彼と親のやうな私、そして俳句の道を連れだつてすゝむ二人の間には、たゞあたゝかいしたしみがあるばかりである。
+［＃ここから１字下げ、折り返して２字下げ］
+　　　ぐうたら手記
+□人生の黄昏［＃「人生の黄昏」に傍点］！
+□性慾のなくなつた生活［＃「性慾のなくなつた生活」に傍点］は太陽を失つた風景のやうなものだらう。
+□苦しいから生きてゐるのかも知れない、なやみがあるから生甲斐を感じるのかも知れない。
+□いのちはうごく［＃「いのちはうごく」に傍点］、そのうごきをうたはなければならない。
+□雑草！　私は雑草をうたふ、雑草のなかにうごく私の生命、私のなかにうごく雑草の生命をうたふのである。
+　雑草を雑草としてうたふ［＃「雑草を雑草としてうたふ」に傍点］、それでよいのである、それだけで足りてゐるのである。
+　雑草の意義とか価値とか、さういふものを、私の句を通して味解するとしないとはあなたの自由である、あらねばならない。
+　私はたゞ雑草をうたふのである。
+［＃ここで字下げ終わり］
+
+　四月七日［＃「四月七日」に二重傍線］　とてもよいお天気、しかし寒い々々。
+
+水をくんでおいて帰る黎々火君よ。
+鶯が、四十雀がほがらかに啼く。
+黎々火君は八時の汽車で帰つていつた、別れて一人となるとひとしほうすら寒い、山の鴉が出てきてさわぐのも何となくうらさびしい。
+今日は今年の花見の書入日第一の日曜だらう。
+私にしてもぢつとしてをれない日だ。
+どこといふあてもなく歩いた。
+我人ともになつかしい。
+さくら、さくら、酒、酒、うた、うた。
+［＃ここから２字下げ］
+・あてなくあるくてふてふあとになりさきになり
+・芽ぶくものそのなかによこたけ［＃「け」に「マヽ」の注記］る
+・山のひなたの、つつましく芽ぶいてゐる
+・水音の暮れてゆく山ざくらちる
+・さくら二三本でそこで踊つてゐる
+　白い蝶が黄ろい蝶が春風しゆうしゆう
+　さくらちる暮れてもかへらない連中に
+　花見べんたうほろつと歯がぬけた
+［＃ここで字下げ終わり］
+
+　四月八日［＃「四月八日」に二重傍線］　雨。
+
+花まつりを行ふ地方はあやにくの雨で困つたらう、私は宿屋でゆつくり雨を味つた。
+どうもからだのぐあいがあたりまへでない、むろんあたまのぐあいもよくないが。
+夕方から、樹明君によばれて学校の宿直室へ出かける。
+よい酒をよばれて、そのまゝ泊めて貰つた。
+悔いのない酒［＃「悔いのない酒」に傍点］、さういふ酒でなければならない。
+
+　四月九日［＃「四月九日」に二重傍線］　曇、雨、早朝帰庵。
+
+身辺整理、捨てゝも捨てゝも捨てきれないものが、いつとなくたまつてくる。……
+終日読書。
+やつと一関透過［＃「やつと一関透過」に傍点］、むつかしい一関だつた［＃「むつかしい一関だつた」に傍点］、まことに白雲悠々の境地である。
+更けて遠く蛙の声。
+［＃ここから２字下げ］
+・草に寝ころんで雲なし
+・この山の木も石も私をよう知つてゐる
+　雨の小鳥がきては啼きます
+・身にちかく山の鴉がきては啼きます
+・春風の楢の葉のすつかり落ちた
+・穴から蛇もうつくしい肌をひなたに
+・ひとりで食べる湯豆腐うごく
+・さくら咲いて、なるほど日本の春で
+・晴れてさくらのちるあたり三味の鳴る方へ
+［＃ここで字下げ終わり］
+
+　四月十日［＃「四月十日」に二重傍線］　雨、しと／＼とふる春雨である。
+
+買ひかぶられて苦しい［＃「買ひかぶられて苦しい」に傍点］、どうぞ私を買ひかぶつて下さるな［＃「下さるな」に傍点］。
+大樹の下に［＃「大樹の下に」に傍点］を読む、小野さんといふ著者のあたゝかい、やはらかい人柄がよく解る、情趣の人［＃「情趣の人」に傍点］である。
+大空放哉伝［＃「大空放哉伝」に傍点］を読む、放哉坊はよい師友を持つてゐてありがたいことである。
+夜、酒を提げて、樹明君とＩ君と来庵、二人は酔うて唄つたり踊つたりする、しかし私は酔へない、しやべれない、どうして唄へるものか、踊れるものか、気の毒だけれど、早く帰つてもらつて寝た。
+［＃ここから２字下げ］
+・人声のちかづいてくる木の芽あかるく
+　雑草風景、世の中がむつかしくなる話
+・花ぐもりの飛行機の爆音
+・なんだかうれしく小鳥しきりにきてなく日
+・さえづりかはしつつ籠のうちとそと
+　おほらかに行くさくら散る
+・ここから公園の、お地蔵さまへもさくら一枝
+　　　黎々火君に
+　なつかしい顔が若さを持つてきた
+［＃ここで字下げ終わり］
+
+　四月十一日［＃「四月十一日」に二重傍線］　曇、身心すぐれず。
+
+しようことなしにポストまで、そして米と油とを買うて戻つた。
+無味無臭、無色透明の世界に住みたい。
+水、餅、豆腐、飯。……
+
+　四月十二日［＃「四月十二日」に二重傍線］　晴、なか／＼寒い。
+
+私を救ふものは涙よりも汗、汗も流さないから堕落するのだ。
+いやな風が吹く、風にはたへられない私だ。
+［＃ここから２字下げ］
+・新菊もほうれん草も咲くままに
+・草が芽ぶいて来てくれて悪友善友
+・枇杷が枯れて枇杷が生えてひとりぐらしも
+・いちにちすわつて風のながれるを
+・暮れるとすこし肌寒いさくらほろほろ
+・椿を垣にして咲かせて金持らしく
+　　　庵中無一物
+　酔うて戻つてさて寝るばかり
+［＃ここで字下げ終わり］
+
+　四月十三日［＃「四月十三日」に二重傍線］　好晴。
+
+久しぶりに、ほんたうに久しぶりに畑仕事、土を耕やし、草をぬき捨て、大小便をかけて、いつでも胡瓜や茄子やトマトや大根や、植えられるやうにして置く。
+酒はあるけれど飲まなかつた［＃「酒はあるけれど飲まなかつた」に傍点］、飲みたいのを飲まないのではない、飲みたくないから飲まなかつたのである、私は昨日までしば／＼飲みたくない酒［＃「飲みたくない酒」に傍点］を飲んだ、酔ひたいために飲んだのである、むろんにがい酒［＃「にがい酒」に傍点］だつた、身も心もみだれる酒だつた。……
+過去一年間の悪行乱行が絵巻物のやうに、フイルムのやうに展開する、――それは破戒無慚な日夜だつた。……
+私は何故死なゝかつたか、昨春、飯田で死んでしまつたら、とさへ度々考へた。……
+［＃ここから２字下げ］
+我昔所造諸悪業
+皆由無始貪瞋痴
+従身口意之所生
+一切我今皆懺悔
+［＃ここで字下げ終わり］
+一切我今皆懺悔、そして私は新らしい第一歩［＃「新らしい第一歩」に白三角傍点］を踏み出さなければならない。――
+［＃ここから２字下げ］
+・山から白い花を机に
+・春寒い夢のなかで逢うたり別れたりして
+・ひつそりさいてちります
+・機音とんとん桜ちる
+・さくらちるビラをまく
+・とほく蛙のなく夜半の自分をかへりみる
+・けふもよい日のよい火をたいて（澄太君に）
+・伸びるより咲いてゐる
+　　　黎々火君に
+　わかれしなの椿の花は一輪ざしに
+・おくつてかへれば鴉がきてゐた
+［＃ここで字下げ終わり］
+
+　四月十四日［＃「四月十四日」に二重傍線］　曇、また雨となり風が出た。
+
+身心寂静。
+ひとりしづかに自分を見詰めてゐるところへ、風雨の中を酒が来た、しばらくして樹明君とＳさんとがやつてきた、ニベと胡瓜とを持つて。
+まづ樹明君が酔ふ、Ｓさんも、酔ふたらしい、私は酔へない、酔ひたくない、ほどよく別れて、寝床に入つたが、どうしてもねむれない、起きてまた飲んで、そしてお茶漬を食べた、おかげでぐつすりねむれた。
+［＃ここから２字下げ］
+・藪かげ藪蘭の咲いて春風
+・空へ積みあげる曇り
+・雨が風となり風のながるゝを
+・水音ちかくとほく晴れてくる木の芽
+・みんな咲いてゐる葱もたんぽぽも
+・なんでもかんでも拾うてあるく蛙なく（鮮人屑ひろひ）
+・もう葉ざくらとなり機関車のけむり
+・うどん一杯、青麦を走る汽車風景で
+・風がつよすぎる生れたばかりのとんぼ
+・山ふところわく水のあればまいまい
+［＃ここで字下げ終わり］
+
+　四月十五日［＃「四月十五日」に二重傍線］　曇、めつきりぬくうなつた。
+
+去年の今日［＃「去年の今日」に傍点］をおもふ、飯田で病みついた日である、死生の境［＃「死生の境」に傍点］を彷徨しだした今日である。
+アルコールの誘惑［＃「アルコールの誘惑」に傍点］！　その誘惑からのがれなければならない、いや、アルコールに誘惑されないほどの、不動平静の身心を練りあげなければならない。
+アルコールの誘惑と酒のうまさ［＃「酒のうまさ」に傍点］とは別々である。
+柿の芽がうつくしい、燕の身軽さよ。
+いや／＼ながら街へゆく（この事実でも私の衰弱を証明する、一日三度も街へ出かけた私ではなかつたか）、出さなければならない手紙もあるし、石油もなくなつたし、塩すらもなくなつてゐるから、――米もなくなつてゐるけれど、買ふだけの銭がないので、今日はそば粉か何かですます（これは断じて貧乏ではない）。
+塩ほど必要でそして安価なものはない、同時に、酒ほど贅沢で高価なものはない、といへる。
+腹は酒でいつぱいになつた、しかも酔へない、何といふ罰あたり［＃「罰あたり」に傍点］だらう、悲惨だらう。
+しづかに飲む、おのづから酔ふ、山は青くして水の音、鳥が啼きます、花が散ります、あああ。
+［＃ここから１字下げ、折り返して２字下げ］
+　　　ぐうたら手記
+□生活感情、生活リズム［＃「生活リズム」に傍点］、生活気分。
+□俳句であるといふ以上は俳句の制約［＃「俳句の制約」に傍点］を守らなければならない。
+□俳句性とは――
+［＃ここから２字下げ］
+単純化［＃「単純化」に傍点］
+　　　　　直観［＃「直観」に傍点］　　　冴え――凄さ。
+求心的［＃「求心的」に傍点］
+［＃ここから４字下げ］
+生活感情┐
+社会感情├リズム
+時代感情┘
+［＃ここで字下げ終わり］
+
+　四月十六日［＃「四月十六日」に二重傍線］　曇、后晴。
+
+酒があるから酒を飲んだ、飯はないから食べなかつた、明々朗々である。
+たより、それ／″＼にありがたし、一つのたよりには一つの性格がある、人生がある。
+やつと米が買へた、米がないことはほんたうに情ない。
+十何日ぶりに入浴髯剃、さつぱりがつかりした。
+夕方、樹明君来庵、私の不機嫌が私のそばにゐられないほど彼を不快にしたらしい、すまなかつた。
+夢！　春は夢が多い、何といふ汚ない卑しい夢であつたか。……
+［＃ここから２字下げ］
+　　　湯田温泉三句
+・わいてあふれる湯のあつさ汗も涙も
+・湯あがりぼんやり猿を見てゐる人々で
+・お猿はのどか食べる物なんぼでもある（ナ）
+・ぽつかり月が、逢ひにゆく
+・うらゝかな硯を洗ふ
+・芽ぶく曇りの、倒れさうな墓で
+・草のうらゝかさよお地蔵さまに首がない（ナ）
+・こんな山蔭にも田があつて鳴く蛙
+・夕日いつぱいに椿のまんかい
+［＃ここで字下げ終わり］
+
+　四月十七日［＃「四月十七日」に二重傍線］　曇、后晴。
+
+小鳥はた［＃「た」に「マヽ」の注記］えづる、よろこびそのものであるやうに。
+午後山口へ、まず湯田で一浴、それから市中を歩きまはつて、労れた胃の腑へ熱燗でおでんを入れる。
+暮れて帰庵、お茶漬を食べてから読書。
+だん／＼落ちついてくる、根本的に身心整理をする時機が来たのである。
+［＃ここから１字下げ、折り返して２字下げ］
+　　　ぐうたら手記
+□賭博本能と飲酒本能（競馬を見て）。
+□気品とは、
+　句品、人格、境涯。
+□孤独は死へいそぐ［＃「孤独は死へいそぐ」に傍点］。……
+［＃ここで字下げ終わり］
+
+　四月十八日［＃「四月十八日」に二重傍線］　晴。
+
+うら／＼として蝶がもつれる、虫がとびかふ、草がそよぐ、小鳥がさえづる、そして人間は。
+私は散歩した、嘉川の南端までぶら／＼歩きまはつた。
+落ちつきすぎるほど落ちついた、山頭火が山頭火らしくなつてきた、山頭火は山頭火でなければならない、山頭火はほんたうの山頭火にならなければならない。
+夢で鰒を貰つた！　春の夜のナンセンスとはいひきれないものがあるやうだ、私はその鰒を思ひ浮べては独り微苦笑を禁じえなかつた。
+［＃ここから２字下げ］
+・身のまはりは草だらけみんな咲いてゐる（ナ）
+・あれから一年生き伸びてゐる柿の芽（昨春回想）
+・水へ水のながれいる音あたゝかし
+・五月の風が刑務所の煉瓦塀に
+・ずんぶりひたるあふれるなかへ
+・わいて惜しげなくあふれてあつい湯
+［＃ここで字下げ終わり］
+
+　四月十九日［＃「四月十九日」に二重傍線］　曇。
+
+省みて恥ぢない心境［＃「省みて恥ぢない心境」に傍点］、存らへて疚しくない生活［＃「存らへて疚しくない生活」に傍点］。
+或る人に――
+［＃ここから２字下げ］
+酒は酒、水は水、それでよろしいのですが、私の場合では酒が水にならないとよろしくないやうです（養老の孝子の場合では、水が酒になりましたが！）。
+［＃ここで字下げ終わり］
+
+　四月二十日［＃「四月二十日」に二重傍線］　晴、さてもうらゝかな。
+
+今日も歩いた、陶から鋳銭司へ、そして秋穂まで、野も山も人も春たけなはだつた。
+入浴、そして晩酌、とてもよかつた。
+陰暦の三月十八日、裏山の観音堂は賑やかである、地下の人々が男も女も年寄も子供もみんないつしよに、御馳走をこしらへて食べるのである、いはゞ里のピクニツク、村の園遊会である。
+かういふ風習はなつかしい、うれしいもよほしであるが、それも年々さびれて、都会並の個人享楽にうつつてゆく、なげいたところで時勢のながれはせきとめることもできない。
+昨日も今日も一句も出来なかつた、出来さうとも思はなかつた、長らく悩んだ結果として、私の句境は打開されつゝあるのである。
+
+　四月二十一日［＃「四月二十一日」に二重傍線］　晴、そとをあるけば初夏を感じる。
+
+昨日は朝寝、今朝は早起、それもよし、あれもよし、私の境涯では「物みなよろし」でなければならないから（なか／＼実際はさうでもないけれど）。
+常に死を前に［＃「常に死を前に」に傍点］――否、いつも死が前にゐる［＃「いつも死が前にゐる」に傍点］！　この一ヶ年の間に私はたしかに十年ほど老いた、それは必ずしも白髪が多くなり歯が抜けた事実ばかりではない。
+しづかなるかな、あたゝかなるかな。
+午後、歩いて山口へ行つた、帰途は湯田で一浴してバス、バスは嫌だが温泉はほんたうにうれしい、あふれこぼれる熱い湯にひたつてゐると、生きてゐるよろこび［＃「生きてゐるよろこび」に傍点］を感じる。
+晩酌一本、うまい／＼、明日の米はないのに。
+私はまさしく転換した、転換したといふよりも常態に復したといふべきであらう、正身心［＃「正身心」に傍点］を持して不動の生活に入ることが出来たのである。
+［＃ここから２字下げ］
+・ふるつくふうふうわたしはなぐさまない（ナ）
+・ふるつくふうふうお月さんがのぼつた
+・ふるつくふうふ［＃「ふうふ」に傍点］とないてゐる
+　　　（ふるつくはその鳴声をあらはすふくろうの方言）
+・照れば鳴いて曇れば鳴いて山羊がいつぴき
+・てふてふもつれつつ草から空へ（ナ）
+［＃ここで字下げ終わり］
+
+　四月廿二日［＃「四月廿二日」に二重傍線］　晴れたり曇つたり、また雨か。
+
+けさも早起、しかも米がない。
+大根と唐辛とを播く。
+せめて今日一日を正しく楽しく生きたい［＃「せめて今日一日を正しく楽しく生きたい」に傍点］。
+米がなくては困るので、学校に樹明君を訪ねて、Ｓさんから句集代を貰うて貰ふ。
+山口まで歩いた、途中、湯田競馬見物、一競馬見たら嫌になつた、そこには我慾が右徃左徃してゐるばかりだ、馬券がとぶばかりだ、馬を鑑賞する、いや、賭そのものを味ふこと［＃「賭そのものを味ふこと」に傍点］すらないのだ、勝負事の卑しい醜い一面しかないのだ。
+帰途、新町の馴染の酒店で味淋一杯のお接待を頂戴した、小母さんは眼が悪い、そして今日明日はお大師様の御命日である。
+学校に寄つて、夕飯を御馳走になつた、そしてほどよく酔うてしやべつて、戻つて寝た。
+［＃ここから２字下げ］
+　　　湯田競馬
+・くもりおもたく勝つたり敗けたりして
+　麦田ひろ／″＼といなゝくは勝馬か
+　　　遊園地
+・さくらちるあくびする親猿子猿
+　檻の猿なればいつも食べてゐる
+・猿を見てゐる誰ものどかな表情
+　　　山口運動場
+・椎の若葉もおもひでのボールをとばす
+　　　建築工事
+　雲雀がさえづる地つきうたものびやかに
+　声を力をあはせては大地をつく
+・芽ぶくなかのみのむしぶらり
+・ふたりのなかの苺が咲いた
+・山の湯へ、初夏の風をまともにガソリンカーで
+・しげる葉の、おちる葉の、まぶしいそよかぜ（ナ）
+・若葉へわたしへ風がやさしくねむりをさそふ
+・なにやらさみしく雀どものおしやべり
+［＃ここで字下げ終わり］
+
+　四月廿三日［＃「四月廿三日」に二重傍線］　もちなほして晴。
+
+秋穂のお大師めぐりがしたいのだけれど銭が足りないので、また湯田温泉へ行つた。
+もう初夏らしい風である、歩けばすこし暑いが、しづかにをれば申分のない季節である。
+うれしいものは毎日うけとるたよりである、今朝は山形から珍らしいかき餅を貰つた、ありがたいことである。
+ほどよい疲労とうまい晩酌と、そしてこゝろよい睡眠。
+［＃ここから２字下げ］
+　　　湯田競馬、追加一句
+・勝つてまぶしく空へ呼吸してゐる
+・誰も来てはくれないほほけたんぽぽ
+・爆音はとほくかすんで飛行機
+・ふるさとの学校のからたちの花
+・ここに舫うておしめを干して初夏の風
+・晴れて帆柱の小さな鯉のぼり
+・暮れてなほ何かたたく音が、雨がちかい
+・ひとりたがやせばうたふなり（ナ）
+［＃ここで字下げ終わり］
+
+　四月廿四日［＃「四月廿四日」に二重傍線］　晴。
+
+近在散歩。
+澄太君に返事の手紙を書いた、緑平居訪問の同行を断つたのである、それはまことに一期一会［＃「一期一会」に傍点］ともいふべきよろこび［＃「よろこび」に傍点］であり、同時にかなしみ［＃「かなしみ」に傍点］ではないか、君のあたゝかい心、そして私のかたくなな心、私は書いてゐるうちに涙ぐましくなつた。……
+若楓のうつくしさ、きんぽうげのうつくしさ。
+季節の焦燥、人間の憂欝、私の彷徨。
+［＃ここから２字下げ］
+　草青く寝ころぶによし
+　ここまでは会社のうちで金盞花
+・あゝさつきさつきの風はふくけれど
+・まがれば菜の花ひよいとバスに乗つて
+・寝ころべば旅人らしくてきんぽうげ
+［＃ここで字下げ終わり］
+
+　四月二十五日［＃「四月二十五日」に二重傍線］　晴、日本の春、南国の春。
+
+緑平老に――
+［＃ここから２字下げ］
+……澄太君といつしよにお訪ねすることが出来ないのを悲しみます、無理に出かければ出かけられないこともありませんけれど、それは決してあなた方を快くしないばかりでなく、必らず私を苦しめます、どうぞお許し下さい。
+……何故、私は小鳥たちのやうにうたへないのか、蝶や蜂のやうにとべないのか、蟻のやうにうごけないのか、……私は今、自己革命に面してゐます、一関また一関、ぶちぬきぶちぬかなければならない時機に立つてゐます。
+……自己克服、いひかへれば過去一年間の、あまりに安易な、放恣な、無慚な身心を立て直さなければなりません、……アルコールでさへ制御し得なかつた私ではなかつたか。……
+［＃ここで字下げ終わり］
+松蝉がしきりに鳴きだした、あの声は春があはたゞしく夏へいそぐうただ。
+半日、椹野川堤で読書、一文なしでは湯田へ行けないから。――
+［＃ここから２字下げ］
+・うぐひすうぐひす和尚さん掃いてござる
+・なんとよい日の苗代をつくること
+・山はしづかなてふてふがまひるのかげして
+・山かげふつとはためくは鯉幟
+・岩に口づける水のうまさは
+・若葉したゝる水音みつけた
+［＃ここで字下げ終わり］
+
+　四月二十六日［＃「四月二十六日」に二重傍線］　曇。
+
+身辺整理、むしろ心内整理。
+門外不出、終日読書。
+
+　四月二十七日［＃「四月二十七日」に二重傍線］　曇、少雨。
+
+ずゐぶん早く起きたが、何もない！
+火！　よい火を焚け、そしてよい酒を飲め。
+Ｋ氏を訪ねて、句集代を頂戴した、それでやつと米が買へた。……
+かういふ生活には（私のやうな生活にはといはなければなるまいが）苦悩［＃「苦悩」に傍点］と浪費［＃「浪費」に傍点］とがたえない、苦悩はもとより甘受するが、浪費にはたへられない、浪費そのものよりも浪費する心［＃「浪費する心」に傍点］が我慢しきれなくなる。
+物質の浪費、身心の浪費、ああ。
+夕方、久しぶりにＴ子さんが来て、しばらく話して帰つた、彼女はわがまゝな、そして不幸な女だ、我儘がなくなれば幸福になれるのだが、恐らくは駄目だらう。
+何日ぶりかで、奴豆腐をたべた、淡々として何ともいへない味はひだ、水のやうに、飯のやうに。
+鼠がやつてきてゐるらしい［＃「鼠がやつてきてゐるらしい」に傍点］、さすがに春だと思ふ、彼もやがて去るだらう、庵主が時々餓ゑるぐらゐだから、鼠もやりきれなくなるだらう。
+［＃ここから２字下げ］
+・若葉もりあがる空には鳩
+・五月の風が、刑務所は閉めてぴつたり
+・私一人となつた最終バスのゆれやう
+・水へ石を投げては鮮人のこども一人
+［＃ここで字下げ終わり］
+
+　四月廿八日［＃「四月廿八日」に二重傍線］　曇、時々降る。
+
+朝からマイナスを催促された、マイナスといふものはほんたうによろしくない、プラスはなくてもいゝが（私にはプラスがあつたら、マイナスとおなじくよろしくない！）マイナスのない生活［＃「マイナスのない生活」に傍点］でなければならない。
+午後、樹明君来庵、散歩、乱酔。
+［＃ここから２字下げ］
+　　　名物男をうたふ
+・でたらめをうたひつつあさぶをもらひつつ
+・若葉に月が、をんなはまことにうつくしい
+・いつ咲いた草の実の赤く
+　　　江畔老に
+・その蕎麦をかけば浅間のけむりが
+［＃ここで字下げ終わり］
+
+　四月二十九日［＃「四月二十九日」に二重傍線］　曇。
+
+昨夜は安宿の厄介になつたほど酔つぱらつた、そして朝酒（この酒代はどこから出たのだらう！）。
+［＃ここから２字下げ］
+・ふるつくふうふうどうにもならない私です
+・ふるつくふうふうぢつとしてゐられない私です
+・ふるつくふうふうあてなくあるく
+・死ねないでゐるふるつくふうふう
+［＃ここで字下げ終わり］
+
+　四月三十日［＃「四月三十日」に二重傍線］　晴、曇、雨。
+
+［＃ここから２字下げ］
+空も曇れば私も曇る
+　　雨か涙か――風が吹く
+［＃ここで字下げ終わり］
+昨日も今日も無言、誰にもあはない、あひたくない、終日終夜ぼう／＼ばく／＼。
+夜中に樹明君が例の如く泥酔して来庵、しばらく寝て、そして帰つた。……
+
+　五月一日［＃「五月一日」に二重傍線］
+
+あゝ五月と微笑したい。
+朝、九州の旅先の澄太君から来電、一時の汽車に迎へて共に帰庵、半日愉快に飲んだり話したりした、ほんたうに久しぶりだつた。
+折から大村さんがお祭の御馳走を持つてきて下さつた、うれしかつた。
+そして六時の汽車に送つて、理髪して入浴して散歩して、そしてさみしく戻つて寝た。
+やつぱりひとりはさみしい［＃「やつぱりひとりはさみしい」に傍点］。
+［＃ここから２字下げ］
+・こゝろ澄めば月草のほのかにひらく
+・てふてふとまる花がある
+・空へ若竹のなやみなし
+・酔ひざめの水のうまさがあふれる青葉
+・うしろすがたにネオンサインの更けてあかるく
+［＃ここで字下げ終わり］
+
+　五月二日［＃「五月二日」に二重傍線］　晴。
+
+どうにもかうにもやりきれなくなつて、大田の敬君を訪ねる。……
+酒、酒、酒。……
+
+　五月三日［＃「五月三日」に二重傍線］　晴、まことに日本晴。
+
+滞在、読書、散歩。
+
+　五月四日［＃「五月四日」に二重傍線］　晴。
+
+歩いて湯田へ、そして一浴して帰庵。
+
+　五月五日［＃「五月五日」に二重傍線］　晴。
+
+湯田へ（バス代湯銭がないから本を売つて！）。
+
+　五月六日［＃「五月六日」に二重傍線］　曇。
+
+身辺整理、整理しても整理しきれないものがある。
+もう一度、行乞の旅に出なければなるまい。
+［＃ここから１字下げ、折り返して２字下げ］
+　　　ぐうたら手記
+□俳句は間違なく抒情詩である、あらねばならない。
+□雑草風景、それは其中庵風景であり、そして山頭火風景［＃「山頭火風景」に傍点］である。
+　風景が風光とならなければならない［＃「風景が風光とならなければならない」に傍点］、音が声となり、かたちがすがたとなるやうに。
+□禅宗の師家が全心全身を傾到［＃「到」に「マヽ」の注記］して一箇半箇を打出する如く、私は私の一切を尽して、一句半句を打出したい、しないではゐられない、――これが私の唯一の念願であり覚悟である。
+［＃ここで字下げ終わり］
+
+　五月七日［＃「五月七日」に二重傍線］――五月廿三日［＃「五月廿三日」に二重傍線］
+
+生と死との間を彷徨した。
+山口――三谷――萩――
+長門峡の若葉も私を慰めることは出来なかつた、博覧会の賑やかさも私には何の楽しみでもなかつた。
+一歩一歩が生死であつた［＃「一歩一歩が生死であつた」に傍点］。
+生きてゐたくない、死ぬるより外ないではないか。
+白い薬が、逆巻く水が私の前にあるばかりだつた。
+
+　五月廿四日［＃「五月廿四日」に二重傍線］
+
+あんたんとして横臥してゐるところへ、敬君が見舞に来てくれたが、私は応接することすら出来ないほど、重苦しい気分をどうすることも出来なかつた。
+息詰るやうな雰囲気に堪へ切れないで敬君は街へ出かけていつた。
+不眠徹夜。
+［＃ここから２字下げ］
+　たんぽぽのちりこむばかり誰もこない
+　蛙げろ／＼苗は伸びる水はあふれて
+　青葉をくぐつて雀がこどもを連れてきた
+　青葉の、真昼の、サイレンのながう鳴る
+　　　改作二句
+・けふは飲める風かをるガソリンカーで（山口へ）
+・草へ草がなんとなく春めいて
+［＃ここで字下げ終わり］
+
+　五月廿五日［＃「五月廿五日」に二重傍線］
+
+敬君から態人が呼出の手紙を持つてきたが、とても出かけられるやうな身心ではない。
+敬君よ、許して下さい。
+今夜も不眠徹夜。
+
+　五月廿六日［＃「五月廿六日」に二重傍線］　晴。
+
+身心やゝ安静。
+思ひ立つて、起き上つて、掃除、洗濯、等々。
+樹明君が来てくれた、敬君脱線のことなど話してゐると、思ひがけなく黎々火君が来た、三人で一杯やる、友はうれしいな酒はうまいな。
+黎君帰る、つゞいて樹君も帰る、私は袈裟を持ち出して、さらに飲んだ。
+やりきれないのである、飲んでもやりきれないけれど、酒でも飲まずにはゐられないのである、そしてとうたう宿屋に泊つた。
+［＃ここから２字下げ］
+・山から山へ送電塔がもりあがるみどり
+　山の青さをたたへて水は澄みきつて
+　日ざかり萱の穂のひかれば
+・のぼつたりさがつたり夕蜘蛛は一すぢの糸を
+・酔ひざめの闇にして螢さまよふ
+　　　衣更
+・ほころびを縫ふ糸のもつれること
+［＃ここで字下げ終わり］
+
+　五月廿七日［＃「五月廿七日」に二重傍線］　曇、そして雨。
+
+海軍記念日、大旗小旗がへんぽんとしてうつくしい。
+蝿が蝿を打たうとする手にとまる、――私はひとり微苦笑した。
+たとへ一箇半箇でも、私は私の句を打出したい。
+午後、ぼんやりしてゐると、樹明君が酒井さんと同道して来庵、間もなく酒と肴とが持ち来されたが、何となく誰も愉快になれなかつた、私はやたらに飲んで饒舌つた。
+いつもより早く解散した、私は経本を持ち出して、飲み直さずにはゐられなかつた、そして酔ひつぶれて、いつもの宿屋へころげこんだのである。
+ああ、ああ、ああ。
+［＃ここから２字下げ］
+　　　改作
+・ころり寝ころべば五月の空
+・青葉の奥へ道がなくなれば墓地
+・日向あたゝかく私がをれば蝿もをる
+　　　自問自答
+・それもよからう草が咲いてゐる
+［＃ここで字下げ終わり］
+
+　五月廿八日［＃「五月廿八日」に二重傍線］　雨。
+
+終日終夜、もだえるばかりだつた。
+
+　五月廿九日［＃「五月廿九日」に二重傍線］　曇、晴れてくる。
+
+好日、好日、緑平老の手紙が、Ｋの手紙が私を元気づけてくれた。
+身辺整理。
+夜はシネマ見物、そしておとなしく帰庵しておだやかな睡眠。
+［＃ここから１字下げ、折り返して２字下げ］
+　　　ぐうたら手記
+□エロストロゴスとの抱擁［＃「エロストロゴスとの抱擁」に傍点］！
+□無理をしないこと［＃「無理をしないこと」に傍点］、これこれ！
+□自由律俳句作者としての私には苦悶［＃「苦悶」に傍点］はない、苦心［＃「苦心」に傍点］はあるけれど。
+□俳句は、私の俳句は悲鳴［＃「悲鳴」に傍点］ぢやない、怒号［＃「怒号」に傍点］ぢやない、欠伸［＃「欠伸」に傍点］でもなければ溜息［＃「溜息」に傍点］でもない、それはすこやかな呼吸［＃「すこやかな呼吸」に傍点］である、おだやかな脉搏［＃「おだやかな脉搏」に傍点］である。
+［＃ここで字下げ終わり］
+
+　五月三十日［＃「五月三十日」に二重傍線］　晴。
+
+めつきり暑うなつた、散歩したが物足らないので、酒を借り魚を料理して、樹明君の来庵を待ちくたぶれて、やうやく飲み合つた。
+今夜も泥酔（最後の泥酔［＃「最後の泥酔」に傍点］である）、そしてあてもなく彷徨して、いつもの宿で倒れた。
+
+　五月三十一日［＃「五月三十一日」に二重傍線］
+
+終日終夜、自己沈潜。
+大道無門、千差有路、透得此関、乾坤独歩。
+莫妄想、前後際断。
+［＃ここから２字下げ］
+　　自戒［＃「自戒」は罫囲み］
+　　　　　　酒について［＃「酒について」は罫囲み］
+酒は味ふべきものだ、うまい酒［＃「うまい酒」に傍点］を飲むべきだ。
+［＃ここから３字下げ］
+一、焼酎（火酒類）を飲まないこと
+一、冷酒を呷らないこと
+一、適量として三合以上飲まないこと
+一、落ちついてしづかに、温めた醇良酒を小さい酒盃で飲むこと
+一、微酔で止めて泥酔を避けること
+一、気持の良い酒であること、おのづから酔ふ酒であること
+一、後に残るやうな酒を飲まないこと
+［＃ここで字下げ終わり］
+
+　六月一日［＃「六月一日」に二重傍線］　晴。
+
+やうやくにして平静をとりもどした、山頭火が山頭火の山頭火［＃「山頭火の山頭火」に傍点］にかへつたのである。
+大山君から、益洲老師講話集「大道を行く」頂戴、さつそく読む。
+本来無一物［＃「本来無一物」に傍点］、その本心に随順せよ。
+いよ／＼ます／＼句作道精進の覚悟［＃「句作道精進の覚悟」に傍点］をかためる、この道を行くより外ない私である！
+
+　六月二日［＃「六月二日」に二重傍線］
+
+午前は山をあるく、山川草木そのまゝでみなよろし。
+午後は来書の通りに樹明君来庵、酒と魚とを持参して、そしてほどよく酔うて話して寝て、こゝろよくさよなら、めでたし／＼。
+自己観照［＃「自己観照」に傍点］、自己批判［＃「自己批判」に傍点］。
+無理のない生活［＃「無理のない生活」に白三角傍点］、さういふ生活の根源は素直な心［＃「素直な心」に傍点］である。
+簡素、質実、感謝、充足、安心。
+［＃ここから２字下げ］
+・ゆふべしたしくゆらぎつつ咲く（月草）
+・おみやげは酒とさかなとそして蝿（樹明君に）
+・何を求める風の中ゆく
+・若葉あかるい窓をひらいてほどよい食慾
+　青葉のむかうからうたうてくるは酒屋さん
+　風ふく竹ゆらぐ窓の明暗
+　風の夜の更けてゆく私も虫もぢつとして
+［＃ここで字下げ終わり］
+
+　六月三日［＃「六月三日」に二重傍線］　曇。
+
+けさも早起。
+午後は風雨が強くなつた、哀傷たへがたいものがある、……風雨を衝いて街へ出かける。
+Ｆで樹明君に会して飲む、……それから泥酔してＩに泊つた。……
+
+　六月四日［＃「六月四日」に二重傍線］　晴。
+
+やつぱり酒はよろしくないと思ふ、それがうまいだけそれだけよろしくないと思ふ。
+散歩、上郷八幡宮の社殿で読書、帰途入浴、連日の憂欝が解消した。
+
+　六月五日［＃「六月五日」に二重傍線］　曇。
+
+旧の端午、追憶の鯉幟吹流しがへんぽんとして泳いでゐる。
+今日も近郊散歩。
+［＃ここから２字下げ］
+　風がいちめんの雑草が合唱する
+・つかれて風の雑草の雨となつた
+・逢へるゆふべの水にそうてまがれば影
+・あざみの花に日のさせばてふてふ
+・狛犬の二つの表情を撫でる
+・おもひでが風をおよぐ真鯉緋鯉が（故郷端午）
+［＃ここで字下げ終わり］
+
+　六月六日［＃「六月六日」に二重傍線］　晴。
+
+久しぶりにゆつくり朝寝した。
+近在散歩、秋穂霊場参拝。
+畑手入、今春は私の悪日［＃「私の悪日」に傍点］がつづいたので、茄子も胡瓜もトマトも植ゑつけるほどの安静を持たなかつた。……
+［＃ここから１字下げ、折り返して２字下げ］
+　　　ぐうたら手記
+雑草雑感。
+生命――心――言葉――詩
+客観を掘りぬくと主観にぶつつかる、彼が我となるのである。
+物――心、自然――自己
+物にこだはらない、物からわずらはされない境地。
+流動して停滞しない境地。
+二二ヶ四の世界［＃「二二ヶ四の世界」に傍点］！
+［＃ここで字下げ終わり］
+
+　六月七日［＃「六月七日」に二重傍線］　曇、雨、そして晴。
+
+最初の筍を見つけて食べる、歯が抜けて噛みしめることが出来ないから、ほんたうの味は味へないけれど、やつぱりうまい。
+遠雷、何となく別れた人をなつかしがらせる、これもオイボレセンチの一端か。
+飛行機が列をなして低空を通過する、あの爆音は嫌だけれどその姿は悪くない。
+
+　六月八日［＃「六月八日」に二重傍線］　晴。
+
+信州蕎麦粉を味ふ、蕎麦粉そのもののうまさもあるが、友情のあたたかさがうれしい。
+飯がない、米がない、銭がない。――
+山を歩く、山つつじがうつくしい。
+［＃ここから１字下げ、折り返して２字下げ］
+　　　ぐうたら手記
+□即時而真［＃「即時而真」に傍点］、当相即道を体解［＃「体解」に傍点］せよ。
+□すなほなわがまま［＃「すなほなわがまま」に傍点］！
+□酒は（少くとも私には）自己忘却の水［＃「自己忘却の水」に傍点］である、不眠の夜ふけて飲むアダリンのやうに！
+□私は与へること［＃「与へること」に傍点］が乏しい、だから受けること［＃「受けること」に傍点］の乏しさで足りてゐなければならない。
+□文芸作品の価値は二つに分けて観ることが出来る。
+［＃ここから３字下げ］
+一、作品そのものゝ価値（純文芸的［＃「純文芸的」に傍点］）
+一、作品が時代へ働らきかけた価値（史的意義）
+［＃ここから２字下げ］
+この二つの価値を併せ有する作品としては芭蕉、啄木、前者の例は乙二、牧水、後者のそれは子規等。
+［＃ここで字下げ終わり］
+
+　六月九日［＃「六月九日」に二重傍線］　快晴。
+
+食べること少くして思ふこと深し。
+学校に樹明君を訪ねて、米と煙草銭とを貰うてくる、その十銭白銅貨二つをいかに有効に費つたか――
+［＃ここから２字下げ］
+九銭　ハガキ六枚
+四銭　なでしこ一袋　　残金四銭は明日の煙草代として
+三銭　風呂銭
+［＃ここで字下げ終わり］
+独奏［＃「独奏」に傍点］――今日はこんな気分だつた、私自身も、蝶々も雑草も。
+
+　六月十日［＃「六月十日」に二重傍線］　晴。
+
+何となく雨の近いことを感じる、梅雨の前の大気とでもいふのであらう。
+しづかなるかな、山の鴉があはれつぽい声で啼く、――ヤアマアノカアラスウモタアダヒトリ。
+身辺整理、といふよりも身内整理。
+清閑貧楽［＃「清閑貧楽」に傍点］ともいふべき一日だつた。
+［＃ここから２字下げ］
+　　　松笠風鈴を聴きつつ
+・風鈴鳴ればはるかなるかな抱壺のすがた
+・やもりが障子に暮れると恋の場面をゑがく
+・たたへた水のをり／＼は魚がはねて
+・柿の若葉に雲のない昼月を添へて
+・うたうとするその手へとまらうとする蝿で（雑）
+［＃ここで字下げ終わり］
+
+　六月十一日［＃「六月十一日」に二重傍線］　晴。
+
+飲む酒はないが読む本はある、ぢつとしてゐられるだけの食べる物もある。……
+梅雨入前らしく少し曇つて降つた。
+在るものを味ふ［＃「在るものを味ふ」に傍点］。
+
+　六月十二日［＃「六月十二日」に二重傍線］　晴、入梅。
+
+よき食慾、よき睡眠（そしてよき性慾）、――これが人生の幸福を基礎づける。
+とても好いお天気、すこし風はあるが、一天雲なしで、青空の澄んだ深い色は何ともいへないうつくしさである。
+読書にも倦んでそこらを散歩、Ｉさんから在金全部十九銭借りる、さつそく酒一杯ひつかける、煙草を買うたことはいふまでもない。
+いやな風がふく、風はほんたうにさびしいものである。
+らしい生活［＃「らしい生活」に傍点］、それは無論第二義的第三義的なものであるが、それを持続してゆくうちに第一義的に向上することが出来るのではあるまいか。
+老人は老人らしく［＃「老人は老人らしく」に傍点］、貧乏人は貧乏人らしくせよ、いひかへれば、気取らずに生活せよ、すなほに正直に振舞へ。
+貧乏はよろしい、けちけちするな、真面目は結構、くよくよしてはいけないが。
+［＃ここから２字下げ］
+・柿の若葉が、食べるものがなくなつた
+・空腹、けふのサイレンのいつまでも鳴り
+・うつてもうたれても蝿は膳のそば（雑）
+・かついでおもいうれしい春の穂
+・焼かれる虫の音たてて死ぬる
+・暮れるとしぼむ花草でてふてふの夢
+・花に花が、てふちよがてふちよに
+・梅雨めく雲でぬけさうなぬけない歯で
+・雑草ほしいまゝなる花にして
+　雑草しげり借金ふえるばかり
+・ゆふ風ゆうぜんとして蜘蛛は待つ
+・若葉から若葉へゆふべの蜘蛛はいそがしく
+・ふと眼がさめて風ふく
+　　　改作
+・ひよつこり筍ぽつきりぬかれた
+［＃ここで字下げ終わり］
+
+　六月十三日［＃「六月十三日」に二重傍線］　晴、空［＃（ラ）］梅雨らしい。
+
+早起［＃「早起」に傍点］、これも老の特徴だらう、こんなに早起しようとは思はないけれど、眼が覚めると寝てはゐられないのである。
+朝御飯を食べてゐるとき、ほろりと歯がぬけた、ぬけさうでぬけなかつた歯である、ぶら／＼うごいて私の神経をいら／＼させてゐた歯である、もう最後のそれにちかい歯である、その歯がぬけたのだからさつぱりした、さつぱりしたと同時に、何となくさびしく感じる、一種の空虚を感じるのである。
+午前中読書、しづかなるよろこび。
+午後散歩、帰庵すると珍客が待つてゐた、詩外楼君が突然来庵してくれたのである、樹明君を招いて飲む、酔うて歩く、そしてとろとろどろどろ、連れて戻つて貰うて、いつしよに寝る、近来めづらしいへべれけぶりだつた、それだけ嬉しくのんびりしたのでもある！
+［＃ここから２字下げ］
+・空［＃（ラ）］梅雨の風のふく歯がぬけた
+　ぬけた歯を投げ捨てて雑草の風
+・ぬけるだけはぬけてしまうて歯のない初夏
+・花がひらいて日が照つてあそぶてふてふ
+・めづらしく誰かくる雑草の見えがくれ
+・おもふことなく萱の穂のちる
+・こゝも墓らしい筍が生えて
+・歯のぬけた日の、空ふかい昼月
+［＃ここで字下げ終わり］
+
+　六月十四日［＃「六月十四日」に二重傍線］　晴。
+
+とても早く起きる。
+詩外楼君と同道して徳山へ、久しぶりに白船君と会談、そして東へ西へお別れ。
+私は一時の汽車に乗つた、途中三田尻下車、伊藤君を訪ね、それから三田君を訪ねてまた飲んだ、鯛の刺身のあたらしさ、うまさは素敵だつた、それと同様に三田君の人間のよさも（家人一同のよさも）素敵だつた、暮れてお暇乞して、散歩して、シネマを観て、酒垂山の月を賞して、夜明けの汽車でやつと帰庵した。
+めづらしく裏山で狐が鳴いてゐた。
+［＃ここから２字下げ］
+・雑草に夜明けの月があるしづけさ
+・笹のそよぎも梅雨らしい雨がふりだした
+　あたゝかく日がさすところよい石がある
+・五月の海は満ちて湛へて大きな船
+　　　故郷にて
+・螢ちらほらおもひだすことも
+［＃ここで字下げ終わり］
+
+　六月十五日［＃「六月十五日」に二重傍線］　晴れたり曇つたり、梅雨らしく。
+
+遊びすぎたのでがつかりした、自戒をやぶつて冷酒をあほつたので、破戒の罰はてきめんで身心がうづくやうである。
+湯田へ出かけて熱い温泉に浸る、あゝ極楽、夕方帰庵して一杯飲んですぐ寝た、熟睡、夢も見なかつた安らかさだつた。
+――危機はたしかに過ぎ去つた［＃「危機はたしかに過ぎ去つた」に傍点］――
+アイスキヤンデー流行には驚嘆する、通行人の立ち寄り易いやうな場所には二軒も三軒も並んで店を張つて競争してゐる、駄菓子屋、氷屋は大恐慌だ、いや彼等はアイスキヤンデー売りに転業しつゝある、先日、私もすゝめられて食べてみたが、流行するだけの値打ちはあると思つた、何しろ安いから、そして割合にうまいから、取扱が簡単だから、等、々、々。
+今日、途上で、とても美しいお嬢さん［＃「美しいお嬢さん」に傍点］を見た、さつそうとして洋装の長身がアスフアルトを踏んでゐる、そして同時に、とても醜い娘さん［＃「醜い娘さん」に傍点］を見た、彼女は日傘で顔を隠して、追はれて逃げるやうに、隅の方を通る。……
+私はあんぜんとして溜息をついた。
+［＃ここから２字下げ］
+・朝風そよげばひかるは青葉から青葉へ蜘蛛のいとなみ
+・水をあびてはつるみとんぼの情熱
+・晴れてけさはすつかり青田で
+・萩がもう、ここに住みついて四年
+・さみだるゝやわが体臭のたゞよふ
+［＃ここで字下げ終わり］
+
+　六月十六日［＃「六月十六日」に二重傍線］　晴、風、雨。
+
+風、風、風、風ほどいやなものはない。
+夕方、樹明君来庵、すぐ帰宅。
+風に敗けて飛びだした、手には念珠を握つてゐる、それをあづけてＴさんから少し借りる、そして酔ひつぶれて、Ｉ館に泊る。……
+［＃ここから４字下げ］
+　　　　×
+生家の跡［＃「生家の跡」に白三角傍点］
+　　――（十四日の夜）――
+［＃ここで字下げ終わり］
+
+　六月十七日［＃「六月十七日」に二重傍線］　曇。
+
+昨夜の豪雨も今日の晴曇も解らないほど飲んで飲んで、そして倒れた。
+
+　六月十八日［＃「六月十八日」に二重傍線］　晴。
+　六月十九日　曇。
+　六月廿日　雨。
+
+ぢつとして読書。
+ぼう／＼ばく／＼！
+もう虫が鳴く、虫の声は身にしみる、虫のいのち、虫のうた。……
+［＃ここから３字下げ］
+　　　　×
+私の詩［＃「私の詩」に白三角傍点］
+［＃ここで字下げ終わり］
+
+　六月二十一日［＃「六月二十一日」に二重傍線］　雨、梅雨らしく。
+
+早起きして身辺整理。
+けふもぢつとして読書したり句作したり。
+何といふ嫌な夢［＃「嫌な夢」に傍点］だつたらう、それはヱロでもグロでもなく、あまりになま／＼しく現実的だつた。
+私はがくぜんとして自分を省みた、そして恥ぢた、何といふ醜い私［＃「醜い私」に傍点］だつたらう。
+［＃ここから２字下げ］
+・水かげも野苺のひそかなるいろ
+・おちてしまへば蟻地獄の蟻である
+・雑草につつまれてくちなしの花は
+・赤いのはざくろの花のさみだるる
+・とても上手な頬白が松のてつぺん
+・草を咲かせてさうしててふちよをあそばせて
+　赤蛙さびしくとんで（改）
+　酔ひざめの風がふく筍（その翌朝）
+　酔ひざめは、南天の花がこぼれるこぼれる
+［＃ここで字下げ終わり］
+
+　六月廿二日［＃「六月廿二日」に二重傍線］　曇。
+
+田植のいそがしい風景。
+……蝿を殺す、油虫を殺す、百足を殺す、蜘蛛を殺す、……そしておしまひには私自身を殺すだらう！……
+あまり予期してゐなかつた酒が魚が持ち来された（一昨日、幸便に托して、山田屋主人に酒と魚を借りたいといふ手紙をあげてをいたのであるが）、さつそく飲んだ（五日ぶりの酒であり魚であつた）、快い気分になつて、学校に樹明君を訪ねて来庵を促した（そして米と野菜とを貰つて）、それからまた飲んだ、飲んで街へ出た、ひよろひよろになるまで飲んだ、ちようど私の不在中訪ねて来て、私を探し歩いてゐる敬君に逢うて。……
+二時すぎて、やつと戻つた、すぐ寝た。
+
+　六月廿三日［＃「六月廿三日」に二重傍線］　くもり。
+
+快い宿酔！　そこらをしばらく散歩。
+樹明、百円札で山頭火をおどす！
+これは昨日の出来事であつた、近来にない明々朗々たる珍現象であつた！
+Ｙ屋のＭさんが例の如くやつてきて話す、郵便物を托送する。
+終日待つた、待ちぼけだつた、敬君も来なければ樹君も来なかつた。
+［＃ここから２字下げ］
+・雑草のしたしさは一人たのしく
+・梅雨の水嵩のあふれるところどぜうとこどもら
+・ほのかに梅雨明りして竹の子の肌
+・へんぽんとして託児所の旗が、オルガンがうたふ
+　枇杷のうつくしさ彼女は笑はない
+・あれから一年の草がしげるばかり
+［＃ここで字下げ終わり］
+
+　六月二十四日［＃「六月二十四日」に二重傍線］　降る、降る、降れ、降れ。
+
+終日閉居、読書三昧。
+今日もＭさんが来た、そして句作を初めた。
+酒を飲んで酔ふことは悪くないが、酔ひたい気分で酒を呷ることはよろしくない。
+酒を尊重せよ、自分の生命を尊重するよりも！
+［＃ここから１字下げ、折り返して２字下げ］
+　　　ぐうたら手記
+すなほに［＃「すなほに」に傍点］。――
+行住坐臥、いつでも、どこでもすなほに。
+善悪、生死、すべてに対してすなほに。
+純なる熱情［＃「純なる熱情」に傍点］、唯一念［＃「唯一念」に傍点］を持して。
+芸道［＃「芸道」に傍点］といふことについて。――
+執着［＃「執着」に傍点］を去れ、酒から作句から、私自身から。
+すなほに受け入れる心［＃「受け入れる心」に傍点］から強く働らきかける力が出てくる。
+あるときは澄み［＃「あるときは澄み」に傍点］、あるときは濁る［＃「あるときは濁る」に傍点］、そして流れ動かないではゐられない――これが私の性情だ。
+湛へて澄む――行ひすますことは、私には不可能だ。
+［＃ここで字下げ終わり］
+
+　六月二十五日［＃「六月二十五日」に二重傍線］　晴。
+
+畑仕事。――
+大根ふとれ、トマトなれ、蓮芋伸びよ、唐辛よ辛くなれ。
+三つ植ゑつけて置いた馬鈴薯が三十ばかりに殖えてゐた。
+土の抱擁と日光の愛撫［＃「土の抱擁と日光の愛撫」に傍点］。
+寝た、寝た、宵から朝までぐつすり寝た、ランプもともすことなしに。
+
+　六月廿六日［＃「六月廿六日」に二重傍線］　晴、そして曇、雨。
+
+拝受、々々、々々！
+……最後の晩餐［＃「最後の晩餐」に傍点］！　酒、酒、酒、酒。
+
+　六月廿七日［＃「六月廿七日」に二重傍線］　曇、それから雨。
+
+ぼうぜん、あんぜん、そしてゆうぜん、とうぜん。
+［＃ここから３字下げ］
+　　蠅捕紙（連作風に）
+蝿は蝿の死屍をつらね
+死にきれない蝿の鳴いてもがけども
+やつと立ちあがつたが、脚がぬけない蝿で鳴く
+ひよいととまつてそのまゝ死んでしまう［＃「う」に「マヽ」の注記］蝿
+蝿、とんできて死んでゆく
+［＃ここで字下げ終わり］
+
+　六月廿八日［＃「六月廿八日」に二重傍線］　雨、とても降つた。
+
+雨は天地がぬけるほど降つたし、私は身心が腐るほど寝た。……
+
+　六月廿九日［＃「六月廿九日」に二重傍線］　曇、また降りだした。
+
+午後、敬君に招かれてＦへ行く、蝙蝠傘事件をきつかけにＨの狡猾を責めつけてやつた、日頃の溜飲はさがつたけれど不愉快だつた、早く切りあげて帰庵した。
+
+　六月三十日［＃「六月三十日」に二重傍線］　よく降るものだ、降つた降つた。
+
+樹明君、二日酔のからだを持てあまして来た、そして一日寝て帰つた。
+濁流たう／＼、非常を知らせるサイレンが陰にこもつて鳴りだした。……
+［＃ここから２字下げ］
+　晴れると暑い牛の乳房もたらり
+・やたらにてふちよがとんでくる梅雨晴れ
+・降りつづける水音が身のまはり
+・身のまはりは草だらけマイナスだらけ
+・いちにち風ふく風を聴きをり
+「製材所とシネマ」
+
+　　新生の記［＃「新生の記」に白三角傍点］
+　　　　　×
+［＃ここで字下げ終わり］
+［＃ここから１字下げ、折り返して２字下げ］
+　　　ぐうたら手記
+薊には薊の花が咲く、薊には薊の花を咲かせておけ。（自嘲自讃の言葉）
+［＃ここから２字下げ］
+　　　　　×
+・どうやら霽れさうな草の葉のそよぐそよぐ
+・はれるよりてふてふは花のある方へ
+・ぬれててふてふのさがす花はある
+・はれるとてふちよがさかやさんがやつてきた
+・しげるがままの草から筍のびあがる
+・山のみどりの晴れゆく雲のうつりゆく
+　　　　　×
+　　なぜに涙がでるのだろ［＃「なぜに涙がでるのだろ」に白三角傍点］
+　　　　　　――（私の小唄）――
+　　　　　×
+　　　梅雨出水
+・さかまく水が送電塔へ降りしきる
+　さみだれのむかうから人かげは酒やさん
+　　　　　×
+［＃ここから１字下げ］
+□藪蚊
+□鼠
+□油虫
+［＃ここで字下げ終わり］
+　　　　　　×
+・野心的、情熱［＃「情熱」に傍点］、句作硬化症、感動［＃「感動」に傍点］。
+　いはゆる写生［＃「写生」に傍点］といふもの。
+　うたふものとうたはれるものとのつながり。
+・腐つた鯛よりも生きた鰯。
+　いき／＼　ぴち／＼　みづ／＼しいもの。
+・おいぼれ、既成作家。（現代的意義［＃「現代的意義」に傍点］）
+　説明、描写、うたふ［＃「うたふ」に傍点］といふこと。
+・平凡と常套。
+［＃改ページ］
+
+［＃ここから２字下げ］
+即時而真　当相即道
+
+生々如々
+
+春有百花秋有月
+夏有涼風冬有雪
+若無閑事挂心頭
+便是人間好時節
+［＃ここで字下げ終わり］
+
+
+　七月一日［＃「七月一日」に二重傍線］　曇、また降りだした。
+
+身心一新、さらに新らしい第一歩［＃「新らしい第一歩」に傍点］から。
+すなほな、とらはれない行持。
+午前ちよつとしようことなしに街のポストまで、出水の跡がいたましい。
+いつもの癖で、今日もなまけた、原稿も書かなかつたし、書債も償はなかつた、書くべき手紙も書かなかつた。……
+二つの出来事があつた、それは私の不注意を示す好例だつた、質屋で誤算のままに利子を払ひすごしたこと、そしてうつかりしてゐて百足に螫されたこと。
+注文しておいた酒をとうとう持つてきてくれなかつた、失念したためか、信用がないためか、……どちらでもよろしい、……酒に囚はれるな。
+私がここに落ちついてから、そして行乞しなくなつてから、いつとなく私は横着［＃「横着」に傍点］になつたやうだ、事物に対して謙虚な心がまへ［＃「謙虚な心がまへ」に傍点］をなくしてしまつたやうである、あさましい事実だ、私は反省しつゝ、ひとり冷汗をかいた。
+何となく寝苦しかつた、ペーターのルネツサンスに読みふけつた。
+
+　七月二日［＃「七月二日」に二重傍線］　けふもまだ降つてゐる。
+
+こころしづかにしておもひわずらふことなし［＃「こころしづかにしておもひわずらふことなし」に傍点］。
+雨は悪くない、しみ／″＼としたものがある、風はよろしくない、いら／＼させる。……
+雨水がバケツにたまつて水を汲まなくてもすむ、汚れた鍋や茶碗や、みんな雨が洗つてくれる。
+やつと書債文債をかたづける。
+酔中漫言――
+［＃ここから２字下げ］
+一杯東西なし
+二杯古今なし
+三杯自他なし……
+［＃ここで字下げ終わり］
+酒がきた、樹明君を招く、それから、ほろ／＼とろ／＼どろ／＼ぼろ／＼ごろ／＼。
+　　　　　　　………………………………………………………………………
+
+　七月三日［＃「七月三日」に二重傍線］　雨。
+
+悪日、悪日の悪日。
+愚劣な山頭火［＃「愚劣な山頭火」に傍点］を通り越して醜悪な山頭火［＃「醜悪な山頭火」に傍点］だつた。
+恥を知れ、恥を知れ、恥を知れ、恥知らずめ、恥知らずめ、恥知らずめ。
+
+　七月四日［＃「七月四日」に二重傍線］　五日［＃「五日」に二重傍線］　曇つたり、降つたり、晴れたり。
+
+私自身もおなじく。
+［＃ここから２字下げ］
+・こゝろふかくも蝉が鳴きだした
+　　　朝鮮飴　熊本をおもふ
+・そのなつかしさもかみしめる歯がぬけてしまうて
+・ゆふやみほつかりと咲いたか
+［＃ここで字下げ終わり］
+
+　七月六日［＃「七月六日」に二重傍線］　雨。
+
+アルコールの逆流。
+梅雨もどうやらあがりさうな雷鳴。
+
+　七月七日［＃「七月七日」に二重傍線］　八日　九日　晴、曇。
+
+身心不調、蟄居乱読、反省思索。
+
+　七月十日［＃「七月十日」に二重傍線］　曇。
+
+こゝろしづかにさびしく澄みわたる。
+やまぐちの会［＃「やまぐちの会」に傍線］へ出かける、途上、老乞食に逢ふ、彼と私とは五十歩百歩だ、いつものやうに湯田で入浴、ああ温泉はありがたい、Ｓさんのお宅でよばれる、うまかつた、それから句会、Ｋさん、Ｈさん、Ａさんの青春をよろこぶ。
+終列車には間にあはなかつた、飲む、飲みだしたら泥酔しなければおさまらない私の悪癖だ、とう／＼Ｙ旅館へころげこんだ。
+［＃ここから２字下げ］
+・自動車まつしぐらに炎天
+・木かげは涼しい風がある旅人どうし
+　若葉の中からアンテナも夏めく
+・それはそれとして草のしげりやうは
+　　　湯田温泉
+　夏山のかさなれば温泉《ユ》のわくところ
+・おもひでの葉ざくらのせゝらぐ
+・さびしがりやとしてブトにくはれてゐます
+［＃ここで字下げ終わり］
+
+　七月十一日［＃「七月十一日」に二重傍線］　曇、混沌として。
+
+またＳさんのお世話になつた、ああ。……
+朝から夜まで、酒、シネマ、酒、シネマ。
+やうやくにして終列車で帰庵。
+
+　七月十二日［＃「七月十二日」に二重傍線］　十三日［＃「十三日」に二重傍線］
+
+寝てゐるほかない、自分を罵るほかない。
+
+　七月十四日［＃「七月十四日」に二重傍線］　晴れたか、曇つたか。――
+
+ぼんやりしてゐるところへ、黎々火君だしぬけに来庵、万事許して貰つて、そして、酒と肴とを奢つて貰ふ。
+別れてからまた飲んだ、今夜の酒はほんとうに恥づかしい酒［＃「恥づかしい酒」に傍点］、命がけの酒［＃「命がけの酒」に傍点］だつた。
+［＃ここから１字下げ、折り返して２字下げ］
+　　　ぐうたら手記
+□現実――回光返照――境地的［＃「境地的」に傍点］。
+□芸術的野心、作家的情熱。
+□物そのものを味はひ楽しむ心境［＃「物そのものを味はひ楽しむ心境」に傍点］。
+□事実と真実 actuality reality.
+□実体――物質。
+　作用――機能。
+□人間性、社会性。
+　思想性、芸術性
+□俳句する［＃「俳句する」に傍点］、そのことが私の場合では生活するのである［＃「そのことが私の場合では生活するのである」に傍点］。
+　俳句のための俳句［＃「俳句のための俳句」に傍点］（芸術至上主義である）、仏教のための仏教と同様に。
+［＃ここで字下げ終わり］
+
+　七月十五日［＃「七月十五日」に二重傍線］　十六日［＃「十六日」に二重傍線］　十七日［＃「十七日」に二重傍線］　どうやら梅雨もあがつた。
+
+私は毎日寝てゐた、……カルモチンかダイナマイトか。……
+自己省察は、あゝ、哀しい。
+
+　七月十八日［＃「七月十八日」に二重傍線］　半晴半曇。
+
+身辺整理、――掃除、洗濯、佃煮、等、等。
+天地一切おだやかな風光［＃「風光」に傍点］。――
+蝉、きりぎりす、蛙、小鳥、草、木、雲、蝶、蟻、そして私。
+酒はとうていやめられないとすれば、節酒［＃「節酒」に傍点］して、そして生きてゆくより外ない私である。
+くよくよするな、すなほにおほらかに、けちけちするな。
+しづかな一歩、たしかな一歩、あせらずたゆまず一歩一歩、その一歩が私の生死であり、私の生活である。
+［＃ここから２字下げ］
+　　　井手君に
+・待ちきれないでそこらまで夕焼ける空
+・柱いつぽんをのぼりつくだりつ蟻のまいにち
+・ひるねの夢をよこぎつて青とかげのうつくしさ（松）
+　　　改作
+・ひとりとんでは赤蛙（松）
+　　　改作
+・暮れるとやもりが障子に恋のたはむれ
+［＃ここで字下げ終わり］
+
+　七月十九日［＃「七月十九日」に二重傍線］　晴曇。
+
+身心安静――清浄といつてもよからう。
+桔梗が一りん咲いた。
+アルコールが私の身心をどんぞこへまで陥れた、私は起ち上つた、そして甦りつつあるのである。……
+［＃ここから２字下げ］
+・蝉もわたしも時がながれてゆく風
+・はなれてひとりみのむしもひとり
+　　　それをくれた黎々火君に
+・草はしげるがままの、かたすみの秋田蕗
+・彼のこと彼女のこと蕗の佃煮を煮つつ
+・月がいつしかあかるくなればきりぎりす（雑松）
+・それからそれへ考へることの、ふくろうのなきうつる
+　ゆふべいそがしく燃えてゐる火のなつかしく（途上）
+［＃ここで字下げ終わり］
+
+　七月二十日［＃「七月二十日」に二重傍線］　曇、しめやかな雨となつた。
+
+夕方から、招かれて学校へ行く、樹明君宿直である、例によつて御馳走になる、六日ぶりの酒肴である、おそくなつたので、勧められるまゝに泊つた、食べすぎて寝苦しかつた。
+
+歯のぬけた口で茹章魚を食べビフテキを食べるのだから自分ながら呆れる、むろん噛みしめることは出来ないからほんたうには味へない。
+［＃ここから２字下げ］
+・蛙なく窓からは英語を習ふ声
+・最後の一匹として殺される蝿として
+　殺した藪蚊の、それはわたしの血
+　しんみり風に吹かれてゐる風鈴は鳴る
+・やつとはれてわたくしもけふはおせんたく（雑）
+　どこかでラヂオが、ふくろうがうたふ
+　豆腐やの笛がきこえる御飯にしよう
+　おくれた薯を植えいそぐ母と子と濡れて
+［＃ここで字下げ終わり］
+
+　七月廿一日［＃「七月廿一日」に二重傍線］　曇、蒸暑い、雨。
+
+早朝帰庵、身辺整理。
+――米がなくなつた（銭は無論ない）、絶食もよからう（よくなくても詮方ない）、と観念してゐたら、樹明君から昨夜の言葉通りに少々送つてきた、これでしばらくは安心、そのうちにはＫからの送金があるだらう。
+即興詩人［＃「即興詩人」に傍点］と梅干老爺［＃「梅干老爺」に傍点］！　それを考へてひとり苦笑する、それが事実であるだけそれだけ、笑ひたいやうで笑へない。
+色慾から食慾へ［＃「色慾から食慾へ」に傍点］――これが此頃の推移傾向である。
+夢！　夢は自己を第二の自己［＃「第二の自己」に傍点］として表現して見せてくれるものだ、私は近頃よく夢を見る、毎夜の夢が毎日の私を考へさせる。
+［＃ここから１字下げ、折り返して２字下げ］
+　　　ぐうたら手記
+□故郷（老いては）（病みては）（うらぶれては）。
+□旧友（ルンペンの感慨）。
+□貨幣価値を超越したもの［＃「貨幣価値を超越したもの」に傍点］（焚火の如き）。
+□「無くなる［＃「無くなる」に傍点］」
+　銭がなくなる、米がなくなる、生命がなくなる！
+□過ぎゆくもの［＃「過ぎゆくもの」に傍点］（死を前に）。
+□生活――
+　帰依――感謝――合掌――報恩。
+□業 carma ――
+　私――酒――飲めば悪くなり、飲まなければ悪くなる。――
+□遺書［＃「遺書」に傍点］について。
+［＃ここで字下げ終わり］
+
+　七月廿二日［＃「七月廿二日」に二重傍線］　曇。
+
+山の枯木を拾ふ、心臓の弱くなつてゐるのに驚いた、弱い心臓を持ちながら。……
+油虫だけは好きになれない。
+午後、樹明君来庵、午睡、これから湯田の慰労会へ行くといふ、ちよつと羨ましいな。
+――煙草がなくなつた、しばらく絶煙するもよからう、――よか、よか。
+［＃ここから２字下げ］
+・夏草から人声のなつかしく通りすぎてしまう［＃「う」に「マヽ」の注記］（松）
+・けさは何となく萱の穂のちるさへ
+・日ざかりちよろちよろとかげの散歩（松）
+・すずしさ竹の葉風の風鈴のよろしさ（雑）
+・風音の蚊をやく
+・風がでたどこかで踊る大［＃「大」に「マヽ」の注記］鼓のひゞきくる
+　　　樹明君に
+・あなたがきてくれるころの風鈴しきり鳴る
+［＃ここで字下げ終わり］
+
+　七月廿三日［＃「七月廿三日」に二重傍線］　曇――晴。
+
+とてもよく寝た、宵から朝まで、ランプもつけないで、障子もあけはなつたまゝで、――これで連夜の不眠をとりもどした。
+前隣のＳさんの息子が来て草を刈つてくれた、水を汲むことが、おかげで、楽《ラク》になりました。
+晴れて土用らしく照りつける、今年最初の、最高の暑さだつた。
+やうやく北海道から句集代着金、さつそく街へ出かけて買物――
+［＃ここから２字下げ］
+二十銭　ハガキ切手
+三十銭　酒三合
+三十二銭　なでしこ
+十銭　鯖一尾
+二十銭　茶
+八銭　味噌
+十八銭　イリコ
+［＃ここで字下げ終わり］
+財布にはまだ米代が残してある、何と沢山買うたことよ、有効に費うたことよ。
+午後、樹明君来庵、酒と豆腐とトマト持参、飲んだり食べたりしたが、いや暑い暑い、暑くてあんまりやれなかつた。
+安全々々、安心々々。
+今日は街へ三度出かけた、郵便局へ、駅のポストへ、瑜伽祭へ、――めづらしく落ちついて、――万歳※［＃感嘆符三つ、15-13］
+当分謹慎、身心整理をしなければならない、過去を清算しなければならない、そして――そしてそれからである。
+［＃ここから２字下げ］
+　　　□酔ひどれはうたふ
+　　　――（アル中患者の句帖から）――
+・酔ひざめの花がこぼれるこぼれる
+　彼が彼女にだまされた星のまたたくよ
+・さうろうとして酔ひどれはうたふ炎天
+・ふと酔ひざめの顔があるバケツの水
+　アルコールがユウウツがわたしがさまよふ
+・ぐつたりよこたはるアスフアルトのほとぼりも
+　いつしかあかるくちかづいてくる太陽
+・酔ひきれない雲の峰くづれてしまへ
+［＃ここで字下げ終わり］
+
+　七月二十四日［＃「七月二十四日」に二重傍線］　晴、曇［＃「曇」に「マヽ」の注記］かつた。
+
+また徹夜だ、人間として（彼が出来てゐる人間［＃「出来てゐる人間」に傍点］ならば）、食べるものがまづいとか、夜眠れないとかいふことがあるべき筈はない、私は罰せられ［＃「罰せられ」に傍点］てゐるのだ。
+冬村君を久しぶりに工場に訪ねる、夫婦共稼ぎの光景である、彼等は父母と仲違ひして別居してゐる、こゝにも人生悲劇の場面が展開されてゐるのである。
+昨日の酒があつまつてゐるので、朝酒昼酒そして晩酌、ありがたいことだ。
+人のなさけ［＃「人のなさけ」に傍点］を感じること二度。
+番茶［＃「番茶」に傍点］を味ふ、トマトを味ふ。
+今日は土用丑の日、とうとう鰻には縁がなかつた、鰻よりも鮎を食べたいのだが。
+秋茄子三本、秋胡瓜三本を植ゑる、この価五銭、あんまり安すぎる。
+［＃ここから１字下げ、折り返して２字下げ］
+　　　ぐうたら手記
+□求めない生活［＃「求めない生活」に傍点］――私の生活［＃「私の生活」に傍点］について。
+□貧しければこそ［＃「貧しければこそ」に傍点］――
+　ほどよい貧乏。
+　私が今日まで生きてきたのは貧乏のおかげ［＃「乏のおかげ」に傍点］だ。
+□疾病［＃「疾病」に傍点］。
+　ほどよい疾病［＃「ほどよい疾病」に傍点］（私の場合には）
+□歯［＃「歯」に白三角傍点］のあるとないと――
+　白船老との会食、酢鮹の話。
+［＃ここで字下げ終わり］
+
+　七月二十五日［＃「七月二十五日」に二重傍線］　快晴、土用日和。
+
+かん／＼照りつけるので稲が喜んでゐる、百姓が喜んでゐる、私も喜んでゐる、みんな喜んでゐる。
+今日も酒があつた、茄子があつた、トマトがあつた、私にはありがたすぎるありがたさである。
+茶の本［＃「茶の本」に傍点］（岡倉天心）を読みかへした、片々たる小冊子だけれど内容豊富で、教へられることが極めて多い本である。
+即興詩人［＃「即興詩人」に傍点］（森鴎外訳）も面白い、クラシツクのよさが、アンデルゼンのよさが、鴎外のよさが私を興奮せしめる。
+私は空想家［＃「空想家」に傍点］だ、いや妄想家［＃「妄想家」に傍点］だと思つたことである、今日にはじまつたことではないが。
+遠く蜩が鳴いた、うれしかつた、油虫が私を神経衰弱にする、憎らしい。
+また徹夜してしまつた、心臓が痛くなつて、このまゝ死ぬるのではないかと思ふたが、大したことはなかつた、そして私の覚悟［＃「私の覚悟」に傍点］は十分でない、私といふ人間は出来てゐないことを考へさせられた。……
+人生［＃「人生」に傍点］――生死［＃「生死」に傍点］――運命或は宿命［＃「運命或は宿命」に傍点］について思索しつゞけたが、今の私にはまだ解決がない！
+午後、四時四十分の上りで佐野へ。――
+故郷の故郷、肉縁の肉縁、そこによいところもあればよくないところもある、いはゞあたゝかいおもさ［＃「あたゝかいおもさ」に傍点］！
+山家の御馳走になる、故郷の蚊［＃「故郷の蚊」に傍点］といへば何だか皮肉だけれど、それも御馳走の一つだらう。
+酔うて管を巻く、安易な気持だ。
+［＃ここから２字下げ］
+　　　悼（厳父を失へる白雲兄に）
+・ゆふ風の夏草のそよぐさへ
+　　　（父を死なせた友に）　　山頭火合掌
+
+・ゆふべすゞしくうたふは警察署のラヂオ
+・炎天の蓑虫は死んでゐた
+・蛙よわたしも寝ないで考へてゐる
+・いつまで生きる竹の子を竹に（改作）
+・炎天、変電所の鉄骨ががつちり直角形（改作）
+・さういふ時代もあるにはあつた蝉とる児のぬきあしさしあし
+・暑さきはまり蝉澄みわたる一人
+・ゆふべはよみがへる葉に水をやる
+・山はゆふなぎの街は陽のさす方へ
+・炎天まつしぐらにパンクした（自動車）
+　　　逸郎君に
+・百合を桔梗に活けかへて待つ朝風
+・ちつともねむれなかつた朝月のとがりやう
+・夜あけの風のひえ／″＼として月草ひらく
+［＃ここで字下げ終わり］
+
+　七月二十七日［＃「七月二十七日」に二重傍線］　曇。
+
+早起、朝酒、九時の下りで九州へ。――
+初めて汽車の食堂にてビール一本さかな一皿。
+門司駅一二等待合室にて黎々火君を待ち合せ、岔水君をよびよせてもらつて、アイスクリームを食べつゝ会談。
+関門風景［＃「関門風景」に傍点］はいつもわく［＃「く」に「マヽ」の注記］るくない。
+それから八幡へ、――鏡子君、井上さん、星城子君といつしよに、食べたり飲んだり、話したり。
+入浴、私の体重十四〆弐百、折から安売の玉葱に換算すればまさに壱円四十弐銭の市価（二等品で一〆十銭だから！）。
+丸久食堂の隣席はきつと結婚見合、この結婚不成立と観たは僻目か、女の方が男よりもづう／＼しかつた。
+をなごや［＃「をなごや」に傍点］の鏡子居にをなごと寝ずにひとり泊る。
+八幡は煙突が多い、食べものやが多い、女が多い、ウソもカネも多いだらう！
+［＃ここから２字下げ］
+　　　小郡駅待合室
+　汽車がいつたりきたりぢつとしてゐない子の暑いこと
+・ふるさとの或る日は山蟹とあそぶこともして
+　飲めるだけ飲んでふるさと
+・酔うてふるさとで覚めてふるさとで
+・ふるさとや茄子も胡瓜も茗荷もトマトも
+・急行はとまりません日まはりの花がある駅
+・風は海から冷たい飲みものをなかに
+［＃ここで字下げ終わり］
+
+　七月二十八日［＃「七月二十八日」に二重傍線］　晴れて暑い。
+
+温柔郷［＃「温柔郷」に傍点］の朝はおそい、十一時近くなつて四人連れでバスで松の寺へ。――
+私は井上さんの奥さんから頂戴した黒絽の夏羽織をりゆう［＃「りゆう」に傍点］と着流してゐる、それが俊和尚を驚喜せしめた。
+もつたいなくも本堂の広い涼しいところで会食、酒、ビール、てんぷら、さしみ、お釈迦さんもびつくりなすつたらう、観音さまはいつもやさしい。
+かいめ、くさびといふ魚、水桃もおいしかつた。
+海水浴風景、さういふ風景と私とはもはや縁遠くなつた。
+浜万年青、一名いかりおもと、それを愛して俊和尚が植えひろげてゐる。
+私の句碑（松はみな枝たれて南無観世音）の前で撮影、私も久しぶりに法衣をも［＃「も」に「マヽ」の注記］とうた。
+私一人滞在、寺の夜はしづかだつた。
+［＃ここから１字下げ、折り返して２字下げ］
+　　　ぐうたら手記
+□世間体や慾で営まれる世界はあまりに薄つぺらだ。
+　義理や人情で動く世界もまだ／＼駄目だ、人間のほんたうの世界はその奥にある、そこから、ほんたうの芸術が溢れ流れてくるのである。
+□金持の君は、金さへあれば買はれるものを買ふのもわるくあるまい、貧乏な私は金では買へないものを求めるのもよからうではないか。
+［＃ここで字下げ終わり］
+
+　七月二十九日［＃「七月二十九日」に二重傍線］　晴。
+
+朝酒、それから和尚さん飯野さん、清丸さんたちに送られて、バスを乗り換へ乗り換へ飯塚へ。
+今日はバスからバスへ、トクリからトクリの一日だつた。
+Ｈで健と会飲、だいぶ痩せて元気がないから叱つてやつた、一年一度の父子情調だ。
+待つた芸者と仲居とが口をそろへて曰く、親子で遊ばれる方は飯塚にもめつたにございません、――これはいつたい褒められたのか貶されたのか。
+駅前の宿屋へ自動車で押し込められてしまつた、こゝの印象はよくなかつた。
+［＃ここから２字下げ］
+・真夏の真昼のボタ山のあるところ
+　炎天のボタ山がならんでゐる
+　　　改作一句
+　枯れたすゝきに日が照れば誰か来てくれさうな
+［＃ここで字下げ終わり］
+
+　七月三十日［＃「七月三十日」に二重傍線］　暑いこと、暑いこと。
+
+緑平居へ、うれしいな、友の中の友。
+温情、御馳走、涼風、ラヂオ。……
+［＃ここから２字下げ］
+　　　緑平居
+・葉ざくらがひさ／″＼逢はせてくれたかげ
+・みんないつしよにちやぶ台へまたてふてふ
+［＃ここで字下げ終わり］
+
+　七月三十一日［＃「七月三十一日」に二重傍線］　晴れやかに。
+
+八幡で星城子君のニコニコ顔に逢ひ、別れてからシネマ見物、夜は戸畑の多々楼君と同伴して若松の荒瀬さんを徃訪、このあたりの夜景はうつくしい、製鉄所の礦滓はことにうつくしかつた。
+
+　八月一日［＃「八月一日」に二重傍線］
+
+再び関門へ。――
+黎々火君と共に岔水居で会談会飲。
+黎君に若い日本人としての情趣があり、岔君に近代都会人らしいデリカシーがある。
+岔水居泊、琴の音、蛙の声、港の灯。
+今日観たシネマは面白かつた、サトウハチローの裏街の交響楽［＃「裏街の交響楽」に傍点］には新味はないが持味があつた。
+暑苦しく寝苦しかつた。
+［＃ここから２字下げ］
+　　　岔水居
+　したしく逢うてビール泡立つ
+　　　或る旧友と会して
+・寝顔なつかしいをさな顔がある
+　朝ぐもり海へ出てゆく暑い雲
+［＃ここで字下げ終わり］
+
+　八月二日［＃「八月二日」に二重傍線］
+
+朝酒はありがたい、もつたいない。
+岔水君に送られて下関へ。――
+私が使用する送られて［＃「送られて」に傍点］といふ言葉は食事、切符、等々を与へられることをも意味してゐる、あゝもつたいない。
+下関では飲み歩いた、饒舌り散らした、とう／＼黎々火君の厄介になつた。
+シネマは面白かつた。
+小遣も興味もなくなつたので、駅の待合室で一夜を明かした。
+
+　八月三日［＃「八月三日」に二重傍線］
+
+早朝帰庵。
+愉快な旅の一週間だつた、友はなつかしい、酒はおいしい、ビールもよろしい、鮎も好き、……労れて、だらけて、こんとんとして眠つた。
+
+　八月四日［＃「八月四日」に二重傍線］
+
+ぼう／＼ばく／＼。
+関日の波多君が小学校の先生二人を同伴して来庵、アイスキヤンデーをかぢりながら暫時雑談、今日は私の雑草哲学［＃「雑草哲学」に傍点］を説く元気もなかつた。
+［＃ここから１字下げ、折り返して２字下げ］
+　　　ぐうたら手記
+□句作――自己脱却（自己超越）――一句は一皮。
+　その一句は古い一皮を脱いだのである。
+　一句は一句の身心脱落である［＃「一句は一句の身心脱落である」に傍点］。
+　昨日の揚棄、今日の誕生。
+□自己虐待［＃「自己虐待」に傍点］、マゾヒズム。
+　近代人の不安焦燥動揺彷徨、虚無。
+□俳句する――生活する――人生する。
+［＃ここで字下げ終わり］
+
+　八月五日［＃「八月五日」に二重傍線］　晴れてゐたか、曇つてゐたか。
+
+かねて東京の斎藤さんから通知のあつた多根順子女史来庵、しばらく話した、お茶もあげないでお土産をいたゞいてすまなかつた、句集を買うて下さつたのは有難かつた、其中庵名物の雑草風景［＃「雑草風景」に傍点］は観て下さつた、女史に敬意を表する。
+どうもむしやくしや［＃「むしやくしや」に傍点］していけない、夏羽織を質入して飲んだが、まだ足りないので、さらに飲みなほした、Ｙさんに立替へて貰つて、どろ／＼の身心をやつと庵まで運んだ。……
+恥知らずめ、罰あたりめ。
+［＃ここから１字下げ、折り返して２字下げ］
+　　　ぐうたら手記
+□捨身［＃「捨身」に傍点］になれば不死身［＃「不死身」に傍点］になる。
+□不自然な貧乏［＃「不自然な貧乏」に傍点］。
+［＃ここから３字下げ］
+一は社会的［＃「社会的」に傍点］に、一は個人的［＃「個人的」に傍点］に（これが私の場合）。
+［＃ここで字下げ終わり］
+
+　八月六日［＃「八月六日」に二重傍線］――九日［＃「九日」に二重傍線］
+
+晴れてよろし、降つてよろし、何もかもみなよろし。
+
+　八月十日［＃「八月十日」は二重罫囲み］　第二誕生日［＃「第二誕生日」に傍点］、回光返照［＃「回光返照」に傍点］。
+
+生死一如［＃「生死一如」に傍点］、自然と自我との融合［＃「自然と自我との融合」に傍点］。
+……私はとうとう卒倒した、幸か不幸か、雨がふつてゐたので雨にうたれて、自然的に意識を回復したが、縁から転がり落ちて雑草の中へうつ伏せになつてゐた、顔も手も足も擦り剥いだ、さすが不死身に近い私も数日間動けなかつた、水ばかり飲んで、自業自得を痛感しつつ生死の境を彷徨した。……
+これは知友に与へた報告書の一節である。
+［＃ここから２字下げ］
+正しくいへば、卒倒でなくして自殺未遂［＃「自殺未遂」に傍点］であつた。
+私はＳへの手紙、Ｋへの手紙の中にウソを書いた、許してくれ、なんぼ私でも自殺する前に、不義理な借金の一部分だけなりとも私自身で清算したいから、よろしく送金を頼む、とは書きえなかつたのである。
+とにかく生も死もなくなつた、多量過ぎたカルモチンに酔つぱらつて、私は無意識裡にあばれつつ、それを吐きだしたのである。
+［＃ここで字下げ終わり］
+断崖に衝きあたつた私だつた、そして手を撒［＃「撒」に「マヽ」の注記］して絶後に蘇つた私だつた。
+
+［＃ここから２字下げ］
+　　死に直面して［＃「死に直面して」は罫囲み］
+　　　　「死をうたふ［＃「死をうたふ」に傍点］」と題して前書を附し、第二日曜［＃「第二日曜」に傍点］へ寄稿。
+・死んでしまへば、雑草雨ふる
+・死ぬる薬を掌に、かゞやく青葉
+・死がせまつてくる炎天
+・死をまへにして涼しい風
+・風鈴の鳴るさへ死はしのびよる
+・ふと死の誘惑が星がまたたく
+・死のすがたのまざまざ見えて天の川
+・傷《キズ》が癒えゆく秋めいた風となつて吹く
+・おもひおくことはないゆふべ芋の葉ひらひら
+・草によこたはる胸ふかく何か巣くうて鳴くやうな
+・雨にうたれてよみがへつたか人も草も
+［＃ここで字下げ終わり］
+
+　八月十五日［＃「八月十五日」に二重傍線］　晴、涼しい、新秋来だ。
+
+徹夜また徹夜、やうやくにして身辺整理をはじめることができた。
+五十四才にして五十四年の非を知る［＃「五十四才にして五十四年の非を知る」に傍点］。
+憔悴枯槁せる自己を観る。
+遠く蜩が鳴く。
+風が吹く、蒼茫として暮れる。
+くつわ虫が鳴きだした。
+胸が切ない（肺炎の時は痛かつた）、狭心症の発作であるさうな、そして心臓痲痺の前兆でもあるさうな（私は脳溢血を欣求してゐるが、事実はなか／＼皮肉である）。
+灯すものはなくなつたが、月があかるい。
+［＃ここから２字下げ］
+　　　徹夜不眠
+・ほつと夜明けの風鈴が鳴りだした
+　ずつと青葉の暮れかゝる街の灯ともる
+・遠く人のこひしうて夜蝉の鳴く
+・踊大鼓も澄んでくる月のまんまるな
+・月のあかるさがうらもおもてもきりぎりす
+・月あかりが日のいろに蝉やきりぎりすや
+　　　米田雄郎氏に、病中一句
+・一章読んでは腹《おなか》に伏せる「青天人」の感触
+［＃ここで字下げ終わり］
+
+　八月十六日［＃「八月十六日」に二重傍線］　晴れて涼しい。
+
+今日も身辺整理、手紙を書きつづける。
+昨夜もまた一睡もしなかつた、少し神経衰弱になつてゐるらしい、そんな弱さではいけない。
+午後、樹明君、敬治君来庵、酒と汽車辨当を買うて、三人楽しく飲んで食べて話した、夕方からいつしよに街へ出かけてシネマを観た（トーキーでないので、せつかくのヱノケンも駄目だつた）、それから少し歩いて、めでたく別れた。
+十一日ぶりのアルコール、いやサケはとてもうまかつた。
+私にはもう性慾［＃「性慾」に傍点］はない、食慾［＃「食慾」に傍点］があるだけだ、味ふことが生きることだ［＃「味ふことが生きることだ」に傍点］。
+［＃ここから２字下げ］
+・すずしく風が蜂も蝶々も通りぬける
+・かたすみでうれてはおちるなつめです
+・身のまはりいつからともなく枯れそめし草
+　ねむれなかつた朝月があるざくろの花
+　月夜干してあるものの白うゆらいで
+［＃ここで字下げ終わり］
+
+　三月十七日［＃「三月十七日」に二重傍線］［＃「三月十七日［＃「三月十七日」に二重傍線］」はママ］
+
+寝た、寝た、ぐつすりと睡れた。
+樹明君に連れられて、椹野川尻で鮒釣見習。
+
+　八月十八日［＃「八月十八日」に二重傍線］　新秋清明。
+
+初めてつく／＼ぼうしが鳴いた。
+［＃ここから２字下げ］
+　青葉かげお地蔵さまと待つてゐる
+　蟻の行列をかぞへたりして待つ身は暑い
+　バスのほこりの風にふかれて昼顔の花
+・炎天下の兵隊としてまつすぐな舗道
+　行軍の兵隊さんでちよつとさかなつり
+・釣りあげられて涼しくひかる
+・水底の太陽から釣りあげるひかり
+・ゆふなぎおちついてまた釣れた
+［＃ここで字下げ終わり］
+
+　八月十九日［＃「八月十九日」に二重傍線］　晴、朝晩の涼しさよ、夜は冷える。
+
+身辺整理。
+今日も手紙を書きつゞける（遺書も改めて調製したくおもひをひそめる）、Ｋへの手紙は書きつつ涙が出た。
+ちよつと学校へ、やうやくなでしこ一袋を手に入れる。
+肉体がこんなに弱くては――精神はそんなに弱いとは思はないが――仕事は出来ない。
+人生は味解である［＃「人生は味解である」に傍点］、人生を味解すれば苦も楽となるのだ。
+よき子［＃「よき子」に傍点］であれ、よき夫［＃「よき夫」に傍点］（或は妻）であれ、よき父［＃「よき父」に傍点］であれ、それ以外によき人間［＃「よき人間」に傍点］となる常道はない。
+先日からずゐぶん手紙を書いた、そのどれにも次の章句を書き添へることは忘れなかつた――
+［＃ここから２字下げ］
+余生いくばく、私は全身全心を句作にぶちこみ［＃「全身全心を句作にぶちこみ」に傍点］ませう。
+［＃ここで字下げ終わり］
+これこそ私の本音である。
+十七日ぶりに入浴、あゝ風呂はありがたい、それは保健と享楽［＃「保健と享楽」に傍点］とを兼ねて、そして安くて手軽である。
+純真に生きる［＃「純真に生きる」に傍点］――さうするより外に私が生きてゆく道はなくなつた［＃「さうするより外に私が生きてゆく道はなくなつた」に傍点］、――この一念を信受奉行せよ［＃「この一念を信受奉行せよ」に傍点］。
+からだがよろ／＼する、しかしこゝろはしつかりしてゐるぞ、油虫め、おまへなんぞに神経を衰弱させられてたまるか、たゝき殺した、踏みつぶした。
+また不眠症におそはれたやうだ、ねむくなるまで読んだり考へたりする、……明け方ちかくなつて、ちよつとまどろんだ。
+　　　　　　　×　　　　　　　　×　　　　　　　　×
+不眠症は罰である［＃「不眠症は罰である」に傍点］、私はいつもその罰に悩まされてゐる、十六日の夜は三日ぶりにぐつすりと寝て、生きてゐることのよろこび［＃「生きてゐることのよろこび」に傍点］を感じた、よき食慾［＃「よき食慾」に傍点］はめぐまれてゐる私であるが、よき睡眠［＃「よき睡眠」に傍点］は奪はれてゐる、生活に無理があるからだ、その無理をのぞかなければならない。
+行乞は一種の労働だ［＃「行乞は一種の労働だ」に傍点］、殊に私のやうな乞食坊主には堪へがたい苦悩だ、しかしそれは反省［＃「反省」に傍点］と努力［＃「努力」に傍点］とをもたらす、私は行乞しないでゐると、いつとなく知らず識らずの間に安易と放恣とに堕在する、肉体労働は虚無に傾き頽廃に陥る身心を建て直してくれる、――この意味に於て、私は再び行乞生活に立ちかへらうと決心したのである。
+十七日は朝早くから嘉川行乞に出かけるつもりだつた（もうその日の米もなくなつてゐた）、そこへ学校の給仕さんが樹明君の手紙を持つて来た、――今日は托鉢なさるとのことでしたが、米は私が供養しますから、午後、川尻へいつしよに鮒釣に行きませう、――といふのである、そこで私は鉄鉢を魚籠《ビク》に持ちかへた、人生は時に応じ境に随うてこだはらないのがよろしい。
+釣は逃避行の上々なるものだ［＃「釣は逃避行の上々なるものだ」に傍点］、魚は釣れなくとも句は釣れる、句も釣れないでよい、一竿の風月は天地悠久の生々如々である［＃「一竿の風月は天地悠久の生々如々である」に傍点］、空、水、風、太陽、草木、そして土石、虫魚、……人間もその間に在つて無我無心となるのである。
+私は釣をはじめやうと思ふ、行乞と魚釣と句作との三昧境［＃「行乞と魚釣と句作との三昧境」に傍点］に没入したいと思ふ。
+しかし今日はその第一日の小手調べであつた、樹明君は魚を釣り私は句を釣つた、同時に米も釣つたのである。
+山羊髯［＃「山羊髯」に傍点］！　その髯を私は立てはじめたのである、再生記念［＃「再生記念」に傍点］、節酒記念［＃「節酒記念」に傍点］、純真生活記念［＃「純真生活記念」に傍点］として。
+八月十日［＃「八月十日」に傍点］を転機として、いよいよ節酒を実行する機縁が熟した（絶対禁酒は、私のやうなものには、生理的にも不可能である）、今度こそは酒に於ける私を私自身で清算することが出来るのである。
+今が私には死に時かも知れない［＃「今が私には死に時かも知れない」に傍点］、私は長生したくもないが、急いで死にたくもない、生きられるだけは生きて［＃「生きられるだけは生きて」に傍点］、死ぬるときには死ぬる［＃「死ぬるときには死ぬる」に傍点］、――それがよいではないか。
+アルコール中毒、そして狭心症、どうもこれが私の死病らしい、脳溢血でころり徃生したいのが私の念願であるが、それを強要するのは我儘だ、あまり贅沢は申さぬものである。
+颱風一過［＃「颱風一過」に傍点］、万物寂然として存在す［＃「万物寂然として存在す」に傍点］、それが今の私の心境である。
+卒倒が私のデカダンを払ひのけてくれた、まことに卒倒菩薩［＃「卒倒菩薩」に傍点］である。
+ひとりはよろし、ひとりはさびし。
+油虫よ、お前を憎んで殺さずにゐない私の得手勝手はあさましい、私はお前に対して恥ぢる。
+　　　　　　　×　　　　　　　　×　　　　　　　　×
+［＃ここから２字下げ］
+　風ふく枝の、なんとせかせか蝉のなく
+　朝風の軒へのそりと蟇か
+・朝風の野の花を活けて北朗の壺の水いろ
+　すゞしく鉄鉢をさゝげつつ午前六時のサイレン
+・あるきたいだけあるいて頭陀袋ふくれた夕月
+・草のそよげば何となく人を待つてゐる
+　　　悼（母を亡くした星城子君に）
+・いつとなく秋めいた葉ざくらのかげに
+　山から風が風鈴へ、生きてゐたいとおもふ
+・日ざかりひゞくは俵を織つてゐる音
+　かなしい手紙をポストに、炎天のほこりひろがる
+・木かげ水かげわたくしのかげ
+・炎天の稗をぬく（雑）
+［＃ここで字下げ終わり］
+［＃ここから１字下げ、折り返して２字下げ］
+　　　ぐうたら手記
+□はぜのおばさん。
+□河原撫子の野趣。
+□太陽の熱と光とがこもつてゐるトマトを食べる。
+□生は生に、死は死に、去来は去来に、物そのものに任せきつた心境。
+［＃ここで字下げ終わり］
+
+　八月二十日［＃「八月二十日」に二重傍線］　曇。
+
+朝夕の快さにくらべて、日中の暑苦しさはどうだ。
+酒にひきづられ、友にさゝえられ、句にみちびかれて、こゝまで来た私である、私は今更のやうに酒について考へ、句について考へ、そして友のありがたさを（それと同時に子のありがたさをも）、感じないではゐられない。……
+待つてゐた句集代落手、さつそく麦と煙草とハガキと石油を買ふ。
+古雑誌を焚いて、湯を沸かすことは（時としては御飯を炊くこともある）、何だかわびしい［＃「わびしい」に傍点］ものですね（さういふ経験を持つてゐる人も少くないだらう）。
+蝉がいらだたしく鳴きつづける、私もすこしいらいらする、いけない／＼、落ちつけ／＼。
+つく／＼ぼうしの声をしみ／″＼よいと思ふ、東洋的、日本的、俳句的、そして山頭火的。
+［＃ここから２字下げ］
+・放たれてゆふかぜの馬にうまい草（丘）
+・ひらひらひるがへる葉の、ちる葉のうつくしさよ
+　逢ひにゆく袂ぐさを捨てる
+・誰かくればよい窓ちかくがちやがちや（がちやがちやはくつわ虫）
+　　　病中
+・寝てゐるほかないつく／＼ぼうしつく／＼ぼうし（楠）
+・トマト畠で食べるトマトのしたたる太陽
+・つくつくぼうしがちかく来て鳴いて去つてしまう［＃「う」に「マヽ」の注記］
+［＃ここで字下げ終わり］
+
+　八月廿一日［＃「八月廿一日」に二重傍線］　晴。
+
+初秋の朝の風光はとても快適だ、身心がひきしまるやうだ。
+どうやら私の生活も一転した、自分ながら転身一路のあざやかさに感じてゐる、したがつて句境も一転しなければならない、天地一枚、自他一如の純真が表現されなければならない。
+此頃すこし堅くなりすぎてゐるやうだ、もつとゆつたりしなければなるまい、悠然として酒を味ひつつ山水を観る［＃「悠然として酒を味ひつつ山水を観る」に傍点］、といつたやうな気持でありたい。
+生を楽しむ［＃「生を楽しむ」に傍点］、それは尊い態度だ、酒も旅も釣も、そして句作もすべてが生の歓喜であれ。
+友よ、山よ、酒よ、水よ、とよびかけずにゐられない私。
+八月十日の卒倒菩薩［＃「八月十日の卒倒菩薩」に傍点］は私から過去の暗影［＃「過去の暗影」に傍点］を払拭してくれた、さびしがり、臆病、はにかみ、焦燥、後悔、取越苦労、等々からきれいさつぱりと私を解放してくれた。……
+［＃ここから２字下げ］
+・餓えてきた蚊がとまるより殺された
+・草にすわつて二人したしく煙管から煙管へ
+・ずうつと電信棒が青田風
+・ぼんやりしてそこらから秋めいた風（眼鏡を失うて）
+・すすき穂にでて悲しい日がまたちかづく
+・ゆう潮がこゝまでたたへてはぶ草の花
+・つきあたれば秋めく海でたたへてゐる
+　　　旅中
+・こんやはここで、星がちか／＼またたきだした
+・寝ころぶや知らない土地のゆふべの草
+・旅は暮れいそぐ電信棒のつく／＼ぼうし
+・おわかれの入日の赤いこと
+［＃ここで字下げ終わり］
+
+　八月廿二日［＃「八月廿二日」に二重傍線］　曇、だん／＼晴れて暑くなつた。
+
+今日も身辺整理、文債書債を果しつつ。
+机上の徳利に蓮芋の葉を活ける、たいへんよろしい、芋の葉と徳利と山頭火［＃「芋の葉と徳利と山頭火」に傍点］とは渾然として其中庵の調和をなしてゐる。
+方々から見舞状、ありがたし／＼。
+天たかく地ひろし［＃「天たかく地ひろし」に傍点］、山そびえ水ながるゝ感［＃「山そびえ水ながるゝ感」に傍点］。
+Ｋ店員が立ち寄つて昼寝をする。
+花売老人が来て縞萱を所望する、七十三才だといふ、子はないのか、孫はないのか、彼を楽隠居にしてあげたい。
+昨夜も今夜も少々寝苦しい、時々狭心症的な軽い発作、読書しないで思索をつゞけた。
+鼠だらうか――鼠はゐない筈だが――仏壇をがたびしあばれて、とうとう観音像をひつくりかへした、鼠とすれば――油虫にはそれほどの力はないから――食べる何物もないので、腹を立てたのでもあらうか。
+［＃ここから２字下げ］
+・考へつづけてゐる大きな鳥が下りてきた
+・蟻がひつぱる大きい獲物のおもくて暑くて
+　　　地蔵祭
+・炎天のお供へものをめぐつて小供ら
+　　　黎々火君に、病中
+・はる／″＼ときて汲んでくれた水を味ふ（楠）
+・かなしい手紙をポストにおとす音のゆふ闇（改作）
+［＃ここで字下げ終わり］
+
+　八月廿三日［＃「八月廿三日」に二重傍線］　晴、曇つて雨の近いことを思はせる雲行き。
+
+いつからとなく、裏に蟇が来て住んでゐる、彼とはすぐ友達になれさうだ、私には似合の友達だ。
+先日から麦飯――米麦半々――にしたので腹工合が至極よろしい、ルンペンだつたために、胃袋が大きく、それを満たさないと気がすまないやうになつてゐるから、そして運動不足で、しかも運動らしい運動は出来ない肉体になつてしまつた私には、麦飯こそ適応してゐる、この意味でまた、南無麦飯菩薩［＃「南無麦飯菩薩」に傍点］である。
+卒倒してからころりと生活気分がかはつた、現在の私は、まじめで、あかるくて、すなほで、つつましくて、あたたかく澄んで湛へて［＃「澄んで湛へて」に傍点］ゐる、ありがたいと思ふ。
+こうろぎがはつきりうたひだした。
+［＃ここから１字下げ、折り返して２字下げ］
+　　　ぐうたら手記
+□人生的芸術主義［＃「人生的芸術主義」に傍点］
+　芸術的人生主義
+□俳句が、ぐつとつかんでぱつとはなつこと［＃「ぐつとつかんでぱつとはなつこと」に傍点］を特色とするならば、短歌は、ぢつとおさへてしぼりだすこと［＃「ぢつとおさへてしぼりだすこと」に傍点］を特色とするだらう。
+［＃ここで字下げ終わり］
+
+　八月廿四日［＃「八月廿四日」に二重傍線］　朝は曇つて厄日前の空模様だつたが、おひ／＼晴れた。
+
+早起、といふよりも寝なかつた。
+出来るだけ簡素に［＃「簡素に」に傍点］――生活も情意もすべて。
+まだ身辺整理が片付かない、洗濯、裁縫、書信、遺書、揮毫、等、等、等。
+農学校に樹明君を訪ねて、切手をハガキに代へて貰ふ。
+身心ゆたかにして［＃「身心ゆたかにして」に傍点］、麦飯もうまい［＃「麦飯もうまい」に傍点］、うまい［＃「うまい」に傍点］。
+畑を耕して菜を播く準備をして置く、土のよろしさと自分のよわさとを感じる。
+夕方、樹明君がやつてきて、佐野の親戚へお悔みに行くから、いつしよに行かうといふ、ＯＫ、駅へ行く、六時の電車が出るまでにはまだ三十分ある、Ｙ屋で一杯ひつかける、佐山では手早く用事をすまして、停留場まで戻つてくると、一時間ばかり早い、そこでまた駅前の飲食店で一本二本、小郡へ帰着したのが九時、もう一度飲むつもりで、ぶら／＼歩きまはつたが、気に入つた場所が見つからないので、けつきよく、そのまゝ別れて戻つた、めでたし、めでたし。
+久しぶりの酒と散歩とがぐつすり睡らせてくれた。
+［＃ここから１字下げ、折り返して２字下げ］
+　　　ぐうたら手記
+□過去帳［＃「過去帳」に傍点］――
+　　年寄の冷水でなくして洟水［＃「洟水」に傍点］。
+□天地荘厳経［＃「天地荘厳経」に傍点］。
+　　自然、藝術。
+□魚籃を失ふ釣人。
+　魚籃を持たない釣人。
+□純粋化――単純化――個性化。
+［＃ここで字下げ終わり］
+
+　八月廿五日［＃「八月廿五日」に二重傍線］　晴。
+
+まだ暗いうちにサイレンが鳴つたが、はて、何だらう、――それだけ私も世を離れてゐる。
+けさはとても早起、夜が明けるのを待ちかねた、まるで四五才の小供のやうに。
+卒倒以来、心地頓に爽快、今日は特に明朗だつた。
+山の鴉が窓ちかくやつてきて啼きさわぐ、赤城の子守唄をおもひだせとばかりに、――じつさい、おもひだして小声でうたつた、何とセンチなオヂイサン！
+これは昨夜、佐山地方を逍遙して感じたのであるが――
+ここらあたりには時代の音［＃「時代の音」に傍点］は聞えるけれど、まだ／＼時代の波［＃「時代の波」に傍点］は押し寄せてはゐない。
+やつと郵便がきた、友のありがたさ［＃「友のありがたさ」に傍点］、子のありがたさ［＃「子のありがたさ」に傍点］をしみ／″＼感じないではゐられなかつた。
+午後、ぼんやりしてゐるところへ、ひよつこり黎坊が来てくれた、うれしかつた、反古紙を探して私製はがきを窮製［＃「窮製」に傍点］して方々の親しい人々へ寄書をしたりなどして、しんみりと夕方まで遊んだ。
+やうやく、眼鏡を買ふことが出来た、古い眼鏡は度が弱くて霞の中にゐるやうだつたが、これで夜の明けたやうに明るくなつた。
+このごろまた多少神経衰弱の気味、恥づべし、恥づべし。
+［＃ここから１字下げ、折り返して２字下げ］
+　　　ぐうたら手記
+俳句――
+　　詩的本質
+　　特異性
+　　　　季語、季感、季題の再検討
+　　　　┌季節的　┌印象的
+　　　　└民族的　└現実的
+　　観念象徴
+
+　　　ぐうたら手記
+雨はしみじみする、ことに秋の雨は。
+［＃ここで字下げ終わり］
+
+　八月廿六日［＃「八月廿六日」に二重傍線］　晴、残暑がなか／＼きびしい。
+
+朝、山萩の一枝を折つてきて机上をかざつた。
+午前、街へ行く、払へるだけ借金を払ふ、借金は第三者には解らない重荷であるだけ、それだけ払ふてからの気持は軽くて快いものである。
+いよ／＼遊漁鑑札を受けた、これから山頭火の釣のはじまり／＼！
+アイをひつかけるか、コヒを釣りあげるか。
+山東菜を一畝ほど播く。
+しづかにして、すなほにつつましく。
+青唐辛の佃煮をこしらへる。
+去年は肺炎、今年は狭心症、来年は脳溢血か、――希くはころり徃生［＃「ころり徃生」に傍点］であらんことを。
+午後はとても暑かつたが、米買ひに、豆腐買ひに、焼酎買ひに、街へまた出かけた。
+夕立がやつてきさうだつたが、すこしバラ／＼と降つたが、とうとう逃げてしまつた。
+どうも寝苦しい、妙な嫌な夢を見る。……
+［＃ここから１字下げ］
+　　　ぐうたら手記
+釣心［＃「釣心」に傍点］、句心、酔心。
+「道心の中に衣食あり［＃「道心の中に衣食あり」に傍点］」頭がさがつた、恥づかしさと心強さとで汗が流れた、私の場合では道心［＃「道心」に傍点］を句心と置き換へてもよからう。
+惜花春起草、愛月秋眠遅、かういふ気持も悪くない。
+［＃ここで字下げ終わり］
+
+　八月廿七日［＃「八月廿七日」に二重傍線］　晴、秋となつた空にちぎれ雲。
+
+天地悠久の感、事々無礙、念々微笑の境地。
+黙壺君からの来信、その中には友情が封じ込まれてあつた。……
+さつそく、湯田の温泉に遊ぶことにする。
+暑い、銭がある、理髪する（女がやつてくれたが、男よりも女の方がやさしくて念入で、下手上手にかゝはらない私にはうれしかつた）、バスがゆつくりしてゐる。……
+温泉は熱くて豊富で、広くて、遠慮がなくて、安くて、手軽で、ほんたうによろしい。
+町を歩いて、嫌とも気のつくことはキヤンデー時代［＃「キヤンデー時代」に傍点］だといふことだ、こゝにもそこにもキヤンデー売店、そしてあの児もこの人もキヤンデーをしやぶつてゐる。
+買物いろ／＼、銘酒二合買うて戻ることも忘れなかつた。
+生ビールもうまいが、燗酒はもつと、もつとうまい。
+拾五銭のランチも私には御馳走だ。
+四時の汽車で帰庵、夕餉の支度をしてゐると、樹明君から来信、宿直ださうである、ＯＫ、待つてゐましたとばかり学校へ、――例によつて生ビールと鮭肉とを頂戴した、釣道具、餌蚯蚓などを分けて貰ふ。
+更けて帰庵、涼しい風が吹きぬける。
+［＃ここから２字下げ］
+　壺の萩さく朝風が机をはらふ
+・藪をとほして青空が秋
+・風鈴しみ／″＼抱壺のおもかげ
+・日ざかりひなたで犬はつるんでゐる
+・どなたもお留守の、日向草のうつくしさ
+・日ざかりの牛がこんなに重い荷を
+　　　追加、行乞
+・どこで泊らう暑苦しう犬がついてくる
+　螢、こゝからが湯の町（街）の大橋小橋（改作）
+［＃ここで字下げ終わり］
+
+　八月廿八日［＃「八月廿八日」に二重傍線］　曇、風、雨。
+
+風がだん／＼強くなる、どこかは暴風雨だらう。
+夢にまで見た魚釣第一日［＃「魚釣第一日」に傍点］の予定は狂つてしまつた、どこへも出かけないで読書。
+酒屋の小僧さんが空瓶とりにきて、小さい不快事を残していつた。
+風の中のきりぎりす、蝉、こほろぎがとぎれ／＼に鳴く、私もその中の一匹だらう。
+一日ながらへば一日の悔をます［＃「一日ながらへば一日の悔をます」に傍点］、――八月十日までの私はたしかにさういふ生活気分だつた、今日此頃の私は生活感情を新たにすることが出来た。
+油虫、油虫、昼も夜も、こゝにもそこにもぞろ／＼、ぞろ／＼、私は油虫を見るとぞつとする、強い油虫、そして弱い私！
+山羊髯がだいぶ長くなつた、ユーモアたつぷりである、これが真白になつたらよからう、今では胡麻塩、何だか卑しい。
+柚子を見つけて一つもぐ、香気ふくいくとして身にしみる、豆腐が欲しいな。
+何としづかな、おちついた日。
+夕焼の色が不穏だつた、厄日近しといふ天候。
+［＃ここから２字下げ］
+・風はほしいまゝに青柿ぽとりぽとり
+・風がわたしを竹の葉をやすませない
+・立ち寄れば昼ふかくごまの花ちる
+・くづれる家のひそかにくづれるひぐらし（丘関）
+・よしきりなく釣竿二つ三つはうごく
+・暮れいそぐあかるさのなかで釣れだした
+　　　遊園地
+・お猿はうららか食べるものなんぼでも（改作）
+・ゆふべすずしく流れてきた絵が桃太郎（丘関）
+・石を枕にしんじつ寝てゐる乞食
+・誰かきたよな声は蜂だつたか
+・ここにもじゆずだまの実のおもひで
+・こころいれかへた唐辛いろづく
+　庭隅の芭蕉よみがへりあたらしい葉を
+　誰かを待つてゐる街が灯つた
+［＃ここで字下げ終わり］
+
+　八月廿九日［＃「八月廿九日」に二重傍線］　曇、微雨、そして晴。
+
+雨はしみ／″＼する、颶風がやつてこないでよかつた、どこも大したことはなかつたらしい、めでたし／＼。
+私自身でも釣に行くつもりだつたし、樹明君からも誘はれたので、正午のサイレンを聞いて出かける、椹野川尻の六丁といふ場所へ、そして樹明君とも出逢ふ、川は釣れないから沼へ行く、ぼつ／＼釣れる、日が傾いて今から釣れるといふ頃、私だけ先きに帰る、途中で六時のサイレンが鳴つた、帰つてすぐ料理、ゆつくりと焼酎の残りを味ひ、たらふく麦飯を食べた。
+釣場へ徃復二里あまり、四時間あまり釣つたので、ほどよく労れて睡ることが出来た。
+今日の獲物（樹明君から半分は貰つたのだが）――
+［＃ここから２字下げ］
+中鮒三つ、小鮒八つ（中鮒は刺身にし小鮒は焼く）。
+俳句二つ（今日は句作衝動をあまり感じなかつた）。
+［＃ここで字下げ終わり］
+釣は逃避行［＃「逃避行」に傍点］の一種として申分ない、そして釣しつつある私は好々爺［＃「好々爺」に傍点］になりつつあるやうだ、ありがたい。
+［＃ここから２字下げ］
+・なつかしい足音が秋草ふんでくる（樹明君に）
+・壁の穴からのぞいて蔓草
+　　　敬治君に三句
+　逢へば黙つてゐればしめやかな雑草の雨
+・秋めいた雨音も二人かうしてをれば
+　更けてかへるそのかげの涼しすぎる
+　　　追憶一句
+・お祭の甘酒のあまいことも
+　　　追加一句
+・草のあを／＼はれ／″＼として豚の仔が驚いてゐる
+［＃ここで字下げ終わり］
+
+　八月三十日［＃「八月三十日」に二重傍線］　曇、晴、そしてちよつと夕立。
+
+朝早々とＫ店員御入来、酒代請求である、財布をさかさまにしてやつと支払ふ、彼は好人物で、当代の商人としてはあまりに好人物である。
+昼虫のしづけさしめやかさ。
+米田雄郎兄の青天人［＃「青天人」に傍点］読後感を書きあげて送る。
+親しい友へのたよりに――
+［＃ここから２字下げ］
+……卒倒以来頓に心地明快、節酒も出来るやうになつて、といふよりも酒への執着がうすくなつて、生き方に無理がなくなつた［＃「生き方に無理がなくなつた」に傍点］ので、身心共にやすらかです（まだ、すこやかとはいひきれませんが）、とにかく、生きられるだけは生きて、死ぬるときは死ぬるのがよいではありませんか。……
+［＃ここで字下げ終わり］
+今日も午後は六丁釣場へ出かけた、先客一人、なか／＼上手に釣つてゐる、私もゆつくり構へこんだが、痔が痛むし、暑苦しいし、その上、近在の河童小僧連が押し寄せてうるさいので、早々切りあげて戻つた。
+［＃ここから２字下げ］
+獲物は、――鮒二つ、鯊一つ、そして句二つ。
+［＃ここで字下げ終わり］
+これでも私の晩酌の下物としては足りる、私の営養不足を補うて余りあるだらう。
+魚一皿、酒一本、それだけでまことにゆつたりとした気分である。
+雨の音が私を一しほ落ちつかせてくれる、雨に心をうたせてゐると何ともいへない気持になる。
+留守中に誰か来たやうだ、鏡が取りだしてあり、紙反古が捨てゝあり、そして障子が閉めかけてある（この障子が閉めかけてあることが、私を不快にし、その人を軽蔑せしめた！）、何とも書き残してはなかつた。
+鈴虫が鳴きだした、お前はつゝましい歌手だよ。
+［＃ここから１字下げ、折り返して２字下げ］
+　　　ぐうたら手記
+詩制作
+　感動――言葉――韻律。
+［＃ここで字下げ終わり］
+
+　八月三十一日［＃「八月三十一日」に二重傍線］　曇、微雨。
+
+朝が待遠かつた、ぐつすり寝て眼のさめたのが早過ぎた。
+たよりいろ／＼、しみ／″＼ありがたし。
+竹の葉にばら／＼雨のよろしさ。
+夜具整理、女の――主婦の心持が解つた。
+このごろ、御飯のうつくしさ［＃「御飯のうつくしさ」に傍点］、うまさ［＃「うまさ」に傍点］、ありがたさ［＃「ありがたさ」に傍点］。
+駅のポストまで出かけた帰途で、念珠玉草を見つけて、一茎持つて戻つて、机上の徳利に※［＃「插」でつくりの縦棒が下に突き抜けている、第4水準2-13-28］す、幼年時代の追憶が湧いた。
+石蕗二三株を鉢植にする、私の好きな草の一つである、私の食卓を飾つてくれるだらう。
+夕方になると晩酌の誘惑［＃「晩酌の誘惑」に傍点］がくる、とう／＼こらへきれないで、なけなしの銭で焼酎一合買うてきた。……
+［＃ここから１字下げ、折り返して２字下げ］
+　　　ぐうたら手記
+□考へると――
+　私の過去の悪行――乱酔も遊蕩も一切が現在の私を作りあげる捨石のやうなものだつた（といつたからとて、私は過去を是認しようとするのではないが）。
+　第一関を衝き破らなければ第二関に到り得ないのだ、第二関を突破しなければ第三関にぶつつからないのだ。
+　そして、第四関、第五関、第六関、第七関、……関門はいくつでもある。
+　それが人生なのだ。
+［＃ここで字下げ終わり］
+
+　九月一日［＃「九月一日」に二重傍線］　雨。
+
+ひえ／″＼として、単衣一枚ではうそ寒いので襦袢をかさねた、夜は蒲団をだして着た。
+丸火鉢の灰の中でごそ／＼動いてゐるものがある！　よく観れば、いつぞや落ちこんだ油虫だつた、痩せて弱つてゐる、三原山の火坑に落ちて死ねない人間のやうだ、憎い油虫だけれど――私はどうしても油虫だけは嫌いだが――何だかいぢらしくて憎めなかつた。
+大山君を昨日から待つてゐたのだが、仕事の都合で五日の朝訪ねるといふハガキがきたので、がつかりした、五日の朝よ、早く来れ、早く五日の朝となれ。
+辛うじて質屋の利子を払ふ。
+大根一本三銭也。
+柚子の香気うれし。
+何と賑やかな虫の合奏だらう。
+よくない酒でも何でも泥酔するまで呷らずにはゐない私だつた、さういふ私が八月十日以後は、よい酒を微酔するだけ味へば十分足りるやうになつた、一升の酒が二合三合となつたのである、酔ひたい酒から味ふ酒へ転じたのである［＃「酔ひたい酒から味ふ酒へ転じたのである」に傍点］、しみ／″＼酒は味ふべきである［＃「しみ／″＼酒は味ふべきである」に傍点］。
+嫌な、嫌な夢を二つも続けて見た、……寝苦しかつた、……醜い自分を自分で恥ぢた。……
+　　　　　　　△　　　　　　　　△　　　　　　　　△
+今日は関東大震災の記念日である。
+あの日のことを考へると、自分のだらしなさがはつきり解る。……
+あの場合、私がほんたうにしつかりしてゐたならば、私は復活更生してゐなければならなかつたのである。
+あれから十三年、私はいたづらに放浪し苦悩し浮沈してゐたに過ぎないではないか。
+九月一日、私はこゝで、最後の正しい歩調［＃「最後の正しい歩調」に傍点］を踏み出さなければならない。
+［＃ここから２字下げ］
+我昔所造諸惑業
+皆由無始貪瞋癡
+従身口意之所生
+一切我今皆懺悔　　　合掌
+［＃ここで字下げ終わり］
+［＃ここから１字下げ、折り返して２字下げ］
+　　　ぐうたら手記
+□昼は働き夜は睡る［＃「昼は働き夜は睡る」に傍点］。
+　これが人間の健全な情態であり、人生の幸福である。
+□梅干［＃「梅干」に傍点］はまことに尊いものだつた、日本人にとつては。
+□西洋人は獣に近く、日本人は鳥に近い［＃「日本人は鳥に近い」に傍点］。
+□酒、友、句。
+□不一不二の境地、空じ空じ空じてゆく心境。
+□私は一心一向に一乗道に精進する、一乗道とは即ち句作道である。
+　　　ぐうたら手記
+□句作は、私にあつては、解脱［＃「解脱」に傍点］であるが、一般の句作者にあつても、その作品は解脱的でなければならないと思ふ。
+　　　ぐうたら手記
+□私はいつも物を粗末にしないやうに心がけてゐるが、殊に、米［＃「米」に傍点］、水［＃「水」に傍点］、酒［＃「酒」に傍点］については細心である、それらを粗末に取扱うてゐる人々を見ると腹が立つ（立てゝはならない腹が！）。
+［＃ここで字下げ終わり］
+
+　九月二日［＃「九月二日」に二重傍線］　曇、そして晴。
+
+午後、あまり辛気くさいので出かける、ちよつと農学校に寄つて、樹明君と話したり新聞を読んだりする、それから上郷の釣場を偵察した、あまり恰好な場所でもない、水浴して帰庵、蓼数株を手折つたが、萎れて駄目だつた。
+野の草花はうれしいものである。
+夜はめづらしや、いつどこから来たのか、鼠が天井をあばれまはる、鼠もゐない草庵だつたが。
+今日は二百十日だつた、まことにおだやかな厄日であつた、めでたいめでたい。
+［＃ここから１字下げ、折り返して２字下げ］
+　　　ぐうたら手記
+□回光返照［＃「回光返照」に傍点］の徳。
+□生死を超え好悪を絶す、善悪なく愛憎なし。
+　『物みな我れに可［＃「物みな我れに可」に傍点］か［＃「か」に「マヽ」の注記］らざるなし［＃「らざるなし」に傍点］』
+［＃ここで字下げ終わり］
+
+　九月三日［＃「九月三日」に二重傍線］　曇、さすがに厄日前後らしい天候。
+
+食べる物がなくなつた、今日は絶食して身心を浄化する［＃「身心を浄化する」に傍点］つもりで、朝は梅茶三杯。
+前栽の萩――一昨春、黎坊とふたりで山から移植したもの――が勢よく伸びて、ぽつ／＼花をひらきはじめた、萩は好きな花、どこといつて見どころはないけれど、葉にも花にも枝ぶりにも捨てがたいもの、いや心をひかれるところがある。
+露草の一りん二りん、それも私の机上にはふさはしい。
+このごろの蚊の鋭さ、そして蝿のはかなさ。
+午前は郵便やさんを待ちつつ読書。
+午後は空腹に敗けて近在行乞、何となく左胸部が痛みだしたので、二時間あまりで止めた、米八合あまり頂戴したのはうれしい、さつそくその米を炊いて食べる、涙ぐましいほどおいしかつた、まことに一鉢千家飯、粒々辛苦実である、それを味はひつつ、感謝と反省とを新たにするところにも行乞の功徳［＃「行乞の功徳」に傍点］がある（私は行乞しないでゐると、いつとなく我がまゝになる、今日しみ／″＼行乞してよかつたと思つたことである）。
+今日の行乞相［＃「行乞相」に傍点］はすこし弱々しかつたが上々だつた、私としては満点に近かつた。
+ぢつと自分を省みて考へてゐると、過去がまるで遠い悪夢のやうである、明日の事は考へない、私は今日の私を生かしきれば［＃「今日の私を生かしきれば」に傍点］よいのである。
+本日の郵便物は――
+［＃ここから１字下げ］
+黎々火君から、十返花君から。
+病秋兎死君から最初の来信、それはうれしいかなしいさびしいものだつた。
+雄郎和尚からヱハガキと詩歌［＃「詩歌」に傍点］八月号。
+清臨句集、黎明［＃「黎明」に傍点］、これは亡児記念としての句集で、用紙は大版［＃「版」に「マヽ」の注記］若狭紙、りつぱなものであるが、誤植が比較的に多いのは惜しかつた。
+［＃ここで字下げ終わり］
+夕方、庵のまはりをぶら／＼歩いてゐると、蜘蛛の囲に大きな黒い蝶々がひつかゝつて、ばた／＼あえいでゐた、よく大人も小供もかういふものを見つけると、悪戯心や惻隠心から、その蝶々を逃がしてやるものである、蝶々は助かるが蜘蛛は失望する、私はかういふ場合には傍観的態度［＃「傍観的態度」に傍点］をとる、さういふ闘争は自然［＃「闘争は自然」に傍点］だからである、蝶の不運［＃「蝶の不運」に傍点］、そして蜘蛛の好運［＃「蜘蛛の好運」に傍点］、所詮免かれがたい万物の運命である、……しかし後刻もう一度、その蝶々に近づいて、よく見ると蜘蛛はゐない、蝶々がいたづらに苦しんでゐるのである、私は手を借してやつた、蝶はすつと逃げた、雑草の中へひそんだ、思へば運命は奇しきものである、彼女の幸福はどんなだらう。
+［＃ここから１字下げ、折り返して２字下げ］
+　　　ぐうたら手記
+□自然法爾［＃「自然法爾」に傍点］――私が落ちつくところはやつぱりここだつた。
+□身心清浄にして身心安泰なり、――これは私の実感である。
+［＃ここから５字下げ］
+　　×
+歯　　（三八九、扉の言葉）
+　　　　　　　（めくら滅法　歯なしがむしやら）
+鉄鉢と魚籃と　　　（層雲へ）
+　　――其中日記ところどころ――
+　　×
+酔心　　（椿へ寄稿）
+［＃ここで字下げ終わり］
+
+　九月四日［＃「九月四日」に二重傍線］　曇、――雨となる。
+
+宵からぐつすり［＃「ぐつすり」に傍点］寝たので早く眼が覚めて、夜の明けるのが待ち遠しかつた、これも老人の一得一失だらう。
+桔梗の末花を徳利に※［＃「插」でつくりの縦棒が下に突き抜けている、第4水準2-13-28］す、これが山桔梗だといいのだが。
+蓮芋を壺に活ける、これも水芋だとうれしいのだけれど。
+小雨がふる（まつたく秋雨だ）、今日の托鉢はダメかな、お客さんにあげる御飯がないのだが。
+火を燃やしつつ、いつでも火といふものを考へる、乞食はよく火を焚くといふ、火はありがたい、焚火はたまらなくなつかしいものだ。
+私には銭はなくなりがちだけれど、時間はいつもたつぷりある、両方あつては勿躰ない！
+すなほにつつましく［＃「すなほにつつましく」に白三角傍点］、――これが、これのみが私の生き方である、生き方でなければならない。
+街の子が来て、なつめをもいだ。
+大根を播く、今日はまことに種蒔日和だ。
+暮近く、敬治君ひよつこり来庵、渋茶をすゝりながら暫時話す、暮れてから、誘はれて（あまり気はすゝまないが、敬治君にはすまないが）、いつしよにＦへ行つて飲む、ほどよく酔うて、更けて戻つた。
+「その矩を踰えない［＃「その矩を踰えない」に傍点］」私であつたことは何よりもうれしい［＃「私であつたことは何よりもうれしい」に傍点］、私はとうとう私自身に立ちかへることが出来たのだ［＃「私はとうとう私自身に立ちかへることが出来たのだ」に傍点］、私はやうやう本然の私を取りかへしたのだ［＃「私はやうやう本然の私を取りかへしたのだ」に傍点］。
+山頭火が山頭火を祝福する［＃「山頭火が山頭火を祝福する」に傍点］！
+［＃ここから２字下げ］
+・もう枯れる草の葉の雨となり（丘関）
+・萩が咲きだしてたまたま人のくる径へまで（楠）
+・馬糞茸《クソダケ》も雑草の雨のしめやかな（門）
+　　　「死をうたふ」追加
+・死がちかづけばおのれの体臭（楠）
+［＃ここで字下げ終わり］
+
+　九月五日［＃「九月五日」に二重傍線］　雨――晴れてゆく。
+
+東の空が白むのを待ちかねて起きる。
+今日は大山さんが来てくれる日。
+浴衣一枚では肌寒く、手がいつしか火鉢へいつてゐる。
+待つ身はつらいな、立つたり坐つたり、そこらまで出て見たり、……正午のサイレンが鳴つた、すこしいらいらしてゐるところへ、酒屋さんが酒と酢とを持つてきた、そして間もなく大山君が、家嶋さんがにこ／＼顔をあらはした、……五ヶ月ぶりだけれど、何だか遠く離れてゐたやうだつた。……
+豆腐はいつものやうに大山さんみづからさげてきたけれど、実は其中庵裡無一物、米も醤油も味噌も茶も何もかも無くなつてゐることをぶちまける（大山さんなればこそである）、大山さん身軽に立ちあがつてまた街へ出かける、そして米と醤油とシヨウガと瓜と茄子と海苔とを買つてきてくれた、さつそくさかもり［＃「さかもり」に傍点］がはじまる、うまい／＼、ありがたい／＼（家嶋さんは最初だから、多少呆れてゐるやうだつた）、酒はある、下物もある、話は話しても話しても尽きない、友情がその酒のやうにからだにしみわたり、室いつぱいにたゞよふ、まつたく幸福だ。
+料理は文字通りの精進だつた、そしてとてもおいしかつた。
+雑草の中へ筵をしいて、二人寝ころんだところを家嶋さんがパチンとカメラにおさめた。
+家嶋さんからは、竹の葉の茶［＃「竹の葉の茶」に傍点］のことを教へてもらつた（笹茶［＃「笹茶」に傍点］と名づけたらよいと思ふ）。
+間もなく夕暮となる、そこらまで見送る、わかれはやつぱりかなしい、わかれてかへるさびしさ。
+かへつて、ざつとかたづけて、御飯を炊いて、また一本つけて、ひとりしみ／″＼人生を味ふ［＃「ひとりしみ／″＼人生を味ふ」に傍点］、そしてぐつすりとねむつた。
+大山さん心づくしの一瓶、それは醗酵させない葡萄液である、滋養豊富、元気回復の妙薬ださうである、この一瓶で山頭火はよみがへるだらうことに間違はない、日々好日だけれど、今日は好日の好日［＃「好日の好日」に傍点］だつた、合掌。
+もう一項附記して置きたいことがある、庵としての御馳走は何もなかつたが、雑草を見て貰つたこと、一鉢千家飯［＃「一鉢千家飯」に傍点］を食べて貰つたことは、私としてまことにうれしいことであつたのである。
+［＃ここから２字下げ］
+　　　黎々火君に
+・月へ、縞萱の穂の伸びやう
+　　　澄太君に
+・待ちきれない雑草へあかるい雨
+　伸びあがつて露草咲いてゐる待つてゐる
+　そこまで送る夕焼ける空の晴れる
+・あんたがちようど岩国あたりの虫を聴きつつ寝る
+　　　改作
+・秋風の、水音の、石をみがく（丘）
+・機関庫のしづもれば昼虫のなく
+・これが山いちじくのつぶらなる実をもいではたべ（門）
+・風ふく草の、鳴きつのる虫の、名は知らない
+・つく／＼ぼうしいらだゝしいゆふべのサイレン
+・厄日あとさきの物みなうごく朝風
+［＃ここで字下げ終わり］
+
+　九月六日［＃「九月六日」に二重傍線］　晴。
+
+さびしいけれどしづやかで。――
+午後は托鉢をやめて魚釣に行く、行くことは行つたが、なか／＼釣れないし、餌もなくなつたし、労れてもゐるので、早々帰つた、そしてその雑魚を肴に昨日のおあまりを頂戴したことである。
+［＃ここから２字下げ］
+小鮒三つ、句二つ。
+［＃ここで字下げ終わり］
+［＃ここから１字下げ、折り返して２字下げ］
+　　　ぐうたら手記
+□拾ふに値するもの［＃「拾ふに値するもの」に傍点］
+　行乞して、煙草がなくて、私はバツトの吸殻を拾うて喫んだ、そしてつく／″＼自分を省みたことである、私は捨てられたものを拾うて生きてゆく人間であればよい！
+□拒まれるに値するもの［＃「拒まれるに値するもの」に傍点］
+　これも行乞中に感じたことであるが、すげなく断られるのがあたりまへだ［＃「あたりまへだ」に傍点］、米でも銭でも与へられるのは、袈裟と法衣とに対してだ、私は拒まれるに相当する人間である。
+［＃ここで字下げ終わり］
+
+　九月七日［＃「九月七日」に二重傍線］　晴――曇――風。
+
+午前中読書。
+午後は托鉢、嘉川を歩く、二時間余。
+［＃ここから２字下げ］
+今日の功徳　　　米、一升三合　　銭、十四銭。
+［＃ここで字下げ終わり］
+今日の行乞相もよかつた、ぢやけん［＃「ぢやけん」に傍点］に手をふる女もあれば、わざ／＼自転車から下りて下さる男もある、世はさま／″＼、人はいろ／＼である、私は寂然不動［＃「寂然不動」に傍点］であるが。
+宵から寝た（石油が少ないからでもある）。
+［＃ここから２字下げ］
+　　　読んだものの中から
+（木曽節）　月の出頃と約束したに
+　　　　　　月は山端にわしやここに
+（伊那節）　葉むら若い衆よう来てくれた
+　　　　　　さぞや濡れつら豆の葉で
+［＃ここで字下げ終わり］
+
+　九月八日［＃「九月八日」に二重傍線］　風、風、風。
+
+しづかに読書しつつ、敬君を待つ。
+ちよつと農学校へ行く、樹明君は出張不在、Ｏさんに、敬君来庵の約束を托言して、すぐ戻る、ついでに新聞を読ませて貰つた。
+新聞［＃「新聞」に傍点］といふものは現代生活からは離れないものになつてゐる、それからも私は離れてしまつてゐる、時々読みたくなるのは、――機会さへあれば、読まずにはゐられないのは、あまりにあたりまへ［＃「あたりまへ」に傍点］だらう。
+いつからとなく野鼠がやつて来てゐるらしいが、食べる物がないので、昨夜は新らしく供へた仏前のお花を食べてしまうてゐる、私は（そして仏さまも）微苦笑する外なかつた。
+油虫だつて同様だ、食べる物がないものだから、マツチのペーパーを舐めてゐる、それには糊の臭があるとみえて。
+待つても待つても、敬君は来ない、待ちくたびれて、洗濯したり、畑に肥料をやつたり。
+夕食後、石油がないから、蚊帳の中に寝ころんでゐると、やつと、だしぬけに、敬君来庵、酒も罐詰も来た、私一人が飲んで食べて、敬君は話しつづけて、そしてだいぶおそくなつたけれど、またいつしよにＦへ、――また飲んで饒舌つて、そして休み休みいつしよに戻つて来た、ぐつすり寝た、よい睡眠だつた。
+［＃ここから１字下げ、折り返して２字下げ］
+　　　ぐうたら手記
+□法衣をきて釣竿をかついで出かけたら面白からうと樹明君がひやかしたが、私は鉄鉢を魚籃としたならばもつと面白いだらうと考へてゐる。
+□私の生活を語れば――
+［＃ここから３字下げ］
+雑炊、佃煮。
+孤独、単純。
+［＃ここで字下げ終わり］
+
+　九月九日［＃「九月九日」に二重傍線］　雨、さすがに厄日前後で雲行不穏。
+
+よく飲んでよく寝た朝である、お天気は悪いが、私たちは快適であつた。
+朝飯のうまさ、いや、朝酒のうまさ。
+敬君の山口行を駅まで見送つて、それから買物たくさん、――菜葉、石油、煙草、ハガキ――此金高三十四銭也。
+ああ、しづかだ、しづかな雨だ。
+午後、Ｋの店員が、酒と豆腐と小鯛とを持つてきて、手紙をさしだした、樹明君が五時頃来庵するから仕度をしておいてくれとのことである、よしきたとばかり、豆腐はヤツコに、魚は焼いて、そしてチビリ／＼やつてゐると、樹明君がすこし疲れたやうな顔をあらはした、さしつさゝれつ敬君を待つたが、とう／＼駄目だつた、そして樹明君は暮れきらないうちに帰宅した。
+めでたいわかれだつたけれど、少々淋しい別れでもあつた。
+酒が、昨日の分と今日の分とを合せて、一升ばかり残つてゐる、さてもかはればかはるものであるわい！
+［＃ここから１字下げ、折り返して２字下げ］
+　　　ぐうたら手記
+□独楽［＃「独楽」に傍点］ではない、楽独［＃「楽独」に傍点］である。
+［＃ここで字下げ終わり］
+
+　九月十日［＃「九月十日」に二重傍線］　曇、をり／＼雨、どうやら晴れさうな。
+
+そゞろ寒い、或は読み、或は考へ、或は眺め、そして清閑を楽しむ。
+耳を澄ますと、どこやらで鉦たたき（？）が鳴いてゐる。
+晩酌をゆつくりやつてから近在散歩。
+苅萱を手折つてきて活ける、苅萱は好きだ。
+きたない、うるさい、小さな百姓家だつたけれど、朝顔の蔓を垣根に這はすことは忘れてゐない。
+夜が更けると雲が散つて月がさやけく照つた、虫の合唱が澄んでくる、私の心も澄んでくる。
+［＃ここから２字下げ］
+　郵便も来ない日のつくつくぼうし
+・風が雨となる案山子を肩に出かける
+・電線とほく山ふかく越えてゆく青葉
+・竹の葉のすなほにそよぐこゝろを見つめる
+　昼ふかく虫なく草の枯れやうとして
+・てふてふもつれつつかげひなた（楠）
+・風鈴しきり鳴る誰か来るやうな
+［＃ここで字下げ終わり］
+
+　九月十一日［＃「九月十一日」に二重傍線］　秋晴、久しぶりの青空だつた。
+
+あれやこれやと旅仕度をする（来月来々月の旅を予想して）、旅をおもひつつ、旅の用意をととのへることはまことに楽しいものである、他人には解らないで、自分一人の味ふ気分である。
+昨日漬けた菜漬のうまさ、貧しい食卓がいきいきとする。
+やつと郵便やさんが来てくれた、いろ／＼あつたが、とりわけてうれしかつたのは――
+［＃ここから１字下げ］
+澄太君の手紙（切手と先日の写真とが封入してあつた）。
+陶房日記（著者無坪その人に会つたやうな感じ）。
+［＃ここで字下げ終わり］
+ゆふべ、駅のポストまで。
+ちらほら彼岸花が咲きだしてゐる、なるほど彼岸が近づいてきた。
+百舌鳥も出てきた、彼の声もまだ鋭くない。
+身心おちついてほがらか［＃「身心おちついてほがらか」に傍点］である、法衣の肩に釣竿をのせても、その矛盾を感じないほどである。
+十四日の月がうつくしかつた、寝床でまともにその光を浴びつつ睡つた。
+［＃ここから４字下げ］
+其中漫筆
+［＃ここから６字下げ］
+其中一人として、漫然として考へ、漫然として書き流したものである。
+［＃ここから１字下げ］
+人間は人間です、神様でもなければ悪魔でもありません、天にも昇れないし、地にも潜れません、天と地との間で、泣いたり笑つたりする動物です。……
+［＃ここで字下げ終わり］
+
+　九月十二日［＃「九月十二日」に二重傍線］　晴、曇、仲秋、二百二十日。
+
+いつものやうに早起きする、そしていつものやうに水を汲んだり、御飯を炊いたり、掃除したり、本を読んだり、寝たり起きたり。……
+大空のうつくしさよ、竹の葉を透いて見える空の青さよ、ちぎれ雲がいう／＼として遊ぶ。
+陶房日記［＃「陶房日記」に傍点］を読む、その味は無坪その人の味だ。
+句稿整理、書かねばならない原稿を書く。
+――絶後蘇へる――といふ禅語がある、私の卒倒は私を復活させたのである。
+午後、蜆貝でも掘るつもりで川尻へ行く（魚釣しようにも鉤がないし蚯蚓も買へないから）、一時間ばかり水中にしやがんで五合ばかり掘つた、これ以上は入用がないので、土手の青草をしいて、渡場風景を眺める、ノンビリしたものである。
+蜆貝といふものはとても沢山あるものだと思ふ、商買［＃「買」に「マヽ」の注記］人が二人、金網道具ですくうてゐたが、半日で三斗位の獲物があるさうだ、いづれどこか貝類をめづらしがる地方へ送るのだらう、帰途、かねて見ておいたみぞはぎ［＃「みぞはぎ」に傍点］を持つてかへつて活ける、野の花はうつくしい。
+一日留守にしておいても何一つ変つてゐない、出たときのまゝである、今日は柿の葉が一枚散り込んでゐるだけ！
+蜆貝汁をこしらへつゝ、私は私の冷酷、いや、人間の残忍といふことを考へずにはゐられなかつた。
+仲秋無月ではあるまいけれど、雲が多いのは残念だ、思はず晩酌を過して、ほんたうに久しぶりに、夜の街を逍遙する、例の如くＹさんから少し借りる、あちらで一杯、こちらで一杯、涼台に腰をかけさせて貰つて与太話に興じたりする、そのうちに幸か不幸かＨ君に会ふ、Ｍ食堂へ誘はれて這入る、女給よりも刺身がうまかつた！　酔歩まんさんとして戻つたのは三時頃か、アルコールのおかげで前後不覚。
+……酔うても乱れない［＃「酔うても乱れない」に傍点］……山頭火万歳！
+雲がいつしかなくなつて月が冴えてゐたことは見逃さなかつた、仲秋らしい月光に照らされて、私は労れてゐたけれど幸福だつた。
+［＃ここから２字下げ］
+・とうふやさんの笛が、もう郵便やさんがくるころの秋草
+・すすきすこしほほけたる虫のしめやかな
+　砂掘れば水澄めばなんぼでも蜆貝
+　食べやうとする蜆貝みんな口あけてゐるか
+　秋の蚊のするどくさみしくうたれた
+　徳利から徳利へ秋の夜の酒を
+・ひとりいちにち大きい木を挽く
+　いつとなく手が火鉢へ蝿もきてゐる
+　ゆふべのそりとやつてきた犬で食べるものがない
+・秋雨ふけて処女をなくした顔がうたふ
+・何がこんなにねむらせない月夜の蕎麦の花
+・こゝろ澄ませばみんな鳴きかはしてゐる虫
+・おのれにこもればまへもうしろもまんぢゆさけ
+　出れば引く戻れば引く鳴子がらがら
+・ひとりとひとりで虫は裏藪で鉦たたく
+　風が肌寒い新国道のアイスキヤンデーの旗
+・人のつとめは果したくらしの、いちじくたくさんならせてゐる
+　いちめんの稲穂波だつお祭の鐘がきこえる
+　厄日あとさきの雲のゆききの、塵芥《ゴミ》をたくけむり
+［＃ここで字下げ終わり］
+
+　九月十三日［＃「九月十三日」に二重傍線］　晴、曇、雨。
+
+少々頭が重い、胃も悪い、昨夜の今朝［＃「昨夜の今朝」に傍点］だから仕方がない、やめておくれよコツプ酒だけは、――と自分で自分にいひきかせて微苦笑する。
+山の先生か、山の鴉か、これも微苦笑物だ。
+夕立がさつときて気持を一新してくれた、涼風といふよりも冷気が身にしみる。
+新秋の風物は、木も草も山も空も人もすが／＼しい。
+今月に入つてから初めて生魚を買ふ、雑魚十銭（先月は一度塩鱒の切身を十一銭で買つたゞけだつた）。
+障子をあけてはゐられないほど秋風が吹く、蓮の葉の裏返つた色にも秋の思ひが濃くゆらぐ。
+前のＷさんから鶏頭数株を貰つてきて、前庭のこゝそこに植ゑる、こゝにも秋が色濃くあらはれるだらう。
+夜おそく、酔樹明君がやつてきた、煙草二三服吸うて帰つていつた、君の心持は解る、酒を飲まずにはゐられない心持、飲めば酔はずにはゐられない心持、そして酔へば乱れずにはゐない心持――その心持は解りすぎるほど解る、それだけ私は君を悲しく思ひ、みじめに感じる。
+有仏処勿住［＃「有仏処勿住」に傍点］、無仏処走過［＃「無仏処走過」に傍点］、である、樹明君。
+［＃ここから２字下げ］
+・わかれて遠い瞳が夜あけの明星
+・草ふかく韮が咲いてゐるつつましい花
+　植ゑるより蜂が蝶々がきてとまる花
+・日向ぼつこは蝿もとんぼもみんないつしよに
+・更けると澄みわたる月の狐鳴く
+・朝月あかるい水で米とぐ
+［＃ここで字下げ終わり］
+
+　九月十四日［＃「九月十四日」に二重傍線］　曇、ひやゝか。
+
+朝は大急ぎで、原稿を書きあげて、層雲社へ送つた、駅のポストまで行つた。
+尻からげ［＃「尻からげ」に傍点］！　私はいつからとなく、尻からげする癖を持つやうになつた、尻をからげることはよろしい、尻をまくること［＃「尻をまくること」に傍点］はよろしくないが。
+曼珠沙華を机上に活ける、うつくしいことはうつくしいけれど、何だか妖婦に対してゐるやうな。
+午後は近郊散策、これからはぶらりぶらりとあてなく歩くのが楽しみだ。
+今明日は上郷八幡宮の御祭礼、明日明後日はまた中領八幡様のお祭、提灯を吊り旗をかゝげ、御馳走をこしらへ、よい着物をきて、――秋祭風景はけつかう／＼。
+戻ると、あけておいた障子がしめてある、さては昨夜の樹明再来だなと、はいつてみると案の定、ぐうぐう寝てゐる、昨日から御飯を食べないからと鮨をたくさん持参してゐる、私もお招［＃「招」に「マヽ」の注記］伴した、暮れかけてから、おとなしく別れる。……
+焼酎一合と鮨六つとで腹いつぱい心いつぱいになつて、蚊帳も吊らないで眠つてしまつた、夜中に眼覚めて月を観た。
+食べたい時に食べ［＃「食べたい時に食べ」に傍点］、寝たい時に寝る［＃「寝たい時に寝る」に傍点］、これが其中庵に於ける山頭火の行持だ。
+［＃ここから２字下げ］
+・日向はあたたかくて芋虫も散歩する
+・朝は露草の花のさかりで
+・身にちかく鴉のなけばなんとなく
+・くもりしづけく柿の葉のちる音も
+・萩さいてではいりのみんな触れてゆく
+　聟をとるとて家建てるとて石を運ぶや秋
+　秋空ふかく爆音が、飛行機は見つからない
+［＃ここで字下げ終わり］
+
+　九月十五日［＃「九月十五日」に二重傍線］　晴、まこと天高し。
+
+身辺整理、整理しても、整理しても整理しつくせないものがある。
+待つともなく待つてゐたコクトオ詩抄［＃「コクトオ詩抄」に傍点］が岔水居からやつて来た、キング九月号を連れて。
+午後は近郊散策。
+このあたりはすべてお祭である、家々人々それ／″＼にふさはしい御馳走をこしらへて食べあふ、うれしいではないか。
+ゆふべ何となくさびしいので街へ出かけた、山田屋でコツプ酒二杯二十銭、見切屋で古典二冊二十銭、酒は安くないが、本はあまりに安かつた。
+コツプ酒のおかげで、帰庵すると直ぐ極楽へ行くやうに熟睡に落ちたが、覚めて胃がよくないのは是非もない、やめておくれよコツプ酒――と、どこやらで呟く声が聞えるやうだつた。
+病んでもクヨ／＼しない［＃「病んでもクヨ／＼しない」に傍点］、貧乏してもケチ／＼しない［＃「貧乏してもケチ／＼しない」に傍点］、さういふ境涯に私は入りたいのだ。
+［＃ここから２字下げ］
+・食べるものはあるトマト畑のトマトが赤い
+・水のゆたかにうごめくもののかげ
+・空の青さが樹の青さへ石地蔵尊
+・秋晴れのみのむしが道のまんなかに
+　　　市井事［＃「市井事」に傍点］をうたふ
+・彼氏花を持ち彼女も持つ曼珠沙華
+　秋の夜ふけて処女をなくした顔がうたふ（改作）
+・なんと大きな腹がアスフアルトの暑さ
+［＃ここで字下げ終わり］
+
+　九月十六日［＃「九月十六日」に二重傍線］　朝は秋晴秋冷だつたが、それから曇。
+
+今朝の御飯は申分のない出来だつた（目下端境期だから、米そのものはあまりよくない）、身心が落ちつくほど御飯もほどよく炊ける［＃「身心が落ちつくほど御飯もほどよく炊ける」に傍点］。
+もう米がなくなつたから（銭はむろん無い）、今日は托鉢しなければならないのだけれど、どうも気がすゝまない、といふ訳で、早目に昼飯をしまうて椹野川尻に魚釣と出かける、釣る人も網打つ人もずゐぶん多い、自転車がそこにもこゝにも乗り捨てゝある、私の釣は短かい、二時間ばかりで帰つて来た、運動がてらの、趣味興味以上でも以外でもないのだから。
+［＃ここから２字下げ］
+今日の獲物は、小鮒二、小鯊五。
+［＃ここで字下げ終わり］
+途中、捨猫の仔がまつはり鳴くには閉口した、私が旅しないのだつたら、連れて戻つて飼ふのだけれど。
+宵からぐつすりと寝た、ランプも点けなかつた。
+夜中に眼が覚めて、雨声虫声の階［＃「階」に「マヽ」の注記］調を傾聴した。
+［＃ここから２字下げ］
+・をさない瞳がぢつと見てゐる虫のうごかない
+・くもりつめたく山の鴉の出てきてさわぐ
+・てふてふひらひらとんできて萩の咲いてゐる
+・いちにち雨ふる土に種子を抱かせる
+［＃ここから１字下げ］
+　　　其中漫筆
+行乞と魚釣、鉄鉢を魚籃として。
+殺活一如［＃「殺活一如」に傍点］　与奪一体。
+酒徳利に酒があるならば、米櫃に米があるならば。
+［＃ここで字下げ終わり］
+
+　九月十七日［＃「九月十七日」に二重傍線］　雨、一日降り通した。
+
+雨漏りはわびしいものである、秋雨はまたよく漏るものだと思ふ。
+夜が長くなつて日が短かくなつた、朝晩のサイレンを聞く時さう感じる。
+雨はほんたうに私を落ちつかせる、明日の米はないけれど、しづかに読書。
+終夜ほとんど不眠、夜明け前にとろ／＼とした。
+二十日月が明るかつた。
+露命をつなぐ［＃「露命をつなぐ」に傍点］――それで私はけつかうだ。
+［＃ここから１字下げ］
+　　　其中漫筆
+芸術は熟してくると、
+さび［＃「さび」に傍点］が出てくる、冴え［＃「冴え」に傍点］が出てくる、
+凄さ［＃「凄さ」に傍点］も出てくる、
+そこまでゆかなければウソだ、
+日本の芸術では、殊に私たちの文芸では。
+［＃ここで字下げ終わり］
+
+　九月十八日［＃「九月十八日」に二重傍線］　晴。
+
+秋空一碧、風はまさに秋風。
+防空演習の日。
+托鉢しなければならないのであるが、どうも気がすゝまない、Ｍ店でコツプ酒一杯ひつかけて、Ｈ店で稲荷鮨十ばかり借りて来て休養、読書、思索。
+飛行機の爆音が迫る、砲声がとゞろく、非常報知のサイレンが長う鳴る……非常時風景の一断面だ。
+午後、畑を耕やす、つく／″＼自分の俯［＃「俯」に「マヽ」の注記］甲斐なさが解る、青唐辛を採つて佃煮にする。
+今夜も昨夜のやうに蚊帳を吊らなかつた、肌寒い、燈火管制で点燈しない。
+うつくしい有明月夜だつた、狐が鳴いた。
+［＃ここから２字下げ］
+・晴れきつて青さ防空のサイレンうなる
+　しきりに撃ちまくる星がぴかぴか
+・燈火管制の、風が出て虫が鳴きつのる
+　　　燈火管制
+・まつくらやみで煮えてる音は佃煮
+・ぴつたりけさも明星がそこに
+［＃ここで字下げ終わり］
+
+　九月十九日［＃「九月十九日」に二重傍線］　快晴。
+
+子規忌［＃「子規忌」に傍点］、子規逝いてから三十四年の今日である、俳壇の推移展開を考へる。――
+やうやく酔心［＃「酔心」に傍点］を書きあげて椿［＃「椿」に傍点］へ送つた、安心。
+Ｈさんからうれしい手紙が来た、般若湯代が入れてあつた、さつそく湯田へ行く、山口を歩く、飲む食べる、……友のありがたさ、湯のありがたさ、酒のありがたさ、飯のありがたさ……何もかもありがたかつた、そして買物いろいろさまざま、それを肩にして、帰途、農学校へ寄つて、今日は私が一升買つた、ちようど宿直の樹明君とＩ君と三人で畜舎の宿直室で飲んだが、ちり［＃「ちり」に傍点］がうまかつた、帰庵したのは十時頃か、少々飲みすぎて苦しかつた。
+過ぎる［＃「過ぎる」に傍点］は足らない［＃「足らない」に傍点］よりもいけない。
+［＃ここから２字下げ］
+・ばさりと柿の葉のしづけさ
+　つめたい雨のふりそゝぐ水音となり
+［＃ここで字下げ終わり］
+
+　九月二十日［＃「九月二十日」に二重傍線］　曇、雨となる。
+
+昨夜の今朝だから腹工合がよろしくない、自業自得、観念する外はない。
+斬れば血が出る［＃「斬れば血が出る」に傍点］、――涙は出なくなつても、血は出るものである、生きてゐるかぎりは、――これは昨夜、酔中下駄の緒をすげるとて足を過つて傷けたときの感想である。
+神湊の惣参居士が、わざ／＼私のために般若心経講義（高神覚升［＃「升」に「マヽ」の注記］師）を取寄せて、送つて下さつた、感謝以上のものである。
+こほろぎの声がだん／＼鋭くなる。……
+午後、街へ出て、種物、染粉、柿渋などを買ふ。
+今日もＹ酒屋のＳちやんがやつてきた（昨日も留守中に来たさうである）、若い人には若い人としてのよさがある、しつかりやりたまへ。
+［＃ここから１字下げ］
+　　　其中漫筆
+　　　必然性（歴史的）
+現実　　　　　　　　　　　　文学
+　　　可能性（社会科学的）
+［＃ここで字下げ終わり］
+
+　九月廿一日［＃「九月廿一日」に二重傍線］　雨、彼岸。
+
+見わたすと、柿がだいぶ色づいた、柿がうれてくるほど秋はふかくなるのだ。
+秋蝿の、いや、私の神経過敏に微苦笑する。
+つくつくぼうしの声も弱々しくなつて、いつともなく遠ざかつてゆく。
+今日の買物は、――鯖一尾十銭、胡瓜一つ三銭、そして焼酎一合十銭也。
+今日の幸福［＃「今日の幸福」に傍点］二つ、――般若心経講義を読んだこと、晩酌がうまかつたこと。
+夕方、見馴れない人が来たと思つたら、国勢調査の下調査だつた、私のやうなものでも、現代日本人の一人であるに相違ない。
+かまきりが、きり／″＼すが、座敷へあがつてくる、やがてこうろぎもあがつてくるだらう。
+［＃ここから１字下げ］
+　　　其中漫筆
+独酌の味。
+対酌の味。
+
+
+母、――盗癖、――裸――梨の木。
+子、――一銭、――嘘――真実。
+田舎をまはる昔ながらの琵琶法師［＃「琵琶法師」に傍点］。
+村のデパート［＃「村のデパート」に傍点］。
+［＃ここで字下げ終わり］
+
+　九月廿二日［＃「九月廿二日」に二重傍線］　曇。
+
+二百三［＃「三」に「マヽ」の注記］十日もまづ無事で珍重々々。
+百舌鳥の声が耳につくやうになつた。
+子供が竹刀を揮つて曼珠沙華をばさり／＼と撫斬りしてゐる、私にもさういふ追憶がある、振舞はちと残酷だけれど、彼等の心持にはほゝゑましいものがある。
+ゴム長靴を穿いて、バケツを提げて、豆腐買ひに出かける、自分ながら好々爺［＃「好々爺」に傍点］らしく感じる。
+今晩は晩酌なし、やりたくないのぢやない、やりたいのだけれどやれないのだ、むりにやるには及ばない。
+やうやく雲がきれて夕日が射してきた。
+［＃ここから１字下げ］
+　　　其中漫筆
+何をたべてもおいしく［＃「何をたべてもおいしく」に傍点］、何を為てもおもしろく［＃「何を為てもおもしろく」に傍点］、何を見てもたのしく［＃「何を見てもたのしく」に傍点］、何を聞いてもたのしく［＃「何を聞いてもたのしく」に傍点］。
+［＃ここで字下げ終わり］
+
+　九月廿三日［＃「九月廿三日」に二重傍線］　曇、秋冷、野分らしく吹く。
+
+朝から寝ころんで漫読とはゼイタクな！
+午後は魚釣とはまたゼイタクな。
+小沙魚六つ、ゴリ五つ、いつものやうにあまり釣れない、あまり釣らうとも思はないが。
+早々帰庵して、不運な彼等を火焙りにして（私としては荼毘に附して、といつた方がよからう）、一杯やつた。
+今日はうれしや晩酌がある［＃「今日はうれしや晩酌がある」に傍点］、――何と其中庵の山頭火にふさはしい幸福ではないか。
+それから（このそれから［＃「それから」に傍点］がちつとばかりよくなかつたが）、駅のポストまで、それからＹ屋へ、Ｍ店へ、Ｆ屋へ、等々で飲み過ぎた（つまり、多々楼君の温情を飲んだ訳である、貨幣として八十銭！）。
+飲み過ぎて歩けないから、無賃ホテル（駅の待合室）のベンチで休息した、戻つたのは夜明近かつた。
+山頭火万歳！
+
+　九月廿四日［＃「九月廿四日」に二重傍線］　暴風雨。
+
+今日は彼岸の中日だが、これではお寺参りも出来まい、鐘の音はちぎれて鳴るが。
+昨日、魚釣の帰途、採つて戻つた紫苑男［＃「男」に「マヽ」の注記］郎花を活ける、やつぱり秋の草花［＃「秋の草花」に傍点］だな。
+午後、風雨の中をＳさん来訪、酒持参で、つゞいて樹明君来庵、豆腐と野菜と魚とを持参して、御馳走、御馳走、ちり［＃「ちり」に傍点］はうまいな、ほどよく酔うて夕方解散。
+少々飲み過ぎ食べ過ぎたやうだ。
+［＃ここから２字下げ］
+・風ふく萩はゆれつつ咲いて
+・藪風ふきつのる窓の明暗（関）
+・風を聴く鳴きやめない虫はゐる
+　雨ふるなんぼ障子をたゝいてもはゐ［＃「ゐ」に「マヽ」の注記］れない虫で
+　　　病中
+　そこらまできて鉦たゝき
+［＃ここで字下げ終わり］
+
+　九月廿五日［＃「九月廿五日」に二重傍線］　曇、雨、晴。
+
+ありがたや朝酒がある（昨日のおあまり）。
+ほろ酔の眼に、咲きこぼれた萩が殊にうつくしい。
+買物いろ／＼――
+米（これは借）、石油十銭、餅十銭、魚十銭。
+やうやくにして晴れた空を仰ぎ、身心のおとろへを覚えた、これでは行乞の旅も覚束ない。
+夕方、Ｎさんといふ青年来訪、しばらく漫談した、いつぞや酔中Ｆ喫茶店で出逢つた人である。
+寝苦しかつた、妙な夢を見た。
+［＃ここから２字下げ］
+・花のこぼるゝ萩をおこしてやる
+・野分あしたどこかで家を建てる音
+・からりと晴れて韮の花にもてふてふ
+・歩けるだけ歩く水音の遠く近く
+・燃えつくしたるこゝろさびしく曼珠沙華
+［＃ここで字下げ終わり］
+
+　九月廿六日［＃「九月廿六日」に二重傍線］　晴、時々曇つてはしぐれる。
+
+朝寝した、寝床から出ないうちに六時のサイレンが鳴つた。
+午後、近在を散歩する、三里ぐらゐは歩いたらう、途中で、軽い狭心症的発作が起つた。
+帰つてくると、誰やら来てゐる、昨日の中村君だ、縁側で文芸談、等々。
+花めうが［＃「花めうが」に傍点］（？）が最初の花をつけた、まことに清楚なすがたである、これをわざ／＼持つてきて植ゑてくれた黎坊に報告して喜ばせなければなるまい（一昨春）。
+気取るな［＃「気取るな」に傍点］、気構へを捨てろ［＃「気構へを捨てろ」に傍点］！
+夜中、行李から冬物をとりだすとき、油虫七匹ほどたゝき殺した、そしてそれが気になつて、とりとめもない事を考へつゞけた、何といふ弱虫だ、私は油虫よりも弱い。
+［＃ここから２字下げ］
+・咲きつづく彼岸花みんな首を斬られてゐる
+　うつくしい着物を干しならべ秋晴れ
+・百舌鳥が鋭くなつてアンテナのてつぺん
+・風のつめたくうらがへる草の葉
+・秋晴れて草の葉のかげ
+［＃ここで字下げ終わり］
+
+　九月廿七日［＃「九月廿七日」に二重傍線］　晴。
+
+朝寒、米磨ぐ水がやゝつめたく、汲みあげる水がほのかにあたゝかい。
+夏物をしまうて冬物をだす、といつたところでボロ二三枚だが。
+今日も午後は近在散策。
+過去をして過去を葬らしめる［＃「過去をして過去を葬らしめる」に傍点］、――それが観念としてでなく体験としてあらはれてきた［＃「それが観念としてでなく体験としてあらはれてきた」に傍点］。
+夕方、樹明君が酒と肴とを奢ることになつて用意してゐると、敬君がまた酒と肴とを持つて来た、三人楽しく飲み且つ語る、過去の物語が賑つた、十時近くなつて快く散会、近来うれしい会合だつた、ぐつすり前後不覚の睡眠がめぐまれた。
+［＃ここから１字下げ、折り返して２字下げ］
+　　　其中漫筆
+□こんにやく［＃「こんにやく」に傍点］といふもの
+　　　　　（豆腐に対比して）
+□物事をアテにすることは、あんまりよくないが、アテがなくては生活は出来ないが、アテが外れても困らない心がまへ［＃「アテが外れても困らない心がまへ」に傍点］は持つてゐなければなるまい。
+［＃ここで字下げ終わり］
+
+　九月二十八日［＃「九月二十八日」に二重傍線］　まことに秋晴。
+
+昨夜の今朝でも身心ほがらか。
+油虫め、弱々しくなつてゐる、よろ／＼してゐる、見つかり次第、たゝき殺す私はじつさい暴君だ。
+待つているＫからの手紙が来ない、湯田行乞と心をきめて、九時頃から出かける。
+椹野川土手づたひにぼつり／＼と歩く、山の色も水の音もすべて秋。
+湯田競馬へいそぐ慾張連中がぞろ／＼。
+湯田行乞四時間。
+［＃ここから２字下げ］
+今日の功徳、　　米、一升八合
+　　　　　　　　銭、四十四銭
+　　　　　　　　句、七章
+［＃ここで字下げ終わり］
+行乞は省みて恥づかしいけれど、インチキ商買をするよりもよいと思ふ（私はインチキはやらうと思つたつてやれないけれど）。
+［＃ここから２字下げ］
+昼飯の代りとして、焼酎半杯、六銭
+　　　　　　　　　焼饅頭三つ、五銭
+［＃ここで字下げ終わり］
+それから千人湯［＃「千人湯」に傍点］にずんぶり、ああありがたい。
+四時過ぎて周二居訪問、いつものやうに本を借り御馳走になる、そして句会。
+まことによい一夜であつた、Ｓ夫人のへだてなさ、Ｋ君の若さ、Ｈ嬢のつゝましさ。
+散会したのは十時すぎ、いつもの癖でおでんやで飲み足す（鈴木さん、すみません）、そしてもう汽車もバスもなくなつたので、駅のベンチで寝る。
+［＃ここから１字下げ、折り返して２字下げ］
+　　　其中漫談
+　　　　　九［＃「九」に「マヽ」の注記］月廿八日の行乞中の特種――
+□西村のお嬢さんに句会の事を話さうと思つて立寄つたら、女中さんがあはてゝ皿に米を盛つてくれた。
+□大歳の或る家で、斎藤さんの宅とは知らず立つて、奥さんに名乗りをあげた。
+□アイスキヤンデーの店でアイスキヤンデーの青いのを一本供養してくれた。
+□或る結髪処で、そこにゐた老妓がつと立つてきて、十銭白銅貨を鉄鉢へ入れた。
+□女郎屋の老主人が間違つて五十銭銀貨をくれた、それを返すと喜んで改めて一銭銅貨二枚くれた。
+［＃ここで字下げ終わり］
+
+　九月廿九日［＃「九月廿九日」に二重傍線］　晴、いよ／＼秋。
+
+東の空が白むのを待つて湯田へ、朝湯はよろしいなあ、何とゆたかな温泉。
+バスで上郷まで、無事帰庵、帰庵して酒があることは、ほんたうにうれしい。
+バス風景――
+［＃ここから２字下げ］
+とても愉快な女中さん
+いやな釣人どうし
+［＃ここで字下げ終わり］
+シヨウガ四つで一銭とは！　おばあさん、すみませんね。
+天たかく地ひろし、秋、秋、秋。
+まさに萩の花ざかり。
+今日は郵便が来ない、Ｋからいつもくる手紙が来ないので、何となく不安な気がする。……
+やつと駅のポストまで出かけて、すぐ戻つた。
+読書三昧。
+［＃ここから１字下げ］
+　　　其中漫筆
+……おもひわずらふところさらになし。……
+私の山羊髯［＃「私の山羊髯」に傍点］。
+［＃ここから２字下げ］
+・たえずゆれつつ葦の花さく
+・水音の流れゆく秋のいろ
+・青草ひろく牛をあそばせあそんでゐる
+・となも［＃「なも」に「マヽ」の注記］お留守で胡麻の実はじける
+・鉄鉢の秋蝿を連れあるく
+・秋暑い鉄鉢で、お米がいつぱい
+　　　おでんや
+・更けると食堂の、虫のなくテーブル
+・秋はうれしい朝の山山
+［＃ここで字下げ終わり］
+
+　九月三十日［＃「九月三十日」に二重傍線］　日本晴、時々曇つたり降つたりしたけれど。
+
+身辺整理。
+けふも郵便が来ない、山の鴉が庵をめぐつて啼きさわぐ、何だか気になる、何となく憂欝になる。
+待つもの――手紙――は来ないで、待たない人――掛取――が来た、とかく世の中はかうしたもの！
+宵からグウグウ（ランプに油もないので）、夜中に眼がさめて、鼠の悪趣味――どこかをたゞかぢる音――を聞いた。
+［＃ここから２字下げ］
+・干しならべておもひでの衣裳が赤く青く
+　山からけふは街の人ごみにまじらう
+・地べたとぶてふてふとなり秋風
+・誰かやつてくる足音が落葉
+・秋のゆふべのほどよう燃えるほのほ
+［＃ここで字下げ終わり］
+
+　十月一日［＃「十月一日」に二重傍線］　晴。
+
+国勢調査日、私もその一枚に記入した。
+今年も余すところはもう三ヶ月。
+花めうがが匂ふ、白百合ほど強くなくて、まことに奥床しいかをりである。
+けふも鴉が身にちかく啼く。
+やつと郵便が来た、Ｋから手紙が来たので、ほつと安心した。
+払へるだけ払ひ、買へるだけ買ふ、残つたのは一銭銅貨二つ！
+樹明君を招待する、――ちり［＃「ちり」に傍点］で一杯。
+［＃ここから２字下げ］
+酒一升、　　壱円
+小鯛三尾、拾弐銭　青いものは樹明君持参
+豆腐三丁　　九銭
+［＃ここで字下げ終わり］
+ほどよく飲んで、ほどよく酔ふたが、別れ際がちよつとあぶなかつた、桑原々々。
+いつのまにやらアイスキヤンデー店が焼芋屋にかはつてゐる、季節のうつりかはりがはつきり解る。
+今夜はぐつすり睡れた。……
+［＃ここから２字下げ］
+・足もとからてふてふが魂のやうに
+　　　花めうが
+・夜のふかうして花のいよいよ匂ふ
+　藪蚊をころしまたころし曇る秋空
+・秋の雨ふるほんにほどよう炊けた御飯で
+［＃ここで字下げ終わり］
+
+　十月二日［＃「十月二日」に二重傍線］　曇、とう／＼雨。
+
+近所の人が来て、草を刈らせてくれといふ、それほどぼうぼうたる草だつた。
+雨になつたので、釣はやめにして読書。
+昨日のおあまりを飲む、新菊はおいしいな。
+［＃ここから２字下げ］
+・うなりつつ大きな蜂がきてもひつそり
+・ひなた散りそめし葉の二三枚
+・酔ひのさめゆく蕎麦の花しろし
+・柿一つ、たつた一つがまつかに熟れた
+・柿の葉のおちるすがたのうれしい朝夕
+・かまきりがすいつちよが月の寝床まで
+［＃ここで字下げ終わり］
+
+　十月三日［＃「十月三日」に二重傍線］　時雨、やつと晴れた。
+
+裏からあたりを眺めると、もうそここゝ黄葉してゐる、柿の葉がばさり／＼と落ちる。
+小郡の招魂祭、ポン／＼花火が鳴る、彼等に平和あれ。
+畑仕事、新菊を播き添へ、山東菜を播き直す、播くといふことはうれしい［＃「播くといふことはうれしい」に傍点］。
+街のポストまで出かける、そして酒と肴とを送つて貰ふやうにＹ屋へ頼む。
+茶の花がもう咲きだしてゐる、それを鑑賞してゐて御飯の焦げるのも知らなかつた、しかし焦げた御飯は、いや焦げるまで炊きあげた御飯はおいしいものである。
+御飯の炊き方について道話［＃「道話」に傍点］一則――
+焦げた部分――犠牲となつた部分と、熟成した部分――よく炊けた部分との関係。……
+酒がもたらされた、鮭の罐詰も――そして私はいうぜんとして飲みはじめたのであるが、いつしかぼうぜんとして出かけた、Ｙさんからいつものやうに少し借りて、Ｆ、Ｙ、Ｎ、Ｍ、Ｋと飲み歩いた、……とう／＼駅のベンチで夜を明かしてしまつた……それでも帰ることは帰つた。
+久しぶりの、ほんたうに久しぶりの、小さい［＃「小さい」に傍点］、小さい脱線［＃「小さい脱線」に傍点］だつた。
+時々は脱線すべし［＃「時々は脱線すべし」に傍点］、ケチ／＼すべからず、クヨ／＼すべからず。
+［＃ここから１字下げ］
+　　　（其中漫筆）
+　　　　　続酔心
+泥酔の世界から微酔の境地へ
+
+┌個性　┌特殊的　┌芸術
+│　　　│　　　　│文芸
+│　　　│　　　　│短歌
+└社会性└普遍的　└俳句
+
+日本詩［＃「日本詩」に傍点］
+
+　　　　　　┌音声　┌定型
+言語の成分　│意想　│季題
+　　　　　　└文字　└切字
+［＃ここで字下げ終わり］
+
+　十月四日［＃「十月四日」に二重傍線］　秋晴。
+
+めづらしくも朝寝、寝床へ日がさしこむまで。
+天地一枚［＃「天地一枚」に傍点］といふ感じ、ほんたうに好い季節である。
+私にだけ層雲［＃「層雲」に傍点］が来ない、何となく淋しい。
+昨夜の今朝で、こゝろうつろのやうな。
+佐野の妹を訪ねようかとも思つたが、着物の質受が出来ないので果さない、床屋で気分をさつぱりさせて貰ふ。
+菜葉一把三銭也、新漬として毎朝の食膳をゆたかにしてくれる。
+暮れるころ、樹明君来庵、お土産は酒と魚と、そして原稿紙。
+愉快に談笑して十時頃にさよならさよなら。
+私がいつものやうに飲めなくて気の毒だつた、御飯を食べてゐたから。
+松茸ちり［＃「松茸ちり」に傍点］が食べたいな、焼松茸は昨夜たくさん食べたけれど。――
+［＃ここから２字下げ］
+　　　（伊ヱ遂に開戦）
+・秋空たかく号外を読みあげては走る
+・日向あたゝかくもう死ぬる蝿となり
+・朝風の柿の葉のおちるかげ
+・月夜のみみずみんな逃げてしまつた（釣餌）
+・いま汲んできた水にもう柿落葉
+・燃えつくしたる曼珠沙華さみしく（改作）
+［＃ここで字下げ終わり］
+
+　十月五日［＃「十月五日」に二重傍線］　秋晴。
+
+自然も人間もおだやかに。――
+朝酒（昨夜のおあまりで）、ゼイタクすぎる。
+柿をもぐ人がちらほら、Ｊさんも柿もぎにきた、そして熟柿［＃「熟柿」に傍点］をくれた、あゝ熟柿！　老祖母の哀しい追憶がまたよみがへつて私を涙ぐませる。
+まだおあまりがあつて晩酌、そしてそのまゝぐつすり。
+［＃ここから２字下げ］
+・考へてゐる身にか［＃「にか」に「マヽ」の注記］く百舌鳥のするどく
+・太陽のぬくもりの熟柿のあまさをすゝる
+・てふてふたかくはとべなくなつた草の穂
+・昼も虫なく誰を待つともなく待つ
+［＃ここで字下げ終わり］
+
+　十月六日［＃「十月六日」に二重傍線］　晴、朝寒。
+
+今朝もおあまりで朝酒。
+天いよ／＼高く地ます／＼広し。
+黎々火君が層雲［＃「層雲」に傍点］、緑平老が大泉［＃「大泉」に傍点］を送つてくれた。
+酒があつて飯があつて［＃「酒があつて飯があつて」に傍点］、そして寝床があつて［＃「そして寝床があつて」に傍点］、ああ幸福々々［＃「ああ幸福々々」に傍点］。
+
+　十月七日［＃「十月七日」に二重傍線］　まつたく秋日和。
+
+朝寝、寝床の中で六時のサイレンを聴いた。
+今日も油虫を二匹、そしてまた二匹殺した、多分彼等は夫婦だつたらう、殺してから――殺さずにはゐられないから殺したが――気持の悪いこと。
+日向の縁で本を読んでゐると、うつくしいパラソルが近づいてくる、ハテナと思つてゐると、さつさうとして山口の秀子さんがあらはれた、小郡駅まで来たので、ちよつとお伺ひしたといふ、其中庵も時ならぬ色彩で飾られた、しばらく対談、友達を訪ねるといふので（その友達は農学校の先生のお嬢さんで、そしてその宅は農学校の裏にあるので）、農学校まで同道して、樹明君に案内を頼んで戻つた、道すがら、人々が驚いてゐる、何しろ私が若い美しい女性と連れ立つてゐるものだから！
+行乞しなければならないのだが（もう米がないのだが）、どうしても行乞する気になれない。
+大根も山東菜も虫害で全滅！　ああ。
+秋海棠のまぼろし［＃「秋海棠のまぼろし」に傍点］！　それは私の好きな草花、そして、うれしいかなしい熊本生活のおもひで。
+暮れてから、樹明君が学校の仕事を持つて来庵、投げ出された五十銭銀貨二枚を持つて、私は街へ出かけて買物――サケ（これはマイナスで）、トウフ、マツタケ、サカナ、シンギク、バンチヤ。
+うまいちり［＃「ちり」に傍点］だつた、うまいさけ［＃「さけ」に傍点］だつた、おとなしくこゝろよく酔うて、ふたりともぐう／＼、ぐう／＼。
+［＃ここから２字下げ］
+　　　ミスＨ子をうたふ二句
+・秋草のむかうからパラソルのうつくしいいろ
+・秋空のあかるさに処女のうつくしさ
+・釣糸の張りきつて澄んで秋空（魚釣）
+・秋空たかくやうやく出来上つたビルデング
+・日まわり陽を浴びてとろとろ
+・近道は蓼がいちはやくもみづりて
+・なんでとびつくこうろぎよ
+・いちめんに実りたるかな瑞穂の国
+　しめやかにふりだして松茸のふとる雨
+［＃ここで字下げ終わり］
+
+　十月八日［＃「十月八日」に二重傍線］　晴。
+
+早起、まづ聴いたのは百舌鳥の声、視たのは蕎麦の花。
+朝酒、ほろり／＼と柿の葉が落ちる。
+とても好いお天気、ぢつとしてはゐられないので出てあるく。
+米は買へないから（一升三十二銭）食パンを買ふ（一斤十四銭）、そして行乞はしないのだ、こゝにも私のワガママがあるけれど、それが私のウマレツキだから、詮方もない。
+今日は油虫を二度とも殺しそこなつた、かうまで油虫が憎いとは情なくなる。
+Ｎさん来庵、恋愛談を聞かされる、かういふ話も時々は悪くない（度々では困るけれど！）。
+やつと番茶が買へたので、それをすゝりながら話しつゞけた。
+食パンが近来飲みすぎ食べすぎの胃腸をとゝのへてくれるとは。……
+今夜は樹明君宿直なので、六時のサイレンが鳴つてから訪ねる、いつものやうに御馳走になる、思はず飲みすぎて酔つぱらつた、まつすぐに戻ればよいのに横道にそれてしまつた、戻ることは戻つたけれど、愚劣な自分を持てあました！
+［＃ここから４字下げ］
+其中漫筆
+
+［＃ここから２字下げ］
+　　酔中戯作一首
+あなた　ドウテイ
+わたくし　シヨヂヨよ
+月があかるい虫のこゑ
+［＃ここで字下げ終わり］
+
+［＃ここから１字下げ、折り返して２字下げ］
+　　　其中漫筆
+□私俳句［＃「私俳句」に傍点］とは――
+□リアリズム精神
+　　自由、流動、気魂［＃「魂」に「マヽ」の注記］。
+［＃ここで字下げ終わり］
+
+　十月九日［＃「十月九日」に二重傍線］　曇、寒い。
+
+朝焼がうつくしかつた。
+昨夜の自分を反省して、仏前にお詑びした。……
+しつかりしろ山頭火！　あんまり下らないぞ！
+煩悩無尽誓願断。
+自覚すれば、醜悪にたへないやうな自分を見出すことはあまりにあさましい、自分のよさ［＃「自分のよさ」に傍点］をも自覚しなければ嘘だ（人には誰でもよさ［＃「よさ」に傍点］がある、あらなければならない）。
+曇つて風が吹く、まさに秋風だ。
+断食（絶食とは意味違ふ）と読書と思索。
+――同一の過失を繰り返すことが情ない、酔はない時はしないこと――したくないことを酔中敢てするから嫌になる、自己統制［＃「自己統制」に傍点］を［＃「嫌になる、自己統制［＃「自己統制」に傍点］を」は底本では「嫌になる、自己統［＃「、自己統」に傍点］制を」］失ふのである、酒に即して自己を批判すれば、酒を飲んでゐるうちに酒に飲まれるのが悲しいのである。――
+［＃ここから１字下げ］
+　　　其中漫筆
+┌自己の生活認識
+└社会の現実認識
+　　　　　　　　　　┌知識
+　　　　　　　　　　└意識
+┌生活印象
+└時代感覚
+［＃ここで字下げ終わり］
+
+　十月十日［＃「十月十日」に二重傍線］　曇、やつぱり雨だつた。
+
+ゆつくり朝寝。
+朝も昼も梅茶（食べたくても食べるものがない）。
+午後は近在行乞、五時間ばかり嘉川方面を托鉢した、お米一升七合頂戴。
+夕飯はまことにおいしくありがたかつた。
+私の好きな石蕗の花が咲きだしてゐる、さつそく折つて戻つて活けた。
+行乞はありがたい、私の身心を安らかにする。
+［＃ここから２字下げ］
+・ことしもここに石蕗の花も私も
+　蕎麦の花も里ちかい下りとなつた
+［＃ここで字下げ終わり］
+
+　十月十一日［＃「十月十一日」に二重傍線］　雨、晴れて上天気になつた。
+
+呂竹さん来庵、文字通りの清談しばらく。
+上水道水源地散歩、蛇が落ちこんで泳ぎまはつてゐる、多分這ひあがることは出来まい、まいまいはいういうと泳いでゐる。
+帰途、捨菜［＃「捨菜」に傍点］を拾うてきて漬ける。
+ああ、塩は安い［＃「塩は安い」に傍点］、安すぎる。
+あまり月がよいので、そこらまで歩いて一杯。
+［＃ここから２字下げ］
+　　　電信工事
+・秋晴の仕事がいそがしい空間
+　　　上水道水源地
+・水底太陽のかゞやいて水すまし
+［＃ここで字下げ終わり］
+
+　十月十二日［＃「十月十二日」に二重傍線］　晴、仲秋、月はよからう。
+
+柿もぎにＪさんの妻君が子供を連れて、近所のおかみさんといつしよに来た。
+私も熟柿を食べる、うまい／＼。
+学校まで出かけて、新聞を読ませて貰ふ。
+身心何となく不調、何となく死期が遠くないやうな気がする。……
+此頃また、クヨ／＼ケチ／＼するやうだ。
+昨日も今日も御飯の出来がよろしくない、米そのものもよくないのだが、私の気分もよくないからだらう。
+月はよかつたが、酒のないのが、話相手のないのが物足らなかつた。
+寝苦しかつた。
+［＃ここから２字下げ］
+・水はたたへて山山の倒影がまさに秋
+・朝早く汲みあげる水の落葉といもりと
+・まんまるい月がふるさとのやうな山から（旅中）
+・のぼる月の、竹の葉のかすかにゆらぐ
+［＃ここで字下げ終わり］
+
+　十月十三日［＃「十月十三日」に二重傍線］――十一月二日［＃「十一月二日」に二重傍線］
+
+ぼうぼうたり、ばくばくたり。
+ひつそり生きながらへてゐて唐辛が赤い。
+どうにもならない私であつた。……
+
+　十一月三日［＃「十一月三日」に二重傍線］
+
+長大息。――
+
+　十一月四日［＃「十一月四日」に二重傍線］
+
+樹明来。
+石油がなくなつた。
+
+　十一月五日［＃「十一月五日」に二重傍線］
+
+米がなくなつた。
+
+　十一月六日［＃「十一月六日」に二重傍線］
+
+傷いた椋鳥のやうに。
+
+　十一月七日［＃「十一月七日」に二重傍線］
+
+樹明来、酒と魚とありがたし。
+［＃ここから２字下げ］
+・ほんに秋日和の、つるんでゐる豚
+・焼跡に日が射してがらくた
+・そよぎつつ草枯れる水音
+［＃ここで字下げ終わり］
+
+　十一月八日［＃「十一月八日」に二重傍線］　九日［＃「九日」に二重傍線］
+
+一人、月がよかつた。
+茶の花が咲いてゐる、なんでかなしいのだ。
+熟柿を食べる。
+
+　十一月十日［＃「十一月十日」に二重傍線］
+
+病中老吟一句――
+［＃ここから３字下げ］
+はひあるく秋蝿のわたくし
+［＃ここで字下げ終わり］
+Ａさん来庵、お土産として酒肴たくさん。
+湯田へ連れて行つて貰つた、ほどよく酔うてＭ旅館にいつしよに泊めて貰つた。
+
+　十一月十一日［＃「十一月十一日」に二重傍線］　日本晴。
+
+Ａさんの厚情に感謝しないではゐられない。
+山口散策。
+りんだう、野菊、秋草がうつくしい。
+夜は酒を持つて宿直室の樹明君を訪ふ。
+
+　十一月十二日［＃「十一月十二日」に二重傍線］　曇。
+
+寒くなつた、草が枯れるばかり。
+ホントウがウソになつたり、ウソがホントウになつたり、澄んだり濁つたり。――
+
+　十一月十三日［＃「十一月十三日」に二重傍線］――廿一日［＃「廿一日」に二重傍線］
+
+死なないでゐるだけだつた！
+
+　十一月廿二日［＃「十一月廿二日」に二重傍線］　曇。
+
+冬がいよ／＼近寄つて来た。
+山口句会へ。
+身辺整理、私は dead rock を乗り越えることが出来たゞらうか。
+
+　十一月廿三日［＃「十一月廿三日」に二重傍線］　晴――曇。
+
+落葉しつくした柿の木、紅葉してゐる櫨の木。
+父、母、祖母、姉、弟、……みんな消えてしまつた、血族はいとはしいけれど忘れがたい、肉縁はつかしいがはなれなければならない。……
+
+　十一月廿四日［＃「十一月廿四日」に二重傍線］　曇。
+
+しぐれ、冬らしい寒さ、火燵の仕度をする。
+腹いつぱい麦飯を食べた。
+片隅の幸福［＃「片隅の幸福」に傍点］が充ち満ちてゐるではないか。
+Ｔさんだしぬけに来庵、酒を貰ふ、句集を買つて下さつた。
+街へ出かけて払へるだけ払ふ。
+
+　十一月廿五日［＃「十一月廿五日」に二重傍線］　晴。
+
+今日は昨日頂戴した菊正がある。
+敬君久しぶりに来訪、一杯ひつかけてから、ぶら／＼どろ／＼、飲んだ飲んだ、食べた食べた、そしてめでたく解散。
+しぐれ、しぐれにぬれてかへつてきた。
+
+　十一月廿六日［＃「十一月廿六日」に二重傍線］　晴。
+
+小春日和のうれしさ、湯田へ出かける。
+留守に敬君がやつて来たさうな、すまなかつた。
+
+　十一月廿七日［＃「十一月廿七日」に二重傍線］――三十日［＃「三十日」に二重傍線］
+
+ムチヤクチヤだつた、私の自棄的身心をさらけだした。……
+
+　十二月一日［＃「十二月一日」に二重傍線］　雨。
+
+こん／＼として眠つた、眠るより外ない私だつた。
+
+　十二月二日［＃「十二月二日」に二重傍線］――五日［＃「五日」に二重傍線］
+
+死、それとも旅…… all or nothing
+
+　十二月六日［＃「十二月六日」に二重傍線］
+
+旅に出た、どこへ、ゆきたい方へ、ゆけるところまで。
+旅人山頭火、死場所［＃「死場所」に傍点］をさがしつゝ私は行く！　逃避行［＃「逃避行」に傍点］の外の何物でもない。
+
+
+
+底本：「山頭火全集　第六巻」春陽堂書店
+　　　1987（昭和62）年1月25日第1刷発行
+　　　「山頭火全集　第七巻」春陽堂書店
+　　　1987（昭和62）年5月25日第1刷発行
+※底本は、物を数える際や地名などに用いる「ヶ」（区点番号5-86）を、大振りにつくっています。
+※複数行にかかる中括弧には、けい線素片をあてました。
+入力：小林繁雄
+校正：仙酔ゑびす
+2009年9月9日作成
+青空文庫作成ファイル：
+このファイルは、インターネットの図書館、青空文庫（http://www.aozora.gr.jp/）で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです。

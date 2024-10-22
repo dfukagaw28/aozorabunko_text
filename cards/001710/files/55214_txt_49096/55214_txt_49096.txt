@@ -1,31 +1,31 @@
 ITALIA
 August von Platen
-��c�q��
+上田敏訳
 
 -------------------------------------------------------
-�y�e�L�X�g���Ɍ����L���ɂ��āz
+【テキスト中に現れる記号について】
 
-�m���n�F���͎Ғ��@��ɊO���̐�����A�T�_�̈ʒu�̎w��
-�i��jAbruzzi�m���uAbruzzi�v�͎Άn
+［＃］：入力者注　主に外字の説明や、傍点の位置の指定
+（例）Abruzzi［＃「Abruzzi」は斜体］
 
-�k�l�F�A�N�Z���g�������ꂽ������������
-�i��j�kzo^ka�l
-�A�N�Z���g�����ɂ��Ă̏ڍׂ͉��LURL���Q�Ƃ��Ă�������
+〔〕：アクセント分解された欧文をかこむ
+（例）〔zo^ka〕
+アクセント分解についての詳細は下記URLを参照してください
 http://www.aozora.gr.jp/accent_separation.html
 -------------------------------------------------------
 
-Konata ni wa Abruzzi�m���uAbruzzi�v�͎Άn no yama, kanata Pontini�m���uPontini�v�͎Άn no numa,
-Geijutsu no kuni wo idete �kzo^ka�l rakuyen ni iru.
+Konata ni wa Abruzzi［＃「Abruzzi」は斜体］ no yama, kanata Pontini［＃「Pontini」は斜体］ no numa,
+Geijutsu no kuni wo idete 〔zo^ka〕 rakuyen ni iru.
 
 
 
-��{�F�u��c�q�S�󎍏W�v��g���ɁA��g���X
-�@�@�@1962�i���a37�j�N12��16����1�����s
-�@�@�@2010�i����22�j�N4��21����38�����Ŕ��s
-���o�F�u�����@�ߍ΁E��v
-�@�@�@1906�i����39�j�N1��
-���́F��R��
-�Z���F�����a�F
-2013�N1��10���쐬
-�󕶌ɍ쐬�t�@�C���F
-���̃t�@�C���́A�C���^�[�l�b�g�̐}���فA�󕶌Ɂihttp://www.aozora.gr.jp/�j�ō���܂����B���́A�Z���A����ɂ��������̂́A�{�����e�B�A�̊F����ł��B
+底本：「上田敏全訳詩集」岩波文庫、岩波書店
+　　　1962（昭和37）年12月16日第1刷発行
+　　　2010（平成22）年4月21日第38刷改版発行
+初出：「明星　午歳・一」
+　　　1906（明治39）年1月
+入力：川山隆
+校正：岡村和彦
+2013年1月10日作成
+青空文庫作成ファイル：
+このファイルは、インターネットの図書館、青空文庫（http://www.aozora.gr.jp/）で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです。
