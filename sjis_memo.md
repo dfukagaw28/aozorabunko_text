@@ -19,3 +19,11 @@
     *   [芥川龍之介『わが家の古玩』](https://www.aozora.gr.jp/cards/000879/card3798.html) `仙厓作（せんがいさく）鐘鬼図（しようきづ）一幀`
 *   `賴` FBAE U+8CF4
     *   [ロラン ロマン『ジャン・クリストフ』](https://www.aozora.gr.jp/cards/001093/card42596.html) `僕は彼らのような不正な方法に賴ることが厭なばかりでなく`
+
+# デコード不可能な文字
+
+*   EB81
+    *   [穂積 陳重『法窓夜話』](https://www.aozora.gr.jp/cards/000301/card1872.html) `ユ、モ埃エ伊イ阿オ兪ユ頭ノ語ニシテ、` と `アル者ハ、匐べ以下ノ単字頭ト知ルベシ` との間の 2 バイト。
+    *   JIS X 0213 だと `EB 81` は「栱」だが， JIS X 0213:2004 は Shift-JIS (CP932) と互換性がない。文脈を考えても，あてはまらない。
+    *   HTML ファイルを参考に修正した。
+    *   詳細は [dfukagaw28/ColabNotebooks/青空文庫『法窓夜話』のテキストデータを利用する.ipynb](https://github.com/dfukagaw28/ColabNotebooks/blob/main/%E9%9D%92%E7%A9%BA%E6%96%87%E5%BA%AB%E3%80%8E%E6%B3%95%E7%AA%93%E5%A4%9C%E8%A9%B1%E3%80%8F%E3%81%AE%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E3%83%87%E3%83%BC%E3%82%BF%E3%82%92%E5%88%A9%E7%94%A8%E3%81%99%E3%82%8B.ipynb) を参照してください。
