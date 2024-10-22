@@ -1,12 +1,15 @@
-# aozorabunko_text
+# aozorabunko_text (UTF8版)
 
 青空文庫( https://www.aozora.gr.jp )のサーバ内にある青空文庫形式のテキストのみをテキスト形式のまま集めたものです。
 
-個別にzipコマンドで展開したりせずにすべてのテキストが読めます。
+*   主な元データは [aozorahack/aozorabunko_text](https://github.com/aozorahack/aozorabunko_text) です。
+*   不足分（最近追加されたもの）を [aozorabunko/aozorabunko](https://github.com/aozorabunko/aozorabunko) から補いました。
+*   1つの作品（作品Noが同一のもの）に対して複数の版のテキストデータがある場合は 1 つだけ（原則として最新のもの）を残して他を削除しました。
+*   青空文庫の公式テキストデータは文字エンコーディングに Shift-JIS を採用していますが，より扱いやすい UTF-8 に変換しました。
 
 ## ダウンロード
 
-[Download ZIP](https://github.com/aozorahack/aozorabunko_text/archive/master.zip) (200MB以上)
+[Download ZIP](https://github.com/dfukagaw28/aozorabunko_text/archive/refs/heads/utf8.zip) (約280MB)
 
 zip形式のファイルで欲しい場合、上記からダウンロードできます。
 なお、テキストファイルは全てcardsディレクトリ内にあります。それ以外は無視してください。
@@ -14,12 +17,12 @@ zip形式のファイルで欲しい場合、上記からダウンロードで�
 gitレポジトリの取得については、ふつうのgithub repoなので git pullで持ってきてもらえばいいのですが、履歴不要で最新版だけ欲しい場合は以下のコマンドの方が早いはずです。
 
 ```console
-$ git clone --depth 1 https://github.com/aozorahack/aozorabunko_text.git
+$ git clone --depth 1 https://github.com/dfukagaw28/aozorabunko_text.git
 ```
 
 ### 個別のテキストファイルへのアクセス
 
-個別のファイルには、`https://aozorahack.org/aozorabunko_text/cards/000081/files/45630_txt_23610/45630_txt_23610.txt`のようなURLでアクセスできます（ただし、HTTPレスポンスヘッダのContent-Typeは`text/plain; charset=utf-8`なのにファイルはShift_JISなので、ブラウザでは文字化けします）。
+個別のファイルには、`https://github.com/dfukagaw28/aozorabunko_text/raw/refs/heads/utf8/cards/000081/files/45630_txt_23610/45630_txt_23610.txt`のようなURLでアクセスできます。
 
 ※ zip内のテキストファイルはタイトルに合わせたファイル名が命名されているのですが、このレポジトリではzipファイル名に合わせたファイル名にしています。
 例えば、`cards/000005/files/53194_ruby_44732.zip`内のテキストなら`cards/000005/files/53194_ruby_44732/53194_ruby_44732.txt`というパスになります。
@@ -28,9 +31,7 @@ $ git clone --depth 1 https://github.com/aozorahack/aozorabunko_text.git
 
 ## 動作のしくみ
 
-https://github.com/aozorabunko/aozorabunko の中身を取得して、cardsディレクトリ内にあるzipファイルの中からtxtファイルを取り出して、同様の階層のディレクトリ内に保存しています。
-
-動作はCircleCI上で行っており、1日1回バッチで動作します。
+頻繁に更新する予定はありません。最新のテキストデータは公式データセット [aozorabunko/aozorabunko](https://github.com/aozorabunko/aozorabunko) を参照してください。
 
 ## 権利関係
 
