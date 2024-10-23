@@ -289,14 +289,3 @@ does not limit its application.
 Ⅹ　Atomic Theory and the Description of Nature. Four Esssays with an Introductory Survey. Cambridge University Press, (1934).
 ［＃ここで字下げ終わり］
 ［＃ここで横組み終わり］
-
-
-底本：「岩波講座物理學Ⅰ.B.　學者傳記」岩波書店
-　　　1940（昭和15）年10月28日発行
-※底本は横組みです。
-入力：山崎雅人
-校正：小林徹
-2008年5月27日作成
-2012年6月12日修正
-青空文庫作成ファイル：
-このファイルは、インターネットの図書館、青空文庫（http://www.aozora.gr.jp/）で作られました。入力、校正、制作にあたったのは、ボランティアの皆さんです。
