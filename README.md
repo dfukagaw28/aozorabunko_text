@@ -38,3 +38,7 @@ $ git clone --depth 1 https://github.com/dfukagaw28/aozorabunko_text.git
 cardsディレクトリ内のファイルについては、[「青空文庫収録ファイルの取り扱い規準」](https://www.aozora.gr.jp/guide/kijyunn.html)の元でご利用ください。
 
 著作権保護期間が終了しておらず、クリエイティブ・コモンズ・ライセンス等による許諾の元で再配布されているファイルも含まれています。ご注意ください。
+
+## 前処理について
+
+詳しくは preprocess.md を参照してください。
