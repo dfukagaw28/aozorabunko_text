@@ -1,20 +1,3 @@
-先天性代謝異常
-INBORN ERRORS OF METABOLISM (1909)
-アーチボルド・Ｅ・ギャロッド　Archibald E. Garrod, D.M., M.A.
-水上茂樹訳
-
--------------------------------------------------------
-【テキスト中に現れる記号について】
-
-［＃］：入力者注　主に外字の説明や、傍点の位置の指定
-（例）第１章　先天性代謝異常［＃「第１章　先天性代謝異常」は中見出し］
-
-〔〕：アクセント分解された欧文をかこむ
-（例）〔"Et maintenant oserait-on soutenir qu'il faut distinguer les lois de la vie a` l'e'tat pathologique des lois de la vie a` l'e'tat normal? Ce serait vouloir distinguer les lois de la me'canique dans une maison qui tombe, des lois do la me'canique dans une maison qui tient debout."〕
-アクセント分解についての詳細は下記URLを参照してください
-https://www.aozora.gr.jp/accent_separation.html
--------------------------------------------------------
-
 第１章　先天性代謝異常［＃「第１章　先天性代謝異常」は中見出し］
 
 　動物や植物の属や種を区別するのに役立つ構造や形の違いは、自然における最も明白な事実である。これらを見つけるには科学の訓練を必要とせず、教育ていどが低い知能の人であっても気がつかないことはない。しかし知識が増えるとともにこの見かけ上の違いおよび形から形への発生的な関係の基礎に、均一性のあることを学ぶ。生体組織の化学的成分およびこれらの組織が作られ壊される代謝過程に関しては、進展が逆方向である。何故かと言うと、表面的な均一性の後ろに、見かけ上は明らかではないが形態よりもずっと実際的な違いのあることを、化学生理学の発展は我々に教えているからである。

@@ -1,26 +1,3 @@
-経済学及び課税の諸原理
-PRINCIPLES OF POLITICAL ECONOMY AND TAXATION
-デイヴィド・リカアドウ　David Ricardo
-吉田秀夫訳
-
--------------------------------------------------------
-【テキスト中に現れる記号について】
-
-《》：ルビ
-（例）齢《よわい》
-
-｜：ルビの付く文字列の始まりを特定する記号
-（例）一〇〇｜磅《ポンド》
-
-［＃］：入力者注　主に外字の説明や、傍点の位置の指定
-（例）［＃地から９字上げ］
-
-〔〕：アクセント分解された欧文をかこむ
-（例）〔les droits d'entre'e et de halle sur la mare'e〕
-アクセント分解についての詳細は下記URLを参照してください
-http://www.aozora.gr.jp/accent_separation.html
--------------------------------------------------------
-
 　　　　　　　　訳序
 
 　本書はデイヴィド・リカアドウ David Ricardo の主著『経済学及び課税の諸原理』"Principles of Political Economy and Taxation." の全訳である。
