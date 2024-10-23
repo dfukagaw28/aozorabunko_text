@@ -658,9 +658,9 @@ Panaeolus fimicola Fries［＃「Fries」は斜体］＝Coprinarius fimicola［�
 （『本草図譜』）（原図着色）
 ［＃ここでキャプション終わり］
 
-［＃「Uromyces deformans Berk［＃「Berk」は斜体］. et Broom［＃「et Broom」は斜体］. 1-6（7-8は Puccinia corticioides Berk［＃「Berk」は斜体］. et Broom［＃「et Broom」は斜体］.）〔Journal of Linnean Society, Bot. vol. ※［＃ローマ数字10、1-13-30］※［＃ローマ数字6、1-13-26］ Plate ※［＃ローマ数字2、1-13-22］〕アスナロノヒジキ＝アスナロウノヤドリギ」のキャプション付きの図（fig46820_21.png、横390×縦611）入る］
+［＃「Uromyces deformans Berk［＃「Berk」は斜体］. et Broom［＃「et Broom」は斜体］. 1-6（7-8は Puccinia corticioides Berk［＃「Berk」は斜体］. et Broom［＃「et Broom」は斜体］.）〔Journal of Linnean Society, Bot. vol. ⅩⅥ Plate Ⅱ〕アスナロノヒジキ＝アスナロウノヤドリギ」のキャプション付きの図（fig46820_21.png、横390×縦611）入る］
 ［＃ここからキャプション］
-Uromyces deformans Berk［＃「Berk」は斜体］. et Broom［＃「et Broom」は斜体］. 1-6（7-8は Puccinia corticioides Berk［＃「Berk」は斜体］. et Broom［＃「et Broom」は斜体］.）［Journal of Linnean Society, Bot. vol. ※［＃ローマ数字10、1-13-30］※［＃ローマ数字6、1-13-26］ Plate ※［＃ローマ数字2、1-13-22］］
+Uromyces deformans Berk［＃「Berk」は斜体］. et Broom［＃「et Broom」は斜体］. 1-6（7-8は Puccinia corticioides Berk［＃「Berk」は斜体］. et Broom［＃「et Broom」は斜体］.）［Journal of Linnean Society, Bot. vol. ⅩⅥ Plate Ⅱ］
 アスナロノヒジキ＝アスナロウノヤドリギ
 ［＃ここでキャプション終わり］
 
@@ -1444,16 +1444,16 @@ Cocculus trilobus DC［＃「DC」は斜体］.（＝Cocculus Thunbergii［＃�
 　芝の字はもとは之の字であって、これは篆文《てんぶん》に草が地上に生ずる形に象っての字である。しかるに後の人がこの字を借りてこれを語辞としたので止むを得ず、ついに艸をその字上に加えてこれを別つようにしたとのことであると見えている。
 　芝について李時珍はその著『本草綱目』の芝の「集解《しっかい》」にこれを述べているが、その文中に「芝ノ類甚ダ多シ亦花実アル者アリ、本草ニ惟六芝ヲ以テ名ヲ標ハス然レドモ其種属ヲ識ラズンバアルベカラズ、神農経ニ云ク、山川雲雨四時五行陰陽昼夜ノ精以テ五色ノ神芝ヲ生ジ聖王ノ休祥ト為ル、瑞応図ニ云ク、芝草ハ常ニ六月ヲ以テ生ズ春青ク夏紫ニ秋白ク冬黒シト、葛洪ガ抱朴子ニ云ク、芝ニ石芝木芝肉芝菌芝アリテ凡ソ数百種ナリ云々」（漢文）の語がある。
 　按ずるに中国で芝と唱えるものはその範囲がすこぶる広く、中には無論マンネンタケのような菌類もあるが、なお他の異形の菌類もある。また海にある珊瑚礁の一種であるキクメイ石の如きものも含まれているようである。また玉《ギョク》のような石もあり、また方解石《ホウゲセキ》のようなものもありはせぬかと思われる。また菌形を呈した寄生植物などもあるようである。
-　雑誌『本草』誌上の文は右で終っているが、今いささかそれへ書き足してみれば、上の楯形をしたマンネンタケへ対し私は forma peltatus（これは楯形の意）の新品名を設け、これを Fomes dimidiatus（Thunb［＃「Thunb」は斜体］.）Makino［＃「Makino」は斜体］, nov. comb. （＝Boletus dimidiata［＃「Boletus dimidiata」は斜体］ Thunb. Fl. Jap. p.348, tab. ※［＃ローマ数字10、1-13-30］※［＃ローマ数字10、1-13-30］※［＃ローマ数字10、1-13-30］※［＃ローマ数字9、1-13-29］. 1784）forma peltatus Makino［＃「Makino」は斜体］（Stipe inserted to pileus centrally or excentrically.）と定め、そしてそれをカラカサマンネンタケと新称する。川村清一博士の『食菌と毒菌』ならびに『日本菌類図説』、朝比奈｜泰彦《やすひこ》博士監修の『日本隠花植物図鑑』、または広江勇博士の『最新応用菌蕈学』等の諸書にはこの楯形を呈した品すなわち forma は一向に書いてないところをもってみると、菌学者もあまりこれを見ていないようだ。
+　雑誌『本草』誌上の文は右で終っているが、今いささかそれへ書き足してみれば、上の楯形をしたマンネンタケへ対し私は forma peltatus（これは楯形の意）の新品名を設け、これを Fomes dimidiatus（Thunb［＃「Thunb」は斜体］.）Makino［＃「Makino」は斜体］, nov. comb. （＝Boletus dimidiata［＃「Boletus dimidiata」は斜体］ Thunb. Fl. Jap. p.348, tab. ⅩⅩⅩⅨ. 1784）forma peltatus Makino［＃「Makino」は斜体］（Stipe inserted to pileus centrally or excentrically.）と定め、そしてそれをカラカサマンネンタケと新称する。川村清一博士の『食菌と毒菌』ならびに『日本菌類図説』、朝比奈｜泰彦《やすひこ》博士監修の『日本隠花植物図鑑』、または広江勇博士の『最新応用菌蕈学』等の諸書にはこの楯形を呈した品すなわち forma は一向に書いてないところをもってみると、菌学者もあまりこれを見ていないようだ。
 　右 Thunberg 氏の著 Flora Japonica（1784我が天明四年刊行）の書に出ている記載文を伴ったマンネンタケの図を同書から写して左に掲げてみる。これは西洋の書物に載っている本菌最初の写生図である。
 　先年私は広島県安芸の国の三段峡入口で銀白色を呈していたマンネンタケ一個、その菌蓋の直径およそ十センチメートルばかりのものを得て東京に持ち帰った。その菌体の色から私はこれをシロマンネンタケと号けたが、その学名は未詳である。多分一つの新種に属するものであろうと想像するが、そのうち菌学専門家に聴いてみたいと思っている。
 
 ［＃「マンネンタケの種々の形状」のキャプション付きの図（fig46820_31.png、横398×縦308）入る］
 ［＃キャプション］マンネンタケの種々の形状［＃キャプション終わり］
 
-［＃「Boletus dimidiatus Thunb［＃「Thunb」は斜体］.Mannen Taki［＃「Mannen Taki」は斜体］（Thunberg［＃「Thunberg」は斜体］, Fl. Jap. p. 348, tab. ※［＃ローマ数字10、1-13-30］※［＃ローマ数字10、1-13-30］※［＃ローマ数字10、1-13-30］※［＃ローマ数字9、1-13-29］）Fomes dimidiatus Makino［＃「Makino」は斜体］（nov. comb.）マンネンタケ」のキャプション付きの図（fig46820_32.png、横329×縦429）入る］
+［＃「Boletus dimidiatus Thunb［＃「Thunb」は斜体］.Mannen Taki［＃「Mannen Taki」は斜体］（Thunberg［＃「Thunberg」は斜体］, Fl. Jap. p. 348, tab. ⅩⅩⅩⅨ）Fomes dimidiatus Makino［＃「Makino」は斜体］（nov. comb.）マンネンタケ」のキャプション付きの図（fig46820_32.png、横329×縦429）入る］
 ［＃ここからキャプション］
-Boletus dimidiatus Thunb［＃「Thunb」は斜体］.Mannen Taki［＃「Mannen Taki」は斜体］（Thunberg［＃「Thunberg」は斜体］, Fl. Jap. p. 348, tab. ※［＃ローマ数字10、1-13-30］※［＃ローマ数字10、1-13-30］※［＃ローマ数字10、1-13-30］※［＃ローマ数字9、1-13-29］）Fomes dimidiatus Makino［＃「Makino」は斜体］（nov. comb.）
+Boletus dimidiatus Thunb［＃「Thunb」は斜体］.Mannen Taki［＃「Mannen Taki」は斜体］（Thunberg［＃「Thunberg」は斜体］, Fl. Jap. p. 348, tab. ⅩⅩⅩⅨ）Fomes dimidiatus Makino［＃「Makino」は斜体］（nov. comb.）
 マンネンタケ
 ［＃ここでキャプション終わり］
 

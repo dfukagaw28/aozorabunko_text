@@ -12,7 +12,7 @@ AN ESSAY ON THE PRINCIPLE OF POPULATION
 
 ［＃］：入力者注　主に外字の説明や、傍点の位置の指定
 　　　（数字は、JIS X 0213の面区点番号、または底本のページと行数）
-（例）※［＃ローマ数字1、1-13-21］
+（例）Ⅰ
 
 〔〕：アクセント分解された欧文をかこむ
 （例）〔Marie Jean Antoine Nicolas Caritat, Marquis de Condorcet ; Esquisse d'un Tableau Historique des Progre`s de l'Esprit Humaine. L'An III de la Re'publique.〕
@@ -426,7 +426,7 @@ Malthus, Additions to the fourth and former Editions of an Essay on the Principl
 
 
 
-底本：「各版對照　マルサス　人口論※［＃ローマ数字1、1-13-21］」春秋社
+底本：「各版對照　マルサス　人口論Ⅰ」春秋社
 　　　1948（昭和23）年10月15日初版発行
 ※「旧字、旧仮名で書かれた作品を、現代表記にあらためる際の作業指針」に基づいて、底本の表記をあらためました。
 その際、以下の置き換えをおこないました。

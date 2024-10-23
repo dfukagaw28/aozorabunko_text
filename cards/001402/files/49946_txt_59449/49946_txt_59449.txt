@@ -6,7 +6,7 @@
 
 ［＃］：入力者注　主に外字の説明や、傍点の位置の指定
 　　　（数字は、JIS X 0213の面区点番号またはUnicode、底本のページと行数）
-（例）※［＃ローマ数字4、1-13-24］
+（例）Ⅳ
 
 〔〕：アクセント分解された欧文をかこむ
 （例）〔Gru:ne〕
@@ -110,7 +110,7 @@ http://www.aozora.gr.jp/accent_separation.html
 　説明［＃「説明」は太字］：dessen といったら 〔dessen man sich spa:ter wie etwas Unwirklichen erinnert〕 で，an を存するなら an das man...... としなければならない．
 ［＃ここで小さな文字終わり］
 ［＃ここから２字下げ］
-　（８）Kellner! Kaffee!―― Nu bin ich 〔blos&〕 neugierig, wie lange das dauert, bis keiner［＃「keiner」は太字］ kommt.［＃「neugierig」は底本では「ngugierig」］ [［＃斜体］〔Jul. Keller und Louis Herrmann: Ko:nig Krause, ※［＃ローマ数字4、1-13-24］〕［＃斜体終わり］]
+　（８）Kellner! Kaffee!―― Nu bin ich 〔blos&〕 neugierig, wie lange das dauert, bis keiner［＃「keiner」は太字］ kommt.［＃「neugierig」は底本では「ngugierig」］ [［＃斜体］〔Jul. Keller und Louis Herrmann: Ko:nig Krause, Ⅳ〕［＃斜体終わり］]
 ［＃ここから１段階小さな文字］
 　ボーイさん！コーヒー！――いったいいつまで人を待たせておくんだ，いつまで待ったってだれも来やしない！
 ［＃ここで小さな文字終わり］
@@ -120,7 +120,7 @@ http://www.aozora.gr.jp/accent_separation.html
 ［＃ここで小さな文字終わり］
 ［＃ここから２字下げ］
 　ROLLER:［＃「ROLLER:」は太字］ 〔Wis&t ihr auch, das& man uns auskundschaftet?〕［＃「auch」は底本では「acuh」］
-　GRIMM:［＃「GRIMM:」は太字］ 〔Das&〕 wir ［＃太字］keinen Augenblick sicher sind, aufgehoben zu werden?［＃太字終わり］ [［＃斜体］〔Schiller: Die Ra:uber〕［＃斜体終わり］, ※［＃ローマ数字1、1-13-21］. 2]
+　GRIMM:［＃「GRIMM:」は太字］ 〔Das&〕 wir ［＃太字］keinen Augenblick sicher sind, aufgehoben zu werden?［＃太字終わり］ [［＃斜体］〔Schiller: Die Ra:uber〕［＃斜体終わり］, Ⅰ. 2]
 ［＃ここから１段階小さな文字］
 　ロラー［＃「ロラー」は太字］：諸君，知ってるか，足がついたらしいぞ！
 　グリム［＃「グリム」は太字］：いつポリがふみ込むかわからんというのかね？
@@ -181,7 +181,7 @@ http://www.aozora.gr.jp/accent_separation.html
 
 ［＃ここから窓中見出し］
 　〔Ａ〕主文・副文
-　　　　　　※［＃右下向矢印、1-3-6］
+　　　　　　↘
 　〔Ｂ〕副文・主文
 ［＃ここで窓中見出し終わり］　最後に，念のために，文法形態の側から，この種の移轍を定義しておきます．文法形態は，形容ではなくて，定義です．「ある種の渾一貫性を具（［＃割り注］そな［＃割り注終わり］）えた意味形態を表現するのに，文法形態として，主文の次に副文，副文の次に主文，という二つの形式が与えられている場合，移轍はたいてい主文から主文へと行われる」――その逆，すなわち副文から副文へという例は私の知る限り絶無なようです．
 　もちろん，「主文・副文」型から，別な「主文・副文」型へ移轍して，その結果が形式的には依然として「主文・副文」型になるのもあります．たとえば前にあげた Kein Gesetz ist so vollkommen, es hat doch ein Loch oder zwei の型には Es ist kein Gesetz so vollkommen, das［＃「das」は太字］ nicht auch ein Loch hat oder zwei という，関係文へ移轍する型も多く見受けられるからです．しかし，この型は，いわば中途半端な short circuit［＃「short circuit」は斜体］ です．同じショートするなら，もっと短気にパチンとショートすればいいのに，相変らず定形後置になっているところが，いわば中間形態であることを証しています．
@@ -190,7 +190,7 @@ http://www.aozora.gr.jp/accent_separation.html
 ［＃窓中見出し］（１）「……として……ならざるはなし」型［＃窓中見出し終わり］　たとえば「私はなにを見ても感心する」ということを Ich kann mir nichts ansehen, es hat es mir gleich angetan などといいますが，これはもちろん 〔Ich kann mir nichts ansehen, ohne das& es mir es gleich angetan ha:tte〕 から Sehe ich mir etwas an, es hat es mir gleich angetan（Wenn ich mir was ansehe, so hat es mir es gleich angetan と同じ）への移轍です．
 
 ［＃ここから２字下げ］
-（１）〔Wohin ich trat, da segnete man dich, / Kein Kind ging schlafen, ohne dein zu gedenken, / Kein Becher ward geleert, du hattest ihn / Gefu:llt, kein Brot gebrochen und verteilt, / Es kam aus deinem Korb.〕 [Hebbel: Die Nibelungen.［＃「Hebbel: Die Nibelungen.」は斜体］※［＃ローマ数字3、1-13-23］. 5. 2]
+（１）〔Wohin ich trat, da segnete man dich, / Kein Kind ging schlafen, ohne dein zu gedenken, / Kein Becher ward geleert, du hattest ihn / Gefu:llt, kein Brot gebrochen und verteilt, / Es kam aus deinem Korb.〕 [Hebbel: Die Nibelungen.［＃「Hebbel: Die Nibelungen.」は斜体］Ⅲ. 5. 2]
 ［＃ここから１段階小さな文字］
 　どこへ行っても，みんながあなたを祝福しておりました．幼児は就寝の祈りにあなたの名を唱（［＃割り注］とな［＃割り注終わり］）え，盃を挙げるものがあれば，それは必ずあなたがお満（［＃割り注］み［＃割り注終わり］）たしになった盃であり，パンを割（［＃割り注］さ［＃割り注終わり］）いて人々に頒（［＃割り注］わか［＃割り注終わり］）つ者があれば，それは必ずあなたの籠から恵まれたパンであったのです．
 ［＃ここで小さな文字終わり］
@@ -242,7 +242,7 @@ http://www.aozora.gr.jp/accent_separation.html
 ［＃ここから１段階小さな文字］
 　よく申すじゃございませんか，たとえどんな悪人でも，底を洗えば必ず多少なにか善いところもあるものだって．
 ［＃ここで小さな文字終わり］
-　（２）Keine Pflicht ist mir so heilig, die ich nicht zu brechen bereit bin, wenn's um Euer kostbares Leben zu tun ist. [［＃斜体］Schiller: Die 〔Ra:uber〕［＃斜体終わり］ ※［＃ローマ数字1、1-13-21］. 1]
+　（２）Keine Pflicht ist mir so heilig, die ich nicht zu brechen bereit bin, wenn's um Euer kostbares Leben zu tun ist. [［＃斜体］Schiller: Die 〔Ra:uber〕［＃斜体終わり］ Ⅰ. 1]
 ［＃ここから１段階小さな文字］
 　たとえどんなに固い義理でも，あなたの貴重な一命を救わんがためには，弊履（［＃割り注］へいり［＃割り注終わり］）のごとく棄ててみせますよ．
 ［＃ここで小さな文字終わり］
@@ -250,7 +250,7 @@ http://www.aozora.gr.jp/accent_separation.html
 ［＃ここから１段階小さな文字］
 　どんな不合理な迷信でも，それが生ずるにはなにかもっともなわけがあったに相違ないのだ．
 ［＃ここで小さな文字終わり］
-　（４）〔Alles wohlhabende Leute, die mir alle gewogen sind. Es ist niemand zu reich, dem man nicht einmal wohlwollend einen bedeutenden Dienst erweisen ko:nnte.〕 [Goethe: W. M. s W.［＃「Goethe: W. M. s W.」は斜体］※［＃ローマ数字1、1-13-21］, 9]
+　（４）〔Alles wohlhabende Leute, die mir alle gewogen sind. Es ist niemand zu reich, dem man nicht einmal wohlwollend einen bedeutenden Dienst erweisen ko:nnte.〕 [Goethe: W. M. s W.［＃「Goethe: W. M. s W.」は斜体］Ⅰ, 9]
 ［＃ここから１段階小さな文字］
 　すべて私に好意を寄せてくれる裕富な人たちばかりだ．というのは，たとえどんなに金持ちでも，たまにはなにかこちらから相当の親切を尽して喜ばせる余地は必ずあるとしたものだから．
 ［＃ここで小さな文字終わり］
@@ -267,7 +267,7 @@ http://www.aozora.gr.jp/accent_separation.html
 ［＃ここから１段階小さな文字］
 　いけねえ！まただ．うとうとしたと思うと，もう早速の野郎とドタンバタンだ．
 ［＃ここで小さな文字終わり］
-　（２）〔Ich ko:nnte nicht die Sanduhr rinnen sehn, / So da:cht' ich gleich an Seichten und Ba:nke.〕 [Schlegel: Shakespeare's "Der K. v. V."［＃「Schlegel: Shakespeare's "Der K. v. V."」は斜体］ ※［＃ローマ数字1、1-13-21］]
+　（２）〔Ich ko:nnte nicht die Sanduhr rinnen sehn, / So da:cht' ich gleich an Seichten und Ba:nke.〕 [Schlegel: Shakespeare's "Der K. v. V."［＃「Schlegel: Shakespeare's "Der K. v. V."」は斜体］ Ⅰ]
 ［＃ここから１段階小さな文字］
 　たとえ砂時計を見ても，もう早速浅瀬と暗礁を連想するほどです．
 ［＃ここで小さな文字終わり］
@@ -317,7 +317,7 @@ http://www.aozora.gr.jp/accent_separation.html
 ［＃ここで小さな文字終わり］
 ［＃ここで字下げ終わり］
 
-　こうした文型は，しばしば Gedacht, getan（考えるが早いか実行した）：Gesagt, getan（いうが早いか実行した）といったような語句に省略されます（おそらく伊語の Detto, fatto［＃「Detto, fatto」は斜体］ でしょう．英は no sooner said than done［＃「no sooner said than done」は斜体］：仏は ［＃斜体］〔Sito^t dit, sito^t fait〕［＃斜体終わり］）．日本語の「考えるが早いか」も勿論移轍たること明瞭．また「いうより早く」という比較形は羅典語にそのままの例があります：［＃斜体］Sic ait. et dicto citius tumida aequora placat［＃斜体終わり］ [Vergilius: Aeneis［＃「Vergilius: Aeneis」は斜体］ ※［＃ローマ数字1、1-13-21］, 142]（かくいいぬ．しかしていうより早く荒海を鎮めぬ），dicto citius［＃「dicto citius」は斜体］ は「その言よりも早く」です．
+　こうした文型は，しばしば Gedacht, getan（考えるが早いか実行した）：Gesagt, getan（いうが早いか実行した）といったような語句に省略されます（おそらく伊語の Detto, fatto［＃「Detto, fatto」は斜体］ でしょう．英は no sooner said than done［＃「no sooner said than done」は斜体］：仏は ［＃斜体］〔Sito^t dit, sito^t fait〕［＃斜体終わり］）．日本語の「考えるが早いか」も勿論移轍たること明瞭．また「いうより早く」という比較形は羅典語にそのままの例があります：［＃斜体］Sic ait. et dicto citius tumida aequora placat［＃斜体終わり］ [Vergilius: Aeneis［＃「Vergilius: Aeneis」は斜体］ Ⅰ, 142]（かくいいぬ．しかしていうより早く荒海を鎮めぬ），dicto citius［＃「dicto citius」は斜体］ は「その言よりも早く」です．
 　最後に，時間的切迫の表現がいかに語法そのものを滅茶苦茶にするか，否，文法形態の支離滅裂性こそ最も効果的であるということの証明に，一番極端な場合を挙げましょう．こんどは少し特殊な語法が基礎をなしているので，それを知らない人には，ちよっと［＃「ちよっと」はママ］何と何との移轍か全然見当がつかないかも知れません：
 
 ［＃ここから２字下げ、折り返して３字下げ］
@@ -352,7 +352,7 @@ Dies sehn, und［＃「Dies sehn, und」は太字］ rips raps war ich auch
 　つまり，［Ａ］の方の文型を知らないとわからないわけです．説明に代えて正規の［Ａ］型の文例をあげます：
 
 ［＃ここから２字下げ］
-　（１）Landen, den 〔Ko:rper〕 ans Ufer heben, ausziehen und［＃「und」は太字］ abtrocknen war Eins［＃「war Eins」は太字］. Noch aber kein Zeichen des Lebens zu bemerken. [Goethe: W. Ms. Wanderj.［＃「Goethe: W. Ms. Wanderj.」は斜体］ ※［＃ローマ数字3、1-13-23］. 18]
+　（１）Landen, den 〔Ko:rper〕 ans Ufer heben, ausziehen und［＃「und」は太字］ abtrocknen war Eins［＃「war Eins」は太字］. Noch aber kein Zeichen des Lebens zu bemerken. [Goethe: W. Ms. Wanderj.［＃「Goethe: W. Ms. Wanderj.」は斜体］ Ⅲ. 18]
 ［＃ここから１段階小さな文字］
 　陸に着く，身体を岸に引き揚げる，着物をぬがせる，乾かす……仕事はかなり速かった．しかしまだ息を吹き返しそうな様子もない．
 ［＃ここで小さな文字終わり］

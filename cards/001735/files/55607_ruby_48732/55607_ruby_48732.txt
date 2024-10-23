@@ -11,7 +11,7 @@ GASPARD DE LA NUIT
 
 ［＃］：入力者注　主に外字の説明や、傍点の位置の指定
 　　　（数字は、JIS X 0213の面区点番号またはUnicode、底本のページと行数）
-（例）※［＃始め二重山括弧引用記号、始めギュメ、1-9-8］
+（例）«
 
 〔〕：アクセント分解された欧文をかこむ
 （例）〔Et pre`s de moi s'e'pandre un murmure pareil〕
@@ -79,11 +79,11 @@ Une vague harmonie enchanter mon sommeil,
 ［＃ここで字下げ終わり］
 ［＃９字下げ］〔CH. BRUGNOT - _Les deux Ge'nies_〕
 
-〔- ※［＃始め二重山括弧引用記号、始めギュメ、1-9-8］ e'coute! - e'coute! - C'est moi, c'est Ondine qui fro^le de ces gouttes d'eau les losanges sonores de ta fene^tre illumine'e par les mornes rayons de la lune; et voici, en robe de moire, la dame cha^telaine qui contemple a' son balcon la belle nuit e'toile'e et le beau lac endormi.〕
+〔- « e'coute! - e'coute! - C'est moi, c'est Ondine qui fro^le de ces gouttes d'eau les losanges sonores de ta fene^tre illumine'e par les mornes rayons de la lune; et voici, en robe de moire, la dame cha^telaine qui contemple a' son balcon la belle nuit e'toile'e et le beau lac endormi.〕
 
-〔※［＃始め二重山括弧引用記号、始めギュメ、1-9-8］ Chaque flot est un ondin qui nage dans le courant, chaque courant est un sentier qui serpente vers mon palais, et mon palais est ba^ti fluide, au fond du lac, dans le triangle du feu, de la terre et de l'air.〕
+〔« Chaque flot est un ondin qui nage dans le courant, chaque courant est un sentier qui serpente vers mon palais, et mon palais est ba^ti fluide, au fond du lac, dans le triangle du feu, de la terre et de l'air.〕
 
-〔※［＃始め二重山括弧引用記号、始めギュメ、1-9-8］ e'coute! - e'coute! - Mon pe`re bat l'eau coassante d'une branche d'aulne verte, et mes soeurs caressent de leurs bras d'e'cume les frai^ches i^les d'herbes, de ne'nuphars et de glai:euls, ou se moquent du saule caduc et barbu qui pe^che a' la ligne. ※［＃終わり二重山括弧引用記号、終わりギュメ、1-9-18］〕
+〔« e'coute! - e'coute! - Mon pe`re bat l'eau coassante d'une branche d'aulne verte, et mes soeurs caressent de leurs bras d'e'cume les frai^ches i^les d'herbes, de ne'nuphars et de glai:euls, ou se moquent du saule caduc et barbu qui pe^che a' la ligne. »〕
 
 ［＃６字下げ］*　*　*
 
